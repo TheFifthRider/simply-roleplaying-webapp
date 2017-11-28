@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block pageContent %}
+{{super()}}
+<p>In Earth: the Forgotten Times, the monetary system is 100 c(opper) = 1 s(ilver), 100 s = 1 g(old). Use the table below as a general reference for how expensive things generally are in the world. Your GM might change these values based on shopkeeper markup or discounts, but know these as the base ones.</p>
+{{ renderDefaultTable("Table G3: Rough Price Guide Table",
+  [
+    ["Amount", "What it typically buys"],
+    ["1-10 c", "Drink"],
+    ["5-25 c", "Meal"],
+    ["25 c", "sterile healing supplies, bed for a night at an extremely cheap inn"],
+    ["50 c", "Common non-weapon equipment, medical healing supplies"],
+    ["1 s", "Bed for a night in an average inn, pharmaceutical healing supplies"],
+    ["1 s", "Relatively uncommon non-weapon equipment or "],
+    ["5 s", "Bed for a night in an upper class inn, surgical healing supplies"],
+    ["10 s", "Unremarkable small weapon or piece of light armor"],
+    ["15 s", "Unremarkable medium weapon or piece of moderate armor"],
+    ["30 s", "Unremarkable large weapon or piece of heavy armor, advanced healing supplies"],
+    ["1 g", "Magical item"],
+    ["50 g", "Purchasing a home"],
+    ["100 g", "Purchasing a high class home"],
+  ])
+ }}
+{% endblock pageContent %}

@@ -1,0 +1,82 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}{{pageTitle}} - Simply Roleplaying{% endblock %}
+
+{# Fixes for legacy browsers: #}
+{% import "bootstrap/fixes.html" as fixes %}
+{% block head %}
+{{super()}}
+{{fixes.ie8()}}
+{% endblock %}
+
+{# Adding external CSS #}
+{% block styles %}
+    {{super()}}
+    <link rel="stylesheet" type="text/css"
+          href="{{url_for('static', filename='styles.css')}}">
+    <link rel="stylesheet" type="text/css"
+          href="{{url_for('static', filename='navbar.css')}}">
+    <link rel="icon" type="image/png"
+          href="{{url_for('static', filename='icon.png')}}">
+{% endblock %}
+
+{% block navbar -%}
+<div id="nav-wrapper">
+{{nav.navbar.render(renderer='custom')}}
+</div>
+{%- endblock navbar %}
+
+{% block content -%}
+<div id="content">
+  {% block pageContent %}
+    <h1>{{headerText}}</h1>
+  {% endblock pageContent %}
+</div>
+{%- block footer %}
+<footer>Simply Roleplaying &copy; 2017 Richard Otte</footer>
+{%- endblock footer %}
+{%- endblock content %}
+
+{# -------------------------------------------------------------------------- #}
+{#  MACROS                                                                    #}
+{# -------------------------------------------------------------------------- #}
+
+{% macro renderDefaultTable(name, cells, class='left') -%}
+{{ renderTable(name, cells, class) }}
+{%- endmacro %}
+
+{% macro renderTable(name, cells, class='left', rowHeaders=false, columnHeaders=true,  cellRenderer=renderCell, rowRenderer=renderRow) -%}
+<table border="1" class="{{ class }}">
+<thead>
+<tr><th colspan="100%">{{ name }}</th></tr>
+{% if columnHeaders -%}<tr>
+  {% for header in cells[0] -%}<td>{{ header }}</td>{%- endfor %}
+</tr>{%- endif %}
+</thead>
+{% for row in cells -%}
+{% if not (loop.first and columnHeaders) -%}
+<tr>{{rowRenderer(row, rowHeaders, cellRenderer)}}</tr>
+{%- endif %}
+{%- endfor %}
+</table>
+{%- endmacro %}
+
+{% macro renderRow(row, rowHeaders, cellRenderer) -%}
+<tr>
+{% if rowHeaders -%}
+  <th>{{ row[0] }}</th>
+{%- endif %}
+{% for cell in row -%}
+{% if not (loop.first and rowHeaders) -%}
+  <td>{{ cellRenderer(cell) }}</td>
+{%- endif %}
+{%- endfor %}
+</tr>
+{%- endmacro %}
+
+{% macro renderCell(cell) -%}
+{{ cell }}
+{%- endmacro %}
+
+{% macro renderDefault2DTable(name, cells, class='left') -%}
+{{ renderTable(name, cells, class, true, true) }}
+{%- endmacro %}

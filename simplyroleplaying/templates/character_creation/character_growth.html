@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block pageContent %}
+{{super()}}
+<p>Now that you have created a character, we can focus on how your character cultivates and improves their actions, also known as your character's "growth". As your character adventures, they will naturally become more skillful at anything that they happen to do -- this is the cornerstone for the character growth system in Simply Roleplaying.</p>
+<p>At the beginning or end of each session, your gamemaster may award Advancement Points. Advancement Points can be spent to increase your rolls in any stat, except for luck. When you spend the Advancement Points, you must declare a "skill" that you are putting the points in. A skill can be any specific action; the basic principle of skills is that the more points you have in any specific skill, the more likely you are to succeed when performing an action that relates to that skill (See table G1). Your GM must approve any skill that you wish to put points into, but see table G2 below for some ideas. Just remember, only one skill may apply a bonus to any single action.</p>
+<div class="tables">
+{{ renderDefaultTable("Table G1: Advancement Bonus Table",
+  [
+    ["Points", "Bonus", "Points", "Bonus"],
+    ["1", "+1", "13", "+1d12+1"],
+    ["2", "+2", "14", "+1d12+2"],
+    ["4", "+1d4", "16", "+1d12+1d4"],
+    ["6", "+1d6", "18", "+1d12+1d6"],
+    ["8", "+1d8", "20", "+1d12+1d8"],
+    ["10", "+1d10", "22", "+1d12+1d10"],
+    ["12", "+1d12", "24", "+2d12"],
+  ])
+ }}
+
+{{ renderDefaultTable("Table G2: Example Skills",
+  [
+    ["Stat", "Skills"],
+    ["Agility", "Accuracy (Weapon size) (Weapon style), Acrobatics,  Dodge, Lockpicking"],
+    ["Brawn", "Climbing, Endurance, Potency (Weapon size) (Weapon style), Strength, Swimming"],
+    ["Charisma", "Animal Handling, Bluff, Command, Intimidation, Mettle, Persuasion"],
+    ["Intuition", "Gambling, Hide, Reflexes, Investigation, Navigation, Notice, Streetwise"],
+    ["Knowledge", "Detect Magic, Disarm/Detect Traps, Politics, Reading, Scholar, Treating Wounds"],
+  ])
+ }}
+</div>
+
+{% endblock pageContent %}
