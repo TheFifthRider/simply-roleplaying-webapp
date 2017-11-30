@@ -23,6 +23,7 @@ nav.register_element('navbar', Navbar(
     Subgroup('Combat',
         View('Combat Flow', '.combat'),
         View('Weapons', '.weapons'),
+        View('Techniques', '.techniques'),
         View('Armor', '.armor'),
         View('Healing', '.healing'),
     ),
@@ -75,6 +76,12 @@ def weapons():
     headerText="Weapons"
     pageTitle="Weapons"
     return render_template('combat_and_equipment/weapons.html', headerText=headerText, pageTitle=pageTitle)
+
+@srp.route("/combat/techniques/")
+def techniques():
+    headerText="Combat Techniques"
+    pageTitle="Combat Techniques"
+    return render_template('combat_and_equipment/techniques.html', headerText=headerText, pageTitle=pageTitle)
 
 @srp.route("/combat/armor/")
 def armor():

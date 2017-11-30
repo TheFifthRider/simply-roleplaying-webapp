@@ -1,0 +1,443 @@
+{% extends "base.html" %}
+
+{% macro renderTechnique(name, cost, description, signatureDescription) -%}
+<div class=technique>
+<h4>{{cost}} &nbsp; {{name}}</h4>
+<p>{{description}}</p>
+<p class=preserveNewlines>{{signatureDescription}}</p>
+</div>
+{%- endmacro %}
+
+{% block pageContent %}
+{{super()}}
+<p>A warlord swings his mighty maul, crushing militia in his path. A medic presses the defibrilator to a fallen comrade's chest, returning the spark of life. As a volley of cannonballs decimate the barracks a single captain stands tall brandishing a tattered flag, inspiring the defenders to fight on. Roleplaying is full of heroic moments when the action gets fierce. The Simply Combat Techniques module gives each weapon their own unique abilities in combat, so heroes and villains can inspire these moments that much more often.</p>
+
+<h2>Melee Weapons</h2>
+<h3>General</h3>
+{{ renderTechnique(
+  "Aimed Strike",
+  "1 ep",
+  "Swing your weapon towards a specific area on your target's body to cripple them. When making this attack, specify a location on your target to aim for. If you hit the target, and roll sufficiently high enough to hit the location you chose, the target will be struck in that area, typically crippling them. If they were holding something and you hit their hand, they will likely drop it. If they were running and you hit their legs, they will likely fall. A latch mechanism that you hit could cause a trap to spring. Your gamemaster will determine the final outcome of a successful Aimed Strike.", "When ranked up as a part of a signature technique, your accuracy increases. For each rank, you may Max one die when making your Accuracy check for this attack."
+) }}
+
+{{ renderTechnique(
+  "Brutal Strike",
+  "2 ep",
+  "Use your tremendous strength to bring down a swift and nigh-inescapable blow. On this attack, only make a Potency check. When determining weapon accuracy and combo hits, use your Potency roll as if it were the result of your Accuracy check.",
+  "When ranked up as a part of a signature technique, your blow becomes even more vicious. For each rank, you may Max one die when making your Potency check for this attack."
+) }}
+
+{{ renderTechnique(
+    "Concealed Strike",
+    "2 ep",
+    "Strike a target when they least expect it. When performing this attack, you must only make a Stealth (Agility) check instead of an Accuracy or Potency check. Treat your target's Awareness as the result of their Dodge roll for this attack, and the result of your Stealth roll as the result of your Accuracy and Potency checks for this attack.",
+    "When ranked up as a part of a signature technique, your strike becomes capable of silently eliminating a foe. You may choose one of the following enhancements for each rank (you may choose the same enhancement more than once):
+    • Your blow is well hidden, only your target is aware that you attacked at all. Additionally, if your blow kills your target, they die without a struggle. Even to close observers it appears as though they simply lost consciousness.
+    • You may Max one die when performing your Stealth check"
+  ) }}
+
+{{ renderTechnique(
+    "Surgical Strike",
+    "2 ep",
+    "Use your expert precision to attack where the target's defenses are weakest. When making this attack, only make an Accuracy check. When determining weapon damage, use your Accuracy roll as if it was the result of your Potency roll.",
+    "When ranked up as a part of a signature technique, your strike becomes even more precise. For each rank, you may Max one die when making your Accuracy check for this attack."
+  ) }}
+
+{{ renderTechnique(
+    "Charge",
+    "2 ep",
+    "Rush forward and use your momentum to strike at a target. Before making this attack, if a reachable target is within range of a straight line up to your movement speed, you may move until you reach your target.",
+    "When ranked up as a part of a signature technique, your charge is significantly more flexible and powerful. You may choose one of the following enhancements for each rank:
+    • You may move past your target if you have not moved your full movement speed, regardless of if you hit your target or not. For this attack, you may treat any enemy along the line you charged as within melee range of you. Additionally, for each Maxed die you rolled for Accuracy with this attack, you may choose another target within melee range to attack.
+    • You may carry your target with you if you hit with this attack and have not moved your full movement speed. If you collide with obstructions along this path, your target suffers an additional blow as if from an improvised weapon of the appropriate size of the obstruction, using your potency roll from this attack to determine the damage of the improvised weapon. You may continue to carry your target past each obstruction, provided you break through them or are able to knock them out of the way, until you have encountered a number of obstructions greater than the number of Maxed dice you rolled for Potency with this attack."
+  ) }}
+
+{{ renderTechnique(
+    "Grapple/Tackle",
+    "1 ep",
+    "Grab an enemy and restrain them, restricting their movement and removing their ability to dodge. Have a Grapple (Brawn) contest with your target. If you have used your minor action to move toward your intended target this turn, you may instead tackle them and max one of your dice when performing your Grapple check, but must take a minor action on your following turn to get back up. If you are successful, your target is prevented from using any major or minor actions that require movement and skip their next turn. Additionally, you move at half speed and must min your stat die (or dice) on any skill check that requires movement. On their turn, your target may take a major action to perform a Grapple contest with you. If they are successful, they free themselves. If they are unsuccessful, they gain a +1 bonus to subsequent attempts against this Grapple.",
+    "When ranked up as a part of a signature technique, your grapple is significantly more powerful and less limiting. You may choose one of the following enhancements for each rank (you may choose the same enhancement more than once):
+    • You move at full speed while grappling an opponent and tackling an opponent does not require you to take a minor action to get back up
+    • You may perform skill checks as normally if they require movement while Grappling an opponent
+    • Max one of your dice when making Grapple checks related to this Grapple attempt."
+  ) }}
+
+<h2>Single Melee Weapon</h2>
+{{ renderTechnique(
+    "Cleave",
+    "4 ep",
+    "Swing your weapon in a wide arc, striking additional targets. When making this attack, you may choose to attack up to two other targets within melee range of you. When you roll Accuracy for this attack, each of the targets must roll dodge separately. Each of the targets that you hit are affected similarly by your Potency roll.",
+    "When ranked up as a part of a signature technique, your arc can encompass more foes. For each rank, you may attack up to two other targets within melee range of you."
+  ) }}
+
+<h3>Dual Wielding: Same Size</h3>
+{{ renderTechnique(
+    "Feint",
+    "1 ep",
+    "Use two attacks to perform a devastating feint and secure a hit. When rolling accuracy for this attack, you may min any number of your accuracy dice. After resolving this attack, perform another attack. When rolling accuracy for the second attack, max a number of accuracy dice equal to the number of accuracy dice you minned on the first attack.",
+    "When ranked up as a part of a signature technique, you grow able to feint as a part of an attack. For each rank, you may max an additional die more on the second attack than you minned on the first attack. You still recieve this enhancement even if you min 0 dice."
+  ) }}
+
+<h3>Dual Wielding: Same Style</h3>
+{{ renderTechnique(
+    "Mirrored Strike",
+    "1 ep",
+    "Attack in such a way as to enable the use of your other weapon to make a second attack. When determining if you may perform a combo attack after this attack using your other weapon, you may treat one of your accuracy dice as if it was maxed. You may do this regardless of whether you hit your target.",
+    "When ranked up as a part of a signature technique, you are almost guaranteed a follow up attack. Max all of your accuracy dice instead of just one."
+  ) }}
+
+<h3>Small Melee</h3>
+{{ renderTechnique(
+    "Vital Strike",
+    "2 ep",
+    "Slip your weapon past your target's defenses to strike them where they're weakest. For this attack, treat Weak hits as if they were Medium hits and Medium hits as if they were Strong hits.",
+    "When ranked up as a part of a signature technique, you become more lethal with your strikes. For each rank, you may choose one of the following enhancements:
+    • Treat all hits as if they were Strong hits.
+    • When rolling accuracy if your attack would allow you to perform a combo attack you may instead double the damage of this hit."
+  ) }}
+
+<h3>Medium Melee</h3>
+{{ renderTechnique(
+    "Balanced Strike",
+    "2 ep",
+    "Swing your weapon with practiced coordination, utilizing the balance of speed and distance that your weapon affords you to strike a deadly blow. For this attack, you may choose to max one die on either your potency or accuracy roll.",
+    "When ranked up as a part of a signature technique, you are able to truly utilize the balance of your weapon. For each rank, you may max an additional die on either potency or accuracy."
+  ) }}
+
+<h3>Large Melee</h3>
+{{ renderTechnique(
+    "Intercepting Attack",
+    "2 ep",
+    "Use the length of your weapon to tear apart your target before they can reach you. When an enemy takes a movement action that brings them within melee range of you at any point, you may perform this technique to stop them from moving and attack them. If your attack fails to hit, they may continue their movement action as normal.",
+    "When ranked up as a part of a signature technique, you are able to use the length of your weapon to greater effect. For each rank, you may choose one of the following enhancements:
+    • Your melee range is increased by 1m for the purposes of this technique. Additionally, if you perform this technique and fail to hit, your target must continue their movement action at half speed.
+    • Your target must dodge carefully to avoid your attack. On this attack they must min their stat die (or dice) when rolling to evade. Additionally, until their next turn they must min one die on any movement based skill attempt."
+  ) }}
+
+<h3>Battering Style</h3>
+{{ renderTechnique(
+    "Stunning Blow",
+    "3 ep",
+    "Bash an enemy with your blunt instrument to stun and disorient them. For this attack, if you inflict damage on the target they must min every non-luck stat die (or dice) when making skill checks until the end of their next turn.",
+    "When ranked up as a part of a signature technique, the inflicted stun is far more potent. For each rank, you may choose one of the following enhancements:
+    • On their next turn, the stunned target must make an Endurance check with a difficulty equivalent to your Potency roll for this attack. If they fail, they may not take any actions on their next turn.
+    • Treat each subsequent attack you perform with a Battering weapon on a target that has not been stunned as if you performed a copy of this technique without this enhancement."
+  ) }}
+
+<h3>Cleaving Style</h3>
+{{ renderTechnique(
+    "Splitting Strike",
+    "3 ep",
+    "Bring your weapon down hard to drive it like a wedge through your target's defenses. If you hit, after calculating damage dealt to the target, their armor value is temporarily reduced by the amount of damage you dealt with this attack until the beginning of your next turn.",
+    "When ranked up as a part of a signature technique, you are more adept at splitting even the toughest armors. For each rank, you may choose one of the following enhancements:
+    • 
+    "
+  ) }}
+
+<h3>Slashing Style</h3>
+{{ renderTechnique(
+    "Lacerate",
+    "3 ep",
+    "Lacerate an enemy to leave a lasting wound. The next time the enemy is hit before end of your next turn, the enemy takes damage equivalent to a weak hit from your weapon, then takes damage normally.",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Hooking Style</h3>
+{{ renderTechnique(
+    "Tearing Strike",
+    "3 ep",
+    "Tear away enemy's defenses. Successful hit disarms the defender, forcing them to drop an item in one of their hands (your choice). Disarmed target becomes  vulnerable and loses AV equivalent to half the damage you deal to them (rounded up).",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Impaling Style</h3>
+{{ renderTechnique(
+    "Skewer",
+    "3 ep",
+    "Run enemy through with your weapon. They have been impaled. While you are conscious and gripping the impaling weapon, any movement away from you causes the weapon to be ripped out of them. You may also rip the weapon out as a major action on your turn. If the weapon is ripped out, deal damage equal to the damage done by the initial hit to the enemy.",
+    "[Signature bonus]"
+  ) }}
+
+
+<h2>Ranged Weapons</h2>
+<h3>General</h3>
+{{ renderTechnique(
+    "Aimed Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Brutal Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Concealed Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Surgical Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Extended Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Throw",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Payload Style</h3>
+{{ renderTechnique(
+    "Concussive Blast",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Precision Style</h3>
+{{ renderTechnique(
+    "Disruptive Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Repeating Style</h3>
+{{ renderTechnique(
+    "Suppressing Fire",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Spread Style</h3>
+{{ renderTechnique(
+    "Scattershot Blast",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Small Ranged</h3>
+{{ renderTechnique(
+    "Vital Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Medium Ranged</h3>
+{{ renderTechnique(
+    "Sure Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Large Ranged</h3>
+{{ renderTechnique(
+    "Staggering Shot",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h2>Shields</h2>
+<h3>General</h3>
+{{ renderTechnique(
+    "Block",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Small Shield</h3>
+{{ renderTechnique(
+    "Riposte",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Medium Shield</h3>
+{{ renderTechnique(
+    "Defensive Poise",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Large Shield</h3>
+{{ renderTechnique(
+    "Shield Wall",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h2>Magical Techniques</h2>
+<h3>General</h3>
+{{ renderTechnique(
+    "Mystic Ritual",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Magical Action",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Small and Larger Catalysts</h3>
+{{ renderTechnique(
+    "Ward",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Sculpt",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Hex",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Medium and Larger Catalysts</h3>
+{{ renderTechnique(
+    "Conjure",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Assault",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Large Catalysts Only</h3>
+{{ renderTechnique(
+    "Radiant Spell",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Echoed Spell",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Single Cataylst</h3>
+{{ renderTechnique(
+    "Abjure",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h3>Multiple Catalysts</h3>
+{{ renderTechnique(
+    "Multicast",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+<h2>Noncombat Techniques</h2>
+<h3>Performance Techniques</h3>
+{{ renderTechnique(
+    "Calm",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Intimidate",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Taunt",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+<h3>Leadership Techniques</h3>
+{{ renderTechnique(
+    "Command",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Invigorate",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Rally",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+<h3>Healing Techniques</h3>
+{{ renderTechnique(
+    "Outpatient Surgery",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Patch Up",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+
+{{ renderTechnique(
+    "Revitalize",
+    "[Cost]",
+    "[Description]",
+    "[Signature bonus]"
+  ) }}
+{% endblock pageContent %}
