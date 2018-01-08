@@ -10,21 +10,21 @@
 
 {% block pageContent %}
 {{super()}}
-<p>A warlord swings his mighty maul, crushing militia in his path. A medic presses the defibrilator to a fallen comrade's chest, returning the spark of life. As a volley of cannonballs decimate the barracks a single captain stands tall brandishing a tattered flag, inspiring the defenders to fight on. Roleplaying is full of heroic moments when the action gets fierce. The Simply Combat Techniques module gives each weapon their own unique abilities in combat, so heroes and villains can inspire these moments that much more often.</p>
+<p>A warlord swings his mighty maul, bending metal and breaking bones. A medic presses the defibrillator to a fallen comrade's chest, returning the spark of life. A single captain stands tall brandishing a tattered flag, inspiring the defenders to fight on. Roleplaying is full of heroic moments when the action gets fierce. The Simply Combat Techniques module gives each weapon their own unique abilities in combat, so heroes and villains can inspire these moments that much more often.</p>
 
 <h2>Melee Weapons</h2>
 <h3>General</h3>
 {{ renderTechnique(
   "Aimed Strike",
   "1 ep",
-  "Swing your weapon towards a specific area on your target's body to cripple them. When making this attack, specify a location on your target to aim for. If you hit the target, and roll sufficiently high enough to hit the location you chose, the target will be struck in that area, typically crippling them. If they were holding something and you hit their hand, they will likely drop it. If they were running and you hit their legs, they will likely fall. A latch mechanism that you hit could cause a trap to spring. Your gamemaster will determine the final outcome of a successful Aimed Strike.", "When ranked up as a part of a signature technique, your accuracy increases. For each rank, you may Max one skill die when making your Accuracy check for this attack."
+  "Swing your weapon towards a specific area on your target's body to cripple them. When making this attack, specify a location on your target to aim for. If you hit the target, and roll sufficiently high enough to hit the location you chose, the target will be struck in that area, typically crippling them. If they were holding something and you hit their hand, they will likely drop it. If they were running and you hit their legs, they will likely fall. A latch mechanism that you hit could cause a trap to spring. Your gamemaster will determine the final outcome of a successful Aimed Strike.", "When ranked up as a part of a signature technique, your accuracy increases. For each rank, you may Max an additional skill die when making your Accuracy check for this attack."
 ) }}
 
 {{ renderTechnique(
   "Brutal Strike",
   "2 ep",
   "Use your tremendous strength to bring down a swift and nigh-inescapable blow. On this attack, only make a Potency check. When determining weapon accuracy and combo hits, use your Potency roll as if it were the result of your Accuracy check.",
-  "When ranked up as a part of a signature technique, your blow becomes even more vicious. For each rank, you may Max one skill die when making your Potency check for this attack."
+  "When ranked up as a part of a signature technique, your blow becomes even more vicious. For each rank, you may Max an additional skill die when making your Potency check for this attack."
 ) }}
 
 {{ renderTechnique(
@@ -33,14 +33,14 @@
     "Strike a target when they least expect it. When performing this attack, you must only make a Stealth (Agility) check instead of an Accuracy or Potency check. Treat your target's Awareness as the result of their Dodge roll for this attack, and the result of your Stealth roll as the result of your Accuracy and Potency checks for this attack.",
     "When ranked up as a part of a signature technique, your strike becomes capable of silently eliminating a foe. You may choose one of the following enhancements for each rank (you may choose the same enhancement more than once):
     • Your attack is well hidden, only your target is aware that you attacked at all. Additionally, if your strike kills your target, they die without a struggle. Even to close observers it appears as though they simply lost consciousness.
-    • You may Max one skill die when performing your Stealth check"
+    • You may Max an additional skill die when performing your Stealth check"
   ) }}
 
 {{ renderTechnique(
     "Surgical Strike",
     "2 ep",
     "Use your expert precision to attack where the target's defenses are weakest. When making this attack, only make an Accuracy check. When determining weapon damage, use your Accuracy roll as if it was the result of your Potency roll.",
-    "When ranked up as a part of a signature technique, your strike becomes even more precise. For each rank, you may Max one skill die when making your Accuracy check for this attack."
+    "When ranked up as a part of a signature technique, your strike becomes even more precise. For each rank, you may Max an additional skill die when making your Accuracy check for this attack."
   ) }}
 
 {{ renderTechnique(
@@ -75,7 +75,7 @@
     "Feint",
     "1 ep",
     "Use two attacks to perform a devastating feint and secure a hit. When rolling accuracy for this attack, you may min any number of your accuracy skill dice. After resolving this attack, perform another attack. When rolling accuracy for the second attack, max a number of accuracy skill dice equal to the number of accuracy dice you minned on the first attack.",
-    "When ranked up as a part of a signature technique, you grow able to feint as a part of an attack. For each rank, you may max an additional skill die more on the second attack than you minned on the first attack. You still receive the bonus from this enhancement even if you min 0 dice."
+    "When ranked up as a part of a signature technique, your weapons dance in deadly patterns that hint at feints but still connect. For each rank, you may max an additional skill die more on the second attack than you minned on the first attack. You still receive the bonus from this enhancement even if you min 0 dice."
   ) }}
 
 <h3>Dual Wielding: Same Style</h3>
@@ -133,6 +133,16 @@
     • The debuff applied by this technique can be applied on top of another instance of the debuff, to a maximum of two of these debuffs being active at the same time."
   ) }}
 
+<h3>Hooking Style</h3>
+{{ renderTechnique(
+    "Tearing Strike",
+    "3 ep",
+    "Tear away enemy's weapons or defenses with the hook of your weapon. For this attack, if you hit, have a brawn contest with your target using this weapon's potency skill. If you win the contest, choose an item your target is carrying in their hands or an accessory that they are wearing. You tear the item away from them and may place it anywhere up to 1m away. The item is dropped before calculating damage.",
+    "When ranked up as a part of a signature technique, you are able to master the benefits of your hooked weapon. For each rank, you may choose one of the following enhancements:
+    • You may max an additional skill die for your potency roll to tear away the item.
+    • When you successfully tear away an enemy item with this technique, you may equip it immediately (if able). In addition, your attack range increases by 2m for this attack and if you deal damage to your target you can drag them 2m closer to you.
+  ) }}
+  
 <h3>Slashing Style</h3>
 {{ renderTechnique(
     "Lacerate",
@@ -140,22 +150,14 @@
     "Use the long edge of your blade to lacerate an enemy and afflict a wide, lasting wound. For this attack, you cannot be outmaneuvered by the defender, though you can still miss. In addition, after inflicting damage, the target becomes lacerated until healed. The next successful attack on a lacerated target deals bonus damage equal to a weak hit with the weapon used for this technique. After taking the bonus damage, the target is no longer considered lacerated.",
     "When ranked up as a part of a signature technique, your lacerations become more skillfully placed and deadly. For each rank, you may choose one of the following enhancements:
     • A lacerated target dealt damage by the attack becomes severely lacerated until healed. The next successful attack on a severely lacerated target deals bonus damage equal to a medium hit with the weapon used for this technique. After taking the bonus damage, the target is no longer considered severely lacerated. A target that is both severely lacerated and lacerated will take bonus damage as though only severely lacerated.
-    • A lacerated or severely lacerated target are considered lacerated or severely lacerated for an additional instance of bonus damage."
-  ) }}
-
-<h3>Hooking Style</h3>
-{{ renderTechnique(
-    "Tearing Strike",
-    "3 ep",
-    "Tear away enemy's weapons or defenses with the hook of your weapon. For this attack, if you hit, have a brawn contest with your target using your weapon potency skill. If you win the contest, the target drops an item they are carrying in their hands or an accessory that they are wearing that you choose. The item is dropped before calculating damage.",
-    "When ranked up as a part of a signature technique, you are more able to control "
+    • A target considered lacerated or severely lacerated by this technique remains lacerated or severely lacerated for an additional instance of bonus damage."
   ) }}
 
 <h3>Impaling Style</h3>
 {{ renderTechnique(
     "Skewer",
     "3 ep",
-    "Run enemy through with your weapon. They have been impaled. While you are conscious and gripping the impaling weapon, any movement away from you causes the weapon to be ripped out of them. You may also rip the weapon out as a major action on your turn. If the weapon is ripped out, deal damage equal to the damage done by the initial hit to the enemy.",
+    "Run enemy through with your weapon, dealing massive damage. They have been impaled. While you are conscious and gripping the impaling weapon, any movement away from you causes the weapon to be ripped out of them. You may also rip the weapon out as a major action on your turn. If the weapon is ripped out, deal damage equal to the damage done by the initial hit to the enemy.",
     "[Signature bonus]"
   ) }}
 
