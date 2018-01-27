@@ -17,7 +17,7 @@
 {{ renderTechnique(
     "Aimed Strike",
     "1 ep",
-    "Swing your weapon towards a specific area on your target's body to cripple them. When making this attack, specify a location on your target to aim for. If you hit the target, and roll sufficiently high enough to hit the location you chose, the target will be struck in that area, typically crippling them. If they were holding something and you hit their hand, they will likely drop it. If they were running and you hit their legs, they will likely fall. A latch mechanism that you hit could cause a trap to spring. Your gamemaster will determine the final outcome of a successful Aimed Strike.", 
+    "Swing your weapon towards a specific area on your target's body to cripple them. When making this attack, specify a location on your target to aim for. If you hit the target, and roll sufficiently high enough to hit the location you chose, the target will be struck in that area, typically crippling them. If they were holding something and you hit their hand, they will likely drop it. If they were running and you hit their legs, they will likely fall. A latch mechanism that you hit could cause a trap to spring. Your gamemaster will determine the final outcome of a successful Aimed Strike.",
     "When ranked up as a part of a signature technique, your accuracy increases. For each rank, you may Max an additional skill die when making your Accuracy check for this attack."
   ) }}
 
@@ -107,7 +107,7 @@
 
 <h3>Large Melee</h3>
 {{ renderTechnique(
-    "Intercepting Attack",
+    "Intercepting Strike",
     "2 ep",
     "Use the length of your weapon to tear apart your target before they can reach you. When an enemy takes a movement action that brings them within melee range of you at any point, you may perform this technique to stop them from moving and attack them. If your attack fails to hit, they may continue their movement action as normal.",
     "When ranked up as a part of a signature technique, you are able to use the length of your weapon to greater effect. For each rank, you may choose one of the following enhancements:
@@ -143,7 +143,7 @@
     • You may max an additional skill die for your potency roll to tear away the item.
     • When you successfully tear away an enemy item with this technique, you may equip it immediately (if able). In addition, your attack range increases by 2m for this attack and if you deal damage to your target you can drag them 2m closer to you.
   ) }}
-  
+
 <h3>Slashing Style</h3>
 {{ renderTechnique(
     "Lacerate",
@@ -180,7 +180,7 @@
     "Use your incredible brawn to display masterful control over your weapon's accuracy. On this attack, only make a Potency check. When determining weapon accuracy and combo hits, use your Potency roll as if it were the result of your Accuracy check.",
     "When ranked up as a part of a signature technique, your shot becomes ever more accurate and ever more deadly. For each rank, you may Max an additional skill die when making your Potency check for this attack."
   ) }}
-  
+
 {{ renderTechnique(
     "Concealed Shot",
     "2 ep",
@@ -196,7 +196,7 @@
     "Use your keen marksmanship to place your shot right where the target's defenses are weakest. When making this attack, only make an Accuracy check. When determining weapon damage, use your Accuracy roll as if it was the result of your Potency roll.",
     "When ranked up as a part of a signature technique, your shot is placed with ever more expert precision. For each rank, you may Max an additional skill die when making your Accuracy check for this attack."
   ) }}
-  
+
 {{ renderTechnique(
     "Extended Shot",
     "2 ep",
@@ -205,10 +205,10 @@
     • For this attack, you may choose to attack any target within the maximum range of your weapon at no penalty, even if you were aiming for closer targets.
     • If you were attacking a target beyond your minimum range, your attack pierces through the first target and can strike another target in a straight line behind it for each time you choose this enhancement. All targets chose in this way must be within your maximum range. When you roll Accuracy for this attack, each of the targets must roll dodge separately. Each of the targets that you hit are affected similarly by your Potency roll.
   ) }}
-  
+
 {{ renderTechnique(
-    "Throw",
-    "[Cost]",
+    "Pinning Shot?",
+    "1 ep",
     "[Description]",
     "[Signature bonus]"
   ) }}
@@ -216,57 +216,61 @@
 <h3>Payload Style</h3>
 {{ renderTechnique(
     "Concussive Blast",
-    "[Cost]",
-    "[Description]",
+    "3 ep",
+    "Fire a shot that explodes in a small area, preventing evasion. If an opponent would be missed by your attack, instead they are hit by your damage reduced by one tier (weak hits would miss)",
     "[Signature bonus]"
   ) }}
 
 <h3>Precision Style</h3>
 {{ renderTechnique(
     "Disruptive Shot",
-    "[Cost]",
-    "[Description]",
+    "3 ep",
+    "Take aim at a target, preparing to disrupt their next action. On their next turn, after they initiate any action but before they complete the action, you may perform an attack on them. If you hit, in addition to taking damage as they would normally the target's action is disrupted and fails. If they were attacking, the defender may perform a counterattack.",
     "[Signature bonus]"
   ) }}
 
 <h3>Repeating Style</h3>
 {{ renderTechnique(
     "Suppressing Fire",
-    "[Cost]",
-    "[Description]",
+    "3 ep",
+    "Fire at an area such that anyone who takes an action in it will be automatically hit by your attack, up to your maximum number of attacks.",
     "[Signature bonus]"
   ) }}
 
 <h3>Spread Style</h3>
 {{ renderTechnique(
     "Scattershot Blast",
-    "[Cost]",
-    "[Description]",
+    "3 ep",
+    "When choosing a target for this attack, you may instead choose two targets that are adjacent to each other. Make only one accuracy and potency check for this attack.",
     "[Signature bonus]"
   ) }}
 
 <h3>Small Ranged</h3>
 {{ renderTechnique(
     "Vital Shot",
-    "[Cost]",
-    "[Description]",
-    "[Signature bonus]"
+    "2 ep",
+    "Use the dexterity provided by your small profile weapon to quickly take aim and shoot your target where they're vulnerable. For this attack, treat Weak hits as if they were Medium hits and Medium hits as if they were Strong hits.",
+    "When ranked up as a part of a signature technique, you become more lethal with your projectiles. For each rank, you may choose one of the following enhancements:
+    • Treat all hits as if they were Strong hits.
+    • When rolling accuracy if your attack would allow you to perform a combo attack you may instead double the damage of this hit."
   ) }}
 
 <h3>Medium Ranged</h3>
 {{ renderTechnique(
     "Sure Shot",
-    "[Cost]",
-    "[Description]",
-    "[Signature bonus]"
+    "2 ep",
+    "Fire your weapon with practiced coordination, utilizing the balance of power and weight that your weapon affords you to fire a deadly shot. For this attack, you may choose to max one skill die on either your potency or accuracy roll.",
+    "When ranked up as a part of a signature technique, you are able to truly utilize the balance of your weapon. For each rank, you may max an additional skill die on either potency or accuracy."
   ) }}
 
 <h3>Large Ranged</h3>
 {{ renderTechnique(
-    "Staggering Shot",
-    "[Cost]",
-    "[Description]",
-    "[Signature bonus]"
+    "Intercepting Shot",
+    "2 ep",
+    "Use the heaviness of your weapon's projectiles to tear apart your target before they can reach you. When an enemy takes a movement action that brings them within range of you at any point, you may perform this technique to stop them from moving and attack them. They may continue their movement action at half speed after the attack.",
+    "When ranked up as a part of a signature technique, you are able to use the length of your weapon to greater effect. For each rank, you may choose one of the following enhancements:
+    • Your projectile strikes true, knocking your target back. If you perform this technique and hit, your target must stop their movement.
+    • Your target must dodge carefully to avoid your attack. On this attack they must min their stat die (or dice) when rolling to evade. Additionally, until their next turn they must min one skill die on any movement based skill attempt."
   ) }}
 
 <h2>Shields</h2>
