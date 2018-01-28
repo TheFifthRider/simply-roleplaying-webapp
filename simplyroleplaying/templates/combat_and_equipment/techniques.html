@@ -67,7 +67,7 @@
 {{ renderTechnique(
     "Cleave",
     "4 ep",
-    "Swing your weapon in a wide arc, striking additional targets. When making this attack, you may choose to attack up to two other targets within melee range of you. When you roll Accuracy for this attack, each of the targets must roll dodge separately. Each of the targets that you hit are affected similarly by your Potency roll.",
+    "Swing your weapon in a wide arc, striking additional targets. When making this attack, you may choose to attack up to two other targets within melee range of you. When you roll accuracy for this attack, each of the targets must roll dodge separately. Each of the targets that you hit are affected similarly by your potency roll.",
     "When ranked up as a part of a signature technique, your arc can encompass more foes. For each rank, you may attack up to two other targets within melee range of you."
   ) }}
 
@@ -112,7 +112,7 @@
     "Use the length of your weapon to tear apart your target before they can reach you. When an enemy takes a movement action that brings them within melee range of you at any point, you may perform this technique to stop them from moving and attack them. If your attack fails to hit, they may continue their movement action as normal.",
     "When ranked up as a part of a signature technique, you are able to use the length of your weapon to greater effect. For each rank, you may choose one of the following enhancements:
     • Your melee range is increased by 2m for the purposes of this technique. Additionally, if you perform this technique and fail to hit, your target must continue their movement action at half speed.
-    • Your target must dodge carefully to avoid your attack. On this attack they must min their stat die (or dice) when rolling to evade. Additionally, until their next turn they must min one skill die on any movement based skill attempt."
+    • Your target must dodge carefully to avoid your attack. On this attack they must min their stat die (or dice) when rolling to evade. Additionally, until their next turn they must min half of their skill dice on any movement based skill attempt."
   ) }}
 
 <h3>Battering Style</h3>
@@ -206,47 +206,6 @@
     • If you were attacking a target beyond your minimum range, your attack pierces through the first target and can strike another target in a straight line behind it for each time you choose this enhancement. All targets chose in this way must be within your maximum range. When you roll Accuracy for this attack, each of the targets must roll dodge separately. Each of the targets that you hit are affected similarly by your Potency roll."
   ) }}
 
-{{ renderTechnique(
-    "Pinning Shot?",
-    "1 ep",
-    "[Description]",
-    "[Signature bonus]"
-  ) }}
-
-<h3>Payload Style</h3>
-{{ renderTechnique(
-    "Concussive Blast",
-    "3 ep",
-    "Fire a shot that explodes in a small area, preventing your target from evading properly. If your target would successfully evade your attack, instead they take damage as if hit by a weak hit from your weapon.",
-    "When ranked up as a part of a signature technique, you place your blast in strategic positions to further disorient and damage your target. You may choose one of the following enhancements for each rank:
-    • Targets hit by your attack must move at half speed on their next turn, and must min one of their skill dice on movement based skill checks. If you choose this enhancement twice, the explosion disorients the target further and they must min all of their stat dice until the end of their next turn.
-    • Instead of dealing damage to your target as if they were hit by a weak hit, roll potency for the attack as if your target was hit normally by your attack to determine damage."
-  ) }}
-
-<h3>Precision Style</h3>
-{{ renderTechnique(
-    "Disruptive Shot",
-    "3 ep",
-    "Take aim at a target, preparing to disrupt their next action. On their next turn, after they initiate any action but before they complete the action, you may perform an attack on them. If you hit, in addition to taking damage as they would normally the target's action is disrupted and fails. If they were attacking, the defender may perform a counterattack.",
-    "[Signature bonus]"
-  ) }}
-
-<h3>Repeating Style</h3>
-{{ renderTechnique(
-    "Suppressing Fire",
-    "3 ep",
-    "Fire at an area such that anyone who takes an action in it will be automatically hit by your attack, up to your maximum number of attacks.",
-    "[Signature bonus]"
-  ) }}
-
-<h3>Spread Style</h3>
-{{ renderTechnique(
-    "Scattershot Blast",
-    "3 ep",
-    "When choosing a target for this attack, you may instead choose two targets that are adjacent to each other. Make only one accuracy and potency check for this attack.",
-    "[Signature bonus]"
-  ) }}
-
 <h3>Small Ranged</h3>
 {{ renderTechnique(
     "Vital Shot",
@@ -259,7 +218,7 @@
 
 <h3>Medium Ranged</h3>
 {{ renderTechnique(
-    "Sure Shot",
+    "Balanced Shot",
     "2 ep",
     "Fire your weapon with practiced coordination, utilizing the balance of power and weight that your weapon affords you to fire a deadly shot. For this attack, you may choose to max one skill die on either your potency or accuracy roll.",
     "When ranked up as a part of a signature technique, you are able to truly utilize the balance of your weapon. For each rank, you may max an additional skill die on either potency or accuracy."
@@ -272,7 +231,47 @@
     "Use the heaviness of your weapon's projectiles to tear apart your target before they can reach you. When an enemy takes a movement action that brings them within range of you at any point, you may perform this technique to stop them from moving and attack them. They may continue their movement action at half speed after the attack.",
     "When ranked up as a part of a signature technique, you are able to use the length of your weapon to greater effect. For each rank, you may choose one of the following enhancements:
     • Your projectile strikes true, knocking your target back. If you perform this technique and hit, your target must stop their movement.
-    • Your target must dodge carefully to avoid your attack. On this attack they must min their stat die (or dice) when rolling to evade. Additionally, until their next turn they must min one skill die on any movement based skill attempt."
+    • Your target must dodge carefully to avoid your attack. On this attack they must min their stat die (or dice) when rolling to evade. Additionally, until their next turn they must min half of their skill dice on any movement based skill attempt."
+  ) }}
+
+<h3>Payload Style</h3>
+{{ renderTechnique(
+    "Concussive Blast",
+    "3 ep",
+    "Fire a shot that explodes in a small area, preventing your target from evading properly. If your target would successfully evade your attack, instead they take damage as if hit by a weak hit from your weapon.",
+    "When ranked up as a part of a signature technique, you place your blast in strategic positions to further disorient and damage your target. You may choose one of the following enhancements for each rank:
+    • Targets hit by your attack must move at half speed on their next turn, and must min half of their skill dice on movement based skill checks. If you choose this enhancement twice, the explosion disorients the target further and they must min all of their stat dice until the end of their next turn.
+    • Instead of dealing damage to your target as if they were hit by a weak hit, roll potency for the attack as if your target was hit normally by your attack to determine damage."
+  ) }}
+
+<h3>Precision Style</h3>
+{{ renderTechnique(
+    "Disruptive Shot",
+    "3 ep",
+    "Take aim at a target and prepare to disrupt their next action with a well placed projectile. Any time before the beginning of your next turn, when your target attempts to perform an action you may perform an attack on them. If you hit, in addition to taking damage as they would normally the target's action is disrupted. If they were performing a skill check, they must min half of their skill dice on that check. If they were moving, they stop. If they were performing a combat technique, they do not expend exhaustion points or perform the technique. If they were attacking, they miss.",
+    "When ranked up as a part of a signature technique, your awareness is keener and your shot is far more disruptive. You may choose one of the following enhancements for each rank:
+    • Instead of specifying a target to disrupt when performing this technique, you may disrupt one action of any target within range of you before the start of your next turn.
+    • The disruption is far more severe. If they were performing a skill check, instead they must min all of their skill dice on that check. If they were performing a combat technique, they expend exhaustion points as if they would perform the technique, but do not perform their technique. If they were attacking, they miss and they are outmaneuvered by the defender, if applicable."
+  ) }}
+
+<h3>Repeating Style</h3>
+{{ renderTechnique(
+    "Suppressing Fire",
+    "3 ep",
+    "Pepper an area in rapid fire bursts, pinning down enemies who don't wish to be shot. You become immobile until the beginning of your next turn. Select a 5m radius circle within range that you wish to suppress until the beginning of your next turn. Whenever a target that you can see enters, starts their turn in, or performs a major action in the suppressed area, perform an attack on them with this weapon. You may make up to your normal number of maximum attacks in this way before the beginning of your next turn.",
+    "When ranked up as a part of a signature technique, your bursts of fire become more frequent and spread across an ever vaster area. You may choose one of the following enhancements for each rank:
+    • You may instead make up to twice your normal number of maximum attacks in this way.
+    • Increase the radius of the circle to 7m. If this enhancement is chosen twice, increase the radius of the circle to 10m."
+  ) }}
+
+<h3>Spread Style</h3>
+{{ renderTechnique(
+    "Scattershot Blast",
+    "3 ep",
+    "Release a cone of deadly shrapnel upon multiple clustered targets. When choosing a target for this attack, you may choose one additional target you can see that is within melee range of your initial target. Make only one accuracy and potency check for this attack. When you roll accuracy for this attack, each of the targets must roll dodge separately. Each of the targets that you hit are affected similarly by your potency roll.",
+    "When ranked up as a part of a signature technique you are able to scatter your deadly hail across a wider area. You may choose one of the following enhancements for each rank:
+    • You may choose one additional target that you can see within 2m of your initial target to attack. If this enhancement is chosen twice, instead you may choose all targets that you can see within melee range of your initial target as additional targets to attack.
+    • Your initial target must min all skill dice when rolling dodge to avoid damage from this attack."
   ) }}
 
 <h2>Shields</h2>
