@@ -275,7 +275,7 @@
     "Disruptive Shot",
     "3 ep",
     "Major Action",
-    "Take aim at a target and prepare to disrupt their next action with a well placed projectile. Any time before the beginning of your next turn, when your target attempts to perform an action you may perform an attack on them. If you hit, in addition to taking damage as they would normally the target's action is disrupted. If they were performing a skill check, they must min half of their skill dice on that check. If they were moving, they stop. If they were performing a combat technique, they do not expend exhaustion points or perform the technique. If they were attacking, they miss.",
+    "Take aim at a target and prepare to disrupt their next action with a well placed projectile. Any time before the beginning of your next turn, when your target attempts to perform an action you may use a Reaction to perform an attack on them. If you hit, in addition to taking damage as they would normally the target's action is disrupted. If they were performing a skill check, they must min half of their skill dice on that check. If they were moving, they stop. If they were performing a combat technique, they do not expend exhaustion points or perform the technique. If they were attacking, they miss.",
     "When ranked up as a part of a signature technique, your awareness is keener and your shot is far more disruptive. You may choose one of the following enhancements for each rank:
     • Instead of specifying a target to disrupt when performing this technique, you may disrupt one action of any target within range of you before the start of your next turn.
     • The disruption is far more severe. If they were performing a skill check, instead they must min all of their skill dice on that check. If they were performing a combat technique, they expend exhaustion points as if they would perform the technique, but do not perform their technique. If they were attacking, they miss and they are outmaneuvered by the defender, if applicable."
@@ -286,7 +286,7 @@
     "Suppressing Fire",
     "3 ep",
     "Major Action",
-    "Pepper an area in rapid fire bursts, pinning down enemies who don't wish to be shot. You become immobile until the beginning of your next turn. Select a 5m radius circle within range that you wish to suppress until the beginning of your next turn. Whenever a target that you can see enters, starts their turn in, or performs a major action in the suppressed area, perform an attack on them with this weapon. You may make up to your normal number of maximum attacks in this way before the beginning of your next turn.",
+    "Pepper an area in rapid fire bursts, pinning down enemies who don't wish to be shot. You become immobile until the beginning of your next turn or until you perform a Reaction. Select a 5m radius circle within range that you wish to suppress until the beginning of your next turn. Until you cease being immobile, whenever a target that you can see enters, starts their turn in, or performs an action in the suppressed area, you may perform an attack on them with this weapon. You may make up to your normal number of maximum attacks in this way before the beginning of your next turn.",
     "When ranked up as a part of a signature technique, your bursts of fire become more frequent and spread across an ever vaster area. You may choose one of the following enhancements for each rank:
     • You may instead make up to twice your normal number of maximum attacks in this way.
     • Increase the radius of the circle to 7m. If this enhancement is chosen twice, increase the radius of the circle to 10m."
@@ -307,45 +307,45 @@
 <h3>General</h3>
 {{ renderTechnique(
     "Block",
-    "1 ep",
+    "2 ep",
     "Reaction",
-    "Prepare to deflect an attack with your shield that would otherwise hit you or a nearby ally. Before your next turn, whenever you or an ally within melee range of you are attacked, you may choose to block the attack. Roll Block (Brawn) versus the attacker's Potency. If your Block roll beats their Potency roll, their attack is deflected and they deal no damage. If their Potency roll beats your Block roll, they deal damage as normal using the potency roll they made against your block. Only one Block can be performed before your next turn begins.",
-    "When ranked up as a part of a signature technique [text]. You may choose one of the following enhancements for each rank:
-    •
-    • "
+    "Deflect an attack with your shield that would otherwise hit you or a nearby ally. After a character has made an attack that targets you or another character within melee range of you, roll Block (Brawn) contesting the attacker's Potency. If your Block roll beats their Potency roll, their attack is deflected by your shield and deals no damage.",
+    "When ranked up as a part of a signature technique, your shield presents a steady wall against oncoming attacks. You may choose one of the following enhancements for each rank:
+    • You may max an additional skill die when contesting the attack's Potency with your Block roll.
+    • After you have performed this technique, as long as you are still wielding your shield you may perform a copy of this technique against attacks from the same opponent without expending exhaustion points or using a Reaction."
   ) }}
 
 <h3>Small Shield</h3>
 {{ renderTechnique(
     "Riposte",
-    "[Cost]",
+    "1 ep",
     "Reaction",
-    "Immediately after blocking or evading an attack, you may make an attack or combat maneuver that is guaranteed to hit.",
-    "When ranked up as a part of a signature technique [text]. You may choose one of the following enhancements for each rank:
-    •
-    • "
+    "Nimbly intercept an opponent's attack with your shield and respond with an attack of your own. When you or another character within melee range of you is about to take wounds from an attack, you may activate this technique to roll Block (Brawn) contesting the attack's Accuracy. If your Block roll beats their Accuracy roll, their attack cannot be considered accurate and you may perform an attack on them.",
+    "When ranked up as a part of a signature technique, your mastery of deflecting blows with your shield improves. You may choose one of the following enhancements for each rank:
+    • You may max an additional skill die when performing a Block roll to contest the attack's Accuracy or Potency.
+    • After contesting the attack's Accuracy with your Block roll, you may roll Block (Brawn) again to contest the attack's Potency. If your Block roll beats their Potency roll, their attack cannot be considered potent and you may perform an attack on them if you haven't already with this combat technique."
   ) }}
 
 <h3>Medium Shield</h3>
 {{ renderTechnique(
-    "Defensive Poise",
-    "[Cost]",
-    "Major Action",
-    "Reduce incoming damage from the next attack you receive. Weak hits are treated as no damage, medium hits are treated as weak hits, strong hits are treated as medium hits.",
-    "When ranked up as a part of a signature technique [text]. You may choose one of the following enhancements for each rank:
-    •
-    • "
+    "Guard",
+    "1 ep",
+    "Reaction",
+    "Heft your shield in a defensive posture to reduce incoming damage. When you or another character within melee range of you is about to take wounds from an attack, you may activate this technique to roll Block (Brawn) and add the total of your roll to the Armor Value of the character you chose. In addition if the attack is not Potent it cannot deal greater than weak damage.",
+    "When ranked up as a part of a signature technique. You may choose one of the following enhancements for each rank:
+    • You may max an additional skill die when performing a Block roll to contest the attack's Potency.
+    • After you have performed this technique, as long as you are still wielding your shield you may perform a copy of this technique without this enhancement against attacks from the same attacker without expending exhaustion points or using a Reaction."
   ) }}
 
 <h3>Large Shield</h3>
 {{ renderTechnique(
     "Shield Wall",
-    "[Cost]",
+    "0 ep",
     "Major Action",
-    "Enter a stance wherein you may use Block any number of times for any number of adjacent allies. Lasts until you choose to end it at the beginning of your turn. You move at half speed during this time.",
-    "When ranked up as a part of a signature technique [text]. You may choose one of the following enhancements for each rank:
-    •
-    • "
+    "Raise your massive shield in front of you, taking a full on defensive stance and forming an inpentetrable barrier. While you are still wielding your shield you may perform any number of Block combat techniques without using a Reaction. You move at half speed while in this stance and cannot attack  or use any Reaction other than to exit this stance. At the beginning of each of your turns while in this stance you may exit this stance. You may also use a Reaction to exit this stance.",
+    "When ranked up as a part of a signature technique your defenses grow stronger and easier to manage. You may choose one of the following enhancements for each rank:
+    • When you would perform a Block (Brawn) roll while in this stance, you may choose use the highest value of your previous Block (Brawn) rolls instead.
+    • You may move at full speed while in this stance and may perform any Reaction while in this stance. If you do perform a Reaction, exit this stance."
   ) }}
 
 <h2>Magical Techniques</h2>
