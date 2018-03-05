@@ -2,12 +2,12 @@
 
 {% block pageContent %}
   {{super()}}
-  <p>Creating a character in the Simply Roleplaying system is incredibly easy. One simply must follow these four steps.</p>
+  <p>Creating a character in the Simply Roleplaying system is incredibly easy. One simply must follow these four steps in no particular order.</p>
   <ol>
-  	<li>Pick a character name - Use your own if you'd like!</li>
-  	<li>Select a race for your character to be, ask your GM for the list of races or check out the provided races <a href="{{url_for('worldRaces')}}">by clicking here.</a></li>
-  	<li>Allocate points to each stat, to determine what die you will roll for that stat.</li>
-  	<li>Optional: Select advantages and disadvantages for your character to start with. (Talk with your GM if they will allow advantages and disadvantages in their campaign)</li>
-  	<li>Pick a personality and a reasonable backstory for your character. The personality and backstory should make sense together, and should reflect the points you put in the stats you picked earlier. (Remember: the more detail, the more fun!)</li>
+  	<li>Set up your character's background - pick a character name, a personality and a reasonable backstory for your character. The personality and backstory should make sense together, and should reflect the points you put in the stats you picked earlier. Remember; the more detail, the more fun!</li>
+  	<li>Select a race for your character to be, ask your GM for the list of races in their world. <a href="{{url_for('worldRaces')}}">The default races can be found by clicking here.</a></li>
+  	<li>Set up your stats. Allocate your creation points to determine what die you will roll for that stat.</li>
+  	<li>Talk with your GM to see if they will allow advantages and disadvantages in their campaign. If so, select advantages and disadvantages for your character to start with.</li>
+    <li>Talk with your GM to see if they will be working with 
   </ol>
 {% endblock pageContent %}

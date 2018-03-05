@@ -17,8 +17,8 @@ nav.register_element('navbar', Navbar(
     Subgroup('Character',
         View('Character Creation', '.startingCharacterCreation'),
         View('Stats', '.stats'),
+        View('Skills', '.skills'),
         View('Advantages and Disadvantages', '.advantagesAndDisadvantages'),
-        View('Character Growth', '.characterGrowth'),
     ),
     Subgroup('Combat',
         View('Combat Flow', '.combat'),
@@ -51,19 +51,19 @@ def startingCharacterCreation():
 def stats():
     headerText="Stats"
     pageTitle="Stats"
-    return render_template('character_creation/determining_stats.html', headerText=headerText, pageTitle=pageTitle)
+    return render_template('character_creation/stats.html', headerText=headerText, pageTitle=pageTitle)
+
+@srp.route("/character/skills/")
+def characterGrowth():
+    headerText="Skills"
+    pageTitle="Skills"
+    return render_template('character_creation/skills.html', headerText=headerText, pageTitle=pageTitle)
 
 @srp.route("/character/advantages_and_disadvantages/")
 def advantagesAndDisadvantages():
     headerText="Advantages and Disadvantages"
     pageTitle="Advantages and Disadvantages"
     return render_template('character_creation/advantages_and_disadvantages.html', headerText=headerText, pageTitle=pageTitle)
-
-@srp.route("/character/growth/")
-def characterGrowth():
-    headerText="Character Growth"
-    pageTitle="Character Growth"
-    return render_template('character_creation/character_growth.html', headerText=headerText, pageTitle=pageTitle)
 
 @srp.route("/combat/")
 def combat():
