@@ -1,91 +1,71 @@
-{% extends "base.html" %}
+ {% extends "base.html" %}
 
 {% block pageContent %}
   {{super()}}
-<p>When creating a character, each player gets a pool of 12 character creation points, unless otherwise specified by their respective race. They have six basic stats to spend these points in: <a href="#Agility"><strong>Agility</strong></a>, <a href="#Brawn"><strong>Brawn</strong></a>, <a href="#Charisma"><strong>Charisma</strong></a>, <a href="#Intuition"><strong>Intuition</strong></a>, <a href="#Knowledge"><strong>Knowledge</strong></a>, and <a href="#Luck"><strong>Luck</strong></a>.
-<p>Each of these stats are described in more detail below. After you have finished reading through the details of each stat, distribute your 12 points into the stats you feel your character would be best at. Initially, each character may have a maximum of 4 points invested in each stat. The amount of points invested in each stat directly correlates to the proficiency your character has in those stats.</p>
-<p>The table below can be used as a general reference.</p>
-{{ renderDefaultTable("Table S1: Basic Stats Table",
+<p>In Simply Roleplaying, stats are the measurement of a character's intrinsic attributes. This module, the Simply Stats module, uses stats describe a range of things from how strong you are, to how quickly you seize up situations, to how lucky you are. This is not to say a character cannot become faster, slower, weaker, or stronger than they are at character creation, but rather that these attributes are likely to change at a slower pace than learning a new skill.</p>
+
+<p>In this module, this measurement of intrinsic attributes is represented by dice. Whenever a character attempts to perform an action that they may or may not succeed, they may roll a die indicated by their die level in the associated stat. <strong>Die levels</strong> range from 1 to 6, level 1 being a two sided die (abbreviated as 1d2) and level 6 being a twelve sided die (abbreviated as 1d12). The table below can be used as a reference to determine the die used based on the appropriate die level.</p>
+
+{{ renderDefaultTable("Table ST1: Stat Dice Levels",
    [
-   ["Points Invested", "Die Used", "Layman's-term Proficiency"],
-   ["0", "1d4 (four-sided die)",    "Hopelessly bad"],
-   ["1", "1d6 (six-sided die)",     "Worse than most"],
-   ["2", "1d8 (eight-sided die)",   "About average"],
-   ["3", "1d10 (ten-sided die)",    "Distinguished"],
-   ["4", "1d12 (twelve-sided die)", "Exceptional"],
+   ["Die Level", "Die Used"],
+   ["1", "1d2 (two-sided die or a coin)"],
+   ["2", "1d4 (four-sided die)"],
+   ["3", "1d6 (six-sided die)"],
+   ["4", "1d8 (eight-sided die)"],
+   ["5", "1d10 (ten-sided die)"],
+   ["6", "1d12 (twelve-sided die)"],
    ],
    "center")
  }}
-<h2>Non-Dice Based Stats</h2>
-<p><strong>Wounds:</strong> Your character can only take a certain number of damage from any source before they die. In the case of this system, the damage is measured in wounds. Wounds are caused in many different ways; your Gamemaster will tell you when you have accrued wounds as a result of your actions. The maximum amount of wounds your character can take is based on your <a href="#Brawn">Brawn</a> score (see below). If your character sustains more wounds than their maximum, they go unconscious and enter a state of "bleeding out". Every subsequent turn after, your character takes an additional wound. If at any point your character reaches a total number of wounds equal to 150% of their maximum wound level, they immediately die.</p>
-<p><strong>Exhaustion:</strong> Everyone can get tired out, even characters in a fictional realm. Your character will take Exhaustion damage whenever they do anything too strenuous, which (if they exceed their maximum Exhaustion points) will lead to them passing out, unconcious. The maximum amount of Exhaustion points your character can take is based on your <a href="#Agility">Agility</a> score (see below).</p>
-<h2 id="Agility">Agility </h2>
-<p>Agility is, primarily, to determine just how fast one is on their feet, though it also governs reaction time. One of the most common uses for Agility is for feats of speed and dexterity in combat, such as dodging and hitting. Agility is also used to calculate the total amount of Exhaustion points your character can spend before passing out, using the following formula: <strong>12+A</strong> where A is the maximum roll that you could roll on an Agility check. You can recover Exhaustion points by resting.</p>
-<p>Example skills that could use Agility:</p>
-<ul>
-  <li>Picking a lock</li>
-  <li>Recovering from a fall</li>
-  <li>Making a jump</li>
-  <li>Avoiding a trap</li>
-</ul>
-<a href="#">Back to Top</a>
-<h2 id="Brawn">Brawn</h2>
-<p>Brawn governs how strong and sturdy a character is, or how many hits they can take and how much damage they dole out. Your Brawn is also used to calculate the total amount of Wounds your character can take before passing out, and is based on the following formula: <strong>12+B</strong> where B is the maximum roll that you could roll on a Brawn check. You can recover Wound points by resting or being healed. In addition, <strong>B</strong> is the maximum number of wounds beyond the maximum that a character can take before dying.</p>
-<p>When a character passes their maximum wound level, they will usually begin to "bleed out" every turn from sustained injuries. Each round, the character must make an increasingly difficult Endurance check, or recieve one wound. This process of bleeding out continues until the character is stabilized, which is usually acchieved though healing magic or bandages.</p>
-<p>Example skills that could use Brawn:</p>
-<ul>
-  <li>Pulling someone up a cliff</li>
-  <li>Breaking a door</li>
-  <li>Swimming long distance</li>
-  <li>Running long distance</li>
-</ul>
-<a href="#">Back to Top</a>
-<h2 id="Charisma">Charisma</h2>
-<p>Charisma primarily deals with how well liked a character can make themselves in a social scenario. Charisma also affects how attractive others find you, and your mental fortitude.</p>
-<p>Example skills that could use Charisma:</p>
-<ul>
-  <li>Convincing someone to give you a discount</li>
-  <li>Intimidating a mugger to leave you alone</li>
-  <li>Bluff in a card game</li>
-  <li>Charm someone with your beguiling looks</li>
-</ul>
-<a href="#">Back to Top</a>
-<h2 id="Intuition">Intuition</h2>
-<p>Intuition is your mental quickness. Think of it as <a href="#Agility">Agility</a>, but for your mind. It is primarily used for <a href="magic.html">magic</a> in combination with <a href="#Knowledge">Knowledge</a>, but can also be used to keep a good eye on your surroundings.</p>
-<p>Example skills that could use Intuition:</p>
-<ul>
-  <li>Spotting a glimmering sword in a wreck</li>
-  <li>Discovering something hidden</li>
-  <li>Disarming a trap</li>
-  <li>Determining how a mechanism works</li>
-</ul>
-<a href="#">Back to Top</a>
-<h2 id="Knowledge">Knowledge</h2>
-<p>Knowledge is your mental <a href="#Brawn">Brawn</a>. Knowledge comprises of what you know, and how well you know it. Knowledge is also the prime skill for all things magical, along with <a href="#Intuition">Intuition</a>.</p>
-<p>Example skills that could use Knowledge:</p>
-<ul>
-  <li>How a foreign culture view certain objects</li>
-  <li>Discerning the origins of an item, based on the craftsmanship</li>
-  <li>Building mechanisms</li>
-  <li>Remembering details</li>
-</ul>
-<a href="#">Back to Top</a>
-<h2 id="Luck">Luck</h2>
-<p>Luck is both the best and the worst skill in the game. It is used whenever the gamemaster chooses to, so put points in it as a safety net in case your other skills fail. Ultimately, Luck can be all that stands between you and certain death.</p>
-<p>A succcessful luck roll is any roll for which double the player's rolled value plus the value rolled by the GM (on a D20) exceeds 20. Table L1 below shows the values that the player and GM could roll that would result in a successful luck roll.</p>
-<div class="tables">
-{{ renderDefaultTable("Table S2: Luck Success Table",
+
+ <p>The die rolled is referred to as the <strong>stat die</strong> and the result of the die indicates whether the character might succeed or fail at their task. Rolling a two or higher might be suffficient for an easy task, but a result of four or higher would be required for something more difficult. Typically, based on the relative difficulty of the task, the gamemaster will choose a suitable value for the character to roll against, referred to as the <strong>difficulty</strong> of the action. Whether the difficulty is chosen in secret or publicly is to the gamemaster's discretion, usually based on whether the character can size up the challenge appropriately. Once the number has been chosen, the character attempting the task will roll their stat die. If their result meets or exceeds the difficulty, the action is performed successfully. If not, the action fails. The greater the difference between the difficulty and the result of the roll, the more exceptional the success or the more devastating the failure.</p>
+
+<p>The following are the six stats used to define a character's inherent attributes.</p>
+
+<h4 id="Agility">Agility</h4>
+<p>The <strong>Agility</strong> stat is the measurement of a character's physical speed, dexterity, and flexibility. Characters with high Agility are often flexible, dextrous, and able to evade harm that comes their way.</p>
+
+<h4 id="Brawn">Brawn</h4>
+<p>The <strong>Brawn</strong> stat is the measurement of a character's physical strength, endurance, and hardiness. Characters with high Brawn are sturdy enough to withstand substantial physical trauma and are often strong, athletic, and resistant to maladies.</p>
+
+<h4 id="Charisma">Charisma</h4>
+<p>The <strong>Charisma</strong> stat is a measure of a character's will and their ability to convey that will to sway others. Characters with high Charisma are able to inspire emotions in others through their words or deeds and are often convincing, socially adept, and willful.</p>
+
+<h4 id="Intuition">Intuition</h4>
+<p>The <strong>Intuition</strong> stat is a measure of a character's reaction time and ability to adapt to new situations. Characters with high Intuition are often observant, quick to react, and able to pick up new skills with ease.</p>
+
+<h4 id="Knowledge">Knowledge</h4>
+<p>The <strong>Knowledge</strong> stat is a measure of a character's learned information, techniques, and abilities. Characters with high Knowledge are able to give excellent tactical advice and are often able to solve complicated puzzles, craft sophisticated objects, and remember intricate details.</p>
+
+<h4 id="Luck">Luck</h4>
+<p>The <strong>Luck</strong> stat is a measure of a character's magnetism for fortune. Characters with high Luck succeed against impossible odds and can erratically perform feats of skill beyond their typical comprehension.</p>
+
+<h2>Stat Modifier</h2>
+<p>Over time, as a character grows and becomes more proficient at their skills, they will also grow stronger and faster. Stat modifiers are a way to measure this growth, and are tied directly to a character's total die level in skills associated with each stat. For more information on total die level and Skills, see <a href="{{url_for('skills')}}">the Skills page.</a> <strong>Stat Modifiers</stat> are a flat value that are added to the result of your stat die whenever it is rolled. This value ranges from +0 to +15, depending on the total die level of the associated stat. The <strong>Stat Total Die Level</strong> is calculated by adding up the die levels of all skills of that stat. Every two total die levels that a stat increases increases the value of the modifier by one, up to +15. Below is a table of the possible values for a stat modifier and at what total stat die level they are obtained.</p>
+
+{{ renderDefaultTable("Table ST2: Stat Modifier Table",
    [
-   ["Player Rolls", "GM Rolls", "Player Rolls", "GM Rolls"],
-   ["1", "19 or higher", "2", "17 or higher"],
-   ["3", "15 or higher", "4", "13 or higher"],
-   ["5", "11 or higher", "6", "9 or higher"],
-   ["7", "7 or higher", "8", "5 or higher"],
-   ["9", "3 or higher", "10+", "Anything but 1"],
-   ])
+   ["Total Stat Die Level", "Modifier"],
+   [ "2", "+1"],
+   [ "4", "+2"],
+   [ "6", "+3"],
+   [ "8", "+4"],
+   ["10", "+5"],
+   ["12", "+6"],
+   ["14", "+7"],
+   ["16", "+8"],
+   ["18", "+9"],
+   ["20", "+10"],
+   ["22", "+11"],
+   ["24", "+12"],
+   ["26", "+13"],
+   ["28", "+14"],
+   ["30+", "+15"],
+   ],
+   "center")
  }}
-</div>
-<a href="#">Back to Top</a>
+
 <br/>
 <br/>
 {% endblock pageContent %}
