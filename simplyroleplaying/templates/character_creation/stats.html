@@ -4,17 +4,16 @@
   {{super()}}
 <p>In Simply Roleplaying, stats are the measurement of a character's intrinsic attributes. This module, the Simply Stats module, uses stats describe a range of things from how strong you are, to how quickly you seize up situations, to how lucky you are. This is not to say a character cannot become faster, slower, weaker, or stronger than they are at character creation, but rather that these attributes are likely to change at a slower pace than learning a new skill.</p>
 
-<p>In this module, this measurement of intrinsic attributes is represented by dice. Whenever a character attempts to perform an action that they may or may not succeed, they may roll a die indicated by their die level in the associated stat. <strong>Die levels</strong> range from 1 to 6, level 1 being a two sided die (abbreviated as 1d2) and level 6 being a twelve sided die (abbreviated as 1d12). The table below can be used as a reference to determine the die used based on the appropriate die level.</p>
+<p>In this module, this measurement of intrinsic attributes is represented by dice. Whenever a character attempts to perform an action that they may or may not succeed, they may roll a die indicated by their die level in the associated stat. <strong>Die levels</strong> range from 1 to 5, level 1 being a four sided die (abbreviated as 1d4) and level 5 being a twelve sided die (abbreviated as 1d12). The table below can be used as a reference to determine the die used based on the appropriate die level.</p>
 
 {{ renderDefaultTable("Table ST1: Stat Dice Levels",
    [
    ["Die Level", "Die Used"],
-   ["1", "1d2 (two-sided die or a coin)"],
-   ["2", "1d4 (four-sided die)"],
-   ["3", "1d6 (six-sided die)"],
-   ["4", "1d8 (eight-sided die)"],
-   ["5", "1d10 (ten-sided die)"],
-   ["6", "1d12 (twelve-sided die)"],
+   ["1", "1d4 (four-sided die)"],
+   ["2", "1d6 (six-sided die)"],
+   ["3", "1d8 (eight-sided die)"],
+   ["4", "1d10 (ten-sided die)"],
+   ["5", "1d12 (twelve-sided die)"],
    ],
    "center")
  }}
@@ -42,26 +41,23 @@
 <p>The <strong>Luck</strong> stat is a measure of a character's magnetism for fortune. Characters with high Luck succeed against impossible odds and can erratically perform feats of skill beyond their typical comprehension.</p>
 
 <h2>Stat Modifier</h2>
-<p>Over time, as a character grows and becomes more proficient at their skills, they will also grow stronger and faster. Stat modifiers are a way to measure this growth, and are tied directly to a character's total die level in skills associated with each stat. For more information on total die level and Skills, see <a href="{{url_for('skills')}}">the Skills page.</a> <strong>Stat Modifiers</stat> are a flat value that are added to the result of your stat die whenever it is rolled. This value ranges from +0 to +15, depending on the total die level of the associated stat. The <strong>Stat Total Die Level</strong> is calculated by adding up the die levels of all skills of that stat. Every two total die levels that a stat increases increases the value of the modifier by one, up to +15. Below is a table of the possible values for a stat modifier and at what total stat die level they are obtained.</p>
+<p>Over time, as a character grows and becomes more proficient at their skills, they will also grow stronger and faster. Stat modifiers are a way to measure this growth, and are tied directly to a character's total die level in skills associated with each stat. For more information on total die level and Skills, see <a href="{{url_for('skills')}}">the Skills page.</a> <strong>Stat Modifiers</stat> are a flat value that are added to the result of your stat die whenever it is rolled. This value ranges from +0 to +12, depending on the total die level of the associated stat. The <strong>Stat Total Die Level</strong> is calculated by adding up the die levels of all skills of that stat. Every five total die levels that a stat increases increases the value of the modifier by one, up to +12. Below is a table of the possible values for a stat modifier and at what total stat die level they are obtained.</p>
 
 {{ renderDefaultTable("Table ST2: Stat Modifier Table",
    [
    ["Total Stat Die Level", "Modifier"],
-   [ "2", "+1"],
-   [ "4", "+2"],
-   [ "6", "+3"],
-   [ "8", "+4"],
-   ["10", "+5"],
-   ["12", "+6"],
-   ["14", "+7"],
-   ["16", "+8"],
-   ["18", "+9"],
-   ["20", "+10"],
-   ["22", "+11"],
-   ["24", "+12"],
-   ["26", "+13"],
-   ["28", "+14"],
-   ["30+", "+15"],
+   [ "5", "+1"],
+   ["10", "+2"],
+   ["15", "+3"],
+   ["20", "+4"],
+   ["25", "+5"],
+   ["30", "+6"],
+   ["35", "+7"],
+   ["40", "+8"],
+   ["45", "+9"],
+   ["50", "+10"],
+   ["55", "+11"],
+   ["60", "+12"],
    ],
    "center")
  }}
