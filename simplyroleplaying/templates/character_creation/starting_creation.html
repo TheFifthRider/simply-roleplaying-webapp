@@ -2,12 +2,25 @@
 
 {% block pageContent %}
   {{super()}}
-  <p>Creating a character in the Simply Roleplaying system is incredibly easy. One simply must follow these four steps.</p>
-  <ol>
-  	<li>Pick a character name - Use your own if you'd like!</li>
-  	<li>Select a race for your character to be, ask your GM for the list of races or check out the provided races <a href="{{url_for('worldRaces')}}">by clicking here.</a></li>
-  	<li>Allocate points to each stat, to determine what die you will roll for that stat.</li>
-  	<li>Optional: Select advantages and disadvantages for your character to start with. (Talk with your GM if they will allow advantages and disadvantages in their campaign)</li>
-  	<li>Pick a personality and a reasonable backstory for your character. The personality and backstory should make sense together, and should reflect the points you put in the stats you picked earlier. (Remember: the more detail, the more fun!)</li>
-  </ol>
+  <p>Creating a character in this system is all about dreaming up a concept, then figuring out how to realize it mechanically. There is no specific order that one must follow when creating a character in Simply Roleplaying, so players should feel free to skip around as they define their character. If a player is new to roleplaying games in general, they should consider writing a few short answers to the questions below. before they start working on the technical aspects of the system described under each question.</p>
+
+   <h5>Who are you?</h5>
+   <p>The most important part of a player's character creation process is to create a character they, their gamemaster, and their fellow players enjoy. One possible way to do this is to start by building a character they enjoy that fits into their gamemaster's world, then to shift their focus to how their character might interact with the characters of the other players. The rules of Simply Roleplaying exist only to provide structure to the story, can be ignored at the gamemaster's discretion. The most important thing is for everyone to be enjoying the experience!</p>
+
+  <h5>What types of things are you best at? What types of things do you struggle with?</h5>
+  <p>All characters have attributes about them that make it easier or harder for them to do specific things. This system uses stats to define these attributes. <a href="{{url_for('stats')}}">Click here to learn more about stats.</a></p>
+  <p>When creating a character, each player gets a pool of 18 character creation points to spend on stats, unless otherwise specified. These creation points define the starting die level for their <strong>Agility</strong>, <strong>Brawn</strong>, <strong>Charisma</strong>, <strong>Intuition</strong>, <strong>Knowledge</strong>, and <strong>Luck</strong> stats. Once a player feels that they are comfortable with their understanding of stats, they may begin to spend their character creation points. Every point they spend increase the die level of a stat of their stats by one, up to the stat's maximum die level.</p>
+
+  <h5>What talents have you cultivated?</h5>
+  <p>Everyone has a variety of abilities that they have acquired over time through practice. This system uses skills to define those abilities. <a href="{{url_for('skills')}}">Click here to learn more about skills.</a></p>
+  <p>The gamemaster will allot all of their players with a starting pool of potential. For most games, 20 points is recommended. To allow for characters who have some skills under their belt at the start of a campaign, a player may spend two points of this initial potential to learn a new skill or upgrade a skill's die level to the next level before the campaign begins. A player may do this any number of times, as long as they have points of potential to spend. Any remaining potential is kept recorded on the player's character sheet for future spending.</p>
+
+  <h5>What is your story?</h5>
+  <p>Motivations and experiences define characters in ways that no stat or skill possibly could. Each player should consider from where in their gamemaster's world they come from, and why they are seeking out to adventure with their fellow players. It can also be useful to describe their character's mental quirks and attributes, as well as any natural abilties that they may have that are not describable using other pieces of the system. In this system, advantages and disadvantages describe the benefits each character is awarded and challenges that each character grapples with in their lives. <a href="{{url_for('advantages_and_disadvantages')}}">Click here to learn more about advantages and disadvantages.</a></p>
+  <p>Accumulating advantages and disadvantages is a fairly simple process. A character can have any amount of advantages and disadvantages so long as the total ranks of character's advantages is equal to the total ranks of the character's disadvantages.</p>
+
+  <h5>What do you have with you?</h5>
+  <p>Arguably the most important detail of any newly created character is the question of what they have with them. From bedrolls to mp3 players, what a character might carry with them is incredibly telling of the other pieces of their personality and circumstances of their life. Depending on the setting that the character is created in and that character's motivations for travel, they may have different things. A fantasy explorer, for instance, would likely have a bedroll, tent, backpack, mess kit, pack of torches, medical supplies, a grappling hook, and other such necessities. A science fiction diplomat, on the other hand, would likely have things like a universal translator, fine clothes, id card, hologram computer, a wax seal kit, a handful of fountain pens, a sheaf of paper, and other sophisticated items.</p>
+  <p>How the players determine what items their characters have with them is largely up to their gamemaster. In a typical campaign it would not be uncommon for a character to get a full set of armor, a primary weapon, an assortment of whatever things their character might have with them "on a typical day", and an assortment of items related to their current pursuits.</p>
+
 {% endblock pageContent %}
