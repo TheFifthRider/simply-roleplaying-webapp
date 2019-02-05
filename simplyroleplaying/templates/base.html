@@ -14,25 +14,28 @@
     <link rel="stylesheet" type="text/css"
           href="{{url_for('static', filename='styles.css')}}">
     <link rel="stylesheet" type="text/css"
+          href="{{url_for('static', filename='content.css')}}">
+    <link rel="stylesheet" type="text/css"
           href="{{url_for('static', filename='navbar.css')}}">
     <link rel="icon" type="image/png"
           href="{{url_for('static', filename='icon.png')}}">
 {% endblock %}
 
 {% block navbar -%}
-<div id="nav-wrapper">
 {{nav.navbar.render(renderer='custom')}}
-</div>
 {%- endblock navbar %}
 
 {% block content -%}
-<div id="content">
+<div class="content">
   {% block pageContent %}
     <h1>{{headerText}}</h1>
   {% endblock pageContent %}
 </div>
 {%- block footer %}
-<footer>Simply Roleplaying &copy; 2017 Richard Otte</footer>
+<footer>
+    <p>Found a bug? Interested in what's next? <strong><a href="https://github.com/TheFifthRider/simply-roleplaying-webapp">Visit Simply Roleplaying on GitHub!</a></strong></p>
+    <p>Simply Roleplaying &copy; 2013-2019 Richard Otte</p>
+</footer>
 {%- endblock footer %}
 {%- endblock content %}
 
@@ -40,11 +43,12 @@
 {#  MACROS                                                                    #}
 {# -------------------------------------------------------------------------- #}
 
-{% macro renderDefaultTable(name, cells, class='left') -%}
+{% macro renderDefaultTable(name, cells, class='alignleft') -%}
 {{ renderTable(name, cells, class) }}
 {%- endmacro %}
 
-{% macro renderTable(name, cells, class='left', rowHeaders=false, columnHeaders=true,  cellRenderer=renderCell, rowRenderer=renderRow) -%}
+{% macro renderTable(name, cells, class='alignleft', rowHeaders=false, columnHeaders=true,  cellRenderer=renderCell, rowRenderer=renderRow) -%}
+<div class="notextwrapping">
 <table border="1" class="{{ class }}">
 <thead>
 <tr><th colspan="100%">{{ name }}</th></tr>
@@ -58,6 +62,7 @@
 {%- endif %}
 {%- endfor %}
 </table>
+</div>
 {%- endmacro %}
 
 {% macro renderRow(row, rowHeaders, cellRenderer) -%}
@@ -77,6 +82,6 @@
 {{ cell }}
 {%- endmacro %}
 
-{% macro renderDefault2DTable(name, cells, class='left') -%}
+{% macro renderDefault2DTable(name, cells, class='alignleft') -%}
 {{ renderTable(name, cells, class, true, true) }}
 {%- endmacro %}

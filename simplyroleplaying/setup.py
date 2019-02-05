@@ -54,7 +54,7 @@ def stats():
     return render_template('character_creation/stats.html', headerText=headerText, pageTitle=pageTitle)
 
 @srp.route("/character/skills/")
-def characterGrowth():
+def skills():
     headerText="Skills"
     pageTitle="Skills"
     return render_template('character_creation/skills.html', headerText=headerText, pageTitle=pageTitle)

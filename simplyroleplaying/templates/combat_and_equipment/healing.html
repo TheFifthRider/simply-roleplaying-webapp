@@ -6,7 +6,7 @@
 
 {% macro renderHealAmountCell(cell) -%}
 {% if cell|length == 3 -%}
-<ul class="weapon">
+<ul class="nonbulletedlist gradedtriplet">
   <li>Weak heal: {{cell[0]}}</li>
   <li>Medium heal: {{cell[1]}}</li>
   <li>Strong heal: {{cell[2]}}</li>
@@ -18,6 +18,7 @@
 
 {% block pageContent %}
 {{super()}}
+<!-- TODO:  This needs to be somewhat redone to account for recovery dice vs healing -->
 <p>Not every aspect of combat revolves around the concept of "hit squishy thing with hard thing until squishy thing falls over." Sometimes the squishy thing is your friend and you want to do everything you can to keep them from falling over. In Simply Roleplaying (and many other things) this practice is referred to as the act of healing. Healing can be anything from applying a bandage to a gaping wound to administering medication to a sick individual. In all of these cases, the two keys of how effective the medical procedure is are the amount of time spent on the procedure, and the quality of the supplies used to perform the procedure.</p>
 <p>The longer a character spends on the procedure, the more wounds the character might remove from their patient. Similarly, the higher the quality of the medical supplies used, the higher the amount of wounds a heal check might be able to remove. Similarly, the longer the amount of time spent on the procedure, the more likely the procedure will  In addition, higher quality medical supplies open up the possiblity for longer, more effective, procedures. No matter how long you take to apply it, a sterile bandage will only be able to help so much, but a full medical kit could be used to great effect over a longer period of time.</p>
 <p>Healing supplies come in one of six possible qualities: improvised, sterile, medical, pharmaceutical, surgical, or advanced. Examples of improvised level healing supplies are things like torn pieces of cloak used as a bandage or sticks and rope used as a makeshift splint. Examples of sterile level healing supplies are things like clean gauze and hot water used to wash out a wound. Medical level healing supplies are things that have been explicitly designed for handling wounds, like antiseptic and most modern day medications. Pharmaceutical level healing supplies are high grade and typically expensive. Often they are restricted due to possible abuse of the medication. In general, think of Pharmaceutical level healing supplies as any materials that you'd need to have a doctor's note to obtain. Surgical level healing supplies are usually exceptionally difficult to get if you are not a licensed medical practicioner of some type. Occasionally there are healing supplies that act nigh-perfectly, rejuvinating the afflicted to their normal health with substantial quickness. These kinds of supplies are exceedingly rare and often come from some form of more intelligent or highly magical life. These supplies are referred to as advanced level healing supplies.</p>

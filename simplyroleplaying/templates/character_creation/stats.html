@@ -2,6 +2,7 @@
 
 {% block pageContent %}
   {{super()}}
+
 <p>When creating a character, each player gets a pool of 12 character creation points, unless otherwise specified by their respective race. They have six basic stats to spend these points in: <a href="#Agility"><strong>Agility</strong></a>, <a href="#Brawn"><strong>Brawn</strong></a>, <a href="#Charisma"><strong>Charisma</strong></a>, <a href="#Intuition"><strong>Intuition</strong></a>, <a href="#Knowledge"><strong>Knowledge</strong></a>, and <a href="#Luck"><strong>Luck</strong></a>.
 <p>Each of these stats are described in more detail below. After you have finished reading through the details of each stat, distribute your 12 points into the stats you feel your character would be best at. Initially, each character may have a maximum of 4 points invested in each stat. The amount of points invested in each stat directly correlates to the proficiency your character has in those stats.</p>
 <p>The table below can be used as a general reference.</p>
@@ -14,11 +15,14 @@
    ["3", "1d10 (ten-sided die)",    "Distinguished"],
    ["4", "1d12 (twelve-sided die)", "Exceptional"],
    ],
-   "center")
+   "aligncenter")
  }}
+ <!-- TODO: Kill this, probably -->
 <h2>Non-Dice Based Stats</h2>
 <p><strong>Wounds:</strong> Your character can only take a certain number of damage from any source before they die. In the case of this system, the damage is measured in wounds. Wounds are caused in many different ways; your Gamemaster will tell you when you have accrued wounds as a result of your actions. The maximum amount of wounds your character can take is based on your <a href="#Brawn">Brawn</a> score (see below). If your character sustains more wounds than their maximum, they go unconscious and enter a state of "bleeding out". Every subsequent turn after, your character takes an additional wound. If at any point your character reaches a total number of wounds equal to 150% of their maximum wound level, they immediately die.</p>
 <p><strong>Exhaustion:</strong> Everyone can get tired out, even characters in a fictional realm. Your character will take Exhaustion damage whenever they do anything too strenuous, which (if they exceed their maximum Exhaustion points) will lead to them passing out, unconcious. The maximum amount of Exhaustion points your character can take is based on your <a href="#Agility">Agility</a> score (see below).</p>
+
+<!-- TODO: Update with passive stats -->
 <h2 id="Agility">Agility </h2>
 <p>Agility is, primarily, to determine just how fast one is on their feet, though it also governs reaction time. One of the most common uses for Agility is for feats of speed and dexterity in combat, such as dodging and hitting. Agility is also used to calculate the total amount of Exhaustion points your character can spend before passing out, using the following formula: <strong>12+A</strong> where A is the maximum roll that you could roll on an Agility check. You can recover Exhaustion points by resting.</p>
 <p>Example skills that could use Agility:</p>
@@ -28,7 +32,8 @@
   <li>Making a jump</li>
   <li>Avoiding a trap</li>
 </ul>
-<a href="#">Back to Top</a>
+
+<!-- TODO: Update with passive stats -->
 <h2 id="Brawn">Brawn</h2>
 <p>Brawn governs how strong and sturdy a character is, or how many hits they can take and how much damage they dole out. Your Brawn is also used to calculate the total amount of Wounds your character can take before passing out, and is based on the following formula: <strong>12+B</strong> where B is the maximum roll that you could roll on a Brawn check. You can recover Wound points by resting or being healed. In addition, <strong>B</strong> is the maximum number of wounds beyond the maximum that a character can take before dying.</p>
 <p>When a character passes their maximum wound level, they will usually begin to "bleed out" every turn from sustained injuries. Each round, the character must make an increasingly difficult Endurance check, or recieve one wound. This process of bleeding out continues until the character is stabilized, which is usually acchieved though healing magic or bandages.</p>
@@ -39,7 +44,8 @@
   <li>Swimming long distance</li>
   <li>Running long distance</li>
 </ul>
-<a href="#">Back to Top</a>
+
+<!-- TODO: Update with passive stats -->
 <h2 id="Charisma">Charisma</h2>
 <p>Charisma primarily deals with how well liked a character can make themselves in a social scenario. Charisma also affects how attractive others find you, and your mental fortitude.</p>
 <p>Example skills that could use Charisma:</p>
@@ -49,7 +55,8 @@
   <li>Bluff in a card game</li>
   <li>Charm someone with your beguiling looks</li>
 </ul>
-<a href="#">Back to Top</a>
+
+<!-- TODO: Update with passive stats -->
 <h2 id="Intuition">Intuition</h2>
 <p>Intuition is your mental quickness. Think of it as <a href="#Agility">Agility</a>, but for your mind. It is primarily used for <a href="magic.html">magic</a> in combination with <a href="#Knowledge">Knowledge</a>, but can also be used to keep a good eye on your surroundings.</p>
 <p>Example skills that could use Intuition:</p>
@@ -59,7 +66,8 @@
   <li>Disarming a trap</li>
   <li>Determining how a mechanism works</li>
 </ul>
-<a href="#">Back to Top</a>
+
+<!-- TODO: Update with passive stats -->
 <h2 id="Knowledge">Knowledge</h2>
 <p>Knowledge is your mental <a href="#Brawn">Brawn</a>. Knowledge comprises of what you know, and how well you know it. Knowledge is also the prime skill for all things magical, along with <a href="#Intuition">Intuition</a>.</p>
 <p>Example skills that could use Knowledge:</p>
@@ -69,11 +77,11 @@
   <li>Building mechanisms</li>
   <li>Remembering details</li>
 </ul>
-<a href="#">Back to Top</a>
+
+<!-- TODO: Update with passive stats -->
 <h2 id="Luck">Luck</h2>
 <p>Luck is both the best and the worst skill in the game. It is used whenever the gamemaster chooses to, so put points in it as a safety net in case your other skills fail. Ultimately, Luck can be all that stands between you and certain death.</p>
 <p>A succcessful luck roll is any roll for which double the player's rolled value plus the value rolled by the GM (on a D20) exceeds 20. Table L1 below shows the values that the player and GM could roll that would result in a successful luck roll.</p>
-<div class="tables">
 {{ renderDefaultTable("Table S2: Luck Success Table",
    [
    ["Player Rolls", "GM Rolls", "Player Rolls", "GM Rolls"],
@@ -84,8 +92,4 @@
    ["9", "3 or higher", "10+", "Anything but 1"],
    ])
  }}
-</div>
-<a href="#">Back to Top</a>
-<br/>
-<br/>
 {% endblock pageContent %}
