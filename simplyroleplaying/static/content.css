@@ -6,7 +6,7 @@
 
 .content p {
 	font-size: 100%;
-	margin: auto 20px;
+	margin: 10px 20px;
 }
 
 .content a:link {
@@ -115,10 +115,10 @@
 .content .nonbulletedlist {
   list-style: none;
   margin: 0;
-  padding: 0;
 }
 
 .content .nonbulletedlist.gradedtriplet {
+	padding: 0;
   margin: -2px;
 }
 
