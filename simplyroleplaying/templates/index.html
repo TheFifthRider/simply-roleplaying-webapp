@@ -1,32 +1,32 @@
 {% extends "base.html" %}
 
 {% block pageContent %}
-  {{super()}}
-  <p>
-  Simply Roleplaying is a role playing game system that is designed to be easily accessible to any level of player. This site was created specifically to be a reference guide for any players -- the GameMaster's (GM's) manual for this system is still a work in progress.
-  </p>
-  <p>
-  A role playing game is a game in which players assume the roles of characters in a fictional setting. Each player takes responsibility for acting out these roles within a narrative, either through literal acting or through a process of structured decision-making or character development. Actions taken within many games succeed or fail according to a formal system of rules and guidelines.
-  There are several forms of RPG, but Simply Roleplaying is of the original form, sometimes called the tabletop RPG. It is conducted via discussion, talking out actions and decisions.
-  </p>
-  <p>
-  Within these pages, you will see exactly what the Simply Roleplaying system has to offer to you as a role player. This website is specifically engineered towards being a player's handbook of sorts, acting as a reference for you.
-  </p>
-  <h2>Some basics</h2>
-  <p>Before you dive straight into Simply Roleplaying, there are a few common mechanics in the system to understand.</p>
-  <h3>Die Levels</h3>
-  <p>In Simply Roleplaying, the four sided die, six sided die, eight sided die, ten sided die, and twelve sided die are the most commonly used dice, and are typically used as a representation of different levels of ability. For this reason, Simply Roleplaying uses a concept referred to as Die Levels. <strong>Die levels</strong> range from 1 to 5, where level 1 represents a four sided die (1d4), level 2 represents six sided die (1d6), level 3 represents an eight sided die (1d8), and so on. The table below can be used as a reference to determine the die used based on the appropriate die level.</p>
+{{super()}}
+<p>
+Simply Roleplaying is a role playing game system that is designed to be easily accessible to any level of player. This site was created specifically to be a reference guide for any players -- the GameMaster's (GM's) manual for this system is still a work in progress.
+</p>
+<p>
+A role playing game is a game in which players assume the roles of characters in a fictional setting. Each player takes responsibility for acting out these roles within a narrative, either through literal acting or through a process of structured decision-making or character development. Actions taken within many games succeed or fail according to a formal system of rules and guidelines.
+There are several forms of RPG, but Simply Roleplaying is of the original form, sometimes called the tabletop RPG. It is conducted via discussion, talking out actions and decisions.
+</p>
+<p>
+Within these pages, you will see exactly what the Simply Roleplaying system has to offer to you as a role player. This website is specifically engineered towards being a player's handbook of sorts, acting as a reference for you.
+</p>
+<h2>Some basics</h2>
+<p>Before you dive straight into Simply Roleplaying, there are a few common mechanics in the system to understand.</p>
+<h3>Die Levels</h3>
+<p>In Simply Roleplaying, the four sided die, six sided die, eight sided die, ten sided die, and twelve sided die are the most commonly used dice, and are typically used as a representation of different levels of ability. For this reason, Simply Roleplaying uses a concept referred to as Die Levels. <strong>Die levels</strong> range from 1 to 5, where level 1 represents a four sided die (1d4), level 2 represents six sided die (1d6), level 3 represents an eight sided die (1d8), and so on. The table below can be used as a reference to determine the die used based on the appropriate die level.</p>
 
-  {{ renderDefaultTable("Table ST1: Stat Dice Levels",
-     [
-     ["Die Level", "Die Used"],
-     ["1", "1d4 (four-sided die)"],
-     ["2", "1d6 (six-sided die)"],
-     ["3", "1d8 (eight-sided die)"],
-     ["4", "1d10 (ten-sided die)"],
-     ["5", "1d12 (twelve-sided die)"],
-     ],
-     "aligncenter")
-   }}
+{{ renderDefaultTable("Table ST1: Stat Dice Levels",
+   [
+   ["Die Level", "Die Used"],
+   ["Level 1", "1d4 (four-sided die)"],
+   ["Level 2", "1d6 (six-sided die)"],
+   ["Level 3", "1d8 (eight-sided die)"],
+   ["Level 4", "1d10 (ten-sided die)"],
+   ["Level 5", "1d12 (twelve-sided die)"],
+   ],
+   "aligncenter")
+ }}
 
 {% endblock pageContent %}
