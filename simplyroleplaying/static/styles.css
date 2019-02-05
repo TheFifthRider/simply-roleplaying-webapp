@@ -75,3 +75,9 @@ footer a:active {
 	color:#FFEDE1;
   text-decoration: none;
 }
+
+ul.noBullets
+{
+  list-style:none;
+  margin: 0;
+}
