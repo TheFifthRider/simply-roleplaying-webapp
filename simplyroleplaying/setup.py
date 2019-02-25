@@ -3,6 +3,7 @@ from flask_bootstrap import Bootstrap
 from flask_nav import register_renderer
 from flask_nav.elements import Navbar, View, Subgroup
 from flask_heroku import Heroku
+from flaskext.markdown import Markdown
 
 from .nav import nav
 from .nav import CustomRenderer
@@ -10,6 +11,7 @@ from .nav import CustomRenderer
 srp = Flask(__name__)
 Bootstrap(srp)
 Heroku(srp)
+Markdown(srp)
 nav.init_app(srp)
 register_renderer(srp, 'custom', CustomRenderer)
 nav.register_element('navbar', Navbar(

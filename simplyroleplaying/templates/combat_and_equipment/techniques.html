@@ -10,10 +10,10 @@
 
 {% block pageContent %}
 {{super()}}
-<p>A warlord swings his mighty maul, bending metal and breaking bones. A medic presses the defibrillator to a fallen comrade's chest, returning the spark of life. A single captain stands tall brandishing a tattered flag, inspiring the defenders to fight on. Roleplaying is full of heroic moments when the action gets fierce. The Simply Combat Techniques module gives each weapon their own unique abilities in combat, so heroes and villains can inspire these moments that much more often.</p>
+A warlord swings his mighty maul, bending metal and breaking bones. A medic presses the defibrillator to a fallen comrade's chest, returning the spark of life. A single captain stands tall brandishing a tattered flag, inspiring the defenders to fight on. Roleplaying is full of heroic moments when the action gets fierce. The Simply Combat Techniques module gives each weapon their own unique abilities in combat, so heroes and villains can inspire these moments that much more often.
 
-<h2>Melee Weapons</h2>
-<h3>General</h3>
+## Melee Weapons
+### General
 {{ renderTechnique(
     "Aimed Strike",
     "1 ep",
@@ -69,7 +69,7 @@
     • Max one of your dice when making Grapple checks related to this Grapple attempt."
   ) }}
 
-<h2>Single Melee Weapon</h2>
+## Single Melee Weapon
 {{ renderTechnique(
     "Cleave",
     "4 ep",
@@ -78,7 +78,7 @@
     "When ranked up as a part of a signature technique, your arc can encompass more foes. For each rank, you may attack up to two other targets within melee range of you."
   ) }}
 
-<h3>Dual Wielding: Same Size</h3>
+### Dual Wielding: Same Size
 {{ renderTechnique(
     "Feint",
     "1 ep",
@@ -87,7 +87,7 @@
     "When ranked up as a part of a signature technique, your weapons dance in deadly patterns that hint at feints but still connect. For each rank, you may max an additional skill die more on the second attack than you minned on the first attack. You still receive the bonus from this enhancement even if you min 0 dice."
   ) }}
 
-<h3>Dual Wielding: Same Style</h3>
+### Dual Wielding: Same Style
 {{ renderTechnique(
     "Mirrored Strike",
     "1 ep",
@@ -96,7 +96,7 @@
     "When ranked up as a part of a signature technique, you are almost guaranteed a follow up attack. Max all of your accuracy dice instead of just one."
   ) }}
 
-<h3>Small Melee</h3>
+### Small Melee
 {{ renderTechnique(
     "Vital Strike",
     "2 ep",
@@ -107,7 +107,7 @@
     • When rolling accuracy if your attack would allow you to perform a combo attack you may instead double the damage of this hit."
   ) }}
 
-<h3>Medium Melee</h3>
+### Medium Melee
 {{ renderTechnique(
     "Balanced Strike",
     "2 ep",
@@ -116,7 +116,7 @@
     "When ranked up as a part of a signature technique, you are able to truly utilize the balance of your weapon. For each rank, you may max an additional skill die on either potency or accuracy."
   ) }}
 
-<h3>Large Melee</h3>
+### Large Melee
 {{ renderTechnique(
     "Intercepting Strike",
     "2 ep",
@@ -127,7 +127,7 @@
     • Your target must dodge carefully to avoid your attack. On this attack they must min their stat die (or dice) when rolling to evade. Additionally, until their next turn they must min half of their skill dice on any movement based skill attempt."
   ) }}
 
-<h3>Battering Style</h3>
+### Battering Style
 {{ renderTechnique(
     "Stunning Blow",
     "3 ep",
@@ -138,7 +138,7 @@
     • The duration of the debuff increases by one turn. Further uses of this technique (with or without this enhancement) on a target where this debuff is active will refresh the duration. You may only choose this enhancement a maximum of two times."
  ) }}
 
-<h3>Cleaving Style</h3>
+### Cleaving Style
 {{ renderTechnique(
     "Splitting Strike",
     "3 ep",
@@ -149,7 +149,7 @@
     • The debuff applied by this technique can be applied on top of another instance of the debuff, to a maximum of two of these debuffs being active at the same time."
   ) }}
 
-<h3>Hooking Style</h3>
+### Hooking Style
 {{ renderTechnique(
     "Tearing Strike",
     "3 ep",
@@ -160,7 +160,7 @@
     • When you successfully tear away an enemy item with this technique, you may equip it immediately (if able). In addition, your attack range increases by 2m for this attack and if you deal damage to your target you can drag them 2m closer to you."
   ) }}
 
-<h3>Slashing Style</h3>
+### Slashing Style
 {{ renderTechnique(
     "Lacerate",
     "3 ep",
@@ -171,7 +171,7 @@
     • A target considered lacerated or severely lacerated by this technique remains lacerated or severely lacerated for an additional instance of bonus damage. You may only choose this enhancement a maximum of two times."
   ) }}
 
-<h3>Impaling Style</h3>
+### Impaling Style
 {{ renderTechnique(
     "Skewer",
     "3 ep",
@@ -183,8 +183,8 @@
   ) }}
 
 
-<h2>Ranged Weapons</h2>
-<h3>General</h3>
+## Ranged Weapons
+### General
 {{ renderTechnique(
     "Aimed Shot",
     "1 ep",
@@ -229,7 +229,7 @@
     • If you were attacking a target beyond your minimum range, your attack pierces through the first target and can strike another target in a straight line behind it for each time you choose this enhancement. All targets chose in this way must be within your maximum range. When you roll Accuracy for this attack, each of the targets must roll dodge separately. Each of the targets that you hit are affected similarly by your Potency roll."
   ) }}
 
-<h3>Small Ranged</h3>
+### Small Ranged
 {{ renderTechnique(
     "Vital Shot",
     "2 ep",
@@ -240,7 +240,7 @@
     • When rolling accuracy if your attack would allow you to perform a combo attack you may instead double the damage of this hit."
   ) }}
 
-<h3>Medium Ranged</h3>
+### Medium Ranged
 {{ renderTechnique(
     "Balanced Shot",
     "2 ep",
@@ -260,7 +260,7 @@
     • Your target must dodge carefully to avoid your attack. On this attack they must min their stat die (or dice) when rolling to evade. Additionally, until their next turn they must min half of their skill dice on any movement based skill attempt."
   ) }}
 
-<h3>Payload Style</h3>
+### Payload Style
 {{ renderTechnique(
     "Concussive Blast",
     "3 ep",
@@ -271,7 +271,7 @@
     • Instead of dealing damage to your target as if they were hit by a weak hit, roll potency for the attack as if your target was hit normally by your attack to determine damage."
   ) }}
 
-<h3>Precision Style</h3>
+### Precision Style
 {{ renderTechnique(
     "Disruptive Shot",
     "3 ep",
@@ -282,7 +282,7 @@
     • The disruption is far more severe. If they were performing a skill check, instead they must min all of their skill dice on that check. If they were performing a combat technique, they expend exhaustion points as if they would perform the technique, but do not perform their technique. If they were attacking, they miss and they are outmaneuvered by the defender, if applicable."
   ) }}
 
-<h3>Repeating Style</h3>
+### Repeating Style
 {{ renderTechnique(
     "Suppressing Fire",
     "3 ep",
@@ -293,7 +293,7 @@
     • Increase the radius of the circle to 7m. If this enhancement is chosen twice, increase the radius of the circle to 10m."
   ) }}
 
-<h3>Spread Style</h3>
+### Spread Style
 {{ renderTechnique(
     "Scattershot Blast",
     "3 ep",
@@ -304,8 +304,8 @@
     • Your initial target must min all skill dice when rolling dodge to avoid damage from this attack."
   ) }}
 
-<h2>Shields</h2>
-<h3>General</h3>
+## Shields
+### General
 {{ renderTechnique(
     "Block",
     "2 ep",
@@ -316,7 +316,7 @@
     • After you have performed this technique, as long as you are still wielding your shield you may perform a copy of this technique against attacks from the same opponent without expending exhaustion points or using a Reaction."
   ) }}
 
-<h3>Small Shield</h3>
+### Small Shield
 {{ renderTechnique(
     "Riposte",
     "1 ep",
@@ -327,7 +327,7 @@
     • After contesting the attack's Accuracy with your Block roll, you may roll Block (Brawn) again to contest the attack's Potency. If your Block roll beats their Potency roll, their attack cannot be considered potent and you may perform an attack on them if you haven't already with this combat technique."
   ) }}
 
-<h3>Medium Shield</h3>
+### Medium Shield
 {{ renderTechnique(
     "Guard",
     "1 ep",
@@ -338,7 +338,7 @@
     • After you have performed this technique, as long as you are still wielding your shield you may perform a copy of this technique without this enhancement against attacks from the same attacker without expending exhaustion points or using a Reaction."
   ) }}
 
-<h3>Large Shield</h3>
+### Large Shield
 {{ renderTechnique(
     "Shield Wall",
     "0 ep",
@@ -349,8 +349,8 @@
     • You may move at full speed while in this stance and may perform any Reaction while in this stance. If you do perform a Reaction, exit this stance."
   ) }}
 
-<h2>Magical Techniques</h2>
-<h3>General</h3>
+## Magical Techniques
+### General
 {{ renderTechnique(
     "Mystic Ritual",
     "[Cost]",
@@ -371,7 +371,7 @@
     • "
   ) }}
 
-<h3>Small and Larger Catalysts</h3>
+### Small and Larger Catalysts
 {{ renderTechnique(
     "Ward",
     "[Cost]",
@@ -402,7 +402,7 @@
   ) }}
 
 
-<h3>Medium and Larger Catalysts</h3>
+### Medium and Larger Catalysts
 {{ renderTechnique(
     "Conjure",
     "[Cost]",
@@ -425,7 +425,7 @@
   ) }}
 
 
-<h3>Large Catalysts Only</h3>
+### Large Catalysts Only
 {{ renderTechnique(
     "Radiant Spell",
     "[Cost]",
@@ -448,7 +448,7 @@
   ) }}
 
 
-<h3>Single Cataylst</h3>
+### Single Cataylst
 {{ renderTechnique(
     "Abjure",
     "[Cost]",
@@ -460,7 +460,7 @@
   ) }}
 
 
-<h3>Multiple Catalysts</h3>
+### Multiple Catalysts
 {{ renderTechnique(
     "Multicast",
     "[Cost]",
@@ -472,8 +472,8 @@
   ) }}
 
 
-<h2>Noncombat Techniques</h2>
-<h3>Performance Techniques</h3>
+## Noncombat Techniques
+### Performance Techniques
 {{ renderTechnique(
     "Calm",
     "[Cost]",
@@ -506,7 +506,7 @@
     • "
   ) }}
 
-<h3>Leadership Techniques</h3>
+### Leadership Techniques
 {{ renderTechnique(
     "Command",
     "[Cost]",
@@ -539,7 +539,7 @@
     • "
   ) }}
 
-<h3>Healing Techniques</h3>
+### Healing Techniques
 {{ renderTechnique(
     "Outpatient Surgery",
     "[Cost]",

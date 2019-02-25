@@ -1,34 +1,34 @@
   {% extends "base.html" %}
 
 {% block pageContent %}
-  {{super()}}
-<p>In Simply Roleplaying, stats are the measurement of a character's intrinsic attributes. This module, the Simply Stats module, uses stats describe a range of things from how strong you are, to how quickly you seize up situations, to how lucky you are. This is not to say a character cannot become faster, slower, weaker, or stronger than they are at character creation, but rather that these attributes are more resistant to change. In this module, this measurement of intrinsic attributes is represented by dice. Whenever a character attempts to perform an action that they may or may not succeed, they may roll a die indicated by their die level in the associated stat.</p>
+{{super()}}
+In Simply Roleplaying, stats are the measurement of a character's intrinsic attributes. This module, the Simply Stats module, uses stats describe a range of things from how strong you are, to how quickly you seize up situations, to how lucky you are. This is not to say a character cannot become faster, slower, weaker, or stronger than they are at character creation, but rather that these attributes are more resistant to change. In this module, this measurement of intrinsic attributes is represented by dice. Whenever a character attempts to perform an action that they may or may not succeed, they may roll a die indicated by their die level in the associated stat.
 
-<p>The die rolled is referred to as the <strong>stat die</strong> and the result of the die indicates whether the character might succeed or fail at their task. Rolling a two or higher might be suffficient for an easy task, but a result of four or higher would be required for something more difficult. Typically, based on the relative difficulty of the task, the gamemaster will choose a suitable value for the character to roll against, referred to as the <strong>difficulty</strong> of the action. Whether the difficulty is chosen in secret or publicly is to the gamemaster's discretion, usually based on whether the character can size up the challenge appropriately. Once the number has been chosen, the character attempting the task will roll their stat die. If their result meets or exceeds the difficulty, the action is performed successfully. If not, the action fails. The greater the difference between the difficulty and the result of the roll, the more exceptional the success or the more devastating the failure.</p>
+The die rolled is referred to as the **stat die** and the result of the die indicates whether the character might succeed or fail at their task. Rolling a two or higher might be suffficient for an easy task, but a result of four or higher would be required for something more difficult. Typically, based on the relative difficulty of the task, the gamemaster will choose a suitable value for the character to roll against, referred to as the **difficulty** of the action. Whether the difficulty is chosen in secret or publicly is to the gamemaster's discretion, usually based on whether the character can size up the challenge appropriately. Once the number has been chosen, the character attempting the task will roll their stat die. If their result meets or exceeds the difficulty, the action is performed successfully. If not, the action fails. The greater the difference between the difficulty and the result of the roll, the more exceptional the success or the more devastating the failure.
 
-<h2>The Stats</h2>
-<p>The following are the six stats used to define a character's inherent attributes.</p>
+## The Stats
+The following are the six stats used to define a character's inherent attributes.
 
-<h3 id="Agility">Agility</h3>
-<p>The <strong>Agility</strong> stat is the measurement of a character's physical speed, dexterity, and flexibility. Characters with high Agility are often flexible, dextrous, and able to evade harm that comes their way.</p>
+### Agility
+The **Agility** stat is the measurement of a character's physical speed, dexterity, and flexibility. Characters with high Agility are often flexible, dextrous, and able to evade harm that comes their way.
 
-<h3 id="Brawn">Brawn</h3>
-<p>The <strong>Brawn</strong> stat is the measurement of a character's physical strength, endurance, and hardiness. Characters with high Brawn are sturdy enough to withstand substantial physical trauma and are often strong, athletic, and resistant to maladies.</p>
+### Brawn
+The **Brawn** stat is the measurement of a character's physical strength, endurance, and hardiness. Characters with high Brawn are sturdy enough to withstand substantial physical trauma and are often strong, athletic, and resistant to maladies.
 
-<h3 id="Charisma">Charisma</h3>
-<p>The <strong>Charisma</strong> stat is a measure of a character's will and their ability to convey that will to sway others. Characters with high Charisma are able to inspire emotions in others through their words or deeds and are often convincing, socially adept, and willful.</p>
+### Charisma
+The **Charisma** stat is a measure of a character's will and their ability to convey that will to sway others. Characters with high Charisma are able to inspire emotions in others through their words or deeds and are often convincing, socially adept, and willful.
 
-<h3 id="Intuition">Intuition</h3>
-<p>The <strong>Intuition</strong> stat is a measure of a character's reaction time and ability to adapt to new situations. Characters with high Intuition are often observant, quick to react, and able to pick up new skills with ease.</p>
+### Intuition
+The **Intuition** stat is a measure of a character's reaction time and ability to adapt to new situations. Characters with high Intuition are often observant, quick to react, and able to pick up new skills with ease.
 
-<h3 id="Knowledge">Knowledge</h3>
-<p>The <strong>Knowledge</strong> stat is a measure of a character's learned information, techniques, and abilities. Characters with high Knowledge are able to give excellent tactical advice and are often able to solve complicated puzzles, craft sophisticated objects, and remember intricate details.</p>
+### Knowledge
+The **Knowledge** stat is a measure of a character's learned information, techniques, and abilities. Characters with high Knowledge are able to give excellent tactical advice and are often able to solve complicated puzzles, craft sophisticated objects, and remember intricate details.
 
-<h3 id="Luck">Luck</h3>
-<p>The <strong>Luck</strong> stat is a measure of a character's magnetism for fortune. Characters with high Luck succeed against impossible odds and can erratically perform feats of skill beyond their typical comprehension.</p>
+### Luck
+The **Luck** stat is a measure of a character's magnetism for fortune. Characters with high Luck succeed against impossible odds and can erratically perform feats of skill beyond their typical comprehension.
 
-<h2>Stat Modifier</h2>
-<p>Over time, as a character grows and becomes more proficient at their skills, they will also grow stronger and faster. Stat modifiers are a way to measure this growth, and are tied directly to a character's total die level in skills associated with each stat. For more information on total die level and Skills, see <a href="{{url_for('skills')}}">the Skills page.</a> <strong>Stat Modifiers</strong> are a flat value that are added to the result of your stat die whenever it is rolled. This value ranges from +0 to +12, depending on the total die level of the associated stat. The <strong>Stat Total Die Level</strong> is calculated by adding up the die levels of all skills of that stat. Every five total die levels that a stat increases increases the value of the modifier by one, up to +12. Below is a table of the possible values for a stat modifier and at what total stat die level they are obtained.</p>
+## Stat Modifier
+Over time, as a character grows and becomes more proficient at their skills, they will also grow stronger and faster. Stat modifiers are a way to measure this growth, and are tied directly to a character's total die level in skills associated with each stat. For more information on total die level and Skills, see [the Skills page.]({{url_for('skills')}}) **Stat Modifiers** are a flat value that are added to the result of your stat die whenever it is rolled. This value ranges from +0 to +12, depending on the total die level of the associated stat. The **Stat Total Die Level** is calculated by adding up the die levels of all skills of that stat. Every five total die levels that a stat increases increases the value of the modifier by one, up to +12. Below is a table of the possible values for a stat modifier and at what total stat die level they are obtained.
 
 {{ renderDefaultTable("Stat Modifiers",
    [

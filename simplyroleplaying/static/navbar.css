@@ -5,16 +5,26 @@
   position: fixed;
   position: -webkit-sticky;
   position: sticky;
+  min-height: 80px;
   top: 0;
   width: 100%;
   max-width: 1200px;
 }
 
+.navbar-srp .navbar-toggle {
+  /* (80px - button height 34px) / 2 = 23px */
+  margin-top: 23px;
+  padding: 9px 10px !important;
+}
+
 .navbar-srp .navbar-brand {
   color: transparent;
-  background: url('TitleBanner.png');
-  width: 250px;
-  background-size: 250px 40px;
+  background: url('SRP_Simple_2-color.png');
+  width: 303px;
+  height: 80px;
+  line-height: 80px;
+  padding: 0 15px;
+  background-size: 303px 80px;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -30,6 +40,10 @@
 
 .navbar-srp .navbar-nav > li > a {
   color: #ffede1;
+  /* (80px - line-height of 27px) / 2 = 26.5px */
+  padding-top: 26.5px;
+  padding-bottom: 26.5px;
+  line-height: 27px;
 }
 
 .navbar-srp .navbar-nav > li > a:hover,
@@ -107,12 +121,17 @@
   .navbar-srp .navbar-nav .open .dropdown-menu > li > a {
     color: #ffede1;
     background-color: #2b1800;
+    /* (80px - line-height of 27px) / 2 = 26.5px */
+    padding-top: 26.5px;
+    padding-bottom: 26.5px;
+    line-height: 27px;
   }
 
   .navbar-srp .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-srp .navbar-nav .open .dropdown-menu > li > a:focus {
     color: #ffffff;
     background-color: #4f2d00;
+
   }
 
   .navbar-srp .navbar-nav .open .dropdown-menu > .active > a,

@@ -18,7 +18,7 @@
     <link rel="stylesheet" type="text/css"
           href="{{url_for('static', filename='navbar.css')}}">
     <link rel="icon" type="image/png"
-          href="{{url_for('static', filename='icon.png')}}">
+          href="{{url_for('static', filename='SRP_Favicon_Monogram.png')}}">
 {% endblock %}
 
 {% block navbar -%}
@@ -27,9 +27,11 @@
 
 {% block content -%}
 <div class="content">
+  {% filter markdown %}
   {% block pageContent %}
-    <h1>{{headerText}}</h1>
+# {{headerText}}
   {% endblock pageContent %}
+  {% endfilter %}
 </div>
 {%- block footer %}
 <footer>

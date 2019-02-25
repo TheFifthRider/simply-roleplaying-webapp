@@ -4,10 +4,12 @@ dominate==2.3.1
 Flask==0.12
 Flask-Bootstrap==3.3.7.1
 flask-heroku==0.1.8
+Flask-Markdown==0.3
 flask-nav==0.6
 gunicorn==19.6.0
 itsdangerous==0.24
 Jinja2==2.9.5
+Markdown==3.0.1
 MarkupSafe==0.23
 nodeenv==1.1.2
 packaging==16.8
