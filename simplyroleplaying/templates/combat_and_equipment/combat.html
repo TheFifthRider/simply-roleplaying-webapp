@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block pageContent %}
+
 {{super()}}
 In the Simply Roleplaying system, combat is designed to be fairly simple while also allowing for a variety of different weapons and combat styles, as well as offering a variety of different techniques that can be performed in combat. When combat starts, every participant rolls a flat [Intuition]({{url_for('stats')}}) check unmodified by bonuses provided by any skill. This check determines how quickly each of the characters reacts to the combat scenario. In the event of an ambush, the ambushers may roll their Intuition twice, and use the combined value. Each combatant marks this value as their **initiative** for this combat. Then, starting with the character with the highest roll and continuing in descending order, each character takes a turn. This ordering is referred to as the **turn order**, and a full rotation of the turn order is considered a combat **round**. Each round takes approximately 10 seconds of game time, with all actions happening in the round occurring roughly sequentially.
 
@@ -32,7 +33,7 @@ One last thing to that is mentioned on this page is Armor Value. Armor value (AV
 
 #### Attacking
 <!-- TODO: This is no longer accurate. Needs updating. -->
-One of the more common major actions that a character will perform in combat is the Attack action. An attack consists broadly of two checks; a test of weapon accuracy and a test of weapon potency. An attack that passes either of those tests is considered exceptionally potent or accurate, and inflicts significant damage. An attack that fails both of those tests is considered to be more of a glancing blow and inflicts minimal damage. An attack that passes both checks is both exceptionally accurate and potent, and inflicts maximum damage.
+One of the more common major actions that a character will perform in combat is the Attack action. An attack consists broadly of two checks; a test of weapon accuracy and a test of weapon potency. An attack that passes either of those tests is considered exceptionally progresstent or accurate, and inflicts significant damage. An attack that fails both of those tests is considered to be more of a glancing blow and inflicts minimal damage. An attack that passes both checks is both exceptionally accurate and potent, and inflicts maximum damage.
 
 <!-- TODO: How does accuracy work now? AV? Passive stats? -->
 * The attacker rolls a check of their weapon's Accuracy stat against the defender's ??? to see whether or not the attack passes the accuracy test
@@ -41,8 +42,5 @@ One of the more common major actions that a character will perform in combat is 
 * If the attack is not evaded, the attacker then rolls for their weapon's Potency, which determines the total amount of damage dealt by the attacker.
 	* If the attacker's roll is greater than the defender's Armor Value, the attack is considered **potent**.
 * An attack that is both accurate and potent deals **strong** damage. An attack that is either accurate or potent deals **medium** damage. An attack that is niether accurate nor potent deals **weak** damage.
-
-## Chasing
-A necromancer senses the tide turning against his undead minions, the operatives realize mid-firefight that they're out of time, a traitor slinks off to live another day. No matter the situation, at some point during a fight a character may choose to flee. If the character cannot be stopped and other characters choose to chase after them, all characters involved enter into a chase. The transition between standard combat and a chase can be a somewhat subjective one. Your GM will tell you when you enter into a chase. A **chase** is a streamlined combat scenario, in which there are a number of characters running and the distance between the characters in the chase is represented in specific intervals of time. Typically these intervals are of ten seconds, the length of the combat round necessary that it would take for the character to catch up to the individual they are chasing, but your GM may decide to use longer or shorter length intervals depending on the context of the chase.
 
 {% endblock pageContent %}

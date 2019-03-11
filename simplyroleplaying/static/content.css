@@ -9,6 +9,11 @@
 	margin: 10px 20px;
 }
 
+.content strong {
+	font-size: 110%;
+	font-weight: bold;
+}
+
 .content a:link {
 	color:#361F00;
   text-decoration: none;

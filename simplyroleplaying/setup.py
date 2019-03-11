@@ -24,6 +24,7 @@ nav.register_element('navbar', Navbar(
     ),
     Subgroup('Combat',
         View('Combat Flow', '.combat'),
+        View('Racing', '.racing'),
         View('Weapons', '.weapons'),
         View('Techniques', '.techniques'),
         View('Armor', '.armor'),
@@ -72,6 +73,12 @@ def combat():
     headerText="Combat Basics"
     pageTitle="Combat Basics"
     return render_template('combat_and_equipment/combat.html', headerText=headerText, pageTitle=pageTitle)
+
+@srp.route("/racing/")
+def racing():
+    headerText="Racing"
+    pageTitle="Racing"
+    return render_template('combat_and_equipment/racing.html', headerText=headerText, pageTitle=pageTitle)
 
 @srp.route("/combat/weapons/")
 def weapons():
