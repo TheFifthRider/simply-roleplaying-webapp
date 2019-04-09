@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block pageContent %}
+{{super()}}
+A necromancer flees as the tide turns against his undead minions, an archeologist braves the ocean to be first to reach an ancient tomb, a spy dashes through the hangar towards their getaway starship fueled for takeoff. Some action packed moments are less of a battle, and more of a race. A **race** is a streamlined combat scenario in which characters charge towards their goal. The **goal** of a race is the location that all participants are racing towards. Typically once the goal is reached by one or both parties the race will end. Each character's position in a race is described by distance away from the goal.
+
+The length of each section (or **leg**) of the race is determined by your GM based on the scale. While a race across the room may happen in a matter of seconds, a race over a longer distance may take hours or even days. Therefore, the position of each character's position relative to the goal of the race is measured in a special kind of action reserved for races. Each character in a race has a number of these **race actions** available per leg equal to the number of actions plus the number of reactions they have in a combat scenario.
+
+## Acting in a Race
+When the race begins, each participant will roll their Intuition die and add their intuition modifier. Each combatant marks this value as their **initiative** for this race. Then, starting with the character with the highest roll and continuing in descending order, each character takes a turn. This ordering is referred to as the **turn order**, and a full rotation of the turn order is considered a **round**. Each turn, a character may spend one of their avaialble race actions to act. There are five possible ways that a race action can be spent, though your GM may rule that they are not all always available.
+
+A character who uses their race action to **close** decreases their distance to the goal by one action. This represents doing whatever is necessary to get closer to the goal, be it kicking down a door, running across a room, or speeding down the highway.
+
+A character who uses their race action to **perform a stunt** takes a risk to try to get to the goal faster. After the character's action is described, the GM determines a number of race actions that this stunt is worth and the difficulty of the skill check necessary to pull off the stunt. The character attempting the stunt then makes the skill check. If the character succeeds, they move the stunt's worth in race actions towards the goal. If they fail, they must spend the same number of race actions recovering from the stunt. This represents performing dangerous stunts like running up rooftops, weaving through heavy traffic, or taking a shortcut through an asteroid field.
+
+A character who uses their race action to **create an obstacle** or **create a shortcut** chooses to not move closer to the goal, but rather change the race for other racers further from the goal. Your GM will determine who in the race can possibly be affected by the obstacle or shortcut. Like performing a stunt, the GM determines a number of race actions that this obstacle or shortcut is worth and the difficulty of the skill check necessary to successfully create the obstacle or shortcut, if any. The character trying to create the obstacle or shortcut then makes the skill check, if applicable. If the character suceeds and they are creating a shortcut, they and all affected racers move that many actions towards the goal. If the character succeeds and they are creating an obstacle, all affected racers move that many actions away from the goal. Depending on the size and complexity, a character may need to spend several actions creating the obstacle or shortcut.
+
+A character who uses their race action to **improvise** chooses to not move closer to the goal, instead performing some other action entirely. This represents the myriad of other possible actions that a character might take in a race, like attacking or performing a combat technique.
+
+## Chasing
+Sometimes, a race will be intiated by pursuit. While usually the pursued character is fleeing to somewhere (in which case, a typical race is appropriate), occasionally the pursued character has nowhere to go-- they are simply trying to lose their pursuers. In this case, the pursued character is the goal and anything that would move them closer to the goal of the race instead moves everyone else behind them further away.
+<!-- TODO: Insert waylaying action here -->
+
+{% endblock pageContent %}

@@ -1,0 +1,158 @@
+.content {
+	margin: 0 10px;
+	overflow: auto;
+	font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
+.content p {
+	font-size: 100%;
+	margin: 10px 20px;
+}
+
+.content strong {
+	font-size: 110%;
+	font-weight: bold;
+}
+
+.content a:link {
+	color:#361F00;
+  text-decoration: none;
+}
+
+.content a:visited{
+	color:#361F00;
+  text-decoration: none;
+}
+
+.content a:hover{
+	color:#5B3500;
+  text-decoration: none;
+}
+
+.content a:active {
+	color:#FFEDE1;
+  text-decoration: none;
+}
+
+.content .notextwrapping {
+  padding: 10px;
+	overflow: auto;
+}
+
+.content .notextwrapping > .aligncenter {
+  margin: 20px auto;
+}
+
+.content .notextwrapping > .alignleft {
+	float: left;
+  margin: 20px;
+}
+
+.content .notextwrapping > .alignright {
+	float: right;
+  margin: 20px;
+}
+
+.content table {
+	border-collapse: collapse;
+  border-color: rgb(54, 31, 0);
+	border-color: rgba(54, 31, 0, 0.4);
+}
+
+.content th, thead td {
+  background-color: rgb(236, 203, 174);
+  background-color: rgba(236, 203, 174, 0.8);
+  border-color: rgb(54, 31, 0);
+	border-color: rgba(54, 31, 0, 0.4);
+	padding: 0.3em;
+	text-align:center;
+	vertical-align:middle;
+	font-weight:bold;
+}
+
+.content thead th {
+	text-align:center;
+	background-color: #361F00;
+	font-weight: bold;
+	color: white;
+	border-color: #361F00;
+}
+
+.content td {
+  padding: 2px;
+  border-color: rgb(54, 31, 0);
+	border-color: rgba(54, 31, 0, 0.2);
+}
+
+.content tr:nth-child(even) {
+	list-style: none;
+	margin: 0;
+  background-color: rgb(255, 237, 225);
+	background-color: rgba(255, 237, 225, 0.5);
+}
+
+.content tr:nth-child(odd) {
+	list-style: none;
+	margin: 0;
+  background-color: rgb(255, 255, 255);
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.content .nospace {
+	margin: 0;
+	padding: 0;
+}
+
+.content .nospace :nth-child(odd) {
+	list-style: none;
+	margin: 0;
+  background-color: rgb(255,237,255);
+	background-color: rgba(255,237,225, 0.5);
+}
+
+.content .nospace :nth-child(even) {
+	list-style: none;
+	margin: 0;
+  background-color: rgb(255,255,255);
+	background-color: rgba(255,255,255, 0.5);
+}
+
+.content .nonbulletedlist {
+  list-style: none;
+  margin: 0;
+}
+
+.content .nonbulletedlist.gradedtriplet {
+	padding: 0;
+  margin: -2px;
+}
+
+.content .nonbulletedlist.gradedtriplet :nth-child(1n) {
+  background-color: rgb(236,203,174);
+  background-color: rgba(236,203,174, 0.2);
+  padding: 2px;
+}
+
+.content .nonbulletedlist.gradedtriplet :nth-child(2n) {
+  background-color: rgb(236,203,174);
+  background-color: rgba(236,203,174, 0.4);
+  padding: 2px;
+}
+
+.content .nonbulletedlist.gradedtriplet :nth-child(3n) {
+  background-color: rgb(236,203,174);
+  background-color: rgba(236,203,174, 0.6);
+  padding: 2px;
+}
+
+.content .technique {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.1);
+  border-radius: 15px;
+  padding: 5px;
+  margin: 5px 5px;
+}
+
+.content .preserveNewlines {
+  white-space: pre-line;
+}

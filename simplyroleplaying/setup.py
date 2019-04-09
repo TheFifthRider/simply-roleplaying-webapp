@@ -3,6 +3,7 @@ from flask_bootstrap import Bootstrap
 from flask_nav import register_renderer
 from flask_nav.elements import Navbar, View, Subgroup
 from flask_heroku import Heroku
+from flaskext.markdown import Markdown
 
 from .nav import nav
 from .nav import CustomRenderer
@@ -10,6 +11,7 @@ from .nav import CustomRenderer
 srp = Flask(__name__)
 Bootstrap(srp)
 Heroku(srp)
+Markdown(srp)
 nav.init_app(srp)
 register_renderer(srp, 'custom', CustomRenderer)
 nav.register_element('navbar', Navbar(
@@ -22,6 +24,7 @@ nav.register_element('navbar', Navbar(
     ),
     Subgroup('Combat',
         View('Combat Flow', '.combat'),
+        View('Racing', '.racing'),
         View('Weapons', '.weapons'),
         View('Techniques', '.techniques'),
         View('Armor', '.armor'),
@@ -70,6 +73,12 @@ def combat():
     headerText="Combat Basics"
     pageTitle="Combat Basics"
     return render_template('combat_and_equipment/combat.html', headerText=headerText, pageTitle=pageTitle)
+
+@srp.route("/racing/")
+def racing():
+    headerText="Racing"
+    pageTitle="Racing"
+    return render_template('combat_and_equipment/racing.html', headerText=headerText, pageTitle=pageTitle)
 
 @srp.route("/combat/weapons/")
 def weapons():
