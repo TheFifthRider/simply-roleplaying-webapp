@@ -12,13 +12,13 @@
 {% block styles %}
     {{super()}}
     <link rel="stylesheet" type="text/css"
-          href="{{url_for('static', filename='styles.css')}}">
+          href="{{url_for('styles', filename='styles.css')}}">
     <link rel="stylesheet" type="text/css"
-          href="{{url_for('static', filename='content.css')}}">
+          href="{{url_for('styles', filename='content.css')}}">
     <link rel="stylesheet" type="text/css"
-          href="{{url_for('static', filename='navbar.css')}}">
+          href="{{url_for('styles', filename='navbar.css')}}">
     <link rel="icon" type="image/png"
-          href="{{url_for('static', filename='SRP_Favicon_Monogram.png')}}">
+          href="{{url_for('logos', filename='SRP_Favicon_Monogram.png')}}">
 {% endblock %}
 
 {% block navbar -%}
@@ -44,6 +44,25 @@
 {# -------------------------------------------------------------------------- #}
 {#  MACROS                                                                    #}
 {# -------------------------------------------------------------------------- #}
+
+{% macro align(alignment, markdown, extraclasses='') -%}
+<div class="align{{ alignment }} {{ extraclasses }}">
+{% filter markdown -%}
+{{ markdown }}
+{%- endfilter %}
+</div>
+{%- endmacro %}
+
+{% macro inlineIcon(alt, url, markdown) -%}
+<div class="valignmiddle">
+<img class="icon" src="{{ url }}" alt="{{ alt }}" />
+<div>
+{% filter markdown %}
+{{ markdown }}
+{% endfilter %}
+</div>
+</div>
+{%- endmacro %}
 
 {% macro renderDefaultTable(name, cells, class='alignleft') -%}
 {{ renderTable(name, cells, class) }}

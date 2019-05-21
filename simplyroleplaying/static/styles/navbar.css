@@ -8,7 +8,6 @@
   min-height: 80px;
   top: 0;
   width: 100%;
-  max-width: 1200px;
 }
 
 .navbar-srp .navbar-toggle {
@@ -19,7 +18,7 @@
 
 .navbar-srp .navbar-brand {
   color: transparent;
-  background: url('SRP_Simple_2-color.png');
+  background: url('/static/logos/SRP_Simple_2-color.png');
   width: 303px;
   height: 80px;
   line-height: 80px;

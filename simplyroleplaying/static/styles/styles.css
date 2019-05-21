@@ -15,40 +15,51 @@ body {
 	margin: 0 auto;
   min-height: 100%;
   padding: 0 0 300px;
-	background: url('parchmentBackground.jpg');
+  background-color: #C2AC94;
 	position: relative;
   max-width: 1200px;
-  text-align: left;
+  text-align: justify;
 }
 
 h1 {
-  margin: 0 10px 5px;
+  text-align: center;
+  margin: 0 0.5em;
 	color: #361F00;
-	font-size: 200%;
+	font-size: 2em;
 	font-weight: bold;
 }
 
 h2 {
-  margin: 20px 10px 5px;
-	font-size: 150%;
+  text-align: center;
+  margin: 0.5em 1em;
+	font-size: 1.8em;
   font-weight: bold;
 }
 
 h3 {
-  margin: 20px 10px 5px;
-	font-size: 125%;
+  text-align: center;
+  margin: 0.5em 1em;
+	font-size: 1.6em;
   font-weight: bold;
 }
 
 h4 {
-  margin: 10px 10px 5px;
-  font-size: 110%;
+  text-align: center;
+  margin: 0.5em 1em;
+  font-size: 1.4em;
+  font-weight: bold;
+}
+
+h5 {
+  text-align: center;
+  margin: 0.5em 1em;
+  font-size: 1.2em;
   font-weight: bold;
 }
 
 footer {
   font-family:"Trebuchet MS", Helvetica, sans-serif;
-  font-size: 80%;
+  font-size: 14px;
 	position: absolute;
 	text-align: center;
 	right: 0;
