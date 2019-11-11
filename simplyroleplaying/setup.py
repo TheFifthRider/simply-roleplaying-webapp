@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, send_from_directory
 from flask_bootstrap import Bootstrap
 from flask_nav import register_renderer
 from flask_nav.elements import Navbar, View, Subgroup
@@ -38,9 +38,21 @@ nav.register_element('navbar', Navbar(
     ),
     ))
 
+@srp.route('/static/styles/<path:filename>')
+def styles(filename):
+    return send_from_directory('static/styles', filename)
+
+@srp.route('/static/logos/<path:filename>')
+def logos(filename):
+    return send_from_directory('static/logos', filename)
+
+@srp.route('/static/icons/<path:filename>')
+def icons(filename):
+    return send_from_directory('static/icons', filename)
+
 @srp.route("/")
 def index():
-    headerText="Welcome to the Simply Roleplaying system!"
+    headerText="Welcome to Simply Roleplaying!"
     pageTitle="Home"
     return render_template('index.html', headerText=headerText, pageTitle=pageTitle)
 
