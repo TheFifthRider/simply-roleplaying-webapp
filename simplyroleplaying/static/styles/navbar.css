@@ -43,6 +43,8 @@
   padding-top: 26.5px;
   padding-bottom: 26.5px;
   line-height: 27px;
+  font-size: 1.25em;
+  font-family: 'Cinzel', serif;
 }
 
 .navbar-srp .navbar-nav > li > a:hover,
