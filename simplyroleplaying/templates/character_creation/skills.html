@@ -2,10 +2,15 @@
 
 {% block pageContent %}
 {{super()}}
-Skills and backgrounds are the cornerstone to character development and growth in Simply Roleplaying. A **skill** is a trained ability used with stats to determine how successful an action is. Where stats represent the intrinsic attributes of a character (their strength, speed, etc.), skills represent the training and expertise that same character has gained over time. **Backgrounds** represent a collection of skills that have been learned over time.
+Skills and backgrounds are the cornerstone to character development and growth in Simply Roleplaying. Where stats represent the intrinsic attributes of a character (their strength, speed, etc.), skills and backgrounds represent the training and expertise that same character has gained over time. **Skills** are trained abilities for specific ends. **Backgrounds** are broad categories of mastery derived by combining several mastered skills together. 
 
 ## Skill Checks
-Whenever a character attempts to do something in which the outcome is uncertain, the gamemaster will call for or make a skill check for that character. The gamemaster determines what possible stats are applicable for the skill check in question, then the player offers up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or backgrounds to the check. All of those dice are then rolled, and the result indicates to the GM whether the action was a success or failure, and to what degree. Spoken aloud, the conversation for skill checks typically take the form of the GM telling the player "make a <stat> check concerning <the action the character wishes to perform>," then the player responding with "can I use <skills and/or backgrounds> here?"
+Whenever a character attempts to do something in which the outcome is uncertain, the gamemaster will call for or make a skill check for that character. A skill check is resolved by rolling a _stat_ die, along with some combination of _skill_ and _background_ dice to meet or exceed a target number that represents the **difficulty** of the task the character is attempting to perform.
+
+In most cases the gamemaster will determine what stats are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or backgrounds. A character can contribute one skill or background die to a skill check per background they have on their character sheet, to a maximum of three.
+
+<!-- GM Callout:
+The most important thing about any skill check is to determine the goal and the consequences-- What are they trying to do? What happens if they succeed? If they fail? Additionally, while the difficulty of the task determines the line between success and failure, rolling significantly above or below that number should have appropriately significant consequences.-->
 
 > A player's thief character is attempting to persuade a local merchant to not question the legality of goods he's selling, so his gamemaster asks him to make a charisma skill check concerning convincing the merchant.
 >
@@ -19,54 +24,46 @@ Whenever a character attempts to do something in which the outcome is uncertain,
 >
 > The gamemaster knows that he needed a 10 to convince the merchant, so she determines the consequences of his action. Based on his use of the Intimidation skill on the merchant, she decides that he's going to start to get belligerent.
 
-Both because skills and backgrounds tend to be quite varied and because a handful of skills and backgrounds inevitably end up being setting-specific, Simply Roleplaying allows the players and their gamemaster complete control over what these skills and backgrounds are. Whenever a character learns a new skill or combines some existing skills into a new background, there should be a conversation between the player and the gamemaster whether that skill makes sense to learn/that background makes sense as a grouping of the chosen skills. While this is always true, some modules-- like the Simply Combat module --may define specifically named skills and backgrounds that have specific requirements or capabilities.
+## Potential: Learning and Improving Skills
+In Simply Roleplaying, a character's proficiency with the skills they know is represented by a die, four sided through twelve sided. The more proficient a character is with a skill, the higher the die level of the die in question. A character who has a die level of one in a skill is considered to understand the bare minimum, where a character who has a die level of five in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels, read about them here.]({{url_for('index')}}) 
 
-As a rule of thumb; the more general a skill is, the more generic the character's expertise is considered to be. For instance, a character with a highly leveled History skill would likely be quite knowledgeable about the general history of a town, but wouldn't necessarily know as much about the ancient catacombs under the town as a character with the same level Archeology skill.
+Characters in Simply Roleplaying can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn.
+
+During character creation, the gamemaster will allot all of their players with a standard amount of potential to start the game with. More details on this can be found on the [character creation page.]({{url_for('startingCharacterCreation')}}) In addition, at the beginning or end of each session the gamemaster may grant the players some number of points of potential. The players can spend this potential in one of two ways: either by being trained in a skill by a more experienced character or by experimenting on their own and gaining insight in a skill.
+
+### Gaining Insight
+At any point after determining the result of a skill check, a player may declare that their character has **gained insight** in a skill used for that check (or in a skill that could have been used for that check), spending a point of Potential to increase its level by one. Gaining insight is also a way to learn new skills, which is covered below.
+
+### Training
+Another way that players can spend points of potential is by receiving training in a specific skill, typically over the course of several hours, from another character who has die level 5 in that skill or a background derived from that skill. At the conclusion of the **training**, as long as the training was not significantly interrupted, the trainee can spend a point of potential to increase the skill's die level to the next level. Training can also be done by acquiring manuals
+
+### Learning a New Skill
+
+Whenever a character trains or gains insight, they may learn a new skill rather than improving an existing one. In Simply Roleplaying, skills are decided by the player whose character learns them. A skill can be any trained ability, provided that the context in which it was learned makes sense. 
+
+<!-- Callout:
+Some modules-- like the Simply Combat module --may define specifically named skills and backgrounds that have specific requirements or capabilities. -->
+
+As a rule of thumb; the more general a skill is, the more generic the character's expertise is considered to be. A character with a History skill would be able to apply it to broad questions about the past of a town, but wouldn't necessarily be able to apply that knowledge to the finer details of the ancient catacombs under the town like a character with an Archeology skill.
 
 Here are some guidelines for determining skills, and examples of skills both general and specific.
 
-Agility skills should be learned abilities that primarily focus that rely on a character's dexterity, flexibility, and physical speed. Some Agility skills could be Acrobatics, Lockpicking, Dodge, Rubix Cube Solving, or Wirecutting.
+Skills to augment Agility related checks primarily focus on a character's dexterity, flexibility, and physical speed. Some examples are Acrobatics, Lockpicking, Dodge, Rubix Cube Solving, or Wirecutting.
 
-Brawn skills should be learned abilities that primarily focus on a character's fortitude, endurance, and physical strength. Some examples of what a Brawn skill could be are Climbing, Lifting, Swimming, Resisting Toxins, and Breaching Doors.
+Skills to augment Brawn related checks primarily focus on a character's fortitude, endurance, and physical strength. Some examples are Climbing, Lifting, Swimming, Resisting Toxins, and Breaching Doors.
 
-Charisma skills should be learned abilities that primarily focus on a character's social ability and their ability to inspire emotions in others. Some examples of what a Charisma skill could be are Animal Handling, Bluffing, Intimidation, Logic, and Political Appeal.
+Skills to augment Charisma related checks primarily focus on a character's social ability and their ability to inspire emotions in others. Some examples are Animal Handling, Bluffing, Intimidation, Logic, and Political Appeal.
 
-Intuition skills should primarily focus on a character's awareness and ability to improvise. Some examples of what an Intuition skill could be are Gambling, Detecting Traps, Streetwise, Navigation, and Piloting.
+Skills to augment Intuition related checks primarily focus on a character's awareness and ability to improvise. Some examples are Gambling, Detecting Traps, Streetwise, Navigation, and Piloting.
 
-Knowledge skills should primarily focus on a character's education, ability to retain facts, and their ability to understand and apply complicated concepts. Some examples of what a Knowledge skill could be are Disarming Traps, Democratic Politics, Archeology, Sewing, and Bandit Culture.
-
-## Potential: Learning and Improving Skills
-In Simply Roleplaying, a character's proficiency with the skills they know is represented by a die, four sided through twelve sided. The more proficient a character is with a skill, the higher the die level of the die in question. [If you're not familiar with the concept of die levels, read about them here.]({{url_for('index')}})
-
-Characters in Simply Roleplaying can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During character creation, the gamemaster will allot all of their players with a standard amount of potential to start the game with. More details on this can be found on the [character creation page.]({{url_for('startingCharacterCreation')}}) In addition, at the beginning or end of each session the gamemaster may grant the players some number of points of potential. The players can spend this potential in one of two ways: either by being trained in a skill by a more experienced character or by experimenting on their own and gaining insight in a skill. A character who has a die level of one in a skill is considered to understand the bare minimum, where a character who has a die level of five in a skill is considered to have mastered that skill.
-
-### Gaining Insight
-At any point after performing a skill, a player may declare that their character has **gained insight** in that skill and expend a point of potential to increase that skill's die level by one. Gaining insight, however, is not something that happens every day. Consult your gamemaster about how often you will be allowed to gain insight. As a rule of thumb, players should be allowed to gain insight enough times so they are constantly gradually improving without spending more points of Potential than they are earning.
-
-### Training
-Another way that players can spend points of potential is by recieving training in a specific skill, typically over the course of several hours, from another character. The other character must have a die level that is two die levels higher than the trainee in the skill that needs training, as no amount of instruction will allow a character to become equally skilled as their instructor-- they have to gain their own insight. At the conclusion of the **training**, as long as the training was not significantly iterrupted, the trainee can spend a point of potential to increase the skill's die level to the next level. Unlike gaining insight, the only imitation to the number of times a character can train is the amount of in-game time they want to spend on it.
+Skills to augment Knowledge related checks primarily focus on a character's education, ability to retain facts, and their ability to understand and apply complicated concepts. Some examples are Disarming Traps, Democratic Politics, Archeology, Sewing, and Bandit Culture.
 
 ## Building a Background
+
+<!-- Start here -->
 
 
 ## Using Multiple Skill Dice
 A single task usually can become easier by using multiple related skills together. In Simply Roleplaying, this is represented by using multiple skill dice from different skills when performing a skill check. A character begins to be able to do this after their total dice level reaches 10. A character's **total dice level** is simply the sum of all of their die levels in all of their skills. When a character with sufficient total dice level makes a skill check, they may ask to apply a secondary and even tertiary skill to augment their primary skill. These supplementary skills must allow the character to perform their primary skill more effectively, but do not have the same stat restriction as the primary skill. As a character's total die level increases to specific benchmarks (shown in table SK2 below) they gain access to their supplementary skills.
-
-{{ renderDefaultTable("Supplementary Skill Dice",
-  [
-    ["Total Dice Level",      "Secondary Skill Level",              "Tertiary Skill Level"],
-    ["0 - 9",                 "No Secondary Skill die",             "No Tertiary Skill Die"],
-    ["10 - 19",               "Die Level 1",                        "No Tertiary Skill Die"],
-    ["20 - 29",               "Die Level 2",                        "No Tertiary Skill Die"],
-    ["30 - 39",               "Die Level 3",                        "No Tertiary Skill Die"],
-    ["40 - 49",               "Die Level 4",                        "No Tertiary Skill Die"],
-    ["50 - 59",               "Die Level 5",                        "No Tertiary Skill Die"],
-    ["60 - 69",               "Die Level 5",                        "Die Level 1"],
-    ["70 - 79",               "Die Level 5",                        "Die Level 2"],
-    ["80 - 89",               "Die Level 5",                        "Die Level 3"],
-    ["90 - 99",               "Die Level 5",                        "Die Level 4"],
-    ["100+",                  "Die Level 5",                        "Die Level 5"],
-  ])
-}}
 
 {% endblock pageContent %}
