@@ -6,5 +6,6 @@ if [ "$OSTYPE" = "msys" ]; then
 else
   echo "Assuming this is a linux-based OS, running with gunicorn"
   source venv/bin/activate
-  gunicorn --port=80 simplyroleplaying.setup:srp
+  gunicorn -b :80 simplyroleplaying.setup:srp
 fi
+.
