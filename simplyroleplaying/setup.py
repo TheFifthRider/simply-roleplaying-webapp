@@ -19,7 +19,8 @@ nav.register_element('navbar', Navbar(
     Subgroup('Character',
         View('Character Creation', '.startingCharacterCreation'),
         View('Stats', '.stats'),
-        View('Skills', '.skills'),
+        View('Skills and Backgrounds', '.skills'),
+        View('Growth and Milestones', '.milestones')
         View('Advantages and Disadvantages', '.advantagesAndDisadvantages'),
     ),
     Subgroup('Combat',
@@ -70,8 +71,14 @@ def stats():
 
 @srp.route("/character/skills/")
 def skills():
-    headerText="Skills"
-    pageTitle="Skills"
+    headerText="Skills and Backgrounds"
+    pageTitle="Skills and Backgrounds"
+    return render_template('character_creation/skills.html', headerText=headerText, pageTitle=pageTitle)
+
+@srp.route("/character/milestones/")
+def milestones():
+    headerText="Milestones"
+    pageTitle="Milestones"
     return render_template('character_creation/skills.html', headerText=headerText, pageTitle=pageTitle)
 
 @srp.route("/character/advantages_and_disadvantages/")
