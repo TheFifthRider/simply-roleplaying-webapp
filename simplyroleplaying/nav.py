@@ -1,8 +1,8 @@
 from flask_nav import Nav
 from flask_bootstrap.nav import BootstrapRenderer
-from dominate import tags
 
 nav = Nav()
+
 
 class CustomRenderer(BootstrapRenderer):
     def visit_Navbar(self, node):

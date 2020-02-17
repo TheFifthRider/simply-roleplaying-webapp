@@ -17,141 +17,171 @@ register_renderer(srp, 'custom', CustomRenderer)
 nav.register_element('navbar', Navbar(
     View('Home', '.index'),
     Subgroup('Character',
-        View('Character Creation', '.startingCharacterCreation'),
-        View('Stats', '.stats'),
-        View('Skills and Backgrounds', '.skills'),
-        View('Growth and Milestones', '.milestones')
-        View('Advantages and Disadvantages', '.advantagesAndDisadvantages'),
-    ),
+             View('Character Creation', '.starting_character_creation'),
+             View('Stats', '.stats'),
+             View('Skills and Backgrounds', '.skills'),
+             View('Ability Checks', '.ability_checks'),
+             View('Growth and Milestones', '.milestones'),
+             View('Advantages and Disadvantages', '.advantages_and_disadvantages'),
+             ),
     Subgroup('Combat',
-        View('Combat Flow', '.combat'),
-        View('Racing', '.racing'),
-        View('Weapons', '.weapons'),
-        View('Techniques', '.techniques'),
-        View('Armor', '.armor'),
-        View('Healing', '.healing'),
-    ),
+             View('Combat Flow', '.combat'),
+             View('Racing', '.racing'),
+             View('Weapons', '.weapons'),
+             View('Techniques', '.techniques'),
+             View('Armor', '.armor'),
+             View('Healing', '.healing'),
+             ),
     View('Magic', '.magic'),
     Subgroup('World',
-        View('Money', '.worldMoney'),
-        View('Races', '.worldRaces'),
-        View('Religions', '.worldReligions'),
-    ),
-    ))
+             View('Money', '.world_money'),
+             View('Races', '.world_races'),
+             View('Religions', '.world_religions'),
+             ),
+))
+
 
 @srp.route('/static/styles/<path:filename>')
 def styles(filename):
     return send_from_directory('static/styles', filename)
 
+
 @srp.route('/static/logos/<path:filename>')
 def logos(filename):
     return send_from_directory('static/logos', filename)
+
 
 @srp.route('/static/icons/<path:filename>')
 def icons(filename):
     return send_from_directory('static/icons', filename)
 
+
 @srp.route("/")
 def index():
-    headerText="Welcome to Simply Roleplaying!"
-    pageTitle="Home"
-    return render_template('index.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Welcome to Simply Roleplaying!"
+    page_title = "Home"
+    return render_template('index.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/character/creation/")
-def startingCharacterCreation():
-    headerText="Character Creation"
-    pageTitle="Character Creation"
-    return render_template('character_creation/starting_creation.html', headerText=headerText, pageTitle=pageTitle)
+def starting_character_creation():
+    header_text = "Character Creation"
+    page_title = "Character Creation"
+    return render_template('character_creation/starting_creation.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/character/stats/")
 def stats():
-    headerText="Stats"
-    pageTitle="Stats"
-    return render_template('character_creation/stats.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Stats"
+    page_title = "Stats"
+    return render_template('character_creation/stats.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/character/skills/")
 def skills():
-    headerText="Skills and Backgrounds"
-    pageTitle="Skills and Backgrounds"
-    return render_template('character_creation/skills.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Skills and Backgrounds"
+    page_title = "Skills and Backgrounds"
+    return render_template('character_creation/skills.html', headerText=header_text, pageTitle=page_title)
+
+
+@srp.route("/character/ability_checks/")
+def skills():
+    header_text = "Ability Checks"
+    page_title = "Ability Checks"
+    return render_template('character_creation/ability_checks.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/character/milestones/")
 def milestones():
-    headerText="Milestones"
-    pageTitle="Milestones"
-    return render_template('character_creation/skills.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Milestones"
+    page_title = "Milestones"
+    return render_template('character_creation/skills.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/character/advantages_and_disadvantages/")
-def advantagesAndDisadvantages():
-    headerText="Advantages and Disadvantages"
-    pageTitle="Advantages and Disadvantages"
-    return render_template('character_creation/advantages_and_disadvantages.html', headerText=headerText, pageTitle=pageTitle)
+def advantages_and_disadvantages():
+    header_text = "Advantages and Disadvantages"
+    page_title = "Advantages and Disadvantages"
+    return render_template('character_creation/advantages_and_disadvantages.html', headerText=header_text,
+                           pageTitle=page_title)
+
 
 @srp.route("/combat/")
 def combat():
-    headerText="Combat Basics"
-    pageTitle="Combat Basics"
-    return render_template('combat_and_equipment/combat.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Combat Basics"
+    page_title = "Combat Basics"
+    return render_template('combat_and_equipment/combat.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/racing/")
 def racing():
-    headerText="Racing"
-    pageTitle="Racing"
-    return render_template('combat_and_equipment/racing.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Racing"
+    page_title = "Racing"
+    return render_template('combat_and_equipment/racing.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/combat/weapons/")
 def weapons():
-    headerText="Weapons"
-    pageTitle="Weapons"
-    return render_template('combat_and_equipment/weapons.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Weapons"
+    page_title = "Weapons"
+    return render_template('combat_and_equipment/weapons.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/combat/techniques/")
 def techniques():
-    headerText="Combat Techniques"
-    pageTitle="Combat Techniques"
-    return render_template('combat_and_equipment/techniques.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Combat Techniques"
+    page_title = "Combat Techniques"
+    return render_template('combat_and_equipment/techniques.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/combat/armor/")
 def armor():
-    headerText="Armor"
-    pageTitle="Armor"
-    return render_template('combat_and_equipment/armor.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Armor"
+    page_title = "Armor"
+    return render_template('combat_and_equipment/armor.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/combat/healing/")
 def healing():
-    headerText="Healing"
-    pageTitle="Healing"
-    return render_template('combat_and_equipment/healing.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Healing"
+    page_title = "Healing"
+    return render_template('combat_and_equipment/healing.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/magic/")
 def magic():
-    headerText="Simply Magic"
-    pageTitle="Simply Magic Module"
-    return render_template('magic.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Simply Magic"
+    page_title = "Simply Magic Module"
+    return render_template('magic.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/world/")
 def worldOverview():
-    headerText="Earth: The Forgotten Times"
-    pageTitle="World Overview"
+    headerText = "Earth: The Forgotten Times"
+    pageTitle = "World Overview"
     return render_template('earth_the_forgotten_times/overview.html', headerText=headerText, pageTitle=pageTitle)
 
+
 @srp.route("/world/money/")
-def worldMoney():
-    headerText="Money"
-    pageTitle="Money"
-    return render_template('earth_the_forgotten_times/money.html', headerText=headerText, pageTitle=pageTitle)
+def world_money():
+    header_text = "Money"
+    pageTitle = "Money"
+    return render_template('earth_the_forgotten_times/money.html', headerText=header_text, pageTitle=pageTitle)
+
 
 @srp.route("/world/races/")
-def worldRaces():
-    headerText="The Races of Earth: The Forgotten Times"
-    pageTitle="Races - Earth: The Forgotten Times"
-    return render_template('earth_the_forgotten_times/races.html', headerText=headerText, pageTitle=pageTitle)
+def world_races():
+    header_text = "The Races of Earth: The Forgotten Times"
+    page_title = "Races - Earth: The Forgotten Times"
+    return render_template('earth_the_forgotten_times/races.html', headerText=header_text, pageTitle=page_title)
+
 
 @srp.route("/world/religions/")
-def worldReligions():
-    headerText="The Religions of Earth: The Forgotten Times"
-    pageTitle="Religions - Earth: The Forgotten Times"
-    return render_template('earth_the_forgotten_times/religions.html', headerText=headerText, pageTitle=pageTitle)
+def world_religions():
+    header_text = "The Religions of Earth: The Forgotten Times"
+    page_title = "Religions - Earth: The Forgotten Times"
+    return render_template('earth_the_forgotten_times/religions.html', headerText=header_text, pageTitle=page_title)
+
 
 if __name__ == "__main__":
-  srp.run()
+    srp.run()
