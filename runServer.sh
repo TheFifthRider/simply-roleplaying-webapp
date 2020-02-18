@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 if [ "$OSTYPE" = "msys" ]; then
   echo "Assuming this is windows, running with waitress"
   source venv/Scripts/activate
@@ -8,4 +8,3 @@ else
   source venv/bin/activate
   gunicorn -b :80 simplyroleplaying.setup:srp
 fi
-.
