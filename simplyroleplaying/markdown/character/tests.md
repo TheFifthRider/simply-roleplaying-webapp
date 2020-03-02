@@ -1,5 +1,5 @@
 # Tests of Ability
-Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling a _stat_ die, along with some combination of _skill_ and _background_ dice to meet or exceed a number that represents the difficulty of doing what they want to do.
+Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling a _attribute_ die, along with some combination of _skill_ and _background_ dice to meet or exceed a number that represents the difficulty of doing what they want to do.
 
 
 
@@ -15,7 +15,7 @@ Most of the time, the difficulty is a static number determined by the gamemaster
 * **Masters** can handle tests of difficulty **30**
 * Only **Legendary** characters can attempt to handle tests of difficulty **35 or higher**
 
-Players, the difficulty rules of thumb can also help you gauge your character's proficiency. If you're regularly rolling above a 15 on a test, chances are you are on the same level as someone who performs those sorts of tests for a living. Gamemasters, if you choose to use more than three skill milestones and three stat milestones, you should consider writing your own rules of thumb not only to help yourself consistently apply difficulties across your world, but also to help your players understand what rolling a 10 means in your world.
+Players, the difficulty rules of thumb can also help you gauge your character's proficiency. If you're regularly rolling above a 15 on a test, chances are you are on the same level as someone who performs those sorts of tests for a living. Gamemasters, if you choose to use more than three skill milestones and three attribute milestones, you should consider writing your own rules of thumb not only to help yourself consistently apply difficulties across your world, but also to help your players understand what rolling a 10 means in your world.
 
 
 
@@ -27,7 +27,7 @@ When characters directly compete with each other, the gamemaster may rule that i
 
 ## Resolving Tests
 
-In most cases the gamemaster will determine what stats are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or back grounds. A character can contribute one skill or background die to a test of ability up to the total amount allowed by their earned [skill milestones]({{url_for('milestones')}}).
+In most cases the gamemaster will determine what attribute(s) are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or back grounds. A character can contribute one skill or background die to a test of ability up to the total amount allowed by their earned [skill milestones](/character/milestones/).
 
 > A player's thief character is attempting to persuade a local merchant to not question the legality of goods they're selling, so their gamemaster asks the player to make a test of ability with _Charisma_ to convince the merchant.
 >
@@ -37,13 +37,13 @@ In most cases the gamemaster will determine what stats are applicable for the sk
 >
 > The player then rolls their 1d10 Charisma, 1d6 Intimidation, and 1d12 for this being relevant to their Smuggler background.
 >
-> They roll a 2, a 1, and a 3 for a total of 6--  not a great roll. Fortunately, they have a +5 stat modifier to their Charisma, bringing the total up to 11.
+> They roll a 2, a 1, and a 3 for a total of 6--  not a great roll. Fortunately, they have a +5 attribute modifier to their Charisma, bringing the total up to 11.
 >
 > Unfortunately, the gamemaster knows that the player needed a 15 to convince this merchant, so the gamemaster determines the consequences of the player's action. Based on the player's use of the Intimidation skill on the merchant, the gamemaster decides that the merchant is going to start to get belligerent.
 
 ### Aid
 
-Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their aid by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice up to the total amount allowed by their earned  [skill milestones]({{url_for('milestones')}}) to use for the test.
+Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their aid by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice up to the total amount allowed by their earned  [skill milestones](/character/milestones/) to use for the test.
 
 All characters who aid in the test help the tested character reach their goal, making success more likely, but each character who aids in the test also either introduce a new risk to the test or somehow worsen the existing risk, making failure all the more dangerous. If the initial risk was a dangerous trap, the aiding character could be at risk of falling in as well. If the initial risk was taking too long to researching an antidote before the poison took hold, the additional minds involved might result in a fatal miscommunication.
 
@@ -51,7 +51,7 @@ All characters who aid in the test help the tested character reach their goal, m
 
 ### Outcomes
 
-Once the backgrounds, skills, and stat are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the skill test they do whatever they set out to do and have minimized any associated risk. If a character's roll does not meet the difficulty of the test, things get complicated. That doesn't necessarily mean that they don't accomplish their goal, but there will be certainly be dramatic consequences.
+Once the attribute, backgrounds, and skills are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the skill test they do whatever they set out to do and have minimized any associated risk. If a character's roll does not meet the difficulty of the test, things get complicated. That doesn't necessarily mean that they don't accomplish their goal, but there will be certainly be dramatic consequences.
 
 If a character rolls particularly well or particularly poorly compared to the difficulty of the test, the outcome should be that much more significant. When a character rolls more than 10 below the difficulty of a test they suffer a **critical failure** and the risk realized becomes dramatically greater. Conversely, when a character rolls more than 10 above the difficulty of a test they have performed a **critical success** and not only do they complete whatever goal they set out to do but they also gain some kind of significant added benefit-- perhaps their success avoids all risk, or their success is to a degree that none thought possible.
 

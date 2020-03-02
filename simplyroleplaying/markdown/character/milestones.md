@@ -22,11 +22,13 @@ Gamemasters, a good rule of thumb is to aim to give a special milestone about ev
 
 In [skill checks](/character/skills/), characters start only being able to add one skill or background to the check. Skill milestones are special milestones which increase. While there is no upper bound to the number of skill milestones a character can achieve, it's rare for a character to earn more than three.
 
+Also, whenever you earn a skill milestone your **passive bonus** increases by 5 to represent the passive benefit of 
 
 
-### Stat Milestones
 
-Stat milestones are special milestones in which each [stat modifier](/character/stats/) is increased. One milestone increases by 5, one by 4, one by 3, one by 2, and one by 1. Your GM may impose an upper bound on how high you can increase the modifier based on the actual physical capabilities of your character-- this is usually somewhere around +15.
+### Attribute Milestones
+
+Attribute milestones are special milestones in which each [attribute modifier](/character/attributes/) is increased. One attribute increases by 5, one by 4, one by 3, one by 2, and one by 1. Your GM may impose an upper bound on how high you can increase the modifier based on the actual physical capabilities of your character-- this is usually somewhere around +15.
 
 
 
@@ -41,5 +43,5 @@ Here's a sample end-of-session checklist featuring a few example goals that shou
 * [ ] Gain a point of potential if we learned something new and important about the world
 * [ ] Gain a point of potential if we learned something new and important about one of the player characters
 
-* [ ] Increase each stat modifier by 5 / 4 / 3 / 2 / 1 if this milestone is a stat milestone
+* [ ] Increase each attribute modifier by 5 / 4 / 3 / 2 / 1 if this milestone is an attribute milestone
 * [ ] Increase the number of dice you add to a skill check if this milestone is a skill milestone

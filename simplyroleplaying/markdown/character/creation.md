@@ -7,11 +7,11 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 
 
 ## What are your natural abilities?
-All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on stats](/character/stats/), then choose either to **assign each stat a die** or **spend creation points**.
+All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](/character/attributes/), then choose either to **assign each attribute a die** or **spend creation points**.
 
-If you chose to **assign each stat a die**, rank your stats from best to worst-- no ties allowed. Your best stat is d12, your next best stat is d10, and so on. When you're done, each stat should be assigned a unique die between d4 and d12.
+If you chose to **assign each attribute a die**, rank your attributes from best to worst-- no ties allowed. Your best attribute is d12, your next best attribute is d10, and so on. When you're done, each attribute should be assigned a unique die between d4 and d12.
 
-If you chose to **spend creation points**, you get a pool of 10 creation points to spend on the starting die levels of your stats. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
+If you chose to **spend creation points**, you get a pool of 10 creation points to spend on the starting die levels of your attributes. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
 
 
 

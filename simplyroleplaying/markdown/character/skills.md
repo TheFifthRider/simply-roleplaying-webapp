@@ -1,12 +1,12 @@
 # Skills and Backgrounds
 
-Skills and backgrounds are the cornerstone to character development and growth in Simply Roleplaying. Where stats represent the intrinsic attributes of a character (their strength, speed, etc.), skills and backgrounds represent the training and expertise that same character has gained over time. **Skills** represent the individual trained abilities and **backgrounds** represent broad mastery gained by combining several mastered skills together. 
+Where attributes represent the intrinsic attributes of a character (their strength, speed, etc.), skills and backgrounds represent the training and expertise that same character has gained over time. **Skills** represent the individual trained abilities and **backgrounds** represent broad mastery gained by combining several mastered skills together. 
 
 
 
 ## Honing your Skills
 
-A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the higher the die level of the die in question. A character who has a die level of one in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels you can read about them here](/). 
+A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the higher the die level of the die in question. A character who has a d4 in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels you can read about them here](/). 
 
 As stated in [character creation](/character/), characters in Simply Roleplaying can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation](/character/), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned from [milestones](/character/milestones/), which are typically awarded at the end of each session.
 
@@ -14,7 +14,7 @@ As stated in [character creation](/character/), characters in Simply Roleplaying
 
 ### Spending Potential
 
-Players can spend potential in one of two ways: either by being trained in a skill by a more experienced character or by experimenting on their own and gaining insight in a skill. In either case they can choose to either **learn** the skill if they did not already know it, writing it down as a 1d4 skill on their character sheet, or **advance** the skill, increasing the die level of the skill by 1.
+Players can spend potential in one of two ways: either by being trained in a skill by a more experienced character or by experimenting on their own and gaining insight in a skill. In either case they can choose to either **learn** the skill if they did not already know it, writing it down as a d4 skill on their character sheet, or **advance** the skill, increasing the die level of the skill by 1.
 
 
 
@@ -32,7 +32,7 @@ At any point after determining the result of a skill check, a player may declare
 
 ### Mastering a Skill
 
-When a Skill is advanced to 1d12, it is considered **mastered**, and can no longer be advanced. A mastered skill can be taught to others or used in creating a background.
+When a Skill is advanced to d12, it is considered **mastered**, and can no longer be advanced. A mastered skill can be taught to others or used in creating a background.
 
 
 
@@ -72,15 +72,15 @@ Names for backgrounds are more freeform. A good rule of thumb is to name your ba
 
 ### Additional Skill/Background Examples
 
-Here are some additional examples of skills based on a stat they work well with, and some background examples of how they might be combined. While skills are never limited by what stat you use them with, sometimes thinking about what stat you want to improve will help you decide on what kind of skill to learn.
+Here are some additional examples of skills based on a attribute they work well with, and some background examples of how they might be combined. While skills are never limited by what attribute you use them with, sometimes thinking about what attribute you want to improve will help you decide on what kind of skill to learn.
 
-Skills to augment _Agility_ related checks primarily focus on a character's dexterity, flexibility, and physical speed. Some examples are _Acrobatics_, _Lockpicking_, _Rubix Cube Solving_, _Sneaking_, or _Wirecutting_. If you were to combine those five skills, you could create a background named _Criminal Mastermind_.
+Skills to augment _Agility_ tests primarily focus on a character's dexterity, flexibility, and physical speed. Some examples are _Acrobatics_, _Lockpicking_, _Rubix Cube Solving_, _Sneaking_, or _Wirecutting_. If you were to combine those five skills, you could create a background named _Criminal Mastermind_.
 
-Skills to augment _Brawn_ related checks primarily focus on a character's fortitude, endurance, and physical strength. Some examples are _Breaching Doors_, _Climbing_, _Lifting_, _Resisting Toxins_, and _Swimming_. If you were to combine those five skills, you could create a background named _Military Commando_.
+Skills to augment _Brawn_ tests primarily focus on a character's fortitude, endurance, and physical strength. Some examples are _Breaching Doors_, _Climbing_, _Lifting_, _Resisting Toxins_, and _Swimming_. If you were to combine those five skills, you could create a background named _Military Commando_.
 
-Skills to augment Charisma related checks primarily focus on a character's social ability and their ability to inspire emotions in others. Some examples are _Animal Handling_, _Bluffing_, _Intimidation_, _Logic_, and _Political Appeal_. If you were to combine those five skills, you could create a background named _Druid Politician_.
+Skills to augment _Charisma_ tests primarily focus on a character's social ability and their ability to inspire emotions in others. Some examples are _Animal Handling_, _Bluffing_, _Intimidation_, _Logic_, and _Political Appeal_. If you were to combine those five skills, you could create a background named _Druid Politician_.
 
-Skills to augment Intuition related checks primarily focus on a character's awareness and ability to improvise. Some examples are _Driving_, _Gambling_, _Navigation_, _Traps_, and _Streetwise_. If you were to combine those five skills, you could create a background named _Getaway Driver_.
+Skills to augment _Intuition_ tests primarily focus on a character's awareness and ability to improvise. Some examples are _Driving_, _Gambling_, _Navigation_, _Traps_, and _Streetwise_. If you were to combine those five skills, you could create a background named _Getaway Driver_.
 
-Skills to augment Knowledge related checks primarily focus on a character's education, ability to retain facts, and their ability to understand and apply complicated concepts. Some examples are _Archeology_, _Bandit Culture_, _Baking_, _Political History_, and _Sewing_. If you were to combine those five skills, you could create a background named _Gang Savvy Granny_.
+Skills to augment _Knowledge_ tests primarily focus on a character's education, ability to retain facts, and their ability to understand and apply complicated concepts. Some examples are _Archeology_, _Bandit Culture_, _Baking_, _Political History_, and _Sewing_. If you were to combine those five skills, you could create a background named _Gang Savvy Granny_.
 

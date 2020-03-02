@@ -20,7 +20,7 @@ nav.register_element('navbar', Navbar(
     View('Home', '.index'),
     Subgroup('Character',
              View('Character Creation', '.character_creation'),
-             View('Stats', '.stats'),
+             View('Attributes', '.attributes'),
              View('Skills and Backgrounds', '.skills'),
              View('Tests of Ability', '.tests'),
              View('Growth and Milestones', '.milestones'),
@@ -71,9 +71,9 @@ def character_creation():
     return render_markdown('character/creation.md')
 
 
-@srp.route("/character/stats/")
+@srp.route("/character/attributes/")
 def stats():
-    return render_markdown('character/stats.md')
+    return render_markdown('character/attributes.md')
 
 
 @srp.route("/character/skills/")
