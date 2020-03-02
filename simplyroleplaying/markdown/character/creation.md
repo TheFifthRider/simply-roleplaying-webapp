@@ -1,4 +1,5 @@
 # Creating a Character
+
 Character creation is intrinsically a player-focused activity, so this section will assume that the person reading it is a player. That said, gamemasters, you should read this as well-- it might even be good to read it aloud to your players at the table.
 
 Creating a character is all about dreaming up a concept, then figuring out how to realize it mechanically. There is no specific order that one must follow when creating a character in Simply Roleplaying, so players should feel free to skip around as they define their character. If you're new to roleplaying games in general, consider writing a quick answer to the questions below as you build your character.

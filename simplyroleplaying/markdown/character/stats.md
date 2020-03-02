@@ -1,22 +1,35 @@
-# Stats
-Stats are the measurement of a character's intrinsic attributes, from how strong they are, to how quickly they seize up situations. This is not to say a character cannot become faster or stronger than they are at character creation, but rather that these attributes are more resistant to change. Each stat is assigned a die of a certain level at [character creation](/character/), which is rolled as a part of [skill checks](/character/skills/). [You can learn more about die levels here](/).
+# Attributes
 
-## Five Stats
-**Agility** is the measurement of a character's physical speed, dexterity, and flexibility. Characters with high Agility are often flexible, dexterous, and able to evade harm that comes their way.
+Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Each attribute is assigned a die of a certain level at [character creation](/character/), which is rolled as a part of [tests of ability](/character/tests/). [You can learn more about die levels here](/).
 
-**Brawn** is the measurement of a character's physical strength, endurance, and hardiness. Characters with high Brawn are sturdy enough to withstand substantial physical trauma and are often strong, athletic, and resistant to maladies.
 
-**Charisma** is a measure of a character's will and their ability to convey that will to sway others. Characters with high Charisma are able to inspire emotions in others through their words or deeds and are often convincing, socially adept, and willful.
 
-**Intuition** is a measure of a character's reaction time and ability to adapt to new situations. Characters with high Intuition are often observant, quick to react, and able to pick up new skills with ease.
+## The Attributes
 
-**Knowledge** is a measure of a character's learned information, techniques, and abilities. Characters with high Knowledge are able to give excellent tactical advice and are often able to solve complicated puzzles, craft sophisticated objects, and remember intricate details.
+**Agility** is the measurement of a character's physical speed and precision. Characters with high Agility are often flexible, dexterous, and able to evade harm that comes their way.
 
-## Stat Modifier
-Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. Stat modifiers are a way to measure this growth. In most campaigns they start at +0, as indicated in [character creation](/character/), and increase as you acquire [stat milestones](/character/milestones/). **Stat modifiers** are simply a bonus added to the result of a specific stat die whenever it is rolled.
+**Brawn** is the measurement of a character's physical strength and endurance. Characters with are often strong, athletic, and resistant to maladies.
 
-## Passive Stats
+**Charisma** is a measure of a character's will and presence. Characters with high Charisma are often convincing, socially adept, and driven.
 
-<!-- The logic behind passive stats is related heavily to skill checks and contests. In point of fact, stats in general are heavily related to checks, contests, etc. Is it a mistake to have discussion on "skill checks" in the skills section? Skills are just how you develop those checks! --> 
+**Intuition** is a measure of a character's gut instincts. Characters with high Intuition are often observant, perceptive, and quick to react and adapt to change. 
 
-{% endblock pageContent %}
+**Knowledge** is a measure of a character's memory and problem solving. Characters with high Knowledge are able to give excellent tactical advice and are often able to solve complicated puzzles, craft sophisticated objects, and remember intricate details.
+
+
+
+## Attribute Modifier
+
+Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](/character/tests/). In most campaigns they start at +0, as indicated in [character creation](/character/), and increase as you acquire [stat milestones](/character/milestones/). 
+
+
+
+## Passive Attribute Scores
+
+Attributes are core to a character's ability, even when they are not consciously focusing on them. Whenever there is a risk that a character cannot consciously oppose, they use the appropriate passive score instead of rolling the dice. A characters **passive score** for an attribute is calculated as half of your best possible roll with that attribute, plus the attribute's modifier, plus the passive bonus earned from [skill milestones](/character/milestones/).
+
+`passive attribute score = half of your best possible roll + modifier + passive bonus`
+
+> As young wizard quietly tiptoes past his sleeping master, he tests his ability to swipe her fabled wand, risking getting caught red handed and getting turned into a newt _or worse_. Because she's asleep, the difficulty of the test is her passive Intuition score-- how likely her instincts are to wake her up from the noises her apprentice makes.
+>
+> Her intuition is a d10, her intuition modifier is +6, and her passive bonus is +5. Half of her best possible roll on a d10 is 5, so her passive intuition is 5+6+5 = 16, making the difficulty of the apprentice's test 16.

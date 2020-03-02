@@ -2,9 +2,13 @@
 
 Milestones are markers of when the player characters advance and are awarded to celebrate the significant things the players have accomplished over the course of the game. Typically, a milestone is only awarded once per session and at the end of the session, but gamemasters can award more than one milestone per session and/or milestones in the middle of the session if it seems appropriate.
 
+
+
 ## Every Milestone
 
 Every milestone earns the character some amount of potential, varying based on the significance of what happened in the campaign. This is ultimately up to the gamemaster to determine, but about one to two points of potential per two hours of playtime is usually right for an average session.
+
+
 
 ## Special Milestones
 
@@ -12,13 +16,19 @@ Special milestones typically occur at the end of significant arcs or whenever yo
 
 Gamemasters, a good rule of thumb is to aim to give a special milestone about every 20 to 30 potential earned, and to grant roughly a session and a half's worth of potential when you do so. If you use milestone goals, this should happen more or less naturally as special milestones tend to come after sessions that have players check all the boxes. If it doesn't come naturally, feel free to come up with additional milestone goals for accomplishing significant arcs, defeating significant foes, or whatever best suits your campaign. The goal of milestone goals is to feel good about the concrete things you have done in the game world.
 
+
+
 ### Skill Milestones
 
 In [skill checks](/character/skills/), characters start only being able to add one skill or background to the check. Skill milestones are special milestones which increase. While there is no upper bound to the number of skill milestones a character can achieve, it's rare for a character to earn more than three.
 
+
+
 ### Stat Milestones
 
 Stat milestones are special milestones in which each [stat modifier](/character/stats/) is increased. One milestone increases by 5, one by 4, one by 3, one by 2, and one by 1. Your GM may impose an upper bound on how high you can increase the modifier based on the actual physical capabilities of your character-- this is usually somewhere around +15.
+
+
 
 ## Checklists and Goals
 
