@@ -6,7 +6,7 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 
 
 ## What are your natural abilities?
-All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on stats](/character/stats), then choose either to **assign each stat a die** or **spend creation points**.
+All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on stats](/character/stats/), then choose either to **assign each stat a die** or **spend creation points**.
 
 If you chose to **assign each stat a die**, rank your stats from best to worst-- no ties allowed. Your best stat is d12, your next best stat is d10, and so on. When you're done, each stat should be assigned a unique die between d4 and d12.
 
@@ -28,7 +28,7 @@ _Gamemasters, you can offer more than one starting background if you wish, just 
 
 ## What is your story?
 
-Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on advantages and disadvantages]({{url_for('advantagesAndDisadvantages')}}) and pick a few to help develop your character's history further.
+Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on advantages and disadvantages](/character/advantages_and_disadvantages/) and pick a few to help develop your character's history further.
 
 A character can have any amount of Advantages and Disadvantages so long as the total ranks of character's advantages is equal to the total ranks of the character's disadvantages.
 

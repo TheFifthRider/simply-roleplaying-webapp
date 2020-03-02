@@ -1,16 +1,13 @@
-{% extends "base.html" %}
-
-{% block pageContent %}
-{{super()}}
+# Action Scenarios
 When the dragon stirs or the guards raise the alarm, the timing of when each character can do what is critically important. These **Action scenarios** are so named because they are the kind of thing that action movies are full of. From chases, to batles, to escapes from exploding buildings, action scenarios try to capture
 
-### Rounds
+## Rounds
 An action scenario occurs in blocks of time referred to as **rounds**. A round often takes around ten seconds, but your GM may vary this based on what makes sense for the action scenario. Most of the time, each character involved in the action takes their time in the spotlight by taking a **turn** in a specific order. If a character acts outside of when they would usually act in the turn order, they are considered to be **interrupting** the turn order.
 
-#### Rolling for Initiative
+### Rolling for Initiative
 There are several ways of determining the character order in rounds, the most popular in roleplaying games is **rolling for initiative**. To roll for initiative in Simply Roleplaying, at the beginning of the action scenario, each participant makes an Intuition roll. Each participant marks the result of this value as their **initiative** for the scenario. Then, each character takes their turn in order from highest roll to lowest roll. Ties can be broken by the die level of the Intuition stat. A common way of representing this is to add the die level of the stat as a decimal at the end of their roll. Further ties can be broken at GM discretion. Characters who join the action after the initial rolls simply roll for initiative at the start of the round in which they join the action.
 
-##### Alternative Rule: Elective Action Order
+#### Alternative Rule: Elective Action Order
 The following is adapted from the ruleset designed by Fred Hicks on his blog post [Accidentally Designing Marvel’s Action Order System](http://www.deadlyfredly.com/2012/02/marvel/).
 
 After rolling for initiative, instead of ordering participants from highest roll to lowest roll, the highest roller is simply the first to act. In the case of an ambush, tensions broken by the first shot fired, or some other situation where it is clear who will (or has) acted first your GM may opt to skip rolling and instead start the turn order with that character. After each character finishes their turn, they chose another participant who has not taken a turn yet this round to take their turn next. The last participant to take a turn in the round chooses who starts the next round.
@@ -23,9 +20,7 @@ The tide of lava rises, the rope bridges' tenuous connections begin to sever, th
 -->
 
 ## Combat Scenario
-Combat scenarios are action scenarios that capture the strategy of battlefield tactics in a style familiar to most tabletop roleplaying enthusiasts. A round lasts ten seconds, and each turn allows a character to show off their capabilities by taking multiple actions in succession. [You can read more about Combat Scenarios here]({{url_for('combat')}})
+Combat scenarios are action scenarios that capture the strategy of battlefield tactics in a style familiar to most tabletop roleplaying enthusiasts. A round lasts ten seconds, and each turn allows a character to show off their capabilities by taking multiple actions in succession. [You can read more about Combat Scenarios here](/action/combat/)
 
 ## Race Scenario
-Race scenarios are action scenarios that capture the fast back-and-forth between participants in a race. A round lasts a variable amount of time, from seconds to hours, and each turn is a snapshot in that time. [You can read more about Race Scenarios here]({{url_for('racing')}})
-
-{% endblock pageContent %}
+Race scenarios are action scenarios that capture the fast back-and-forth between participants in a race. A round lasts a variable amount of time, from seconds to hours, and each turn is a snapshot in that time. [You can read more about Race Scenarios here](/action/racing/)

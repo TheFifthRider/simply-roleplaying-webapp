@@ -26,9 +26,10 @@ nav.register_element('navbar', Navbar(
              View('Growth and Milestones', '.milestones'),
              View('Advantages and Disadvantages', '.advantages_and_disadvantages'),
              ),
-    Subgroup('Combat',
-             View('Combat Flow', '.combat'),
-             View('Racing', '.racing'),
+    Subgroup('Action',
+             View('Action Scenarios', '.action'),
+             View('Combat Scenarios', '.combat'),
+             View('Racing Scenarios', '.racing'),
              View('Weapons', '.weapons'),
              View('Techniques', '.techniques'),
              View('Armor', '.armor'),
@@ -36,7 +37,7 @@ nav.register_element('navbar', Navbar(
              ),
     View('Magic', '.magic'),
     Subgroup('World',
-             View('Money', '.world_money'),
+             View('Overview', '.world'),
              View('Races', '.world_races'),
              View('Religions', '.world_religions'),
              ),
@@ -95,39 +96,40 @@ def advantages_and_disadvantages():
     return render_markdown('character/advantages_and_disadvantages.md')
 
 
-@srp.route("/combat/")
+@srp.route("/action/")
+def action():
+    return render_markdown('action/action.md')
+
+
+@srp.route("/action/combat/")
 def combat():
-    header_text = "Combat Basics"
-    page_title = "Combat Basics"
-    return render_template('combat_and_equipment/combat.html', headerText=header_text, pageTitle=page_title)
+    return render_markdown('action/combat.md')
 
 
-@srp.route("/racing/")
+@srp.route("/action/racing/")
 def racing():
     header_text = "Racing"
     page_title = "Racing"
     return render_template('combat_and_equipment/racing.html', headerText=header_text, pageTitle=page_title)
 
 
-@srp.route("/combat/weapons/")
+@srp.route("/action/weapons/")
 def weapons():
     header_text = "Weapons"
     page_title = "Weapons"
     return render_template('combat_and_equipment/weapons.html', headerText=header_text, pageTitle=page_title)
 
 
-@srp.route("/combat/techniques/")
+@srp.route("/action/techniques/")
 def techniques():
     header_text = "Combat Techniques"
     page_title = "Combat Techniques"
     return render_template('combat_and_equipment/techniques.html', headerText=header_text, pageTitle=page_title)
 
 
-@srp.route("/combat/armor/")
+@srp.route("/action/armor/")
 def armor():
-    header_text = "Armor"
-    page_title = "Armor"
-    return render_template('combat_and_equipment/armor.html', headerText=header_text, pageTitle=page_title)
+    return render_markdown('action/armor.md')
 
 
 @srp.route("/combat/healing/")
@@ -146,16 +148,7 @@ def magic():
 
 @srp.route("/world/")
 def world_overview():
-    header_text = "Earth: The Forgotten Times"
-    page_title = "World Overview"
-    return render_template('earth_the_forgotten_times/overview.html', headerText=header_text, pageTitle=page_title)
-
-
-@srp.route("/world/money/")
-def world_money():
-    header_text = "Money"
-    page_title = "Money"
-    return render_template('earth_the_forgotten_times/money.html', headerText=header_text, pageTitle=page_title)
+    return render_markdown('worlds/earth_the_forgotten_times/overview.md')
 
 
 @srp.route("/world/races/")
