@@ -1,8 +1,5 @@
-{% extends "base.html" %}
-
-{% block pageContent %}
-{{super()}}
-Stats are the measurement of a character's intrinsic attributes, from how strong they are, to how quickly they seize up situations. This is not to say a character cannot become faster or stronger than they are at character creation, but rather that these attributes are more resistant to change. Each stat is assigned a die of a certain level at [character creation]({{url_for('characterCreation')}}), which is rolled as a part of [skill checks]({{url_for('skills')}}). [You can learn more about die levels here]({{url_for('index')}}).
+# Stats
+Stats are the measurement of a character's intrinsic attributes, from how strong they are, to how quickly they seize up situations. This is not to say a character cannot become faster or stronger than they are at character creation, but rather that these attributes are more resistant to change. Each stat is assigned a die of a certain level at [character creation](/character/), which is rolled as a part of [skill checks](/character/skills/). [You can learn more about die levels here](/).
 
 ## Five Stats
 **Agility** is the measurement of a character's physical speed, dexterity, and flexibility. Characters with high Agility are often flexible, dexterous, and able to evade harm that comes their way.
@@ -16,7 +13,7 @@ Stats are the measurement of a character's intrinsic attributes, from how strong
 **Knowledge** is a measure of a character's learned information, techniques, and abilities. Characters with high Knowledge are able to give excellent tactical advice and are often able to solve complicated puzzles, craft sophisticated objects, and remember intricate details.
 
 ## Stat Modifier
-Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. Stat modifiers are a way to measure this growth. In most campaigns they start at +0, as indicated in [character creation]({{url_for('startingCharacterCreation')}}), and increase as you acquire [stat milestones]({{url_for('milestones')}}). **Stat modifiers** are simply a bonus added to the result of a specific stat die whenever it is rolled.
+Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. Stat modifiers are a way to measure this growth. In most campaigns they start at +0, as indicated in [character creation](/character/), and increase as you acquire [stat milestones](/character/milestones/). **Stat modifiers** are simply a bonus added to the result of a specific stat die whenever it is rolled.
 
 ## Passive Stats
 

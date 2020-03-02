@@ -1,7 +1,4 @@
-{% extends "base.html" %}
-
-{% block pageContent %}
-{{super()}}
+# Milestones
 
 Milestones are markers of when the player characters advance and are awarded to celebrate the significant things the players have accomplished over the course of the game. Typically, a milestone is only awarded once per session and at the end of the session, but gamemasters can award more than one milestone per session and/or milestones in the middle of the session if it seems appropriate.
 
@@ -17,11 +14,11 @@ Gamemasters, a good rule of thumb is to aim to give a special milestone about ev
 
 ### Skill Milestones
 
-In [skill checks]({{url_for('skills')}}), characters start only being able to add one skill or background to the check. Skill milestones are special milestones which increase. While there is no upper bound to the number of skill milestones a character can achieve, it's rare for a character to earn more than three.
+In [skill checks](/character/skills/), characters start only being able to add one skill or background to the check. Skill milestones are special milestones which increase. While there is no upper bound to the number of skill milestones a character can achieve, it's rare for a character to earn more than three.
 
 ### Stat Milestones
 
-Stat milestones are special milestones in which each [stat modifier]({{url_for('stats'}}) is increased. One milestone increases by 5, one by 4, one by 3, one by 2, and one by 1. Your GM may impose an upper bound on how high you can increase the modifier based on the actual physical capabilities of your character-- this is usually somewhere around +15.
+Stat milestones are special milestones in which each [stat modifier](/character/stats/) is increased. One milestone increases by 5, one by 4, one by 3, one by 2, and one by 1. Your GM may impose an upper bound on how high you can increase the modifier based on the actual physical capabilities of your character-- this is usually somewhere around +15.
 
 ## Checklists and Goals
 
@@ -36,5 +33,3 @@ Here's a sample end-of-session checklist featuring a few example goals that shou
 
 * [ ] Increase each stat modifier by 5 / 4 / 3 / 2 / 1 if this milestone is a stat milestone
 * [ ] Increase the number of dice you add to a skill check if this milestone is a skill milestone
-
-{% endblock pageContent %}

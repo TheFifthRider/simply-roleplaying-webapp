@@ -1,14 +1,12 @@
-{% extends "base.html" %}
+# Skills and Backgrounds
 
-{% block pageContent %}
-{{super()}}
 Skills and backgrounds are the cornerstone to character development and growth in Simply Roleplaying. Where stats represent the intrinsic attributes of a character (their strength, speed, etc.), skills and backgrounds represent the training and expertise that same character has gained over time. **Skills** represent the individual trained abilities and **backgrounds** represent broad mastery gained by combining several mastered skills together. 
 
 ## Honing your Skills
 
-A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the higher the die level of the die in question. A character who has a die level of one in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels you can read about them here]({{url_for('index')}}). 
+A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the higher the die level of the die in question. A character who has a die level of one in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels you can read about them here](/). 
 
-As stated in [character creation]({{url_for('startingCharacterCreation')}}), characters in Simply Roleplaying can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation]({{url_for('startingCharacterCreation')}}), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned from [milestones]({{url_for('milestones')}}), which are typically awarded at the end of each session.
+As stated in [character creation](/character/), characters in Simply Roleplaying can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation](/character/), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned from [milestones](/character/milestones/), which are typically awarded at the end of each session.
 
 ### Spending Potential
 
@@ -66,4 +64,3 @@ Skills to augment Intuition related checks primarily focus on a character's awar
 
 Skills to augment Knowledge related checks primarily focus on a character's education, ability to retain facts, and their ability to understand and apply complicated concepts. Some examples are _Archeology_, _Bandit Culture_, _Baking_, _Political History_, and _Sewing_. If you were to combine those five skills, you could create a background named _Gang Savvy Granny_.
 
-{% endblock pageContent %}

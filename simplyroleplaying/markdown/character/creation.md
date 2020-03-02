@@ -1,7 +1,4 @@
-{% extends "base.html" %}
-
-{% block pageContent %}
-{{super()}}
+# Creating a Character
 Character creation is intrinsically a player-focused activity, so this section will assume that the person reading it is a player. That said, gamemasters, you should read this as well-- it might even be good to read it aloud to your players at the table.
 
 Creating a character is all about dreaming up a concept, then figuring out how to realize it mechanically. There is no specific order that one must follow when creating a character in Simply Roleplaying, so players should feel free to skip around as they define their character. If you're new to roleplaying games in general, consider writing a quick answer to the questions below as you build your character.
@@ -9,7 +6,7 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 
 
 ## What are your natural abilities?
-All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on stats]({{url_for('stats')}}), then choose either to **assign each stat a die** or **spend creation points**.
+All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on stats](/character/stats), then choose either to **assign each stat a die** or **spend creation points**.
 
 If you chose to **assign each stat a die**, rank your stats from best to worst-- no ties allowed. Your best stat is d12, your next best stat is d10, and so on. When you're done, each stat should be assigned a unique die between d4 and d12.
 
@@ -19,7 +16,7 @@ If you chose to **spend creation points**, you get a pool of 10 creation points 
 
 ## What have you learned?
 
-Everyone has a variety of abilities that they have learned over time through practice. [Read up on skills and backgrounds]({{url_for('skills')}}), then choose to either **make a background** or **start brimming with potential**.
+Everyone has a variety of abilities that they have learned over time through practice. [Read up on skills and backgrounds](/character/skills/), then choose to either **make a background** or **start brimming with potential**.
 
 If you chose to **make a background**, write a background that summarizes the skills your character has learned so far.
 
@@ -58,8 +55,4 @@ Describe your character! What's their heritage? Are they young or old?  Thick or
 Now that you know everything about them, what kind of a name fits your character? Do they use their full name or a nickname? Do they know their family name? Are they proud of it?
 
 Alternatively, you can choose a name early and use that to help figure out answers to other questions!
-
-
-
-{% endblock pageContent %}
 

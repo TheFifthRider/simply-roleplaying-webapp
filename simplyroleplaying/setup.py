@@ -1,3 +1,5 @@
+import os
+
 from flask import Flask, render_template, send_from_directory
 from flask_bootstrap import Bootstrap
 from flask_nav import register_renderer
@@ -17,10 +19,10 @@ register_renderer(srp, 'custom', CustomRenderer)
 nav.register_element('navbar', Navbar(
     View('Home', '.index'),
     Subgroup('Character',
-             View('Character Creation', '.starting_character_creation'),
+             View('Character Creation', '.character_creation'),
              View('Stats', '.stats'),
              View('Skills and Backgrounds', '.skills'),
-             View('Ability Checks', '.ability_checks'),
+             View('Tests of Ability', '.tests'),
              View('Growth and Milestones', '.milestones'),
              View('Advantages and Disadvantages', '.advantages_and_disadvantages'),
              ),
@@ -63,47 +65,34 @@ def index():
     return render_template('index.html', headerText=header_text, pageTitle=page_title)
 
 
-@srp.route("/character/creation/")
-def starting_character_creation():
-    header_text = "Character Creation"
-    page_title = "Character Creation"
-    return render_template('character_creation/starting_creation.html', headerText=header_text, pageTitle=page_title)
+@srp.route("/character/")
+def character_creation():
+    return render_markdown('character/creation.md')
 
 
 @srp.route("/character/stats/")
 def stats():
-    header_text = "Stats"
-    page_title = "Stats"
-    return render_template('character_creation/stats.html', headerText=header_text, pageTitle=page_title)
+    return render_markdown('character/stats.md')
 
 
 @srp.route("/character/skills/")
 def skills():
-    header_text = "Skills and Backgrounds"
-    page_title = "Skills and Backgrounds"
-    return render_template('character_creation/skills.html', headerText=header_text, pageTitle=page_title)
+    return render_markdown('character/skills.md')
 
 
-@srp.route("/character/ability_checks/")
-def skills():
-    header_text = "Ability Checks"
-    page_title = "Ability Checks"
-    return render_template('character_creation/ability_checks.html', headerText=header_text, pageTitle=page_title)
+@srp.route("/character/tests/")
+def tests():
+    return render_markdown('character/tests.md')
 
 
 @srp.route("/character/milestones/")
 def milestones():
-    header_text = "Milestones"
-    page_title = "Milestones"
-    return render_template('character_creation/skills.html', headerText=header_text, pageTitle=page_title)
+    return render_markdown('character/milestones.md')
 
 
 @srp.route("/character/advantages_and_disadvantages/")
 def advantages_and_disadvantages():
-    header_text = "Advantages and Disadvantages"
-    page_title = "Advantages and Disadvantages"
-    return render_template('character_creation/advantages_and_disadvantages.html', headerText=header_text,
-                           pageTitle=page_title)
+    return render_markdown('character/advantages_and_disadvantages.md')
 
 
 @srp.route("/combat/")
@@ -156,17 +145,17 @@ def magic():
 
 
 @srp.route("/world/")
-def worldOverview():
-    headerText = "Earth: The Forgotten Times"
-    pageTitle = "World Overview"
-    return render_template('earth_the_forgotten_times/overview.html', headerText=headerText, pageTitle=pageTitle)
+def world_overview():
+    header_text = "Earth: The Forgotten Times"
+    page_title = "World Overview"
+    return render_template('earth_the_forgotten_times/overview.html', headerText=header_text, pageTitle=page_title)
 
 
 @srp.route("/world/money/")
 def world_money():
     header_text = "Money"
-    pageTitle = "Money"
-    return render_template('earth_the_forgotten_times/money.html', headerText=header_text, pageTitle=pageTitle)
+    page_title = "Money"
+    return render_template('earth_the_forgotten_times/money.html', headerText=header_text, pageTitle=page_title)
 
 
 @srp.route("/world/races/")
@@ -181,6 +170,19 @@ def world_religions():
     header_text = "The Religions of Earth: The Forgotten Times"
     page_title = "Religions - Earth: The Forgotten Times"
     return render_template('earth_the_forgotten_times/religions.html', headerText=header_text, pageTitle=page_title)
+
+
+def render_markdown(path_to_markdown):
+    page_title = "page"
+    with open(os.path.join(os.path.dirname(__file__), 'markdown/' + path_to_markdown), 'r') as file:
+        file_contents = file.read()
+        for line in file:
+            trimmed_line = line.strip()
+            if trimmed_line.startswith("#"):
+                page_title = trimmed_line.strip("#").strip()
+                break
+
+    return render_template('base.html', pageTitle=page_title, fileContents=file_contents)
 
 
 if __name__ == "__main__":

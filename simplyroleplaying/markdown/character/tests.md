@@ -1,15 +1,11 @@
-{% extends "base.html" %}
-
-{% block pageContent %}
-{{super()}}
-
+# Tests of Ability
 Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling a _stat_ die, along with some combination of _skill_ and _background_ dice to meet or exceed a number that represents the difficulty of doing what they want to do.
 
 
 
 ## Establishing Difficulty
 
-Most of the time, the difficulty is a static number determined by the gamemaster based on the skill required to achieve success with minimal risk. Below are a collection of difficulty rules of thumb. When creating a test, it's a good idea to choose a difficulty based on one of the rules of thumb and increase or decrease it by 1 to 4 to make it appropriately easy or difficult.
+Most of the time, the difficulty is a static number determined by the gamemaster based on the skill required to achieve success with minimal risk. Below are a collection of difficulty rules of thumb. When creating a test, it's a good idea to start with a difficulty based on one of the rules of thumb and increase or decrease it by a few points depending on how easy or difficult the test is meant to be.
 
 * **Talented but inexperienced** characters can handle tests of difficulty **5**
 * **Experienced** characters can handle tests of difficulty **10**
@@ -84,5 +80,3 @@ Goals are a statement of intent and should be more than just avoiding risks. To 
 ### Risk Guidelines
 
 Risks are negative consequences to any action. Risks can be as benign as taking a whole day to research something or as life-or-death as taking a chainsaw to the chest, and should rarely just be failing to achieve a goal in a way such that the character couldn't just try again. A character shouldn't just attempt to push some boxes and find them unable to budge, failure should be them accidentally getting pinned beneath them or their efforts alerting a passing warehouse guard. Failing a researching skill check in an quiet town library should result in a sleepless night or missing a crucial detail.
-
-{% endblock pageContent %}
