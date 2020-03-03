@@ -1,5 +1,16 @@
 # Armor
-Defensive clothing of any kind, from personal shield generators to kevlar to platemail, are considered to be armor in the Simply Roleplaying system. Much like weapons, different characters will prefer different armors. Where strong characters may prefer heavy armor that allows them to leverage their brawn defensively, quick characters might prefer lighter armor that allow them to duck and weave with their agility. Mechanically, this means that every set of armor has an associated stat that determines the armor value when worn. **Armor Value** (or **AV**) is a number that acts as the measurement of a character's defensive capabilities, and is referenced as the number to roll against whenever a character makes a potency check to see how many wounds they inflict upon their target. More information on exactly how armor value works in combat is available on [the main combat page.](/action/combat/)
+
+Armor is any defensive clothing, from personal shield generators to kevlar vests to full plate. All armor has an associated attribute, depending on how the armor protects the character. Most armor is Brawn armor-- heavy and thick, augmenting the wearer's ability to take hits by reducing the impact of blows. Some armor is Agility armor-- light and flexible, offering protection to the wearer without sacrificing ease of movement so they can dodge away from danger. Depending on your world's setting, there may even be Intuition, Knowledge, or Charisma armors.
+
+
+
+## Calculating Armor Value
+
+How much the armor protects a character is based on the appropriate [passive attribute score](/character/attributes/). **Armor Value** (or **AV**) is a number that acts as the measurement of a character's defensive capabilities, and is the difficulty whenever a character makes a test of ability to attack another character. More details on exactly how AV is used is covered on [the main combat page.](/action/combat/)
+
+
+
+### Carried Protection
 
 Carried items that provide protection, such as shields, are restricted like weapons-- any character can only be actively using two hands worth of items during each of their turns in combat. If one of the items that a character is wielding is a shield, they may add the shield's AV to their total AV for as long as they are wielding it. <!-- TODO: Adjust how shields work -->
 
