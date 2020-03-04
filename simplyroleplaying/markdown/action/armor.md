@@ -10,7 +10,7 @@ Not all armor is created equal. A squire's chain shirt and a knight's full plate
 
 How much the armor protects a character is based on the [passive score](/character/attributes/) of the attribute the armor is associated with. The **Armor Value** (or **AV**) of the armor is calculated by adding the _quality modifier_ of the armor to the _passive score_ of the attribute associated with the armor.
 
-The calculated AV acts as the measurement of a character's defensive capabilities, and is used as the difficulty whenever another character makes a test of ability to attack them. More details on exactly how AV is used is covered in the section on [combat scenarios](/action/combat/).
+The calculated AV acts as the measurement of a character's defensive capabilities, and is used as the difficulty whenever another character makes a test of ability to attack them. More details on exactly how AV is used with regards to weapon attacks is covered in the section on [weapons](/action/weapons/).
 
 
 
@@ -19,3 +19,4 @@ The calculated AV acts as the measurement of a character's defensive capabilitie
 Carried equipment that provide protection, such as shields, also have both an attribute and a quality modifier associated with them. If the armor and the defensive equipment are of the same attribute, the defensive equipment provides its quality modifier as a bonus to the character's total AV. Typically a character can only benefit from one piece of defensive equipment at a time.
 
 `AV = Passive Attribute Score + Quality Modifier + Carried Protection Bonus (if any)`
+

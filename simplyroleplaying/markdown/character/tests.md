@@ -1,5 +1,5 @@
 # Tests of Ability
-Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling a _attribute_ die, along with some combination of _skill_ and _background_ dice to meet or exceed a number that represents the difficulty of doing what they want to do.
+Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling an _attribute_ die, along with some combination of _skill_ and _background_ dice to meet or exceed a number that represents the difficulty of doing what they want to do.
 
 
 
