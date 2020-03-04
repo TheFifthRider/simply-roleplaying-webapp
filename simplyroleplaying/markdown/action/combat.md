@@ -1,4 +1,5 @@
 # Combat Scenario
+
 In the Simply Roleplaying system, combat is designed to be fairly simple while also allowing for a variety of different weapons and combat styles, as well as offering a variety of different techniques that can be performed in combat. When combat starts, every participant rolls a flat [Intuition](/character/attributes/) check unmodified by bonuses provided by any skill. This check determines how quickly each of the characters reacts to the combat scenario. In the event of an ambush, the ambushers may roll their Intuition twice, and use the combined value. Each combatant marks this value as their **initiative** for this combat. Then, starting with the character with the highest roll and continuing in descending order, each character takes a turn. This ordering is referred to as the **turn order**, and a full rotation of the turn order is considered a combat **round**. Each round takes approximately 10 seconds of game time, with all actions happening in the round occurring roughly sequentially.
 
 ## Actions and Reactions

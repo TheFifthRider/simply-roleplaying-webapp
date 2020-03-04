@@ -28,7 +28,7 @@ Over time, as a character grows and becomes more proficient at their skills, the
 
 Attributes are core to a character's ability, even when they are not consciously focusing on them. Whenever there is a risk that a character cannot consciously oppose, they use the appropriate passive score instead of rolling the dice. A characters **passive score** for an attribute is calculated as half of your best possible roll with that attribute, plus the attribute's modifier, plus the passive bonus earned from [skill milestones](/character/milestones/).
 
-`passive attribute score = half of your best possible roll + modifier + passive bonus`
+`Attribute Passive Score = half of your best possible roll + Attribute Modifier + Passive Bonus`
 
 > As young wizard quietly tiptoes past his sleeping master, he tests his ability to swipe her fabled wand, risking getting caught red handed and getting turned into a newt _or worse_. Because she's asleep, the difficulty of the test is her passive Intuition score-- how likely her instincts are to wake her up from the noises her apprentice makes.
 >
