@@ -14,7 +14,7 @@ Every milestone earns the character some amount of potential, varying based on t
 
 Special milestones typically occur at the end of significant arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Special milestones tend to grant a big chunk of potential and some other added benefit, based on the type of special milestone. A few types of special milestone are defined below.
 
-Gamemasters, a good rule of thumb is to aim to give a special milestone about every 20 to 30 potential earned, and to grant roughly a session and a half's worth of potential when you do so. If you use milestone goals, this should happen more or less naturally as special milestones tend to come after sessions that have players check all the boxes. If it doesn't come naturally, feel free to come up with additional milestone goals for accomplishing significant arcs, defeating significant foes, or whatever best suits your campaign. The goal of milestone goals is to feel good about the concrete things you have done in the game world.
+Gamemasters, a good rule of thumb is to aim to give a special milestone about every 10 to 12 potential earned, and to grant roughly a session and a half's worth of potential when you do so. If you use milestone goals, this should happen more or less naturally as special milestones tend to come after sessions that have players check all the boxes. If it doesn't come naturally, feel free to come up with additional milestone goals for accomplishing significant arcs, defeating significant foes, or whatever best suits your campaign. Whatever you choose, milestone goals should be about celebrating the accomplishments of the player characters and the story you are all weaving together.
 
 
 
@@ -22,13 +22,11 @@ Gamemasters, a good rule of thumb is to aim to give a special milestone about ev
 
 In [skill checks](/character/skills/), characters start only being able to add one skill or background to the check. Skill milestones are special milestones which increase. While there is no upper bound to the number of skill milestones a character can achieve, it's rare for a character to earn more than three.
 
-Also, whenever you earn a skill milestone your **passive bonus** increases by 5 to represent the passive benefit of 
-
 
 
 ### Attribute Milestones
 
-Attribute milestones are special milestones in which each [attribute modifier](/character/attributes/) is increased. One attribute increases by 5, one by 4, one by 3, one by 2, and one by 1. Your GM may impose an upper bound on how high you can increase the modifier based on the actual physical capabilities of your character-- this is usually somewhere around +15.
+Attribute milestones are special milestones in which each [attribute modifier](/character/attributes/) is increased. Two attributes increase by 3, two by 2, and two by 1. Your GM may impose an upper bound on how high you can increase the modifier based on the actual physical capabilities of your character-- this is usually somewhere around +15.
 
 
 
@@ -43,5 +41,5 @@ Here's a sample end-of-session checklist featuring a few example goals that shou
 * [ ] Gain a point of potential if we learned something new and important about the world
 * [ ] Gain a point of potential if we learned something new and important about one of the player characters
 
-* [ ] Increase each attribute modifier by 5 / 4 / 3 / 2 / 1 if this milestone is an attribute milestone
-* [ ] Increase the number of dice you add to a skill check if this milestone is a skill milestone
+* [ ] Increase your attribute modifiers if this is an attribute milestone-- two by 3, two by 2, and two by 1
+* [ ] Increase the number of dice you add to a skill check if this is a skill milestone

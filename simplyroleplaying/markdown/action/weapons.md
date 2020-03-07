@@ -4,7 +4,7 @@ Weapons are any carried equipment used to attack another character from table le
 
 _Brawn_ weapons are often heavy or strenuous to operate effectively, demanding great strength from their wielder and rewarding them with crushing blows. _Agility_ weapons are often light or rely on precision, perfect for characters with the skill to wound their opponent where it is most devastating. Depending on your setting, there may even be _charisma_, _intuition_, and _knowledge_ based weapons.
 
-Each weapon also has a **quality modifier** based on the craftsmanship, materials, and renown of the weapon that ranges from +0 to +12.
+Each weapon also has a **quality modifier** based on the craftsmanship, materials, and renown of the weapon that ranges from +0 to +9.
 
  
 

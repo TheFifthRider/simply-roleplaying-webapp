@@ -28,16 +28,16 @@ Over time, as a character grows and becomes more proficient at their skills, the
 
 ## Passive Attribute Scores
 
-Attributes are core to a character's ability, even when they are not consciously focusing on them. Whenever there is a risk that a character cannot consciously oppose, they use the appropriate passive score instead of rolling the dice. A characters **passive score** for an attribute is calculated as half of your best possible roll with that attribute, plus the attribute's modifier, plus the character's Intuition modifier.
+Attributes are core to a character's ability, even when they are not consciously focusing on them. Whenever there is a risk that a character cannot consciously oppose, they use the appropriate passive score instead of rolling the dice. A characters **passive score** for an attribute is calculated as your best possible roll with the die of that attribute, plus the attribute's modifier, plus the character's Intuition modifier.
 
-`Passive Score = half of your best possible roll + Modifier + Intuition Modifier`
+`Passive Score = best possible roll + Modifier + Intuition Modifier`
 
 > A vizier tests their _Presence_ to manipulate their monarch by feeding them fabrications. Even though the monarch has no reason to suspect the vizier of lying, their extensive experience creates a difficulty of their passive _Presence_ score-- how likely they are to notice the social signs of mistruth.
 >
-> The monarch's _Presence_ is a d12, their _Presence_ modifier a +9, and their _Intuition_ modifier a +3. Half of their best possible roll on a d12 is 6, so their passive _Presence_, and the difficulty of the Vizier's test, is 6 + 9 + 3 = 18.
+> The monarch's _Presence_ is a d12, their _Presence_ modifier a +9, and their _Intuition_ modifier a +3. Their passive _Presence_, and the difficulty of the Vizier's test, is calculated as 12 + 9 + 3 = 24.
 
 
 
 > A young wizard tries to tiptoe past their sleeping master, testing their _Agility_ to silently swipe the master's fabled wand, risking getting caught red handed and getting turned into a newt _or worse_. Because the master is asleep, the difficulty of the test is the master's passive _Intuition_ score-- how likely the master's instincts are to wake her up from the noises her apprentice makes.
 >
-> The master's intuition is a d10, her intuition modifier is +9. Half of her best possible roll on a d10 is 5, so her passive intuition, and the difficulty of the Apprentice's test, is 5 + 9 + 9 = 23.
+> The master's intuition is a d10, her intuition modifier is +9. Her passive intuition, and the difficulty of the Apprentice's test, is calculated as 10 + 9 + 9 = 28.
