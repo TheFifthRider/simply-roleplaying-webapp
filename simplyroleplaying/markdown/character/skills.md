@@ -78,9 +78,10 @@ Skills to augment _Agility_ tests primarily focus on a character's dexterity, fl
 
 Skills to augment _Brawn_ tests primarily focus on a character's fortitude, endurance, and physical strength. Some examples are _Breaching Doors_, _Climbing_, _Lifting_, _Resisting Toxins_, and _Swimming_. If you were to combine those five skills, you could create a background named _Military Commando_.
 
-Skills to augment _Charisma_ tests primarily focus on a character's social ability and their ability to inspire emotions in others. Some examples are _Animal Handling_, _Bluffing_, _Intimidation_, _Logic_, and _Political Appeal_. If you were to combine those five skills, you could create a background named _Druid Politician_.
-
 Skills to augment _Intuition_ tests primarily focus on a character's awareness and ability to improvise. Some examples are _Driving_, _Gambling_, _Navigation_, _Traps_, and _Streetwise_. If you were to combine those five skills, you could create a background named _Getaway Driver_.
 
 Skills to augment _Knowledge_ tests primarily focus on a character's education, ability to retain facts, and their ability to understand and apply complicated concepts. Some examples are _Archeology_, _Bandit Culture_, _Baking_, _Political History_, and _Sewing_. If you were to combine those five skills, you could create a background named _Gang Savvy Granny_.
 
+Skills to augment _Presence_ tests primarily focus on a character's social ability and their ability to inspire emotions in others. Some examples are _Animal Handling_, _Bluff_, _Charm_, _Logic_, and _Political Appeal_. If you were to combine those five skills, you could create a background named _Druid Politician_.
+
+Skills to augment _Will_ tests primarily focus on a character's ability to shut out distractions or act despite hardship. Some examples are _Acting under Pressure_, _Focus_, _Ignoring Pain_, _Mettle_, and _Spirit_. If you were to combine those five skills, you could create a background named _Force of Nature_.

@@ -7,11 +7,11 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 
 
 ## What are your natural abilities?
-All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](/character/attributes/), then choose either to **assign each attribute a die** or **spend creation points**.
+All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](/character/attributes/), then choose either to **rank your attributes** or **spend creation points**.
 
-If you chose to **assign each attribute a die**, rank your attributes from best to worst-- no ties allowed. Your best attribute is d12, your next best attribute is d10, and so on. When you're done, each attribute should be assigned a unique die between d4 and d12.
+If you chose to **rank your attributes**, order your attributes from what your character should be best at to what your character should be worst at. Set your best attribute to level d12 and your second best attribute to level d10. Then set your worst attribute to level d4, and your second worst attribute to level d6. Finally, set the remaining two attributes to level d8.
 
-If you chose to **spend creation points**, you get a pool of 10 creation points to spend on the starting die levels of your attributes. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
+If you chose to **spend creation points**, you get a pool of 12 creation points to spend on the starting die levels of your attributes. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
 
 
 
@@ -34,7 +34,9 @@ Motivations and experiences define characters in ways that no natural or learned
 A character can have any amount of Advantages and Disadvantages so long as the total ranks of character's advantages is equal to the total ranks of the character's disadvantages.
 
 
+
 ## What do you have with you?
+
 How the players determine what items their characters have with them is largely up to their gamemaster. In a typical campaign it would not be uncommon for a character to get a full set of armor, a primary weapon, an assortment of whatever things their character might have with them "on a typical day", and an assortment of items related to their current pursuits.
 
 A tomb explorer would likely have a bedroll, tent, backpack, mess kit, pack of torches, medical supplies, a grappling hook, and other such necessities.

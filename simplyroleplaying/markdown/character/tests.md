@@ -29,15 +29,15 @@ When characters directly compete with each other, the gamemaster may rule that i
 
 In most cases the gamemaster will determine what attribute(s) are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or back grounds. A character can contribute one skill or background die to a test of ability up to the total amount allowed by their earned [skill milestones](/character/milestones/).
 
-> A player's thief character is attempting to persuade a local merchant to not question the legality of goods they're selling, so their gamemaster asks the player to make a test of ability with _Charisma_ to convince the merchant.
+> A player's thief character is attempting to persuade a local merchant to not question the legality of goods they're selling, so their gamemaster tells them that convincing the merchant is going to be a test of _Presence_.
 >
 > Consulting their character sheet, the player notes that they have two backgrounds, _Smuggler_ and _Mercenary_, as well as three skills, _Acrobatics_, _Lockpicking_, and _Intimidation_. Based on their current goal, they picks out their background _Smuggler_, and their skill in _Intimidation_ as the relevant skills and backgrounds to this situation.
 >
 > The gamemaster finds these appropriate to the situation, so they approve them.
 >
-> The player then rolls their 1d10 Charisma, 1d6 Intimidation, and 1d12 for this being relevant to their Smuggler background.
+> The player then rolls their 1d10 Presence, 1d6 Intimidation, and 1d12 for this being relevant to their Smuggler background.
 >
-> They roll a 2, a 1, and a 3 for a total of 6--  not a great roll. Fortunately, they have a +5 attribute modifier to their Charisma, bringing the total up to 11.
+> They roll a 2, a 1, and a 3 for a total of 6--  not a great roll. Fortunately, they have a +5 attribute modifier to their Presence, bringing the total up to 11.
 >
 > Unfortunately, the gamemaster knows that the player needed a 15 to convince this merchant, so the gamemaster determines the consequences of the player's action. Based on the player's use of the Intimidation skill on the merchant, the gamemaster decides that the merchant is going to start to get belligerent.
 

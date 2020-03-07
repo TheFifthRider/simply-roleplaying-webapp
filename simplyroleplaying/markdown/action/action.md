@@ -48,6 +48,8 @@ In addition, making sure that the enemies of the combat are clearly distinct so 
 The tide of lava rises, the rope bridges' tenuous connections begin to sever, the toxic gas flows under the door and across the room-- there are many times when observing strict rules for an action scenario would get in the way of the drama of the scene. A **freeform scenario** is any scenario that uses some, but not all, rules from other action scenarios to allow each character the freedom to act as would make sense to the scenario.
 
 
+
+
 ### Combat Scenario
 
 Combat scenarios are action scenarios that capture the strategy of battlefield tactics in a style familiar to most tabletop roleplaying enthusiasts. A round lasts ten seconds, and each turn allows a character to show off their capabilities by taking multiple actions in succession. [You can read more about Combat Scenarios here](/action/combat/).
