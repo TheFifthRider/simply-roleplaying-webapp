@@ -41,6 +41,8 @@ In most cases the gamemaster will determine what attribute(s) are applicable for
 >
 > Unfortunately, the gamemaster knows that the player needed a 15 to convince this merchant, so the gamemaster determines the consequences of the player's action. Based on the player's use of the Intimidation skill on the merchant, the gamemaster decides that the merchant is going to start to get belligerent.
 
+
+
 ### Aid
 
 Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their aid by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice up to the total amount allowed by their earned  [skill milestones](/character/milestones/) to use for the test.
