@@ -25,3 +25,4 @@ Carried equipment that provide protection, such as shields, also have both an at
 ### Armor value when Unarmored
 
 When a character has no armor on them, their armor value is equal to their passive agility or passive brawn, whichever is higher.
+
