@@ -16,7 +16,7 @@ If a character's stamina is reduced to zero, they immediately lose consciousness
 
 **Injuries** are lasting consequences from risks that characters have undertaken. Injuries range from sprains and bad bruising to broken bones and horrific burns. 
 
-Whenever a character suffers an injury, they write it down on their character sheet. A character can suffer <!-- 3 + will/5? --> injuries at most. Once they have suffered all possible injuries, the next injury they take will prove life threatening.
+Whenever a character suffers an injury, they write it down on their character sheet. A character can initially suffer 3 injuries-- the first one mild, the second one moderate, and the third one severe. Once they have suffered all possible injuries, the next injury they take will prove life threatening.
 
 <!-- Whenever a character attempts to do something  pertaining to an injury, they must spend a die on that injury. -->
 
