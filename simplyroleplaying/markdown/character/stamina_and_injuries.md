@@ -6,11 +6,9 @@
 
 ## Stamina
 
-**Stamina** is the amount of energy that a character has to handle particularly strenuous and dangerous things.
+**Stamina** is the amount of energy that a character has to handle strenuous and dangerous things. The amount of stamina a character has is initially calculated based on the die level of a character's brawn die as explained in [character creation](/character), then increases every [milestone](/character/milestones).
 
 If a character's stamina is reduced to zero, they immediately lose consciousness. Whenever a character suffers damage from an attack or risk, they are presented with a choice-- lose stamina equal to the damage dealt or recieve an injury.
-
-<!-- Stamina is a health bar based on Brawn. Players should be able to take about six hits before injuries, so high stamina characters should be around 50 to start and around 200 at max level (+2 skill dice, +15 brawn) -->
 
 
 
