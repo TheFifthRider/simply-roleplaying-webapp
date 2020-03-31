@@ -6,23 +6,25 @@
 
 ## Stamina
 
-**Stamina** is the amount of energy that a character has to handle strenuous and dangerous things. The amount of stamina a character has is initially calculated based on the die level of a character's brawn die as explained in [character creation](/character), then increases every [milestone](/character/milestones).
+**Stamina** is the amount of energy that a character has to handle strenuous and dangerous things. The amount of stamina a character has is initially calculated based on the die level of a character's brawn die as explained in [character creation](/character) and can be increased by [milestones](/character/milestones).
 
-If a character's stamina is reduced to zero, they immediately lose consciousness. Whenever a character suffers damage from an attack or risk, they are presented with a choice-- lose stamina equal to the damage dealt or recieve an injury.
+Whenever a character suffers damage from an attack or risk, they lose stamina equal to the damage of the attack. If the amout of damage exceeds their remaining stamina, they lose the rest of their stamina and take an injury.
 
 
 
 ## Injuries
 
-**Injuries** are any lasting physical or mental consequences that a character might suffer. An injury could be a sprain from blocking a crushing mace blow, the lack of clarity that comes after a sleepless night of inventing, or the infection from a rat bite. 
+**Injuries** are any lasting physical or mental consequences that a character might suffer. 
 
-Whenever a character suffers an injury, they write it down on their character sheet. A character can handle taking one mild injury, one moderate injury, and one serious injury. After that, the next injury they take will be a **life-threatening injury**.
+Characters start with a maximum number of injuries represented by blank lines on their character sheet. Whenever a character suffers an injury, one of the lines is filled in with a brief description of the injury-- a _fractured wrist_ from blocking a crushing mace blow, _sleep deprevation_ following a night of inventing, an _infected wound_ from a rat bite. Once all the lines are filled in, the next injury that the character recieves becomes a **life-threatening injury**.
 
-<!-- Whenever a character attempts to do something  pertaining to an injury, they must spend a die on that injury. -->
+Injuries stay on your character sheet until they heal. To heal an injury, it must first be treated. <!-- explain treating injuries- maybe this is what degrees of injuries should be for? Grades of healing supplies here maybe? -->
 
 
 
-### Recovering from Injuries
+## Recovering
+
+If a character spends at least an hour resting, they regain all of their lost stamina. If they spend at least four hours resting, for every four hours they spend resting they may erase one treated injury from their character sheet.
 
 <!-- injuries can be treated by knowledge. -->
 
