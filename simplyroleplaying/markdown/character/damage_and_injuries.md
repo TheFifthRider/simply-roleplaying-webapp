@@ -16,7 +16,23 @@ Whenever a character suffers damage from an attack or risk, they mark it down on
 
 Whenever a character suffers an injury, write a brief description of the injury on one of the blank injury lines on their character sheet. **Injuries** are any lasting physical or mental consequence that requires treatment, such as a _fractured wrist_ from blocking a crushing mace blow, _exhaustion_ following an inventing all-nighter, or a _bite to the bone_ from a rat.
 
-If a character takes an injury but has no blank injury lines, their existing wounds cause this next wound to become a **life-threatening injury**. Simply leaving this injury untreated may require [tests of brawn or will](/character/tests) from the character with the risk that the injury will worsen on its own. 
+### Life-threatening Injuries
+
+If a character suffers an injury but has no blank injury lines, the injury they suffer becomes a life-threatening injury. **Life-threatening injuries**, as the name implies, are any injury or condition that puts a character in mortal danger. _Bleeding out_, _example 2_, and _example 3_ are all examples of life-threatening injuries.
+
+Once a character has suffered a life-threatening injury, that injury must be treated quickly or they will die.
+
+<!-- tests of brawn/will to stay alive: death saving throws? tests with the danger of the injury itself dealing damage to them? -->
+
+<!-- test of knowledge to improvise or apply medical supplies to stabilize them -->
+
+<!-- once stabilized, the character needs rest to recover from their injuries -->
+
+<!-- taking damage while stabilized returns a character to an unstable state and they mark down the damage -->
+
+<!-- taking damage while unstable fills up damage gauge like normal-- taking an injury while unstable kills a character -->
+
+> 
 
 
 
