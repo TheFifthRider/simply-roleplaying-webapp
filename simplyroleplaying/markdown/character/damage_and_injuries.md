@@ -14,15 +14,17 @@ Whenever a character suffers damage from an attack or risk, they mark it down on
 
 ## Injuries
 
-Whenever a character suffers an injury, write a brief description of the injury on one of the blank injury lines on their character sheet. **Injuries** are any lasting physical or mental consequence that requires treatment, such as a _fractured wrist_ from blocking a crushing mace blow, _exhaustion_ following an inventing all-nighter, or a _bite to the bone_ from a rat.
+**Injuries** are lasting physical or mental consequence that bring a character closer to death. Whenever a character suffers an injury erase all damage taken so far, mark an injury box and, if the line next to it is blank, write a brief description of the injury.
 
-### Life-threatening Injuries
+While the gamemaster ultimately has final say over what the injury is, any player can offer a suggestion for what kind of an injury a character may have taken. Some examples of injuries are a _fractured wrist_ from blocking a crushing mace blow, _exhaustion_ following an inventing all-nighter, or a _shoulder bite to the bone_ from a rat of unusual size.
 
-If a character suffers an injury but has no blank injury lines, the injury they suffer becomes a life-threatening injury. **Life-threatening injuries**, as the name implies, are any injury or condition that puts a character in mortal danger. _Bleeding out_, _example 2_, and _example 3_ are all examples of life-threatening injuries.
+### Life-threatening injuries
 
-Once a character has suffered a life-threatening injury, that injury must be treated quickly or they will die.
+If a character suffers an injury but all of their injury boxes are marked, their accumulated injuries become life-threatening.  Mark the **dying** box on your character sheet and erase all damage you've taken so far. If a character who is dying suffers enough damage to take an injury, they die.
 
-<!-- tests of brawn/will to stay alive: death saving throws? tests with the danger of the injury itself dealing damage to them? -->
+If a character who is dying does not suffer enough damage to take an injury within <time>, they stabilize. Erase the dying box on the character sheet.
+
+<!-- tests of brawn/will to stay alive: tests with the danger of the injury itself dealing damage to them, should be percentage based-- limit the tension to five rolls max -->
 
 <!-- test of knowledge to improvise or apply medical supplies to stabilize them -->
 
@@ -32,14 +34,12 @@ Once a character has suffered a life-threatening injury, that injury must be tre
 
 <!-- taking damage while unstable fills up damage gauge like normal-- taking an injury while unstable kills a character -->
 
-> 
-
 
 
 ## Recovering
 
-If a character spends at least <an hour> resting they erase all of their accumulated damage. Whenever the character spends at least <eight hours> resting, they may erase all of their injuries from their character sheet.
+If a character spends **a short time** resting they erase all of their accumulated damage. Whenever the character spends at least **an extended period of time** resting, they may erase all marked injury boxes on their character sheets. If the rest was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around-- recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury.
+
+### Recovering from life-threatening injuries
 
 Characters with life-threatening injuries must have those treated before any of their wounds can be erased. What is required to treat a life-threatening injury is based on the injury received, but many require a [test of knowledge](/character/tests) to apply lifesaving medicine or bandages. Even once they've been treated, life-threatening injuries often leave trauma, a permanent scar, or a crippled limb on the character who suffered them-- a reminder of their brush with death.
-
-From a roleplaying perspective, erasing wounds from your character sheet doesn't mean those wounds have completely healed-- just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury. When a character who is still healing suffers an injury, it can sometimes be more interesting or dramatic to have the injury suffered be a once-treated injury that has worsened to the point of again being a danger.
