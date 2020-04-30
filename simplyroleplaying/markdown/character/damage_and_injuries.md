@@ -18,11 +18,19 @@ Whenever a character suffers damage from an attack or risk, they mark it down on
 
 While the gamemaster ultimately has final say over what the injury is, any player can offer a suggestion for what kind of an injury a character may have taken. Some examples of injuries are a _fractured wrist_ from blocking a crushing mace blow, _exhaustion_ following an inventing all-nighter, or a _shoulder bite to the bone_ from a rat of unusual size.
 
-### Life-threatening injuries
 
-If a character suffers an injury but all of their injury boxes are marked, their accumulated injuries become life-threatening.  Mark the **dying** box on your character sheet and erase all damage you've taken so far. If a character who is dying suffers enough damage to take an injury, they die.
 
-If a character who is dying does not suffer enough damage to take an injury within <time>, they stabilize. Erase the dying box on the character sheet.
+### Dying
+
+If a character suffers an injury but all of their injury boxes are marked, their accumulated injuries become life-threatening.  Mark the **dying** box on your character sheet and erase all damage you've taken so far. While dying, a character either loses consciousness or becomes otherwise helpless, and is unable to move or act like they normally would until they stabilize.
+
+If a character who is dying suffers enough damage to take an injury, they die.
+
+
+
+### Stabilizing
+
+Every 10 seconds, a character who is dying will either get closer to death or stability. <Death saving throw of sorts>. If a character who is dying does not suffer enough damage to take an injury after 30 seconds, they stabilize. Erase the mark from the dying box on the character sheet.
 
 <!-- tests of brawn/will to stay alive: tests with the danger of the injury itself dealing damage to them, should be percentage based-- limit the tension to five rolls max -->
 
