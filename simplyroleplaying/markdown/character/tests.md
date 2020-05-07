@@ -51,12 +51,6 @@ All characters who aid in the test help the tested character reach their goal, m
 
 
 
-### Hinderances
-
-
-
-
-
 ### Outcomes
 
 Once the attribute, backgrounds, and skills are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the skill test they do whatever they set out to do and have minimized any associated risk. If a character's roll does not meet the difficulty of the test, things get complicated. That doesn't necessarily mean that they don't accomplish their goal, but there will be certainly be dramatic consequences.

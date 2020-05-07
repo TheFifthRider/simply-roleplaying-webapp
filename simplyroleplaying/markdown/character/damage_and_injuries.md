@@ -1,9 +1,5 @@
 # Damage and Injuries
 
-<!-- why have health tho? -->
-
-<!-- Tension is necessary for drama. Nothing is more exciting than overcoming an obstacle where failure would have meant death. However, death from a single obstacle is unfulfilling-- we feel cheated when a single pit of spikes skewers our hero of the past several hours in the space of ten fateful seconds, particularly if we play that hero. -->
-
 ## Damage
 
 **Damage** is the amount of energy that a character has to handle strenuous and dangerous things. The maximum amount of damage a character can sustain is calculated based on the die level of a character's brawn die as explained in [character creation](/character) and can be increased by [milestones](/character/milestones).
@@ -22,32 +18,12 @@ While the gamemaster ultimately has final say over what the injury is, any playe
 
 ### Dying
 
-If a character suffers an injury but all of their injury boxes are marked, their accumulated injuries become life-threatening.  Mark the **dying** box on your character sheet and erase all damage you've taken so far. While dying, a character either loses consciousness or becomes otherwise helpless, and is unable to move or act like they normally would until they stabilize.
-
-If a character who is dying suffers enough damage to take an injury, they die.
-
-
-
-### Stabilizing
-
-Every 10 seconds, a character who is dying will either get closer to death or stability. <Death saving throw of sorts>. If a character who is dying does not suffer enough damage to take an injury after 30 seconds, they stabilize. Erase the mark from the dying box on the character sheet.
-
-<!-- tests of brawn/will to stay alive: tests with the danger of the injury itself dealing damage to them, should be percentage based-- limit the tension to five rolls max -->
-
-<!-- test of knowledge to improvise or apply medical supplies to stabilize them -->
-
-<!-- once stabilized, the character needs rest to recover from their injuries -->
-
-<!-- taking damage while stabilized returns a character to an unstable state and they mark down the damage -->
-
-<!-- taking damage while unstable fills up damage gauge like normal-- taking an injury while unstable kills a character -->
+If a character suffers an injury but all of their injury boxes are marked, their accumulated injuries become life-threatening.   When your injuries get this bad, they tend to come with trauma, permanent scars, or crippled limbs. Mark the **dying** box on your character sheet and erase all damage you've taken so far. If a character who is dying suffers enough damage to take an injury, they die.
 
 
 
 ## Recovering
 
-If a character spends **a short time** resting they erase all of their accumulated damage. Whenever the character spends at least **an extended period of time** resting, they may erase all marked injury boxes on their character sheets. If the rest was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around-- recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury.
+If a character spends **a short time** resting they erase all of their accumulated damage. Whenever the character spends at least **an extended period of time** resting, they may erase all marked injury boxes on their character sheets.
 
-### Recovering from life-threatening injuries
-
-Characters with life-threatening injuries must have those treated before any of their wounds can be erased. What is required to treat a life-threatening injury is based on the injury received, but many require a [test of knowledge](/character/tests) to apply lifesaving medicine or bandages. Even once they've been treated, life-threatening injuries often leave trauma, a permanent scar, or a crippled limb on the character who suffered them-- a reminder of their brush with death.
+If the rest was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around-- recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury. If you need to check that injury box again, it means those wounds reopened.
