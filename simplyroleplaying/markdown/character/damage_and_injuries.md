@@ -27,3 +27,9 @@ If a character suffers an injury but all of their injury boxes are marked, their
 If a character spends **a short time** resting they erase all of their accumulated damage. Whenever the character spends at least **an extended period of time** resting, they may erase all marked injury boxes on their character sheets.
 
 If the rest was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around-- recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury. If you need to check that injury box again, it means those wounds reopened.
+
+
+
+### Healing
+
+Healing is a way of expediting the process of recovery. If a character receives medical treatment for one of their injuries over **a short time** they may erase the marked injury box from their character sheet in addition to erasing all of their accumulated damage. Your gamemaster may rule that a character must have access to medical supplies appropriate for treating the injury and/or that they must make a test of knowledge to treat the injury.
