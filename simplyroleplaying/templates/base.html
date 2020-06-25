@@ -12,27 +12,36 @@
 {% block styles %}
     {{super()}}
     <link rel="stylesheet" type="text/css"
-          href="{{url_for('static', filename='styles.css')}}">
+          href="{{url_for('styles', filename='styles.css')}}">
     <link rel="stylesheet" type="text/css"
-          href="{{url_for('static', filename='navbar.css')}}">
+          href="{{url_for('styles', filename='content.css')}}">
+    <link rel="stylesheet" type="text/css"
+          href="{{url_for('styles', filename='navbar.css')}}">
     <link rel="icon" type="image/png"
-          href="{{url_for('static', filename='icon.png')}}">
+          href="{{url_for('logos', filename='SRP_Favicon_Monogram.png')}}">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel&display=swap" rel="stylesheet">
 {% endblock %}
 
 {% block navbar -%}
-<div id="nav-wrapper">
 {{nav.navbar.render(renderer='custom')}}
-</div>
 {%- endblock navbar %}
 
 {% block content -%}
-<div id="content">
+<div class="content">
+  {% filter markdown %}
   {% block pageContent %}
-    <h1>{{headerText}}</h1>
+{{ fileContents }}
   {% endblock pageContent %}
+  {% endfilter %}
 </div>
 {%- block footer %}
-<footer>Simply Roleplaying &copy; 2017 Richard Otte</footer>
+<footer>
+    <p>Found a bug? Interested in what's next? <strong><a href="https://github.com/TheFifthRider/simply-roleplaying-webapp">Visit Simply Roleplaying on GitHub!</a></strong></p>
+    <p>Simply Roleplaying favicon and logo design by Anneke Weweler</p>
+    <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
+      <a rel="cc:attributionURL" href="http://simplyroleplaying.com"><span rel="dct:title">Simply Roleplaying</span></a> by <span rel="cc:attributionName">Richard Otte</span> and all related images and iconography are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a>
+    </p>
+</footer>
 {%- endblock footer %}
 {%- endblock content %}
 
@@ -40,11 +49,31 @@
 {#  MACROS                                                                    #}
 {# -------------------------------------------------------------------------- #}
 
-{% macro renderDefaultTable(name, cells, class='left') -%}
+{% macro align(alignment, markdown, extraclasses='') -%}
+<div class="align{{ alignment }} {{ extraclasses }}">
+{% filter markdown -%}
+{{ markdown }}
+{%- endfilter %}
+</div>
+{%- endmacro %}
+
+{% macro inlineIcon(alt, url, markdown) -%}
+<div class="valignmiddle">
+<img class="icon" src="{{ url }}" alt="{{ alt }}" />
+<div>
+{% filter markdown %}
+{{ markdown }}
+{% endfilter %}
+</div>
+</div>
+{%- endmacro %}
+
+{% macro renderDefaultTable(name, cells, class='alignleft') -%}
 {{ renderTable(name, cells, class) }}
 {%- endmacro %}
 
-{% macro renderTable(name, cells, class='left', rowHeaders=false, columnHeaders=true,  cellRenderer=renderCell, rowRenderer=renderRow) -%}
+{% macro renderTable(name, cells, class='alignleft', rowHeaders=false, columnHeaders=true,  cellRenderer=renderCell, rowRenderer=renderRow) -%}
+<div class="notextwrapping">
 <table border="1" class="{{ class }}">
 <thead>
 <tr><th colspan="100%">{{ name }}</th></tr>
@@ -58,6 +87,7 @@
 {%- endif %}
 {%- endfor %}
 </table>
+</div>
 {%- endmacro %}
 
 {% macro renderRow(row, rowHeaders, cellRenderer) -%}
@@ -77,6 +107,6 @@
 {{ cell }}
 {%- endmacro %}
 
-{% macro renderDefault2DTable(name, cells, class='left') -%}
+{% macro renderDefault2DTable(name, cells, class='alignleft') -%}
 {{ renderTable(name, cells, class, true, true) }}
 {%- endmacro %}

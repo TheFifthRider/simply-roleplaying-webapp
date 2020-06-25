@@ -1,8 +1,11 @@
-from flask import Flask, render_template
+import os
+
+from flask import Flask, render_template, send_from_directory
 from flask_bootstrap import Bootstrap
 from flask_nav import register_renderer
 from flask_nav.elements import Navbar, View, Subgroup
 from flask_heroku import Heroku
+from flaskext.markdown import Markdown
 
 from .nav import nav
 from .nav import CustomRenderer
@@ -10,113 +13,169 @@ from .nav import CustomRenderer
 srp = Flask(__name__)
 Bootstrap(srp)
 Heroku(srp)
+Markdown(srp)
 nav.init_app(srp)
 register_renderer(srp, 'custom', CustomRenderer)
 nav.register_element('navbar', Navbar(
     View('Home', '.index'),
     Subgroup('Character',
-        View('Character Creation', '.startingCharacterCreation'),
-        View('Stats', '.stats'),
-        View('Advantages and Disadvantages', '.advantagesAndDisadvantages'),
-        View('Character Growth', '.characterGrowth'),
-    ),
-    Subgroup('Combat',
-        View('Combat Flow', '.combat'),
-        View('Weapons', '.weapons'),
-        View('Armor', '.armor'),
-        View('Healing', '.healing'),
-    ),
+             View('Character Creation', '.character_creation'),
+             View('Attributes', '.attributes'),
+             View('Skills and Backgrounds', '.skills'),
+             View('Tests of Ability', '.tests'),
+             View('Growth and Milestones', '.milestones'),
+             View('Advantages and Disadvantages', '.advantages_and_disadvantages'),
+             ),
+    Subgroup('Action',
+             View('Action Scenarios', '.action'),
+             View('Combat Scenarios', '.combat'),
+             View('Racing Scenarios', '.racing'),
+             View('Weapons', '.weapons'),
+             View('Techniques', '.techniques'),
+             View('Armor', '.armor'),
+             View('Healing', '.healing'),
+             ),
     View('Magic', '.magic'),
     Subgroup('World',
-        View('Money', '.worldMoney'),
-        View('Races', '.worldRaces'),
-        View('Religions', '.worldReligions'),
-    ),
-    ))
+             View('Overview', '.world_overview'),
+             View('Races', '.world_races'),
+             View('Religions', '.world_religions'),
+             ),
+))
+
+
+@srp.route('/static/styles/<path:filename>')
+def styles(filename):
+    return send_from_directory('static/styles', filename)
+
+
+@srp.route('/static/logos/<path:filename>')
+def logos(filename):
+    return send_from_directory('static/logos', filename)
+
+
+@srp.route('/static/icons/<path:filename>')
+def icons(filename):
+    return send_from_directory('static/icons', filename)
+
 
 @srp.route("/")
 def index():
-    headerText="Welcome to the Simply Roleplaying system!"
-    pageTitle="Home"
-    return render_template('index.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Welcome to Simply Roleplaying!"
+    page_title = "Home"
+    return render_template('index.html', headerText=header_text, pageTitle=page_title)
 
-@srp.route("/character/creation/")
-def startingCharacterCreation():
-    headerText="Character Creation"
-    pageTitle="Character Creation"
-    return render_template('character_creation/starting_creation.html', headerText=headerText, pageTitle=pageTitle)
 
-@srp.route("/character/stats/")
-def stats():
-    headerText="Stats"
-    pageTitle="Stats"
-    return render_template('character_creation/determining_stats.html', headerText=headerText, pageTitle=pageTitle)
+@srp.route("/character")
+def character_creation():
+    return render_markdown('character/creation.md')
 
-@srp.route("/character/advantages_and_disadvantages/")
-def advantagesAndDisadvantages():
-    headerText="Advantages and Disadvantages"
-    pageTitle="Advantages and Disadvantages"
-    return render_template('character_creation/advantages_and_disadvantages.html', headerText=headerText, pageTitle=pageTitle)
 
-@srp.route("/character/growth/")
-def characterGrowth():
-    headerText="Character Growth"
-    pageTitle="Character Growth"
-    return render_template('character_creation/character_growth.html', headerText=headerText, pageTitle=pageTitle)
+@srp.route("/character/attributes")
+def attributes():
+    return render_markdown('character/attributes.md')
 
-@srp.route("/combat/")
+
+@srp.route("/character/skills")
+def skills():
+    return render_markdown('character/skills.md')
+
+
+@srp.route("/character/tests")
+def tests():
+    return render_markdown('character/tests.md')
+
+
+@srp.route("/character/milestones")
+def milestones():
+    return render_markdown('character/milestones.md')
+
+
+@srp.route("/character/advantages_and_disadvantages")
+def advantages_and_disadvantages():
+    return render_markdown('character/advantages_and_disadvantages.md')
+
+
+@srp.route("/action")
+def action():
+    return render_markdown('action/action.md')
+
+
+@srp.route("/action/combat")
 def combat():
-    headerText="Combat Basics"
-    pageTitle="Combat Basics"
-    return render_template('combat_and_equipment/combat.html', headerText=headerText, pageTitle=pageTitle)
+    return render_markdown('action/combat.md')
 
-@srp.route("/combat/weapons/")
+
+@srp.route("/action/racing")
+def racing():
+    header_text = "Racing"
+    page_title = "Racing"
+    return render_template('combat_and_equipment/racing.html', headerText=header_text, pageTitle=page_title)
+
+
+@srp.route("/action/weapons")
 def weapons():
-    headerText="Weapons"
-    pageTitle="Weapons"
-    return render_template('combat_and_equipment/weapons.html', headerText=headerText, pageTitle=pageTitle)
+    return render_markdown('action/weapons.md')
 
-@srp.route("/combat/armor/")
+
+@srp.route("/action/techniques")
+def techniques():
+    header_text = "Combat Techniques"
+    page_title = "Combat Techniques"
+    return render_template('combat_and_equipment/techniques.html', headerText=header_text, pageTitle=page_title)
+
+
+@srp.route("/action/armor")
 def armor():
-    headerText="Armor"
-    pageTitle="Armor"
-    return render_template('combat_and_equipment/armor.html', headerText=headerText, pageTitle=pageTitle)
+    return render_markdown('action/armor.md')
 
-@srp.route("/combat/healing/")
+
+@srp.route("/combat/healing")
 def healing():
-    headerText="Healing"
-    pageTitle="Healing"
-    return render_template('combat_and_equipment/healing.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Healing"
+    page_title = "Healing"
+    return render_template('combat_and_equipment/healing.html', headerText=header_text, pageTitle=page_title)
 
-@srp.route("/magic/")
+
+@srp.route("/magic")
 def magic():
-    headerText="Simply Magic"
-    pageTitle="Simply Magic Module"
-    return render_template('magic.html', headerText=headerText, pageTitle=pageTitle)
+    header_text = "Simply Magic"
+    page_title = "Simply Magic Module"
+    return render_template('magic.html', headerText=header_text, pageTitle=page_title)
 
-@srp.route("/world/")
-def worldOverview():
-    headerText="Earth: The Forgotten Times"
-    pageTitle="World Overview"
-    return render_template('earth_the_forgotten_times/overview.html', headerText=headerText, pageTitle=pageTitle)
 
-@srp.route("/world/money/")
-def worldMoney():
-    headerText="Money"
-    pageTitle="Money"
-    return render_template('earth_the_forgotten_times/money.html', headerText=headerText, pageTitle=pageTitle)
+@srp.route("/world")
+def world_overview():
+    return render_markdown('worlds/earth_the_forgotten_times/overview.md')
 
-@srp.route("/world/races/")
-def worldRaces():
-    headerText="The Races of Earth: The Forgotten Times"
-    pageTitle="Races - Earth: The Forgotten Times"
-    return render_template('earth_the_forgotten_times/races.html', headerText=headerText, pageTitle=pageTitle)
 
-@srp.route("/world/religions/")
-def worldReligions():
-    headerText="The Religions of Earth: The Forgotten Times"
-    pageTitle="Religions - Earth: The Forgotten Times"
-    return render_template('earth_the_forgotten_times/religions.html', headerText=headerText, pageTitle=pageTitle)
+@srp.route("/world/races")
+def world_races():
+    header_text = "The Races of Earth: The Forgotten Times"
+    page_title = "Races - Earth: The Forgotten Times"
+    return render_template('earth_the_forgotten_times/races.html', headerText=header_text, pageTitle=page_title)
+
+
+@srp.route("/world/religions")
+def world_religions():
+    header_text = "The Religions of Earth: The Forgotten Times"
+    page_title = "Religions - Earth: The Forgotten Times"
+    return render_template('earth_the_forgotten_times/religions.html', headerText=header_text, pageTitle=page_title)
+
+
+def render_markdown(path_to_markdown):
+    resolved_path_to_markdown = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'markdown/' + path_to_markdown)
+    with open(resolved_path_to_markdown, 'r') as file:
+        for line in file:
+            stripped_line = line.strip()
+            if stripped_line.startswith('# '):
+                page_title = stripped_line.strip('# ')
+                break
+
+    with open(resolved_path_to_markdown, 'r') as file:
+        file_contents = file.read()
+        return render_template('base.html', pageTitle=page_title, fileContents=file_contents)
+
 
 if __name__ == "__main__":
-  srp.run()
+    srp.run()
