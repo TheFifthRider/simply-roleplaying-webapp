@@ -23,6 +23,7 @@ nav.register_element('navbar', Navbar(
              View('Attributes', '.attributes'),
              View('Skills and Backgrounds', '.skills'),
              View('Tests of Ability', '.tests'),
+             View('Downtime', '.downtime'),
              View('Growth and Milestones', '.milestones'),
              View('Advantages and Disadvantages', '.advantages_and_disadvantages'),
              ),
@@ -84,6 +85,11 @@ def skills():
 @srp.route("/character/tests")
 def tests():
     return render_markdown('character/tests.md')
+
+
+@srp.route("/character/downtime")
+def downtime():
+    return render_markdown('character/downtime.md')
 
 
 @srp.route("/character/milestones")

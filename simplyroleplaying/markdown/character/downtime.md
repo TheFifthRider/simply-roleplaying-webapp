@@ -1,39 +1,46 @@
 # Between Adventures
 
-Downtime is a period of rest in which a character has enough time to pursue productive ends. A period of downtime is measured in 4 hour <!-- renameMe -->s during which you can focus on the activity that you are working on and that you have the proper tools and space to work in. As downtime activities become more complex, they will have more stringent requirements.
+Downtime is a period of rest in which a character has enough time to pursue productive ends. Usually this is a period of at least four hours in which a character can focus on the activity without significant distractions. Some downtime activities are quite simple, while others have requirements such as tools or a space to work in.
 
-<!-- ex: In the enchanting case, simple, temporary enchantments can be done on the road, but more permanent ones will require renting a space in a city or being somewhere that you have access to an enchanting workstation, like the temple under Hierusmont. -->
+When characters have more than four hours of downtime available to them, the gamemaster may rule that characters can perform multiple downtime actions over the duration.
 
-## Downtime over extended periods of time
 
-Sometimes characters have more than four hours to work with. <!--  If you  spend a full day or an all-nighter working on something, that will advance you three "nights" of work on the project. If you pull a full day+all-nighter, you get advanced six. If you pull an all-nighter you do not sleep that night and will likely have a penalty for the following day. Multiple all-nighters in a row can lead to more serious complication -->
 
 ## Training
 
-One <!-- renameMe --> of downtime can be spent with the proper materials to train. More details on training can be found in the section on [Skills and Backgrounds](/character/skills).
+Provided that you have access to training materials or a trainer, downtime can be spent to train a skill. More details on training can be found in the Training section of [Skills and Backgrounds](/character/skills).
+
+
 
 ## Crafting
 
-Crafting is an example of a downtime activity. Crafting projects have three components-- **Difficulty**, **Materials**, and **Time**.
+Crafting is an umbrella term for any downtime activity that allows characters to create or modify items. While it's not always necessary, it's recommended for players and gamemasters to collaborate to create crafting "recipes" of material requirements and a written out [Test of Ability](/character/tests) with a goal of making progress towards creating or modifying a specific item. These recipes can also have any particular tools or environments that are required for creating an item.
 
-### Time
+Here's an example recipe for a sleep poison:
 
-Simply, the number of downtime periods required to complete the project. <!-- Measure of progress -- success = 2, failure = 1, crit s = 3, crit fail = 0 -->
+>  ### Sleep Poison
+>
+>   A living creature that is wounded by a weapon coated in a dose of this poison must make a difficulty 20 test of Brawn or be poisoned for 1 hour. The poisoned target is unconscious for the duration, unless woken by violent force or given medical attention to remove the poison.
+>   
+>   
+>
+>  #### Making Sleep Poison
+>
+>  * Requires uncommon Alchemical supplies found in <biome>. Can be purchased for 2sp.
+>
+>  _Difficulty **15** Test of **Knowledge**_
+>
+>  ****
+>
+>  **Goal:** Creating as many doses of sleep poison as possible
+>
+>  **Risk:** Messing up and producing fewer doses or creating something entirely different from what you intended
+>
+>  ****
+>
+>  * **On a critical failure:** you've created **1 dose of questionable liquid**. It might be Sleep Poison. Your gamemaster will tell you what it does when it's used.
+>* **On a failure:** you mess things up somehow, but you still create **1 dose of Sleep Poison**
+>  * **On a success:** crafting goes without issue, you create **2 doses of Sleep Poison**
+>* **On a critical success:** not only do you craft the doses successfully, but you're able to squeeze an extra one through precision use of your materials. You create **3 doses of Sleep Poison**
 
-### Difficulty
 
-The crafting DC that you'll need to move the project forward. Succeeding at this dramatically can improve the craftsmanship. If you want, failing at this dramatically can also decrease the craftsmanship/make you trash the project, but I don't know that I want to incorporate punitive mechanics into crafting. 
-
-### Material
-
-Materials come in three grades -- **Common**, **Rare**, and **Legendary**.
-
-<!-- matrix -->
-
-For magic items, common materials tend to cost 1sp, Rare materials tend to cost 100sp, and legendary materials tend to be only acquirable by questing for them yourself. 
-
-
-
-
-
-**Sleep Poison Recipe** [15 Difficulty - common materials - 1 downtime]
