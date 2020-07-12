@@ -1,75 +1,128 @@
 # Weapons
 
-Weapons are any carried equipment used to attack another character from table legs to semi-automatic rifles. Each weapon has an attribute associated with it based on how the weapon is used to attack. 
-
-_Brawn_ weapons are often heavy or strenuous to operate effectively, demanding great strength from their wielder and rewarding them with crushing blows. _Agility_ weapons are often light or rely on precision, perfect for characters with the skill to wound their opponent where it is most devastating. Depending on your setting, there may even be _charisma_, _intuition_, and _knowledge_ based weapons.
-
-Each weapon also has a **quality modifier** based on the craftsmanship, materials, and renown of the weapon that ranges from +0 to +9.
-
- 
+Weapons are any carried equipment used to attack another character, from table legs to semi-automatic rifles. Weapons have **tags** to describe how they work. Every weapon has at least one **attribute tag** to indicate which attributes can be used to make attacks with it and at least one **range tag** to describe how far away the weapon's target can be.
 
 
 
 ## Attacking with a Weapon
 
-To attack another character with a weapon is a special [test of ability](/character/tests) with the attribute associated with the weapon. In addition to the attribute modifier and dice rolled, the attacker also adds their weapon's quality modifier and compares it to the difficulty of the test-- the [armor value](/action/armor/) of the target.
+Attacking with a weapon is a [test of ability](/character/tests). The attribute for the test can be any of the attributes that the weapon is tagged with, and the difficulty of the test is the [armor value](/action/armor/) of the target. Success on the test means dealing damage equal to the amount the attacker rolled, a critical success means double damage, a failure means half damage, and a critical failure means do damage at all.
 
-**If the attacker succeeds** the defender takes damage equal the attacker's total for the test. <!-- TODO: This should be a link to the health page-- maybe fold that together with healing and put it in character? -->
+As an example, here's the test for attacking an armor value 15 target using a greatsword with the tags _brawn_, _melee_, _large_, _cleaving_, and _slashing_:
 
-**If the attacker critically succeeds** the defender takes damage equal to double the attacker's total for the test.
+>  **Attacking with a Greatsword**
+>
+>  _Difficulty **15** Test of **Brawn**_
+>
+>  ****
+>
+>  **Goal:** Striking the target and inflicting injury
+>
+>  **Risk:** Not inflicting any damage <!-- TODO: Review, what really is the risk here? Is it really just not inflicting as much damage as hoped? -->
+>
+>  ****
+>
+>  * **On a critical success:** the target [takes damage](/character/damage_and_injuries) equal to double the attacker's total for the test.
+>* **On a success:** the target [takes damage](/character/damage_and_injuries) equal the attacker's total for the test.
+>  * **On a failure:** the target [takes damage](/character/damage_and_injuries) equal to half of the attacker's total for the test, rounded down.
+>* **On a critical failure:** the target takes no damage.
 
-**If the attacker fails** the defender takes damage equal to half of the attacker's total for the test, rounded down. <!-- TODO: And? -->
+### Improvised Weapons
 
-**If the attacker critically fails** the defender takes no damage. <!-- TODO: And? -->
+Sometimes, it makes sense that a character can attack with an object not intended to be a weapon or with a weapon in a way that it's not intended to be used. Examples of this could be using a table leg as a cudgel, throwing a maul, or bashing with the butt of a sniper rifle. Attacking in this way technically may violate the range or attributes tagged on the weapon, but should always be possible.
 
+Your gamemaster may rule that **a character can use a weapon or object to attack with whatever attribute makes sense for the situation** but this improvised weapon carries an additional **risk of being damaged, destroyed, or otherwise lost** in test of ability associated with the attack. For more on risks, see [Making Good Tests](/character/tests#Making%20Good%20Tests). In addition, **the gamemaster may say that some tags on the weapon do not apply**-- bashing with the butt of a rifle, for instance, would likely not benefit from the rifle's quality tag, since the quality likely refers to how well it fires its rounds.
 
+As an example, here's a possible test for attacking an armor value 15 target using the butt of a sniper rifle with the tags _agility_, _long-range_, _large_, and _precision_:
 
-<!-- TODO: Do we care about size and style anymore? See old combat page-->
-
-<!-- Weapons in Simply Roleplaying come in many different varieties, and are specifically categorized by their size and the style of the weapon. Any weapon should be able to be categorized in this way. -->
-<!-- In terms of size, small weapons should be able to be wielded with one hand and nearly impossible to be wielded with two. Daggers, miniature crossbows, pistols, and brass knuckles are typically considered to be small weapons. Large weapons, on the other hand, typically require two hands to hold them. Rocket launchers, mauls, longbows, and staves are typically considered to be large weapons. Medium weapons are the weapons that end up between those two categories. Longswords, many rifles, police batons, and crossbows are typically considered to be medium weapons.-->
-
-<!-- ## Melee Weapons -->
-
-<!-- Melee weapons have six possible styles; Improvised, Battering, Hooking, Slashing, Impaling, and Cleaving. Battering weapons are typically blunt instruments, such as staves, batons, and maces. Hooking weapons are curved blades that necessitates the wielder making hooking motions when they attack, such as sickles, scythes, and some curved blades. Slashing weapons are any types of weapons used in a slashing manner, such as katanas, hunting knives, or longswords. Impaling weapons are weapons that are used with stabbing motions, like rapiers, bayonets, and spears. Cleaving weapons are typically heavy, bladed instruments that are swung with a chop, like axes and cleavers. Improvised melee weapons are typically either weaponized objects that are not intended to be used as weapons, ranged weapons used in a melee fashion, or melee weapons used in an unintended way. Examples of improvised melee weapons are table legs, bashing with the butt of a rifle, or hitting someone with the flat of your blade. See table C1 below for melee weapon damage by style and size. -->
-
-<!-- {{ renderWeaponTable("Melee Weapon Damage Table",
-   [
-   ["",       "Improvised", "Battering", "Cleaving", "Hooking", "Slashing", "Impaling"],
-   ["Small",  [1,3,4],      [4,4,5],     [3,4,6],   [2,4,7],    [2,3,8],    [1,3,9]   ],
-   ["Medium", [2,3,5],      [5,5,6],     [4,5,7],   [3,5,8],    [3,4,9],    [2,4,10]  ],
-   ["Large",  [3,4,8],      [6,8,11],    [5,8,12],  [4,8,13],   [4,7,14],   [3,7,15]  ]
-   ])
- }} -->
-
-<!-- ## Ranged Weapons -->
-
-<!-- Ranged weapons function similarly to melee weapons, but have different styles. The five ranged weapon styles are Improvised, Payload, Precision, Repeating, and Spread. A Payload ranged weapon is something that delivers a heavy or explosive charge, like a grenade launcher or a cannon. A Precision ranged weapon is something that fires typically one round with a lot of power behind the shot, like a crossbow or a semi-automatic rifle. A Repeating ranged weapon is something that fires in clusters, like spears from a Hwacha or a burst from an automatic rifle. A Spread ranged weapon is something that typically fires some kind of shrapnel instead of an individual shot, like a shotgun or a sling filled with gravel. Improvised ranged weapons are typically either objects that fire projectiles but are not intended to be used as weapons, thrown weapons that are not intended to be thrown, or ranged weapons used in an unintended way. Examples of improvised ranged weapons are modified tranquilizer guns, a thrown battleaxe, and bashing with the butt of a rifle. See table C2 for ranged weapon damage by style and size. -->
+>  **Attacking with the Butt of a Sniper Rifle**
+>
+>  _Difficulty **15** Test of **Brawn**_
+>
+>  ****
+>
+>  **Goal:** Striking the target and inflicting injury
+>
+>  **Risk:** Not inflicting any damage, breaking or damaging the Sniper Rifle <!-- TODO: Review, what really is the risk here? Is it really just not inflicting as much damage as hoped? -->
+>
+>  ****
+>
+>  * **On a critical success:** the target [takes damage](/character/damage_and_injuries) equal to double the attacker's total for the test.
+>* **On a success:** the target [takes damage](/character/damage_and_injuries) equal the attacker's total for the test.
+>  * **On a failure:** the target [takes damage](/character/damage_and_injuries) equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.
+>* **On a critical failure:** the target takes no damage and the sniper rifle gets bent or broken in the scuffle and requires repairs.
 
 
 
-<!-- TODO: Rework range increments-- this is way too complicated lmao -->
+## Weapon Tags
 
-<!-- In addition, ranged weapons can be fired over varying ranges. Each ranged weapon typically has two distance values, a **close range distance** (typically 15m), an **effective range**, and a **maximum range**. When entering any combat, any character wielding a ranged weapon must choose whether they are aiming for close or distant targets. **Close range** firing allows the character to move and attack targets freely, as long as those targets are within their weapon's minimum range. **Long range** firing allows the character to fully utilize the effective and maximum range of their weapon by focusing further away from them, slowing their movement speed to half of their normal speed (Rules for speed are detailed on the [armor page).]({{url_for('armor')}}) While firing at long range, a ranged weapon can be used to attack any target closer than the weapon's maximum range. However, if the target is closer than the weapon's minimum range or beyond the weapon's effective range, the wielder must min their stat die for accuracy checks. -->
+### Attribute Tags
 
-<!-- {{ renderWeaponTable("Ranged Weapon Damage Table",
-    [
-    ["",       "Improvised", "Payload", "Precision", "Repeating", "Spread"],
-    ["Small",  [1,3,4],      [3,4,6],     [2,4,7],   [2,3,8],    [1,3,9]  ],
-    ["Medium", [2,3,5],      [4,5,7],     [3,5,8],   [3,4,9],    [2,4,10] ],
-    ["Large",  [3,4,8],      [5,8,12],    [4,8,13],  [4,7,14],   [3,7,15] ]
-    ])
-  }} -->
+Most historical weapons would have some combination of Agility and Brawn tags, however depending on your setting it's possible for weapons to have Intuition, Knowledge, Presence, and Will tags as well. It's not necessary for every setting to have weapons for every attribute, but both the players and the GM should be on the same page regarding which attributes are most commonly tagged on weapons in the GM's setting.
 
-<!-- ## Elemental Weapons -->
+* **Agility**
+  Weapons with this tag are often light, compact, and easy to swing swiftly or rely on manual precision to operate effectively. _Bows_, _scimitars_, _sniper rifles_, and _pistols_ often have the Agility tag.
+* **Brawn**
+  Weapons with this tag are often heavy or strenuous to operate effectively. _Mauls_, _axes_, _grenade launchers_, and _shotguns_ often have the Brawn tag.
+* **Intuition**
+  Weapons with this tag are often foreign or complicated in inconsistent ways, requiring keen adaptability to operate effectively. _Alien technology_ and _mental magic catalysts_ often have the Intuition tag.
+* **Knowledge**
+  Weapons with this tag are often exceptionally complicated, effectively operated by someone thoroughly trained in how the weapon works. _Mad science gadgets_, _ancient rituals_, and _physical magic catalysts_ often have the Knowledge tag.
+* **Presence**
+  Weapons with this tag might be sentient and require reasoning with to operate effectively or otherwise somehow weaponize the wielder's social aptitudes. _A high maintenance combat support robot_, _a tape recording of the maddening snores of C'thulhu_, or _an arcane book of physically manifesting insults_ might have the Presence tag. 
+* **Will**
+  Weapons with this tag might be painful to operate or otherwise require and amplify the mental fortitude required to get them to work. _A shard of broken glass_, _covenant magic catalysts_, and _alien biotech integrated into a human_ often have the Will tag.
 
-<!-- Sometimes a weapon will behave in a way that utilizes a raw application of matter. This is usually the case when wielding some kind of weapon that utilizes raw chemical reactions, such as a homemade flamethrower or a piece of ancient alien technology. Often these weapons will deal damage in an area of effect, rather than a single target. Because they are typically area of effect weapons, these type of weapons are always considered to be large in size. However, they will have distinct levels of power associated with the damage they deal. The five styles of elemental weapons are Force, Gaseous, Liquid, Solid, and Plasma. Each style is fairly self explanatory, indicating the element which is manipulated by the weapon. See table C3 below for elemental weapon damage by style and power level. -->
+### Range Tags
 
-<!-- {{ renderWeaponTable("Elemental Weapon Damage Table",
-  [
-  ["",            "Force",         "Gaseous",    "Liquid",   "Solid",   "Plasma" ],
-  ["Low Power",   ["*","*","*"],   [3,4,6],      [2,4,7],   [2,3,8],    [1,3,9]  ],
-  ["Medium Power",["*","*","*"],   [4,5,7],      [3,5,8],   [3,4,9],    [2,4,10] ],
-  ["High Power",  ["*","*","*"],   [5,8,12],     [4,8,13],  [4,7,14],   [3,7,15] ],
-  ])
-}} -->
+* **Melee**
+  Weapons with this tag can be used against targets who are within arm's reach, usually around 2m away.
+* **Short-range**
+  Weapons with this tag can be used on targets that are outside of arm's reach but still pretty close, usually between 2 and 15m away.
+* **Long-range**
+  Weapons with this tag can be used on targets a long ways away, usually over 15m away.
+
+### Other Tags
+
+* **+1, +2, +3, ...**
+  Weapons with this tag are more effective than other weapons of the same type due to exemplary craftsmanship, materials, and/or renown of the weapon. When making a test of ability to attack with this weapon, add the value tagged to the roll. 
+* **Battering**
+  Weapons with this tag are blunt instruments that rely on their weight to deal damage. _Batons_, _maces_, and _war picks_ often have the Battering tag.
+* **Cleaving**
+  Weapons with this tag have a wedge shaped blade that is swung with a chop. _Battleaxes_, _meat cleavers_, and _war picks_ often have the Cleaving tag.
+* **Concealable**
+  Weapons with this tag are small, easily hidden, and easy to draw subtly. _Daggers_, _miniature crossbows_, _pistols_, and _brass knuckles_ often have the Concealable tag.
+* **Hooking**
+  Weapons with this tag have curved blades that allow their wielder to hook onto their opponents. _Khopeshes_, _scythes_, and _sickles_ often have the Hooking tag.
+* **Impaling**
+  Weapons with this tag have a sharp point that is stabbed at opponents. _Bayonets_, _rapiers_, and _spears_ often have the Impaling tag.
+* **Large**
+  Weapons with this tag require two hands to wield effectively. _Rocket launchers_, _mauls_, _longbows_, and _staves_ often have the Large tag.
+* **Payload**
+  Weapons with this tag fire a heavy or explosive projectile. _Cannons_, _grenade launchers_, and _slings_ often have the Payload tag.
+* **Precision**
+  Weapons with this tag fire a swift shot that is deadly when placed perfectly. _Crossbows_, _semi-automatic rifles_, and _slings_ often have the Precision tag.
+* **Repeating**
+  Weapons in this tag fire a number of projectiles in rapid succession, bombarding their target. _Automatic rifles_, _hwachas_, and _???_ often have the Repeating tag.
+* **Slashing**
+  Weapons with this tag are weapons that have one or more long, sharp edges that can be used to lacerate. _Hunting knives_, _khopeshes_, and _rapiers_ often have the Slashing tag.
+* **Spread**
+  Weapons with this tag fire shrapnel, fire, poison, or other hazards to coat a wide area. _Cannons_, _shotguns_, and _flame-throwers_ often have the Spread tag.
+
+### Magic tags
+
+<!-- Magic tags described here -->
+
+Zyhulian Blade [+7] [Melee] [Agility] [Brawn] [Slashing] [Impaling] 
+
+Rabskuttle Amulet [+9] [Close-range] [Will] [Fear]
+
+Longbow of Storms [+4] [Close-range] [Long-range] [Agility] [Lightning]
+
+Sniper Rifle [+3] [Long-range] [Agility] []
+
+Thunderclap Tonfa [+2] [Melee] [Agility] [Brawn] [Battering]
+
+Masterwork Tanto [+3] [Melee] [Agility] [Slashing] [Impaling]
+
+Maw of the Drake [+5] [Shield] [Brawn]
