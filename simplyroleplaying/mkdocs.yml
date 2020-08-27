@@ -1,0 +1,36 @@
+site_name: 'Simply Roleplaying'
+nav:
+    - Home: index.md
+    - About: about.md
+    - Action:
+        - action/action.md
+        - action/armor.md
+        - action/combat.md
+        - action/equipment.md
+        - action/weapons.md
+    - Character:
+        - character/advantages_and_disadvantages.md
+        - character/attributes.md
+        - character/creation.md
+        - character/damage_and_injuries.md
+        - character/downtime.md
+        - character/milestones.md
+        - character/skills.md
+        - character/tests.md
+    - 'Worlds':
+        - worlds/earth_the_forgotten_times/overview.md
+extra_css:
+    - extra.css
+theme:
+    name: readthedocs
+    custom_dir: theme/
+copyright: >
+  <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
+    <a rel="cc:attributionURL" href="http://simplyroleplaying.com"><span rel="dct:title">Simply Roleplaying</span></a> by <span rel="cc:attributionName">Richard Otte</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a>
+  </p>
+  <p>Simply Roleplaying favicon and logo design by Anneke Weweler</p>
+  <p>Found a bug? Interested in what's next? <a href="https://github.com/TheFifthRider/simply-roleplaying-webapp">Visit Simply Roleplaying on GitHub!</a></p>
+  markdown_extensions:
+markdown_extensions:
+    - pymdownx.tasklist:
+        clickable_checkbox: true
