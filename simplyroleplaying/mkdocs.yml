@@ -2,21 +2,21 @@ site_name: 'Simply Roleplaying'
 nav:
     - Home: index.md
     - About: about.md
-    - Action:
-        - action/action.md
-        - action/armor.md
-        - action/combat.md
-        - action/equipment.md
-        - action/weapons.md
     - Character:
+        - character/creation.md
         - character/advantages_and_disadvantages.md
         - character/attributes.md
-        - character/creation.md
-        - character/damage_and_injuries.md
-        - character/downtime.md
-        - character/milestones.md
         - character/skills.md
         - character/tests.md
+        - character/damage_and_injuries.md
+        - character/milestones.md
+    - 'The Game':
+        - action/action.md
+        - action/combat.md
+        - action/racing.md
+        - action/techniques.md
+        - character/downtime.md
+        - action/equipment.md
     - 'Worlds':
         - worlds/earth_the_forgotten_times/overview.md
 extra_css:
@@ -30,7 +30,6 @@ copyright: >
   </p>
   <p>Simply Roleplaying favicon and logo design by Anneke Weweler</p>
   <p>Found a bug? Interested in what's next? <a href="https://github.com/TheFifthRider/simply-roleplaying-webapp">Visit Simply Roleplaying on GitHub!</a></p>
-  markdown_extensions:
 markdown_extensions:
     - pymdownx.tasklist:
         clickable_checkbox: true

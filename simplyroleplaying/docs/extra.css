@@ -3,22 +3,28 @@
 }
 
 .wy-body-for-nav {
-  background-color: #695744;
+  background-color: #361F00;
 }
 
 .wy-nav-content a:link {
 	color: #361F00;
+  font-weight: bold;
   text-decoration: none;
 }
 
 .wy-nav-content a:visited {
 	color: #361F00;
+  font-weight: bold;
   text-decoration: none;
 }
 
 .wy-nav-content a:hover {
-	color: #5B3500;
+	color: #fff;
   text-decoration: none;
+}
+
+.wy-menu-vertical a:hover {
+  background-color: #695744;
 }
 
 .wy-nav-content a:active {
@@ -76,7 +82,7 @@
 }
 
 .wy-menu-vertical li.current a {
-  border-right: solid 1px #96826C;
+  border-right: 0px;
 }
 
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
@@ -85,20 +91,20 @@
 }
 
 .wy-menu-vertical li.current {
-  background: #AC9780;
+  background: #C2AC94;
 }
 
 .wy-menu-vertical li.toctree-l1.current>a {
-  border-bottom: solid 1px #A18D76;
-  border-top: solid 1px #A18D76;
+  border-bottom: 0px;
+  border-top: 0px;
 }
 
 .wy-menu-vertical li.toctree-l2.current>a {
-  background: #A18D76;
+  background: #C2AC94;
 }
 
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
-  background: #A18D76;
+  background: #C2AC94;
 }
 
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current>a:hover {
@@ -110,7 +116,7 @@
 }
 
 .wy-menu-vertical a:active {
-  background: #361F00;
+  background: #C2AC94;
 }
 
 .wy-menu-vertical li.toctree-l2 span.toctree-expand  {
@@ -127,6 +133,11 @@
 
 .wy-nav-side {
   color: #C2AC94;
+  background-color: #361F00;
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+  font-size: 90%;
 }
 
 code, .rst-content tt, .rst-content code {
