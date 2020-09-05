@@ -1,43 +1,87 @@
+:root {
+  --branding-color: #361F00;
+  --contrast-color: #cbb8a4;
+/*
+#C2AC94;
+
+#d9c0a9;
+#e4cdb9; Too bright
+#ccb69b; A little muddy
+#cbb8a4;
+#d1c6b8;
+*/
+
+  --highlight-color: #695744;
+  --high-contract-color: #FFEDE1;
+  --text-color: #404040;
+  --dark-text-background: #7B6F63;
+}
+
+@font-face {
+    font-family: "cinzel";
+    src: url("fonts/Cinzel-Regular.ttf") /* TTF file for CSS3 browsers */
+}
+
+h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
+  font-family: "cinzel";
+  letter-spacing: 2px;
+}
+
+body {
+  font-family: "Verdana","Geneva",sans-serif;
+/*
+  font-family: "Verdana",sans-serif;
+  font-family: "Trebuchet",sans-serif;
+  font-family: "Tahoma",sans-serif;
+  font-family: "Century Gothic",sans-serif;
+  font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
+*/
+}
+
+p {
+  font-size: 14px;
+}
+
 .wy-nav-content {
-  background-color: #C2AC94;
+  background-color: var(--contrast-color);
 }
 
 .wy-body-for-nav {
-  background-color: #361F00;
+  background-color: var(--branding-color);
 }
 
 .wy-nav-content a:link {
-	color: #361F00;
+	color: var(--branding-color);
   font-weight: bold;
   text-decoration: none;
 }
 
 .wy-nav-content a:visited {
-	color: #361F00;
+	color: var(--branding-color);
   font-weight: bold;
   text-decoration: none;
 }
 
 .wy-nav-content a:hover {
-	color: #fff;
+	color: var(--high-contract-color);
   text-decoration: none;
 }
 
 .wy-menu-vertical a:hover {
-  background-color: #695744;
+  background-color: var(--highlight-color);
 }
 
 .wy-nav-content a:active {
-	color: #FFEDE1;
+	color: var(--high-contract-color);
   text-decoration: none;
 }
 
 .wy-side-nav-search {
-  background-color: #361F00;
+  background-color: var(--branding-color);
 }
 
 .wy-nav-top {
-  background-color: #361F00;
+  background-color: var(--branding-color);
 }
 
 .wy-nav-top i {
@@ -78,7 +122,7 @@
 }
 
 .wy-side-nav-search input[type=text] {
-  border-color: #695744;
+  border-color: var(--highlight-color);
 }
 
 .wy-menu-vertical li.current a {
@@ -86,12 +130,12 @@
 }
 
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
-  background: #C2AC94;
+  background: var(--contrast-color);
   border-right: 0px;
 }
 
 .wy-menu-vertical li.current {
-  background: #C2AC94;
+  background: var(--contrast-color);
 }
 
 .wy-menu-vertical li.toctree-l1.current>a {
@@ -100,15 +144,15 @@
 }
 
 .wy-menu-vertical li.toctree-l2.current>a {
-  background: #C2AC94;
+  background: var(--contrast-color);
 }
 
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
-  background: #C2AC94;
+  background: var(--contrast-color);
 }
 
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current>a:hover {
-  background: #C2AC94;
+  background: var(--contrast-color);
 }
 
 .wy-menu-vertical li.current a:hover {
@@ -116,24 +160,24 @@
 }
 
 .wy-menu-vertical a:active {
-  background: #C2AC94;
+  background: var(--contrast-color);
 }
 
 .wy-menu-vertical li.toctree-l2 span.toctree-expand  {
-  color: #404040;
+  color: var(--text-color);
 }
 
 .wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {
-  color: #C2AC94;
+  color: var(--contrast-color);
 }
 
 .wy-menu-vertical li.on a:hover span.toctree-expand, .wy-menu-vertical li.current>a:hover span.toctree-expand {
-  color: #C2AC94;
+  color: var(--contrast-color);
 }
 
 .wy-nav-side {
-  color: #C2AC94;
-  background-color: #361F00;
+  color: var(--contrast-color);
+  background-color: var(--branding-color);
 }
 
 .wy-menu-vertical header, .wy-menu-vertical p.caption {
@@ -141,32 +185,32 @@
 }
 
 code, .rst-content tt, .rst-content code {
-  border: solid 1px #A18D76;
-  background: #7B6F63;
-  color: #FFEDE1;
+  border: solid 1px var(--dark-text-background);
+  background: var(--dark-text-background);
+  color: var(--high-contract-color);
   border-radius: 5px;
 }
 
 .rst-content pre code {
-  border: solid 1px #A18D76;
-  background: #7B6F63;
-  color: #FFEDE1;
+  border: solid 1px var(--dark-text-background);
+  background: var(--dark-text-background);
+  color: var(--contrast-color);
 }
 
 blockquote {
-	color: #695744;
+	color: var(--highlight-color);
   padding-left: 10px;
-  border-left: 3px solid #695744;
+  border-left: 3px solid var(--highlight-color);
 }
 
 footer {
-  color: #695744;
+  color: var(--highlight-color);
 }
 
 hr {
-  border-top-color: #361F00;
+  border-top-color: var(--branding-color);
 }
 
 input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focus {
-  outline: #361F00;
+  outline: var(--branding-color);
 }

@@ -4,7 +4,7 @@ Character creation is intrinsically a player-focused activity, so this section w
 
 Creating a character is all about dreaming up a concept, then figuring out how to realize it mechanically. There is no specific order that one must follow when creating a character in Simply Roleplaying, so players should feel free to skip around as they define their character. If you're new to roleplaying games in general, consider writing a quick answer to the questions below as you build your character.
 
-
+<br/>
 
 ## What are your natural abilities?
 All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](/character/attributes/), then choose either to **rank your attributes** or **spend creation points**.
@@ -13,7 +13,7 @@ If you chose to **rank your attributes**, order your attributes from what your c
 
 If you chose to **spend creation points**, you get a pool of 12 creation points to spend on the starting die levels of your attributes. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
 
-
+<br/>
 
 ### How much stress can you handle?
 
@@ -21,7 +21,7 @@ Once you've done that, it's time to calculate your character's maxiumum stamina.
 
 `Maximum Stamina = 48 + best possible roll on brawn die`
 
-
+<br/>
 
 ## What have you learned?
 
@@ -33,7 +33,7 @@ If you chose to **start brimming with potential**, your gamemaster will allot yo
 
 _Gamemasters, you can offer more than one starting background if you wish, just make sure you always offer 25 points of potential per background should a player opt to not make a background._
 
-
+<br/>
 
 ## What is your story?
 
@@ -41,7 +41,7 @@ Motivations and experiences define characters in ways that no natural or learned
 
 A character can have any amount of Advantages and Disadvantages so long as the total ranks of character's advantages is equal to the total ranks of the character's disadvantages.
 
-
+<br/>
 
 ## What do you have with you?
 
@@ -53,13 +53,13 @@ A starship diplomat, on the other hand, would likely have things like a universa
 
 From bedrolls to mp3 players, what a character might carry with them in their day-to-day is telling of personality, circumstances of life, and so many other things. Consider also carrying an object of personal significance to your character, such as a an old, handwritten journal or a locket carrying an irreplaceable lock of grey hair.
 
-
+<br/>
 
 ## What do you look like?
 
 Describe your character! What's their heritage? Are they young or old?  Thick or scrawny? What color skin? Eyes? Hair? What colors of clothing do they wear? How does their equipment look on them? Is it shiny and new? Dingy and poorly cared for? Ill fitting? Tailor-made? Be sure to pick a defining visual characteristic or two that highlights their history or personality.
 
-
+<br/>
 
 ## What is your name?
 
@@ -67,3 +67,4 @@ Now that you know everything about them, what kind of a name fits your character
 
 Alternatively, you can choose a name early and use that to help figure out answers to other questions!
 
+<br/>

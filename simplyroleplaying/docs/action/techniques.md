@@ -10,11 +10,13 @@
 
 {% block pageContent %}
 {{super()}}
+
 # Combat Techniques
 A warlord swings his mighty maul, bending metal and breaking bones. A medic presses the defibrillator to a fallen comrade's chest, returning the spark of life. A single captain stands tall brandishing a tattered flag, inspiring the defenders to fight on. Roleplaying is full of heroic moments when the action gets fierce. The Simply Combat Techniques module gives each weapon their own unique abilities in combat, so heroes and villains can inspire these moments that much more often.
 
 ## Melee Weapons
 ### General
+
 {{ renderTechnique(
     "Aimed Strike",
     "1 ep",
