@@ -4,13 +4,13 @@ Downtime is a period of rest in which a character has enough time to pursue prod
 
 When characters have more than four hours of downtime available to them, the gamemaster may rule that characters can perform multiple downtime actions over the duration.
 
-
+<br/>
 
 ## Training
 
 Provided that you have access to training materials or a trainer, downtime can be spent to train a skill. More details on training can be found in the Training section of [Skills and Backgrounds](/character/skills).
 
-
+<br/>
 
 ## Crafting
 
@@ -43,4 +43,4 @@ Here's an example recipe for a sleep poison:
 >  * **On a success:** crafting goes without issue, you create **2 doses of Sleep Poison**
 >* **On a critical success:** not only do you craft the doses successfully, but you're able to squeeze an extra one through precision use of your materials. You create **3 doses of Sleep Poison**
 
-
+<br/>

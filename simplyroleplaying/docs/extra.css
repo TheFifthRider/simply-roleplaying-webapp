@@ -208,6 +208,7 @@ footer {
 }
 
 hr {
+  height: 2px;
   border-top-color: var(--branding-color);
 }
 

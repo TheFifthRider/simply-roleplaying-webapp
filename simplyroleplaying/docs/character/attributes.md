@@ -2,7 +2,7 @@
 
 Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Each attribute is assigned a die of a certain level at [character creation](/character/), which is rolled as a part of [tests of ability](/character/tests/). [You can learn more about die levels here](/).
 
-
+<br/>
 
 ## The Attributes
 
@@ -18,13 +18,13 @@ Attributes are the measurement of a character's intrinsic ability, from how stro
 
 **Will** is a measure of a character's drive and resolve. Characters with high Will are often determined, independent, and undeterred by hardship.
 
-
+<br/>
 
 ## Attribute Modifier
 
 Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](/character/tests/). In most campaigns they start at +0, as indicated in [character creation](/character/), and increase as you acquire [milestones](/character/milestones/). 
 
-
+<br/>
 
 ## Passive Attribute Scores
 
@@ -36,8 +36,10 @@ Attributes are core to a character's ability, even when they are not consciously
 >
 > The monarch's _Presence_ is a d12, their _Presence_ modifier a +9, and their _Intuition_ modifier a +3. Their passive _Presence_, and the difficulty of the Vizier's test, is calculated as 12 + 9 + 3 = 24.
 
-
+<br/>
 
 > A young wizard tries to tiptoe past their sleeping master, testing their _Agility_ to silently swipe the master's fabled wand, risking getting caught red handed and getting turned into a newt _or worse_. Because the master is asleep, the difficulty of the test is the master's passive _Intuition_ score-- how likely the master's instincts are to wake her up from the noises her apprentice makes.
 >
 > The master's intuition is a d10, her intuition modifier is +9. Her passive intuition, and the difficulty of the Apprentice's test, is calculated as 10 + 9 + 9 = 28.
+
+<br/>

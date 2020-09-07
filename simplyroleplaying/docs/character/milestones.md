@@ -4,7 +4,7 @@
 
 At the end of every session, a character earns some amount of potential, varying based on the significance of what happened in the campaign. This is ultimately up to the gamemaster to determine, but about one to two points of potential per two hours of playtime is usually right for an average session.
 
-
+<br/>
 
 ## Milestones
 
@@ -21,7 +21,7 @@ Milestones are markers of when the player characters advance and are awarded to 
 * Choose two more attributes and increase their modifiers by 3
 * Increase the modifiers for your final two attributes by 2
 
-
+<br/>
 
 ### When to give Milestones
 
@@ -29,7 +29,7 @@ This section is largely for gamemasters, players you can skip it if you'd like. 
 
 If you use session goals, this should happen more or less naturally as milestones tend to come after sessions that have players check all the boxes. If it doesn't come naturally, feel free to come up with additional session goals for accomplishing significant arcs, defeating significant foes, or whatever best suits your campaign. Whatever you choose, session goals should be about celebrating the accomplishments of the player characters and the story you are all weaving together.
 
-
+<br/>
 
 ## Checklists and Goals
 
@@ -37,19 +37,16 @@ An interactive way of determining how many points of potential to earn at the en
 
 Here are some end-of-session goals that should work for most campaigns assuming a four hour session, along with the milestone instructions in checklist form.
 
-
+<br/>
 
 ### At the end of a session:
 
 * [ ] Gain a point of potential if we come up with a witty title to remember this session by
-
 * [ ] Gain a point of potential if we accomplished something new and important
-
 * [ ] Gain a point of potential if we learned something new and important about the world
-
 * [ ] Gain a point of potential if we learned something new and important about one of the player characters
 
-  
+<br/>
 
 ### When a milestone is achieved:
 
@@ -62,3 +59,5 @@ Here are some end-of-session goals that should work for most campaigns assuming 
   * [ ] Gain an injury box if one of the attributes was will
 * [ ] Increase two attribute modifiers by 4
 * [ ] Increase two attribute modifiers by 3
+
+<br/>
