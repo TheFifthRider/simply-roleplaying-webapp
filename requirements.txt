@@ -9,6 +9,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 mkdocs==1.1.2
 nltk==3.5
+pymdown-extensions==8.0
 PyYAML==5.3.1
 regex==2020.7.14
 six==1.15.0
