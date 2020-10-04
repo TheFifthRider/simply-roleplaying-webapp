@@ -10,3 +10,6 @@ The one-shot turned into a campaign and it became clear that the system worked f
 
 The system as it is now is still a work in progress. I've been through many revisions, and there will likely be many more. But it was the simplicity of that first session that got it all started, and simplicity without losing nuance has been and will always be my guiding principle.
 
+## About Me
+
+Uh... well, shit. I gotta do this too, huh?

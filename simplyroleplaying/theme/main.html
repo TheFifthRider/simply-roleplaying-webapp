@@ -11,3 +11,32 @@
 {% block site_name %}
 <a href="{{ nav.homepage.url|url }}"></a>
 {% endblock %}
+
+{%- block footer %}
+{% if not page.is_homepage %}{% include "footer.html" %}{% endif %}
+{% endblock %}
+
+{%- block styles %}
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+<link rel="stylesheet" href="{{ 'css/theme.css'|url }}" />
+<link rel="stylesheet" href="{{ 'css/theme_extra.css'|url }}" />
+{%- if config.theme.highlightjs %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+{%- endif %}
+{%- for path in config['extra_css'] %}
+<link href="{{ path|url }}" rel="stylesheet" />
+{%- endfor %}
+{% if page.is_homepage %}<link href="splash.css" rel="stylesheet">{% endif %}
+{%- endblock %}
+
+{% block content %}
+{% if not page.is_homepage %}{{ page.content }}{% else %}<div id="splash">
+  <img alt="SRP_Fancy_2-colour" src="img/SRP_Fancy_2-colour.png" class="splash-image">
+  <div id="splash-spacer-1"></div>
+  <div id="splash-spacer-2"></div>
+  <div id="splash-spacer-3"></div>
+  <div id="splash-subtitle">by Richard Otte</div>
+  <div id="splash-license"><p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0"><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a></p></div>
+</div>{% endif %}
+{% endblock %}

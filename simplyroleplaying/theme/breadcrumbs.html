@@ -1,3 +1,4 @@
+{% if not page.is_homepage %}
 <div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href="{{ nav.homepage.url|url }}">Simply Roleplaying</a> &raquo;</li>
@@ -13,16 +14,6 @@
     {% if page %}<li>{{ page.title }}</li>{% endif %}
     <li class="wy-breadcrumbs-aside">
       {%- block repo %}
-      {% if page and page.edit_url %}
-        <a href="{{ page.edit_url }}"
-        {%- if config.repo_name|lower == 'github' %}
-          class="icon icon-github"
-        {%- elif config.repo_name|lower == 'bitbucket' %}
-          class="icon icon-bitbucket"
-        {%- elif config.repo_name|lower == 'gitlab' %}
-          class="icon icon-gitlab"
-        {% endif %}> Edit on {{ config.repo_name }}</a>
-      {% endif %}
       {%- endblock %}
     </li>
   </ul>
@@ -39,3 +30,4 @@
   {% endif %}
   <hr/>
 </div>
+{% endif %}

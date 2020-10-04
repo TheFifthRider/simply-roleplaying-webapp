@@ -1,20 +1,10 @@
 :root {
   --branding-color: #361F00;
   --contrast-color: #cbb8a4;
-/*
-#C2AC94;
-
-#d9c0a9;
-#e4cdb9; Too bright
-#ccb69b; A little muddy
-#cbb8a4;
-#d1c6b8;
-*/
-
   --highlight-color: #695744;
-  --high-contract-color: #FFEDE1;
+  --light-highlight-color: #96826C;
+  --high-contrast-color: white;
   --text-color: #404040;
-  --dark-text-background: #7B6F63;
 }
 
 @font-face {
@@ -29,21 +19,10 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
 
 body {
   font-family: "Verdana","Geneva",sans-serif;
-/*
-  font-family: "Verdana",sans-serif;
-  font-family: "Trebuchet",sans-serif;
-  font-family: "Tahoma",sans-serif;
-  font-family: "Century Gothic",sans-serif;
-  font-family: "Lato","proxima-nova","Helvetica Neue",Arial,sans-serif;
-*/
 }
 
 p {
   font-size: 14px;
-}
-
-.wy-nav-content {
-  background-color: var(--contrast-color);
 }
 
 .wy-body-for-nav {
@@ -63,7 +42,7 @@ p {
 }
 
 .wy-nav-content a:hover {
-	color: var(--high-contract-color);
+	color: var(--high-contrast-color);
   text-decoration: none;
 }
 
@@ -72,53 +51,55 @@ p {
 }
 
 .wy-nav-content a:active {
-	color: var(--high-contract-color);
+	color: var(--high-contrast-color);
   text-decoration: none;
 }
 
 .wy-side-nav-search {
+  background: url('logos/SRP_Fancy_2-colour.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 25%;
+  background-color: var(--branding-color);
+}
+
+.wy-nav-content {
+  background-color: var(--contrast-color);
+}
+
+.wy-nav-side {
+  color: var(--contrast-color);
   background-color: var(--branding-color);
 }
 
 .wy-nav-top {
   background-color: var(--branding-color);
+  background-image: url('logos/SRP_Simple_2-color.png');
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .wy-nav-top i {
+  width: 72px;
+  height: 72px;
   font-size: 45px;
+  color: rgba(255, 0, 0, 0);
 }
 
 .wy-nav-top a {
-  background: url('logos/SRP_Simple_2-color.png');
-  background-size: 227px, 60px;
-  background-repeat: no-repeat;
-  color: rgba(0, 0, 0, 0);
-  width: 227px;
-  height: 60px;
-  margin-left: 40px;
-  display: block;
+  display: none;
 }
 
 .wy-side-nav-search a {
-  background: url('logos/SRP_Simple_2-color.png');
-  background-size: 227px, 60px;
-  background-repeat: no-repeat;
-  width:280px;
-  height: 60px;
+  width: auto;
+  height: 119px;
   display: block;
 }
 
 .wy-side-nav-search a:hover {
-  background: url('logos/SRP_Simple_2-color.png');
-  background-size: 227px, 60px;
-  background-repeat: no-repeat;
-  width: 227px;
-  height: 60px;
+  width: auto;
+  height: 119px;
   display: block;
-}
-
-.fa-home:before, .icon-home:before {
-  display: none;
 }
 
 .wy-side-nav-search input[type=text] {
@@ -138,9 +119,8 @@ p {
   background: var(--contrast-color);
 }
 
-.wy-menu-vertical li.toctree-l1.current>a {
-  border-bottom: 0px;
-  border-top: 0px;
+.fa-home:before, .icon-home:before {
+  display: none;
 }
 
 .wy-menu-vertical li.toctree-l2.current>a {
@@ -151,12 +131,16 @@ p {
   background: var(--contrast-color);
 }
 
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4>a {
+  background: var(--contrast-color);
+}
+
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current>a:hover {
   background: var(--contrast-color);
 }
 
 .wy-menu-vertical li.current a:hover {
-  background: #96826C;
+  background: var(--light-highlight-color);
 }
 
 .wy-menu-vertical a:active {
@@ -175,25 +159,26 @@ p {
   color: var(--contrast-color);
 }
 
-.wy-nav-side {
-  color: var(--contrast-color);
-  background-color: var(--branding-color);
-}
-
 .wy-menu-vertical header, .wy-menu-vertical p.caption {
   font-size: 90%;
 }
 
+.wy-menu-vertical li.toctree-l1.current>a {
+  border-bottom: 0px;
+  border-top: 0px;
+}
+
 code, .rst-content tt, .rst-content code {
-  border: solid 1px var(--dark-text-background);
-  background: var(--dark-text-background);
-  color: var(--high-contract-color);
+  border: solid 1px var(--branding-color);
+  background: var(--highlight-color);
+  color: var(--high-contrast-color);
   border-radius: 5px;
+  font-size: 100%;
 }
 
 .rst-content pre code {
-  border: solid 1px var(--dark-text-background);
-  background: var(--dark-text-background);
+  border: solid 1px var(--highlight-color);
+  background: var(--highlight-color);
   color: var(--contrast-color);
 }
 
