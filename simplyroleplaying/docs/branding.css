@@ -56,11 +56,28 @@ p {
 }
 
 .wy-side-nav-search {
-  background: url('logos/SRP_Fancy_2-colour.png');
+  background: url('logos/SRP_Simple_2-color.png');
   background-size: contain;
   background-repeat: no-repeat;
-  background-position: 50% 25%;
   background-color: var(--branding-color);
+}
+
+@media screen and (max-width: 768px) {
+  .wy-side-nav-search {
+    background: url('logos/SRP_Fancy_2-colour.png');
+    background-position: 50% 25%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: var(--branding-color);
+  }
+
+  .wy-side-nav-search a {
+    height: 119px;
+  }
+
+  .wy-side-nav-search a:hover {
+    height: 119px;
+  }
 }
 
 .wy-nav-content {
@@ -92,13 +109,13 @@ p {
 
 .wy-side-nav-search a {
   width: auto;
-  height: 119px;
+  height: 55px;
   display: block;
 }
 
 .wy-side-nav-search a:hover {
   width: auto;
-  height: 119px;
+  height: 55px;
   display: block;
 }
 
@@ -199,4 +216,35 @@ hr {
 
 input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focus {
   outline: var(--branding-color);
+}
+
+.wy-side-nav-search>a:hover, .wy-side-nav-search .wy-dropdown>a:hover {
+  background: unset;
+}
+
+table {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  margin: 25px 0;
+}
+
+tbody tr {
+  border-bottom: 1px solid var(--highlight-color);
+}
+
+tr:nth-child(2n) {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+thead {
+	background-color: var(--highlight-color);
+	color: var(--high-contrast-color);
+}
+
+th, td {
+  padding: 12px 15px;
+  border: 0 !important;
+}
+
+tbody tr:last-of-type {
+    border-bottom: 2px solid var(--highlight-color);
 }

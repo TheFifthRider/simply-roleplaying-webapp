@@ -24,6 +24,9 @@ nav:
 extra_css:
     - branding.css
     - tweaks.css
+extra_javascript:
+    - extra.js
+    - hammer-2.0.8.min.js
 theme:
     name: readthedocs
     custom_dir: theme/

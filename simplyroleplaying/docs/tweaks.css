@@ -21,6 +21,18 @@
 }
 
 @media screen and (max-width: 768px) {
+  .wy-grid-for-nav {
+    position: relative;
+  }
+
+  .wy-nav-content-wrap.shift {
+    position: relative;
+  }
+
+  .wy-nav-side {
+    position: fixed;
+  }
+
   .wy-nav-side.shift {
     width: 85vw;
     left: 0;
