@@ -5,6 +5,7 @@
   --light-highlight-color: #96826C;
   --high-contrast-color: white;
   --text-color: #404040;
+  --fifteen-percent-branding: rgba(54, 31, 0, 0.15);
 }
 
 @font-face {
@@ -19,10 +20,6 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
 
 body {
   font-family: "Verdana","Geneva",sans-serif;
-}
-
-p {
-  font-size: 14px;
 }
 
 .wy-body-for-nav {
@@ -201,8 +198,10 @@ code, .rst-content tt, .rst-content code {
 
 blockquote {
 	color: var(--highlight-color);
-  padding-left: 10px;
-  border-left: 3px solid var(--highlight-color);
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 15px;
+  border-left: 5px solid var(--highlight-color);
+  box-shadow: 0 0 20px var(--fifteen-percent-branding);
 }
 
 footer {
@@ -223,7 +222,7 @@ input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focu
 }
 
 table {
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 20px var(--fifteen-percent-branding);
   margin: 25px 0;
 }
 
