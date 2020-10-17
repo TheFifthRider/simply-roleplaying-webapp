@@ -21,6 +21,7 @@ nav:
         - action/equipment.md
     - 'Worlds':
         - worlds/earth_the_forgotten_times/overview.md
+        - worlds/earth_the_forgotten_times/pantheons.md
 extra_css:
     - branding.css
     - tweaks.css

@@ -13,6 +13,10 @@
     src: url("fonts/Cinzel-Regular.ttf") /* TTF file for CSS3 browsers */
 }
 
+.task-list-item {
+  list-style: none !important;
+}
+
 h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
   font-family: "cinzel";
   letter-spacing: 2px;
@@ -24,6 +28,10 @@ body {
 
 .wy-body-for-nav {
   background-color: var(--branding-color);
+}
+
+.wy-side-scroll {
+  padding-bottom: 12px;
 }
 
 .wy-nav-content a:link {
@@ -183,22 +191,23 @@ body {
 }
 
 code, .rst-content tt, .rst-content code {
-  border: solid 1px var(--branding-color);
-  background: var(--highlight-color);
-  color: var(--high-contrast-color);
-  border-radius: 5px;
+  border: 0;
+  background-color: var(--contrast-color);
+  color: var(--branding-color);
+  font-weight: 700;
+  padding: 15px;
   font-size: 100%;
 }
 
 .rst-content pre code {
-  border: solid 1px var(--highlight-color);
-  background: var(--highlight-color);
-  color: var(--contrast-color);
+  background-color: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 20px var(--fifteen-percent-branding);
+  color: var(--text-color);
 }
 
 blockquote {
 	color: var(--highlight-color);
-  background-color: rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.2);
   padding: 15px;
   border-left: 5px solid var(--highlight-color);
   box-shadow: 0 0 20px var(--fifteen-percent-branding);
