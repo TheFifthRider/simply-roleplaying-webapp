@@ -12,12 +12,12 @@ Milestones are markers of when the player characters advance and are awarded to 
 
 * Increase your <!-- test pool? number of dice you can use on tests? --> by 1
 * Choose two attributes and increase their modifiers by 4, then: 
-  * If you chose agility as one of these attributes, gain <!-- movement speed? -->
-  * If you chose brawn as one of these attributes, gain 25 [stamina](/character/stamina_and_injuries)
-  * If you chose intuition as one of these attributes, gain <!-- passive bonus? -->
-  * If you chose knowledge as one of these attributes, gain <!-- ??? -->
-  * If you chose presence as one of these attributes,  gain <!-- ??? -->
-  * If you chose will as one of these attributes, gain an [injury box](/character/stamina_and_injuries)
+    * If you chose agility as one of these attributes, gain <!-- movement speed? -->
+    * If you chose brawn as one of these attributes, gain 25 [stamina](/character/stamina_and_injuries)
+    * If you chose intuition as one of these attributes, gain <!-- passive bonus? -->
+    * If you chose knowledge as one of these attributes, gain <!-- ??? -->
+    * If you chose presence as one of these attributes,  gain <!-- ??? -->
+    * If you chose will as one of these attributes, gain an [injury box](/character/stamina_and_injuries)
 * Choose two more attributes and increase their modifiers by 3
 * Increase the modifiers for your final two attributes by 2
 
@@ -52,11 +52,11 @@ Here are some end-of-session goals that should work for most campaigns assuming 
 
 * [ ] Increase your <!-- ??? --> by 1
 * [ ] Increase two attribute modifiers by 5, then:
-  * [ ] Gain <!-- ??? --> if one of the attributes was agility
-  * [ ] Increase your maximum stamina by 25 if one of the attributes was brawn
-  * [ ] Gain <!-- ??? --> if one of the attributes was intuition
-  * [ ] Gain <!-- ??? --> if one of the attributes was knowledge
-  * [ ] Gain an injury box if one of the attributes was will
+    * [ ] Gain <!-- ??? --> if one of the attributes was agility
+    * [ ] Increase your maximum stamina by 25 if one of the attributes was brawn
+    * [ ] Gain <!-- ??? --> if one of the attributes was intuition
+    * [ ] Gain <!-- ??? --> if one of the attributes was knowledge
+    * [ ] Gain an injury box if one of the attributes was will
 * [ ] Increase two attribute modifiers by 4
 * [ ] Increase two attribute modifiers by 3
 
