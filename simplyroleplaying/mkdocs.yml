@@ -22,6 +22,7 @@ nav:
     - 'Worlds':
         - worlds/earth_the_forgotten_times/overview.md
         - worlds/earth_the_forgotten_times/pantheons.md
+        - worlds/earth_the_forgotten_times/pangeans.md
 extra_css:
     - branding.css
     - tweaks.css
