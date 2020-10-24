@@ -12,4 +12,8 @@ The system as it is now is still a work in progress. I've been through many revi
 
 ## About Me
 
-Uh... well, shit. I gotta do this too, huh?
+Hey! I'm Richard. When I was younger, I loved to tinker with the rules for any board game I played, often before I had finished playing the game once and to the dismay of anyone I played with. When I joined my parents' AD&D group, I started writing rule supplements for doing things that I thought would be cool, like overhauling the process for crafting and enchanting a weapon. They still play, by the way-- they made the switch to 5e a year or so after it got released.
+
+I started putting pen to paper on my own games and systems in middle school. Any system I made was something that needed to be simple enough to be played on a whim at the lunch table or on a campout-- so that meant no dice or character sheets, let alone prep material. As a result, the systems I made were heavily narratively focused and had few mechanics beyond my players describing what they wanted to do and me improvising a world in response. In high school I built out a simple system with proper mechanics that was heavily inspired by Fire Emblem, and in college I started devouring other systems to learn from all the cool stuff that's out there!
+
+Outside of roleplaying games, I dig video games and I have a rather sizeable collection of board games of which I'm proud to say there are only a few that I've never played. I also "spend a lot of time thinking about time" as my roommate puts it-- there's something about having a good todo list and time tracker going that just really helps me keep everything in my life running smoothly.
