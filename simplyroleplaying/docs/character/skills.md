@@ -36,6 +36,12 @@ When a Skill is advanced to d12, it is considered **mastered**, and can no longe
 
 <br/>
 
+### Forgetting a Skill
+
+Sometimes a skill might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that the skill no longer makes sense for them. In that case, you can always choose to forget.
+
+<br/>
+
 ## Building a Background
 
 Once a character has mastered five related skills, they can combine them together to form a **background** that summarizes the common ground between those five skills. Backgrounds can be added to skill checks like a skill and always add 1d12 to the skill check.
@@ -48,13 +54,19 @@ When a character develops a new background, the skills combined into that backgr
 
 <br/>
 
+### Renaming a Background
+
+Characters change. Getting better at the stuff your backgrounds reflect can be easily shown by creating new backgrounds that represent the new skills you've learned. However, sometimes it makes sense for the name of a background to change to better reflect the character that it's representing.  A **Bloodthirsty Warlord** may become a **Repentant General**, an **Assassin for Hire** may become a **Silencer of the Court**, or a **Master Blacksmith** might become the **Silversmith of Ardent**. Sometimes the change is less story driven and more that you've come up with a better name to describe that grouping of skills. That's fine too! Backgrounds should be renamed until you're happy with them. After all, backgrounds exist to express your character.
+
+<br/>
+
 ## Skill and Background Naming Guidelines
 
 As you may have already figured out, skills are almost entirely determined by the players; there is no master list of skills. This means the sky's the limit as far as creating a skill or background goes. While some modules-- like the Simply Combat module --may define specifically named skills and backgrounds that have specific requirements or capabilities, a skill can usually be anything you train at-- from Juggling to Basket Weaving -- and backgrounds are even more freeform.
 
 The trickiest part about being able to create your own skills or backgrounds is coming up with a good name. You want your names to keep a balance between the general and the specific. Ideally, your skills and backgrounds should both be expressive of what you want your character to be able to do while still remaining general enough that they can come up a lot in play.
 
-Don't worry too much about coming up with the perfect name for a skill or background. It's good enough to just create a good name. Skills ultimately exist to be mastered and turned into backgrounds and, as long as you keep track of the skills used to create them, backgrounds should be renamed until they feel right.
+Don't worry too much about coming up with the perfect name for a skill or background. It's good enough to just create a good name. Skills ultimately exist to be mastered and turned into backgrounds and backgrounds should be renamed until they feel right.
 
 <br/>
 

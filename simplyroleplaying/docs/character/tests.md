@@ -29,11 +29,10 @@ Most of the time, the difficulty is a static number determined by the gamemaster
 
 * **Talented but inexperienced** characters can handle tests of difficulty **5**
 * **Experienced** characters can handle tests of difficulty **10**
-* **Professionals** can handle tests of difficulty **15**
-* **Seasoned professionals** can handle tests of difficulty **20**
-* **Experts** can handle tests of difficulty **25**
-* **Masters** can handle tests of difficulty **30**
-* Only **Legendary** characters can attempt to handle tests of difficulty **35 or higher**
+* **Professionals** can handle tests of difficulty **20**
+* **Experts** can handle tests of difficulty **30**
+* **Masters** can handle tests of difficulty **40**
+* Only **Legendary** characters can attempt to handle tests of difficulty **50 or higher**
 
 Players, the difficulty rules of thumb can also help you gauge your character's proficiency. If you're regularly rolling above a 15 on a test, chances are you are on the same level as someone who performs those sorts of tests for a living. Gamemasters, if you choose to use more than three skill milestones and three attribute milestones, you should consider writing your own rules of thumb not only to help yourself consistently apply difficulties across your world, but also to help your players understand what rolling a 10 means when compared to the rest of your world's citizens.
 
@@ -64,6 +63,14 @@ All characters who aid in the test help the tested character reach their goal, m
 Once the attribute, backgrounds, and skills are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the skill test they do whatever they set out to do and have minimized any associated risk. If a character's roll does not meet the difficulty of the test, things get complicated. That doesn't necessarily mean that they don't accomplish their goal, but there will be certainly be dramatic consequences.
 
 If a character rolls particularly well or particularly poorly compared to the difficulty of the test, the outcome should be that much more significant. When a character rolls more than 10 below the difficulty of a test they suffer a **critical failure** and the risk realized becomes dramatically greater. Conversely, when a character rolls more than 10 above the difficulty of a test they have performed a **critical success** and not only do they complete whatever goal they set out to do but they also gain some kind of significant added benefit-- perhaps their success avoids all risk, or their success is to a degree that none thought possible.
+
+<br/>
+
+#### Progress as an Outcome
+
+Sometimes a goal is to make **progress** on a larger goal that can't be resolved by just one test, such as when the goal is making something complicated, taking out an enemy, or working as a crew to steer a ship through obstacles. The GM will create a progress meter for the overarching goal of the tests the players-- a total number to reach in order to accomplish the overall goal. Any tests that help accomplish the overall goal can help fill the meter. You can represent this meter just by a total number to hit, or you can draw it on a piece of paper to help illustrate the overall progress, whatever works best for your group.
+
+When a character **critically fails** on a test meant to help fill the meter they instead make things more complicated, either by falling victim to an existing risk or introducing a new one. When a character **fails** on a test to help fill the meter, they fill the progress meter by half of what they rolled. When a character **succeeds** on a test to help fill the meter, they fill the progress meter by what they rolled. When a character **critically succeeds** on a test to help fill the meter, they fill the progress meter by twice what they rolled.
 
 <br/>
 
