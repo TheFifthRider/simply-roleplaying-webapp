@@ -1,0 +1,47 @@
+site_name: 'Simply Roleplaying'
+repo_url: 'https://github.com/TheFifthRider/simply-roleplaying-webapp/'
+nav:
+    - Home: index.md
+    - About: about.md
+    - 'Creating a Character':
+        - character/creation.md
+        - character/advantages_and_disadvantages.md
+        - character/attributes.md
+        - character/skills.md
+    - 'Gameplay Basics':
+        - basics/dice.md
+        - basics/tests.md
+        - basics/damage_and_injuries.md
+        - basics/downtime.md
+        - basics/milestones.md
+        - basics/equipment.md
+    - 'Action':
+        - action/action.md
+        - action/combat.md
+        - action/racing.md
+        - action/techniques.md
+    - 'World Mechanics':
+        - extras/magic.md
+    - 'The World':
+        - worlds/earth_the_forgotten_times/overview.md
+        - worlds/earth_the_forgotten_times/pantheons.md
+        - worlds/earth_the_forgotten_times/pangeans.md
+extra_css:
+    - css/branding.css
+    - css/tweaks.css
+extra_javascript:
+    - js/extra.js
+    - js/hammer-2.0.8.min.js
+theme:
+    name: readthedocs
+    custom_dir: theme/
+    include_homepage_in_sidebar: false
+    sticky_navigation: false
+copyright: >
+  <p>Simply Roleplaying favicon and logo design by Anneke Weweler</p>
+  <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text">
+    <a rel="cc:attributionURL" href="http://simplyroleplaying.com"><span rel="dct:title">Simply Roleplaying</span></a> by <span rel="cc:attributionName">Richard Otte</span> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" /></a>
+  </p>
+markdown_extensions:
+    - pymdownx.tasklist:
+        clickable_checkbox: true
