@@ -27,5 +27,5 @@
 {%- for path in config['extra_css'] %}
 <link href="{{ path|url }}" rel="stylesheet" />
 {%- endfor %}
-{% if page.is_homepage %}<link href="splash.css" rel="stylesheet">{% endif %}
+{% if page.is_homepage %}<link href="css/splash.css" rel="stylesheet">{% endif %}
 {%- endblock %}

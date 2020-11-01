@@ -10,7 +10,7 @@
 
 @font-face {
     font-family: "cinzel";
-    src: url("fonts/Cinzel-Regular.ttf") /* TTF file for CSS3 browsers */
+    src: url("/fonts/Cinzel-Regular.ttf") /* TTF file for CSS3 browsers */
 }
 
 .task-list-item {
@@ -61,7 +61,7 @@ body {
 }
 
 .wy-side-nav-search {
-  background: url('logos/SRP_Simple_2-color.png');
+  background: url('/logos/SRP_Simple_2-color.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-color: var(--branding-color);
@@ -69,7 +69,7 @@ body {
 
 @media screen and (max-width: 768px) {
   .wy-side-nav-search {
-    background: url('logos/SRP_Fancy_2-colour.png');
+    background: url('/logos/SRP_Fancy_2-colour.png');
     background-position: 50% 25%;
     background-size: contain;
     background-repeat: no-repeat;
@@ -96,7 +96,7 @@ body {
 
 .wy-nav-top {
   background-color: var(--branding-color);
-  background-image: url('logos/SRP_Simple_2-color.png');
+  background-image: url('/logos/SRP_Simple_2-color.png');
   background-size: contain;
   background-repeat: no-repeat;
 }

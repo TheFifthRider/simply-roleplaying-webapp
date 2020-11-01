@@ -3,33 +3,35 @@ repo_url: 'https://github.com/TheFifthRider/simply-roleplaying-webapp/'
 nav:
     - Home: index.md
     - About: about.md
-    - Dice: dice.md
-    - Character:
+    - 'Creating a Character':
         - character/creation.md
         - character/advantages_and_disadvantages.md
         - character/attributes.md
         - character/skills.md
-        - character/tests.md
-        - character/damage_and_injuries.md
-        - character/milestones.md
-    - 'The Game':
+    - 'Gameplay Basics':
+        - basics/dice.md
+        - basics/tests.md
+        - basics/damage_and_injuries.md
+        - basics/downtime.md
+        - basics/milestones.md
+        - basics/equipment.md
+    - 'Action':
         - action/action.md
         - action/combat.md
         - action/racing.md
-        - action/magic.md
         - action/techniques.md
-        - character/downtime.md
-        - action/equipment.md
-    - 'Worlds':
+    - 'World Mechanics':
+        - extras/magic.md
+    - 'The World':
         - worlds/earth_the_forgotten_times/overview.md
         - worlds/earth_the_forgotten_times/pantheons.md
         - worlds/earth_the_forgotten_times/pangeans.md
 extra_css:
-    - branding.css
-    - tweaks.css
+    - css/branding.css
+    - css/tweaks.css
 extra_javascript:
-    - extra.js
-    - hammer-2.0.8.min.js
+    - js/extra.js
+    - js/hammer-2.0.8.min.js
 theme:
     name: readthedocs
     custom_dir: theme/
