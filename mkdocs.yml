@@ -15,6 +15,7 @@ nav:
         - basics/downtime.md
         - basics/milestones.md
         - basics/equipment.md
+        - basics/companions.md
     - 'Action':
         - action/action.md
         - action/combat.md
