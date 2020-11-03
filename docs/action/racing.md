@@ -1,6 +1,6 @@
 # Chase Scenario
 
-A necromancer flees as the tide turns against his undead minions, an archeologist braves the ocean to be first to reach an ancient tomb, a spy dashes through the hangar towards their getaway starship fueled for takeoff. A **race scenario** is best suited for any action scenario in which participants are competing to reach a particiular goal.
+A necromancer flees as the tide turns against his undead minions, an archeologist braves the ocean to be first to reach an ancient tomb, a spy dashes through the hangar towards their getaway starship fueled for takeoff. A **race scenario** is best suited for any action scenario in which participants are competing to reach a particular goal.
 <!-- Define terms -->
 
 <!--
@@ -51,5 +51,5 @@ There are five possible ways that a race action can be spent: closing, performin
 
 
 ## Chasing
-Sometimes, a race will be intiated by pursuit. While usually the pursued character is fleeing to somewhere (in which case, a typical race towards a goal is appropriate), occasionally the pursued character's goal is simply to shake their pursuers. In this case, the pursued character's position is considered the "goal" of the race, and the pursued character will no longer be able to **close** or **perform a stunt**
+Sometimes, a race will be initiated by pursuit. While usually the pursued character is fleeing to somewhere (in which case, a typical race towards a goal is appropriate), occasionally the pursued character's goal is simply to shake their pursuers. In this case, the pursued character's position is considered the "goal" of the race, and the pursued character will no longer be able to **close** or **perform a stunt**
 <!-- TODO: Insert waylaying action here -->

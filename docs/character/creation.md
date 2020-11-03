@@ -17,7 +17,7 @@ If you chose to **spend creation points**, you get a pool of 12 creation points 
 
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate your character's maxiumum stamina. Read up on [stamina](/character/stamina_and_injuries), then calculate your maximum stamina by adding 48 to the best possible value you can roll on your character's brawn die.
+Once you've done that, it's time to calculate your character's maxiumum damage. Read up on [stamina](/basics/damage_and_injuries), then calculate your maximum damage by adding 48 to the best possible value you can roll on your character's brawn die.
 
 `Maximum Stamina = 48 + best possible roll on brawn die`
 

@@ -1,6 +1,6 @@
 # Attributes
 
-Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Each attribute is assigned a die of a certain level at [character creation](/character/), which is rolled as a part of [tests of ability](/character/tests/). [You can learn more about die levels here](/).
+Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Each attribute is assigned a die of a certain level at [character creation](/character/creation/), which is rolled as a part of [tests of ability](/basics/tests/). [You can learn more about die levels here](/basics/dice/).
 
 <br/>
 
@@ -10,7 +10,7 @@ Attributes are the measurement of a character's intrinsic ability, from how stro
 
 **Brawn** is the measurement of a character's physical strength and endurance. Characters with high Brawn are often strong, athletic, and resistant to maladies.
 
-**Intuition** is a measure of a character's gut instincts. Characters with high Intuition are often observant, perceptive, and quick to react and adapt to change. 
+**Intuition** is a measure of a character's gut instincts. Characters with high Intuition are often observant, perceptive, and quick to react and adapt to change.
 
 **Knowledge** is a measure of a character's memory and problem solving. Characters with high Knowledge are often able to solve complicated puzzles, craft sophisticated objects, and remember intricate details.
 
@@ -22,7 +22,7 @@ Attributes are the measurement of a character's intrinsic ability, from how stro
 
 ## Attribute Modifier
 
-Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](/character/tests/). In most campaigns they start at +0, as indicated in [character creation](/character/), and increase as you acquire [milestones](/character/milestones/). 
+Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](/basics/tests/). In most campaigns they start at +0, as indicated in [character creation](/character/creation/), and increase as you acquire [milestones](/basics/milestones/).
 
 <br/>
 

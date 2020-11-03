@@ -77,7 +77,7 @@ Weapons with this tag fire a swift shot that is deadly when placed perfectly. _C
 
 ### Presence
 
-Equipment with this tag might be sentient and require reasoning with to operate effectively or otherwise somehow utilize the wielder's social aptitudes. _A high maintenance combat support robot_, _a tape recording of the maddening snores of C'thulhu_, or _an arcane book of physically manifesting insults_ might have the Presence tag. 
+Equipment with this tag might be sentient and require reasoning with to operate effectively or otherwise somehow utilize the wielder's social aptitudes. _A high maintenance combat support robot_, _a tape recording of the maddening snores of C'thulhu_, or _an arcane book of physically manifesting insults_ might have the Presence tag.
 
 ### Repeating
 Weapons in this tag fire a number of projectiles in rapid succession, bombarding their target. _Automatic rifles_, _hwachas_, and _???_ often have the Repeating tag.
@@ -95,7 +95,7 @@ Weapons with this tag fire shrapnel, fire, poison, or other hazards to coat a wi
 
 ### Weapon
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes. More on attacks can be found in [Performing Attacks](action/combat).
+Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes. More on attacks can be found in [Performing Attacks](/action/combat).
 
 ### Will
 
@@ -105,4 +105,4 @@ Equipment with this tag might be painful to operate or otherwise require and amp
 
 ## Attributes, Weapons, and Armor
 
-Most real weapons and armor would have one or both of the Agility and Brawn tags. It's not necessary for every setting to have weapons for every attribute, but both the players and the GM should be on the same page regarding which attributes are most commonly tagged on weapons and armor  in the GM's setting. 
+Most real weapons and armor would have one or both of the Agility and Brawn tags. It's not necessary for every setting to have weapons for every attribute, but both the players and the GM should be on the same page regarding which attributes are most commonly tagged on weapons and armor  in the GM's setting.

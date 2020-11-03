@@ -6,12 +6,6 @@ When characters have more than four hours of downtime available to them, the gam
 
 <br/>
 
-## Training
-
-Provided that you have access to training materials or a trainer, downtime can be spent to train a skill. More details on training can be found in the Training section of [Skills and Backgrounds](/character/skills).
-
-<br/>
-
 ## Crafting
 
 Crafting is an umbrella term for any downtime activity that allows characters to create or modify items. While it's not always necessary, it's recommended for players and gamemasters to collaborate to create crafting "recipes" of material requirements and a written out [Test of Ability](/character/tests) with a goal of making progress towards creating or modifying a specific item. These recipes can also have any particular tools or environments that are required for creating an item.
@@ -42,5 +36,29 @@ Here's an example recipe for a sleep poison:
 >* **On a failure:** you mess things up somehow, but you still create **1 dose of Sleep Poison**
 >  * **On a success:** crafting goes without issue, you create **2 doses of Sleep Poison**
 >* **On a critical success:** not only do you craft the doses successfully, but you're able to squeeze an extra one through precision use of your materials. You create **3 doses of Sleep Poison**
+
+<br/>
+
+## Creating a Background
+
+A character can spend downtime to reflect on their past experiences and form a background out of them. More details on building a background can be found in [Building a Background (Skills and Backgrounds)](/character/skills#building-a-background)
+
+<br/>
+
+## Forgetting a Skill
+
+A character can always spend downtime to forget a skill in addition to any other downtime activities. More details on forgetting can be found in [Forgetting a Skill (Skills and Backgrounds)](/character/skills#forgetting-a-skill).
+
+<br/>
+
+## Recovering
+
+A character who recovers can spend a few periods of downtime to erase all of the injury boxes on their character sheet. How many periods of downtime are needed to erase all of the injury boxes tends to depend on the number of injuries received, though it's usually not more than two. More details on recovering can be found in [Damage and Injuries](/basics/damage_and_injuries/)
+
+<br/>
+
+## Training a Skill
+
+Provided that you have access to training materials or a trainer, downtime can be spent to train a skill. More details on training can be found in [Training (Skills and Backgrounds)](/character/skills#training).
 
 <br/>

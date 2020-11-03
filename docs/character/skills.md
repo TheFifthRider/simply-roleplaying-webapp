@@ -1,12 +1,12 @@
 # Skills and Backgrounds
 
-Where attributes represent the intrinsic attributes of a character (their strength, speed, etc.), skills and backgrounds represent the training and expertise that same character has gained over time. **Skills** represent the individual trained abilities and **backgrounds** represent broad mastery gained by combining several mastered skills together. 
+Where attributes represent the intrinsic attributes of a character (their strength, speed, etc.), skills and backgrounds represent the training and expertise that same character has gained over time. **Skills** represent the individual trained abilities and **backgrounds** represent broad mastery gained by combining several mastered skills together.
 
 <br/>
 
 ## Honing your Skills
 
-A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the higher the die level of the die in question. A character who has a d4 in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels you can read about them here](/). 
+A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the higher the die level of the die in question. A character who has a d4 in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels you can read about them here](/).
 
 As stated in [character creation](/character/), characters in Simply Roleplaying can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation](/character/), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned from [milestones](/character/milestones/), which are typically awarded at the end of each session.
 
@@ -20,13 +20,13 @@ Players can spend potential in one of two ways: either by being trained in a ski
 
 #### Training
 
-Training is an intense period of study that characters can engage in over a period of several hours of downtime, given either a trainer or suitable materials to study from. At the conclusion of the **training**, as long as it was not significantly interrupted, the potential is spent and the character learns the trained skill or advance that skill's die level. A character can act as a trainer for a skill provided that they have either mastered it or it pertains to one of their backgrounds.
+Training is an intense period of study that characters can engage in over a period of several hours of [downtime](/basics/downtime#training), given either a trainer or suitable materials to study from. At the conclusion of the **training**, as long as it was not significantly interrupted, the potential is spent and the character learns the trained skill or advance that skill's die level. A character can act as a trainer for a skill provided that they have either mastered it or it pertains to one of their backgrounds.
 
 <br/>
 
 #### Gaining Insight
 
-At any point after determining the result of a skill check, a player may declare that their character has **gained insight** in either a skill that was used for that check or in a skill that could have been used for that check. When they do this, they may either learn that skill or advance that skill's die level. 
+At any point after determining the result of a skill check, a player may declare that their character has **gained insight** in either a skill that was used for that check or in a skill that could have been used for that check. When they do this, they may either learn that skill or advance that skill's die level.
 
 <br/>
 
@@ -38,13 +38,13 @@ When a Skill is advanced to d12, it is considered **mastered**, and can no longe
 
 ### Forgetting a Skill
 
-Sometimes a skill might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that the skill no longer makes sense for them. In that case, you can always choose to forget.
+Sometimes a skill might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that the skill no longer makes sense for them. In that case, you can always choose to **forget**. During any period of [downtime](/basics/downtime#forgetting-a-skill), you may decrease the die level of one of your skills to reclaim one point of potential, representing your character losing interest in or forgetting about that skill in preparation to learn something new.
 
 <br/>
 
 ## Building a Background
 
-Once a character has mastered five related skills, they can combine them together to form a **background** that summarizes the common ground between those five skills. Backgrounds can be added to skill checks like a skill and always add 1d12 to the skill check.
+Once a character has mastered five related skills, they can take a few hours of [downtime](/basics/downtime#creating-a-background) to reflect and combine them together to form a **background** that summarizes the common ground between those five skills. Backgrounds can be added to skill checks like a skill and always add 1d12 to the skill check.
 
 > A character had mastered Acrobatics, Dexterity, Lockpicking, Sneaking, and Traps, it would make sense for them to be able to combine them together into a background called _Thief_, since all of those skills are the kind a Thief might have.
 
