@@ -54,7 +54,7 @@ When a character develops a new background, the skills combined into that backgr
 
 If a character has three d12 skills that are related to one of their existing backgrounds, instead of creating a new background they can choose to level an existing background up. Higher leveled backgrounds can be used multiple times on a test, up to a number of times equal to their level.
 
-To level up a background, a character takes a few hours of [downtime](/basics/downtime#leveling-up-a-background) and erases the three related d12 skills, just like when creating a background. Then, they rename the background to represent the expertise gained and marks down the new level of the background.
+To level up a background, a character takes a few hours of [downtime](/basics/downtime#leveling-up-a-background) and erases the three related d12 skills, just like when creating a background. Then, they rename the background to represent the expertise gained and mark down the new level of the background.
 
 > A roguish character with a _Thief_ background has mastered Dexterity, _Sneaking_, and _Traps_. These skills all are relevant to the _Thief_ background so rather than add a new background they choose to level up their existing background. These skills represent their abilities beyond being a thief, so they rename their background to _Master Thief (Level 2)_.
 
