@@ -14,25 +14,25 @@ As stated in [character creation](/character/), characters in Simply Roleplaying
 
 ### Spending Potential
 
-Players can spend potential in one of two ways: either by being trained in a skill by a more experienced character or by experimenting on their own and gaining insight in a skill. In either case they can choose to either **learn** the skill if they did not already know it, writing it down as a d4 skill on their character sheet, or **advance** the skill, increasing the die level of the skill by 1.
+Players can spend potential in one of two ways: either by being trained in a skill by a more experienced character or by experimenting on their own and gaining insight in a skill. In either case they can choose to either **learn** the skill if they did not already know it, writing it down as a d4 skill on their character sheet, or **level up** the skill, increasing the die level of the skill by 1.
 
 <br/>
 
 #### Training
 
-Training is an intense period of study that characters can engage in over a period of several hours of [downtime](/basics/downtime#training), given either a trainer or suitable materials to study from. At the conclusion of the **training**, as long as it was not significantly interrupted, the potential is spent and the character learns the trained skill or advance that skill's die level. A character can act as a trainer for a skill provided that they have either mastered it or it pertains to one of their backgrounds.
+Training is an intense period of study that characters can engage in over a period of several hours of [downtime](/basics/downtime#training), given either a trainer or suitable materials to study from. At the conclusion of the **training**, as long as it was not significantly interrupted, the potential is spent and the character learns or levels up the trained skill. A character can act as a trainer for a skill provided that they have either mastered it or it pertains to one of their backgrounds.
 
 <br/>
 
 #### Gaining Insight
 
-At any point after determining the result of a skill check, a player may declare that their character has **gained insight** in either a skill that was used for that check or in a skill that could have been used for that check. When they do this, they may either learn that skill or advance that skill's die level.
+At any point after determining the result of a skill check, a player may declare that their character has **gained insight** in either a skill that was used for that check or in a skill that could have been used for that check. When they do this, they may either learn or level up the trained skill.
 
 <br/>
 
 ### Mastering a Skill
 
-When a Skill is advanced to d12, it is considered **mastered**, and can no longer be advanced. A mastered skill can be taught to others or used in creating a background.
+When you level a skill up to d12, you've **mastered** it and can't level it up anymore. If you want to get more skilled in this area, you'll have to create a background with the skill.
 
 <br/>
 
@@ -44,13 +44,19 @@ Sometimes a skill might not work out for your character. Maybe it was too specif
 
 ## Building a Background
 
-Once a character has mastered five related skills, they can take a few hours of [downtime](/basics/downtime#creating-a-background) to reflect and combine them together to form a **background** that summarizes the common ground between those five skills. Backgrounds can be added to skill checks like a skill and always add 1d12 to the skill check.
+Once a character has three related d12 skills, they can take a few hours of [downtime](/basics/downtime#creating-a-background) to reflect and combine them together to form a **background** that summarizes the aspect of the character that is reflected by those three skills. Backgrounds can be added to any test that their name implies that they would be useful for and are worth a d12 when added to a test.
 
-> A character had mastered Acrobatics, Dexterity, Lockpicking, Sneaking, and Traps, it would make sense for them to be able to combine them together into a background called _Thief_, since all of those skills are the kind a Thief might have.
+> A character had mastered the skills _Acrobatics_, _Lockpicking_, and _Sneaking_, it would make sense for them to be able to combine them together into a background called _Thief_, since all of those skills are the kind a Thief might have.
 
-When a character develops a new background, the skills combined into that background are erased from their character sheet, as their new background includes those skills. That is not to say that skills combined into a background cannot be learned again, however--  if they are, those skills represent additional expertise beyond what the character already has from their background. Further, no two backgrounds can have the same name. If a character combines the same five skills into a new background more than once, the name of the new background should show the skill gained beyond the first background.
+When a character develops a new background, the skills combined into that background are erased from their character sheet, as their new background includes those skills. That is not to say that skills combined into a background cannot be learned again, however--  if they are, those skills represent additional expertise beyond what the character already has from their background. 
 
-> A roguish character with a Thief background has once again mastered Acrobatics, Dexterity, Lockpicking, Sneaking, and Traps. Since these skills represent their abilities beyond simply being a Thief, they create a new background called _Master Thief_.
+### Leveling up Backgrounds
+
+If a character has three d12 skills that are related to one of their existing backgrounds, instead of creating a new background they can choose to level an existing background up. Higher leveled backgrounds can be used multiple times on a test, up to a number of times equal to their level.
+
+To level up a background, a character takes a few hours of [downtime](/basics/downtime#leveling-up-a-background) and erases the three related d12 skills, just like when creating a background. Then, they rename the background to represent the expertise gained and marks down the new level of the background.
+
+> A roguish character with a _Thief_ background has mastered Dexterity, _Sneaking_, and _Traps_. These skills all are relevant to the _Thief_ background so rather than add a new background they choose to level up their existing background. These skills represent their abilities beyond being a thief, so they rename their background to _Master Thief (Level 2)_.
 
 <br/>
 
@@ -86,16 +92,16 @@ Names for backgrounds are more freeform. A good rule of thumb is to name your ba
 
 Here are some additional examples of skills based on a attribute they work well with, and some background examples of how they might be combined. While skills are never limited by what attribute you use them with, sometimes thinking about what attribute you want to improve will help you decide on what kind of skill to learn.
 
-Skills to augment _Agility_ tests primarily focus on a character's dexterity, flexibility, and physical speed. Some examples are _Acrobatics_, _Lockpicking_, _Rubix Cube Solving_, _Sneaking_, or _Wirecutting_. If you were to combine those five skills, you could create a background named _Criminal Mastermind_.
+Skills to augment _Agility_ tests primarily focus on a character's dexterity, flexibility, and physical speed. Some examples are _Acrobatics_, _Rubix Cube Solving_, and _Sneaking_. If you were to combine those three skills, you could create a background named _Criminal Mastermind_.
 
-Skills to augment _Brawn_ tests primarily focus on a character's fortitude, endurance, and physical strength. Some examples are _Breaching Doors_, _Climbing_, _Lifting_, _Resisting Toxins_, and _Swimming_. If you were to combine those five skills, you could create a background named _Military Commando_.
+Skills to augment _Brawn_ tests primarily focus on a character's fortitude, endurance, and physical strength. Some examples are _Breaching Doors_, _Lifting_, and _Swimming_. If you were to combine those three skills, you could create a background named _Military Commando_.
 
-Skills to augment _Intuition_ tests primarily focus on a character's awareness and ability to improvise. Some examples are _Driving_, _Gambling_, _Navigation_, _Traps_, and _Streetwise_. If you were to combine those five skills, you could create a background named _Getaway Driver_.
+Skills to augment _Intuition_ tests primarily focus on a character's awareness and ability to improvise. Some examples are _Driving_, _Gambling_, and _Streetwise_. If you were to combine those three skills, you could create a background named _Getaway Driver_.
 
-Skills to augment _Knowledge_ tests primarily focus on a character's education, ability to retain facts, and their ability to understand and apply complicated concepts. Some examples are _Archeology_, _Bandit Culture_, _Baking_, _Political History_, and _Sewing_. If you were to combine those five skills, you could create a background named _Gang Savvy Granny_.
+Skills to augment _Knowledge_ tests primarily focus on a character's education, ability to retain facts, and their ability to understand and apply complicated concepts. Some examples are _Bandit Culture_, _Political History_, and _Sewing_. If you were to combine those three skills, you could create a background named _Gang Savvy Granny_.
 
-Skills to augment _Presence_ tests primarily focus on a character's social ability and their ability to inspire emotions in others. Some examples are _Animal Handling_, _Bluff_, _Charm_, _Logic_, and _Political Appeal_. If you were to combine those five skills, you could create a background named _Druid Politician_.
+Skills to augment _Presence_ tests primarily focus on a character's social ability and their ability to inspire emotions in others. Some examples are _Animal Handling_, _Bluff_, and _Political Appeal_. If you were to combine those three skills, you could create a background named _Druid Politician_.
 
-Skills to augment _Will_ tests primarily focus on a character's ability to shut out distractions or act despite hardship. Some examples are _Acting under Pressure_, _Focus_, _Ignoring Pain_, _Mettle_, and _Spirit_. If you were to combine those five skills, you could create a background named _Force of Nature_.
+Skills to augment _Will_ tests primarily focus on a character's ability to shut out distractions or act despite hardship. Some examples are _Acting under Pressure_, _Ignoring Pain_, and _Spirit_. If you were to combine those three skills, you could create a background named _Force of Nature_.
 
 <br/>

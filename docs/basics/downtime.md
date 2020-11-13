@@ -39,9 +39,9 @@ Here's an example recipe for a sleep poison:
 
 <br/>
 
-## Creating a Background
+## Creating or Leveling Up a Background
 
-A character can spend downtime to reflect on their past experiences and form a background out of them. More details on building a background can be found in [Building a Background (Skills and Backgrounds)](/character/skills#building-a-background)
+A character can spend downtime to reflect on their past experiences and form backgrounds out of them or level up existing backgrounds. More details on building and leveling up a background can be found in [Building a Background (Skills and Backgrounds)](/character/skills#building-a-background) and [Leveling Up Backgrounds (Skills and Backgrounds)](/character/skills#Leveling Up Backgrounds).
 
 <br/>
 
