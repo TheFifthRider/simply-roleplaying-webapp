@@ -1,12 +1,8 @@
 # Simply Roleplaying Webapp
 The webapp code behind the system (and the system itself!)
 
-## Building the webapp
-The webapp is a simple Flask webapp, built with Python 3.
-
-## Running the website locally
-The webapp is packaged with both waitress (for Windows machines) and gunicorn (for Linux / OSX machines) to serve the Flask server locally.
-runServer.sh will pick which of these to use and will host the website on port 80 of your localhost.
+## Building and running the webapp
+The webapp is built with mkdocs, so building and executing it is as simple as `mkdocs serve`
 
 ## Licenses
 
