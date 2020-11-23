@@ -58,27 +58,25 @@ All characters who aid in the test help the tested character reach their goal, m
 
 <br/>
 
-## Outcomes of Tests
+## Determining the Outcome
 
-Once the attribute, backgrounds, and skills are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the skill test they do whatever they set out to do and have minimized any associated risk. If a character's roll does not meet the difficulty of the test, things get complicated. That doesn't necessarily mean that they don't accomplish their goal, but there will be certainly be dramatic consequences.
+Once the attribute, backgrounds, and skills are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the test, they do what they set out to do. have minimized any associated risk. If a character's roll does not meet the difficulty of the test, things get complicated. That doesn't necessarily mean that they don't accomplish their goal, but there will be certainly be dramatic consequences.
 
 If a character rolls particularly well or particularly poorly compared to the difficulty of the test, the outcome should be that much more significant. When a character rolls more than 10 below the difficulty of a test they suffer a **critical failure** and the risk realized becomes dramatically greater. Conversely, when a character rolls more than 10 above the difficulty of a test they have performed a **critical success** and not only do they complete whatever goal they set out to do but they also gain some kind of significant added benefit-- perhaps their success avoids all risk, or their success is to a degree that none thought possible.
 
 <br/>
 
-#### Progress as an Outcome
+### Determining the Outcome of a Competition
 
-Sometimes a goal is to make **progress** on a larger goal that can't be resolved by just one test, such as when the goal is making something complicated, taking out an enemy, or working as a crew to steer a ship through obstacles. The GM will create a progress meter for the overarching goal of the tests the players-- a total number to reach in order to accomplish the overall goal. Any tests that help accomplish the overall goal can help fill the meter. You can represent this meter just by a total number to hit, or you can draw it on a piece of paper to help illustrate the overall progress, whatever works best for your group.
+In all competitions, the risk each character faces in a competition is related to placing poorly compared to other competitors and the goal for each character in a competition is related to placing well. As a result, outcomes in competitions are better represented by ranking the competing characters from best to worst. which the gamemaster can then use to describe the result of the competition based on the relative placement of the competitors.
 
-When a character **critically fails** on a test meant to help fill the meter they instead make things more complicated, either by falling victim to an existing risk or introducing a new one. When a character **fails** on a test to help fill the meter, they fill the progress meter by half of what they rolled. When a character **succeeds** on a test to help fill the meter, they fill the progress meter by what they rolled. When a character **critically succeeds** on a test to help fill the meter, they fill the progress meter by twice what they rolled.
+In the case of a runaway winner or a thoroughly outclassed loser, the result of the competition is similarly dramatic to a standard test. A character who beats all other competing characters by 10 or more are considered to have dramatically blown away the competition by performing a **critical success**, gaining the benefits of a critical success as outlined above. A character who is beaten by 10 or more is considered to have been completely outclassed by the competition and suffers a **critical failure**, suffering the penalties of a critical failure as outlined above.
 
 <br/>
 
-#### Outcomes in Competitions
 
- In all competitions, the risk each character faces in a competition is related to placing poorly compared to other competitors and the goal for each character in a competition is related to placing well. As a result, outcomes in competitions are better represented by ranking the competing characters from best to worst. which the gamemaster can then use to describe the result of the competition based on the relative placement of the competitors.
 
-In the case of a runaway winner or a thoroughly outclassed loser, the result of the competition is similarly dramatic to a standard test. A character who beats all other competing characters by 10 or more are considered to have dramatically blown away the competition by performing a **critical success**, gaining the benefits of a critical success as outlined above. A character who is beaten by 10 or more is considered to have been completely outclassed by the competition and suffers a **critical failure**, suffering the penalties of a critical failure as outlined above.
+## Example of a Test
 
 Let's bring it all together and walk through a test of ability using the **Sell Questionable Goods to a Local Merchant** example above:
 
@@ -93,6 +91,42 @@ Let's bring it all together and walk through a test of ability using the **Sell 
 > They roll a 2, a 1, and a 3 for a total of 6--  not a great roll. Fortunately, they have a +5 attribute modifier to their Presence, bringing the total of the roll up to 11.
 >
 > Unfortunately, the difficulty of the test was _15_, so an 11 is a _failure_, which means _the merchant refuses and threatens to involve the authorities_. Based on the skills used, the gamemaster now has everything they need to paint a picture of how merchant responds to the smuggler who just attempted to intimidate them, describing how _the merchant refuses and threatens to involve the authorities_.
+
+<br/>
+
+## Other Types of Outcomes
+
+Accomplishing what a character set out to do can be nebulous, especially when a the goal of a test is complicated or open ended. In those cases, consider the following rules for handling situations where the goal is to **make progress** on a larger task, or to **gather information**.
+
+### Progress as an Outcome
+
+Sometimes the goal of a test is to make **progress** on a larger goal that can't be resolved by just one test. Such goal might be making something complicated, taking out an enemy, or working as a crew to steer a ship through obstacles. The GM will create a progress meter for the overarching goal of the tests the players-- a total number to reach in order to accomplish the overall goal. Any tests that help accomplish the overall goal can help fill the meter. You can represent this meter just by a total number to hit, or you can draw it on a piece of paper to help illustrate the overall progress, whatever works best for your group.
+
+When a character makes a test of any attribute with a goal to **fill a progress meter**, if they...
+
+*   **Critically fail:** They instead make things more complicated, either by falling victim to an existing risk or introducing a new one.
+*   **Fail:** They are able to make some progress. Fill the progress meter by half of what they rolled.
+*   **Succeed:** They make great progress. Fill the progress meter by what they rolled.
+*   **Critically Succeed:** They make incredible progress. Fill the progress meter by twice what they rolled.
+
+<br/>
+
+### Information as an Outcome
+
+Sometimes the goal of a test is to find **answers to questions**. Such a goal might be researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual. In this case, the results of measure success in number of questions answered. The gamemaster may provide questions that are available to be asked, or allow any question to be asked. 
+
+When a character makes a test of any attribute to **find answers to questions**, if they...
+
+*   **Critically fail:** They get unreliable information-- they may ask two questions which may be answered either truthfully or falsely.
+*   **Fail:** They learn some information-- they may ask two questions which must be answered truthfully.
+*   **Succeed:** They learn a good amount of information-- they may ask three questions which must be answered truthfully.
+*   **Critically Succeed:** They learn a significant amount of information-- they may ask four questions which must be answered truthfully.
+
+The answers to the questions should make sense contextually and should be as complete as possible given the information at the character's disposal. An investigator looking at the scene of a murder might not be able to answer the question **"Who killed this person?"** with the name of the killer, but they could answer that question with **"someone with red hair and a blue cloak"** based on a strand of hair grasped in the victim's hand and a scrap of cloth found wedged in the door nearby.
+
+Questions should never feel wasted. If the answer to a question was plain or common knowledge and would not normally require a test to uncover, it should be answered without counting against the number of questions that the tested character can ask. If a question is not answerable by the information available in the context of the test, the person asked the question should indicate why it is not answerable and it will not count against the number of questions that the character can ask.
+
+Players, if your gamemaster allows you to ask any question but you're not sure what to ask, **"What questions should I ask?"** can be a solid question to ask, since learning the right questions to ask is a crucial step in information gathering. Gamemasters, if this is a question that is somehow unanswerable, make sure you have an answer as to why and how it can become answerable.
 
 <br/>
 
@@ -113,3 +147,4 @@ Goals are a statement of intent and should be more than just avoiding risks. To 
 Risks are negative consequences to any action. Risks can be as benign as taking a whole day to research something or as life-or-death as taking a chainsaw to the chest, and should rarely just be failing to achieve a goal in a way such that the character couldn't just try again. A character shouldn't just attempt to push some boxes and find them unable to budge, failure should be them accidentally getting pinned beneath them or their efforts alerting a passing warehouse guard. Failing a researching skill check in an quiet town library should result in a sleepless night or missing a crucial detail.
 
 <br/>
+
