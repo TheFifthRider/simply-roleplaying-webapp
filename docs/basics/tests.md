@@ -8,18 +8,20 @@ While most tests emerge fluidly from gameplay and don't require this level of de
 >
 >  _Difficulty **15** Test of **Presence**_
 >
-> ****
+>  ****
 >
 >  **Goal:** Turning a profit on contraband
 >
->  **Risk:** The merchant is upset or involves the authorities
+>  **Risk:** The merchant might be insulted or involve the authorities
 >
 >  ****
 >
->  * **On a critical failure:** the merchant refuses to do business with you ever again and tips off the authorities
->* **On a failure:** the merchant refuses and threatens to involve the authorities
->  * **On a success:** you win them over or they don't seem to notice this time-- the merchant accepts the deal
->* **On a critical success:** not only does the merchant accept the deal but they happen to be a known fence in the area and look forward to working with you again
+>  If they...
+>
+>  * **Fail:** the merchant refuses to do business with you ever again and tips off the authorities
+>  * **Partially succeed:** the merchant refuses to buy the contraband and threatens to involve the authorities if you ever try to sell them contraband again
+>  * **Fully succeed:** you win them over or they don't seem to notice this time-- the merchant accepts the deal
+>  * **Critically succeed:** not only does the merchant accept the deal but they happen to be a known fence in the area and look forward to working with you again
 
 <br/>
 
@@ -27,11 +29,11 @@ While most tests emerge fluidly from gameplay and don't require this level of de
 
 Most of the time, the difficulty is a static number determined by the gamemaster based on the skill required to achieve success with minimal risk. Below are a collection of difficulty rules of thumb. When creating a test, it's a good idea to start with a difficulty based on one of the rules of thumb and increase or decrease it by a few points depending on how easy or difficult the test is meant to be.
 
-* **Talented but inexperienced** characters can handle tests of difficulty **5**
-* **Experienced** characters can handle tests of difficulty **10**
-* **Professionals** can handle tests of difficulty **20**
-* **Experts** can handle tests of difficulty **30**
-* **Masters** can handle tests of difficulty **40**
+* **Talented but inexperienced** characters who have yet to earn a milestone can handle tests of difficulty **5**
+* **Experienced** characters who have earned a milestone can handle tests of difficulty **10**
+* **Professionals** who have earned two milestones can handle tests of difficulty **20**
+* **Experts** who have earned three milestones can handle tests of difficulty **30**
+* **Masters** who have earned four milestones can handle tests of difficulty **40**
 * Only **Legendary** characters can attempt to handle tests of difficulty **50 or higher**
 
 Players, the difficulty rules of thumb can also help you gauge your character's proficiency. If you're regularly rolling above a 15 on a test, chances are you are on the same level as someone who performs those sorts of tests for a living. Gamemasters, if you choose to use more than three skill milestones and three attribute milestones, you should consider writing your own rules of thumb not only to help yourself consistently apply difficulties across your world, but also to help your players understand what rolling a 10 means when compared to the rest of your world's citizens.
@@ -60,17 +62,23 @@ All characters who aid in the test help the tested character reach their goal, m
 
 ## Determining the Outcome
 
-Once the attribute, backgrounds, and skills are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the test, they do what they set out to do. have minimized any associated risk. If a character's roll does not meet the difficulty of the test, things get complicated. That doesn't necessarily mean that they don't accomplish their goal, but there will be certainly be dramatic consequences.
+Once the attribute, backgrounds, and skills are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the test, they have **succeeded** and are able to do what they set out to do. If a character's roll does not meet the difficulty of the test, they have **failed** and things are about to get bad for them.
 
-If a character rolls particularly well or particularly poorly compared to the difficulty of the test, the outcome should be that much more significant. When a character rolls more than 10 below the difficulty of a test they suffer a **critical failure** and the risk realized becomes dramatically greater. Conversely, when a character rolls more than 10 above the difficulty of a test they have performed a **critical success** and not only do they complete whatever goal they set out to do but they also gain some kind of significant added benefit-- perhaps their success avoids all risk, or their success is to a degree that none thought possible.
+While success does mean that the character has accomplished what they wanted to, how well they have succeeded determines how much any risks involved affect them. 
+
+If a character rolls 20 or more over the difficulty of a test, they have **critically succeeded**; they either avoid the risks involved entirely or succeed to an incredible degree. 
+
+If a character rolls 10 or more over the difficulty of a test, they have **fully succeeded**; they did what they set out to do and minimize any associated risks.
+
+If a character only meets or exceeds the difficulty of a test, they have **partially succeeded**; they did what they set out to do but they're going to take the brunt of the risks involved.
+
+If a character does not meet the difficulty of the test, they have **failed**-- they don't do what they set out to do and they are either going to suffer the worst possible case of the risks involved or introduce a new risk.
 
 <br/>
 
 ### Determining the Outcome of a Competition
 
-In all competitions, the risk each character faces in a competition is related to placing poorly compared to other competitors and the goal for each character in a competition is related to placing well. As a result, outcomes in competitions are better represented by ranking the competing characters from best to worst. which the gamemaster can then use to describe the result of the competition based on the relative placement of the competitors.
-
-In the case of a runaway winner or a thoroughly outclassed loser, the result of the competition is similarly dramatic to a standard test. A character who beats all other competing characters by 10 or more are considered to have dramatically blown away the competition by performing a **critical success**, gaining the benefits of a critical success as outlined above. A character who is beaten by 10 or more is considered to have been completely outclassed by the competition and suffers a **critical failure**, suffering the penalties of a critical failure as outlined above.
+Determining the outcome of a competition in which there are two participants is done the same way as determining the outcome in a test with a static difficulty. When more than one character is involved, characters are instead often **ranked from highest to lowest**, based on their roll. The gamemaster can then use these positions to describe the result of the competition based on the relative placement of the competitors.
 
 <br/>
 
@@ -88,9 +96,9 @@ Let's bring it all together and walk through a test of ability using the **Sell 
 >
 > The gamemaster agrees that these are good choices, so the thief rolls their 1d10 Presence, 1d6 Intimidation, and 1d12 for their Smuggler background.
 >
-> They roll a 2, a 1, and a 3 for a total of 6--  not a great roll. Fortunately, they have a +5 attribute modifier to their Presence, bringing the total of the roll up to 11.
+> They roll a 10, a 5, and a 5 for a total of 20--  a spectacular roll. They have a +5 attribute modifier to their Presence, bringing the total of the roll up to 25.
 >
-> Unfortunately, the difficulty of the test was _15_, so an 11 is a _failure_, which means _the merchant refuses and threatens to involve the authorities_. Based on the skills used, the gamemaster now has everything they need to paint a picture of how merchant responds to the smuggler who just attempted to intimidate them, describing how _the merchant refuses and threatens to involve the authorities_.
+> The difficulty of the test was _15_, and 25 is 10 higher than the difficulty, which makes it a _full success_. which means _you win them over or they don't seem to notice this time-- the merchant accepts the deal_. Based on the skills used, the gamemaster now has everything they need to paint a picture of how the sweating merchant responds to the smuggler's intimidation and ultimately gives in.
 
 <br/>
 
@@ -104,9 +112,9 @@ Sometimes the goal of a test is to make **progress** on a larger goal that can't
 
 When a character makes a test of any attribute with a goal to **fill a progress meter**, if they...
 
-*   **Critically fail:** They instead make things more complicated, either by falling victim to an existing risk or introducing a new one.
-*   **Fail:** They are able to make some progress. Fill the progress meter by half of what they rolled.
-*   **Succeed:** They make great progress. Fill the progress meter by what they rolled.
+*   **Fail:** They instead make things more complicated, either by falling victim to an existing risk or introducing a new one.
+*   **Partially succeed:** They are able to make some progress. Fill the progress meter by half of what they rolled.
+*   **Fully succeed:** They make great progress. Fill the progress meter by what they rolled.
 *   **Critically Succeed:** They make incredible progress. Fill the progress meter by twice what they rolled.
 
 <br/>
@@ -117,8 +125,8 @@ Sometimes the goal of a test is to find **answers to questions**. Such a goal mi
 
 When a character makes a test of any attribute to **find answers to questions**, if they...
 
-*   **Critically fail:** They get unreliable information-- they may ask two questions which may be answered either truthfully or falsely.
-*   **Fail:** They learn some information-- they may ask two questions which must be answered truthfully.
+*   **Fail:** They get unreliable information-- they may ask two questions which may be answered either truthfully or falsely.
+*   **Partially succeed:** They learn some information-- they may ask two questions which must be answered truthfully.
 *   **Succeed:** They learn a good amount of information-- they may ask three questions which must be answered truthfully.
 *   **Critically Succeed:** They learn a significant amount of information-- they may ask four questions which must be answered truthfully.
 
