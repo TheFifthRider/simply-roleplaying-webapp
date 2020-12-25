@@ -12,7 +12,7 @@ Equipment with this tag are more effective than other equipment of the same type
 
 ### < Type of Magic >
 
-Equipment with this tag is infused with a particular type of magic, augmenting its functionality. The various types of magic are explained in [Using Magic](../extras/magic).
+Equipment with this tag is infused with a particular type of magic, augmenting its functionality. The various types of magic are explained in [Using Magic](../extras/magic.md).
 
 ### Agility
 
@@ -20,7 +20,7 @@ Equipment with this tag make is often light, compact, or relies on manual precis
 
 ### Armor
 
-Equipment with this tag are wearable defense like personal shield generators, kevlar vests, or full plate. When worn, armor grants the wearer with **armor value** equal to **the highest passive value of the equipment's tagged attributes**. A character can only benefit from one set of armor at a time.
+Equipment with this tag are wearable defense like personal shield generators, Kevlar vests, or full plate. When worn, armor grants the wearer with **armor value** equal to **the highest passive value of the equipment's tagged attributes**. A character can only benefit from one set of armor at a time.
 
 ### Battering
 Weapons with this tag are blunt instruments that rely on their weight to deal damage. _Batons_, _maces_, and _war picks_ often have the Battering tag.
@@ -31,7 +31,7 @@ Equipment with this tag is often heavy or strenuous to operate effectively. _Mau
 
 ### Catalyst
 
-Equipment with this tag can be used as a magical focus for one of the tagged types of magic, granting characters the ability to **use magic** with one of the tagged types of magic and one of the tagged attributes. More on using magic can be found in [Using Magic](../extras/magic).
+Equipment with this tag can be used as a magical focus for one of the tagged types of magic, granting characters the ability to **use magic** with one of the tagged types of magic and one of the tagged attributes. More on using magic can be found in [Using Magic](../extras/magic.md).
 
 ### Cleaving
 Weapons with this tag have a wedge shaped blade that is swung with a chop. _Battleaxes_, _meat cleavers_, and _war picks_ often have the Cleaving tag.
@@ -95,7 +95,7 @@ Weapons with this tag fire shrapnel, fire, poison, or other hazards to coat a wi
 
 ### Weapon
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes. More on attacks can be found in [Performing Attacks](/action/combat).
+Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes. More on attacks can be found in [Performing Attacks](../action/combat.md).
 
 ### Will
 

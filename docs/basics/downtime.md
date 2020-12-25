@@ -8,7 +8,7 @@ When characters have more than four hours of downtime available to them, the gam
 
 ## Crafting
 
-Crafting is an umbrella term for any downtime activity that allows characters to create or modify items. While it's not always necessary, it's recommended for players and gamemasters to collaborate to create crafting "recipes" of material requirements and a written out [Test of Ability](/character/tests) with a goal of making progress towards creating or modifying a specific item. These recipes can also have any particular tools or environments that are required for creating an item.
+Crafting is an umbrella term for any downtime activity that allows characters to create or modify items. While it's not always necessary, it's recommended for players and gamemasters to collaborate to create crafting "recipes" of material requirements and a written out [Test of Ability](tests.md) with a goal of making progress towards creating or modifying a specific item. These recipes can also have any particular tools or environments that are required for creating an item.
 
 Here's an example recipe for a sleep poison:
 
@@ -41,24 +41,24 @@ Here's an example recipe for a sleep poison:
 
 ## Creating or Leveling Up a Background
 
-A character can spend downtime to reflect on their past experiences and form backgrounds out of them or level up existing backgrounds. More details on building and leveling up a background can be found in [Building a Background (Skills and Backgrounds)](/character/skills#building-a-background) and [Leveling Up Backgrounds (Skills and Backgrounds)](/character/skills#Leveling Up Backgrounds).
+A character can spend downtime to reflect on their past experiences and form backgrounds out of them or level up existing backgrounds. More details on building and leveling up a background can be found in [Building a Background (Skills and Backgrounds)](../character/skills.md#building-a-background) and [Leveling Up Backgrounds (Skills and Backgrounds)](../character/skills.md#Leveling Up Backgrounds).
 
 <br/>
 
 ## Forgetting a Skill
 
-A character can always spend downtime to forget a skill in addition to any other downtime activities. More details on forgetting can be found in [Forgetting a Skill (Skills and Backgrounds)](/character/skills#forgetting-a-skill).
+A character can always spend downtime to forget a skill in addition to any other downtime activities. More details on forgetting can be found in [Forgetting a Skill (Skills and Backgrounds)](../character/skills.md#forgetting-a-skill).
 
 <br/>
 
 ## Recovering
 
-A character who recovers can spend a few periods of downtime to erase all of the injury boxes on their character sheet. How many periods of downtime are needed to erase all of the injury boxes tends to depend on the number of injuries received, though it's usually not more than two. More details on recovering can be found in [Damage and Injuries](/basics/damage_and_injuries/)
+A character who recovers can spend a few periods of downtime to erase all of the injury boxes on their character sheet. How many periods of downtime are needed to erase all of the injury boxes tends to depend on the number of injuries received, though it's usually not more than two. More details on recovering can be found in [Damage and Injuries](damage_and_injuries.md)
 
 <br/>
 
 ## Training a Skill
 
-Provided that you have access to training materials or a trainer, downtime can be spent to train a skill. More details on training can be found in [Training (Skills and Backgrounds)](/character/skills#training).
+Provided that you have access to training materials or a trainer, downtime can be spent to train a skill. More details on training can be found in [Training (Skills and Backgrounds)](../character/skills.md#training).
 
 <br/>

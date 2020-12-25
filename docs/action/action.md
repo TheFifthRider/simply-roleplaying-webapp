@@ -11,7 +11,7 @@ Action scenarios are turn based and take place over blocks of time referred to a
 
 There are several ways of determining the character order in rounds, the most iconic in roleplaying games is **rolling for initiative**. At the beginning of the action scenario, each participant makes an Intuition roll (adding their modifier as normal) and marks the result of this value as their **initiative** for the scenario.
 
-Characters then take their turn in order from highest roll to lowest roll. Ties can be broken by the character's [passive intuition score](/character/attributes/), then by the die level of the Intuition attribute-- d6s beat d4s, d8s beat d6s and so forth. Further ties can be broken at GM discretion.
+Characters then take their turn in order from highest roll to lowest roll. Ties can be broken by the character's [passive intuition score](../character/attributes.md), then by the die level of the Intuition attribute-- d6s beat d4s, d8s beat d6s and so forth. Further ties can be broken at GM discretion.
 
 At the end of each round, after all characters have taken their turn, characters who join the action after the initial rolls roll for initiative and are sorted into the initiative order based on their roll.
 
@@ -33,9 +33,9 @@ Once all participants in a round have taken their turn, characters who are not p
 
 #### Elective Action Order in Practice
 
-Gamemasters, if you intend to use Elective Action Order
+Gamemasters, if you intend to use Elective Action Order you should be aware of its tactical advantages and disadvantages. One question you will likely be asked immediately is "why would I ever pass to an enemy?" The answer here lies in vying for control of the end of the round, since the decides the order of the next round. Used cleverly, this can allow key players or even the entire team the opportunity to take two uninterrupted turns in a row-- one at the end of the round, and one at the start of the next round.
 
-In addition, making sure that the enemies of the combat are clearly distinct so your players can easily identify who they are choosing to go next. If you have a bunch of largely indistinguishable non-player characters, consider clearly defining squads of those non-player characters that all choose another member of their squad to go next if available-- this helps your players (and you!) so the turn can be passed to "the militia" instead of "to the militia guy-- no the one with the pitchfork."
+In addition, making sure that the enemies of the combat are clearly distinct so your players can easily identify who they are choosing to go next. If you have a bunch of largely indistinguishable non-player characters, consider clearly defining squads of those non-player characters. Squads are simply made up of characters that will always pass their action to another character in their "squad" until none are available. this helps your players (and you!) so the turn can be passed to "the bandits" instead of needing to specify which specific bandit they're referring to.
 
 
 
@@ -50,10 +50,10 @@ The tide of lava rises, the rope bridges' tenuous connections begin to sever, th
 
 ### Combat Scenario
 
-Combat scenarios are action scenarios that capture the strategy of battlefield tactics in a style familiar to most tabletop roleplaying enthusiasts. A round lasts ten seconds, and each turn allows a character to show off their capabilities by taking multiple actions in succession. [You can read more about Combat Scenarios here](/action/combat/).
+Combat scenarios are action scenarios that capture the strategy of battlefield tactics in a style familiar to most tabletop roleplaying enthusiasts. A round lasts ten seconds, and each turn allows a character to show off their capabilities by taking multiple actions in succession. [You can read more about Combat Scenarios here](combat.md).
 
 
 
 ### Race Scenario
 
-Race scenarios are action scenarios that capture the fast back-and-forth between participants in a race. A round lasts a variable amount of time, from seconds to hours, and each turn is a snapshot in that time. [You can read more about Race Scenarios here](/action/racing/).
+Race scenarios are action scenarios that capture the fast back-and-forth between participants in a race. A round lasts a variable amount of time, from seconds to hours, and each turn is a snapshot in that time. [You can read more about Race Scenarios here](racing.md).

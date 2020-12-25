@@ -140,7 +140,9 @@ Players, if your gamemaster allows you to ask any question but you're not sure w
 
 ## Good Tests
 
-A test of ability is fundamentally useless without a **goal**, a **risk**, and an **uncertainty**. Without uncertainty, the narrative already clearly indicates what will happen and to roll the dice could introduce uncertainty that breaks immersion. Without a goal, the roller's agency is subverted-- if they don't know what they're trying to do, the number rolled doesn't mean anything to them. Without a risk, failure has no weight and the test is drained of tension. The concept of goals and risks is something that relies on the players being immersed in their character, their surroundings, and the world at large. If you're playing with a bunch of people new to the system, take some time in an introductory dungeon to help your players think in terms of the goals they want to perform and the risks that might come with them.
+A test of ability is fundamentally useless without a **goal**, a **risk**, and an **uncertainty**. Without uncertainty, the narrative already clearly indicates what will happen, so it should just happen. Without a goal, the roller's agency is subverted-- if they don't know what they're trying to do, the number rolled doesn't mean anything to them. Without a risk, failure has no cost and the test is drained of tension. At best, it's boring-- at worst it's frustrating. This is not to say that tests need always be dramatic or life-changing-- changing the lettering of a sign to prank a party member is as valid a goal as crossing a dangerous chasm and getting caught in the middle of defacing a street sign is just as valid a risk as losing your grip on a precarious bridge.
+
+The concept of goals and risks is something that relies on the players being immersed in their character, their surroundings, and the world at large. If you're playing with a bunch of people new to the system, take some time in an introductory dungeon to help your players think in terms of the goals they want to perform and the risks that might come with them.
 
 <br/>
 
