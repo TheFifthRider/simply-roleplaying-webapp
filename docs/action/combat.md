@@ -1,6 +1,6 @@
 # Combat Scenario
 
-In the Simply Roleplaying system, combat is designed to be fairly simple while also allowing for a variety of different weapons and combat styles, as well as offering a variety of different techniques that can be performed in combat. When combat starts, every participant rolls a flat [Intuition](../characters/attributes.md) check unmodified by bonuses provided by any skill. This check determines how quickly each of the characters reacts to the combat scenario. In the event of an ambush, the ambushers may roll their Intuition twice, and use the combined value. Each combatant marks this value as their **initiative** for this combat. Then, starting with the character with the highest roll and continuing in descending order, each character takes a turn. This ordering is referred to as the **turn order**, and a full rotation of the turn order is considered a combat **round**. Each round takes approximately 10 seconds of game time, with all actions happening in the round occurring roughly sequentially.
+In the Simply Roleplaying system, combat is designed to be fairly simple while also allowing for a variety of different weapons and combat styles, as well as offering a variety of different techniques that can be performed in combat. When combat starts, every participant rolls a flat [Intuition](../character/attributes.md) check unmodified by bonuses provided by any skill. This check determines how quickly each of the characters reacts to the combat scenario. In the event of an ambush, the ambushers may roll their Intuition twice, and use the combined value. Each combatant marks this value as their **initiative** for this combat. Then, starting with the character with the highest roll and continuing in descending order, each character takes a turn. This ordering is referred to as the **turn order**, and a full rotation of the turn order is considered a combat **round**. Each round takes approximately 10 seconds of game time, with all actions happening in the round occurring roughly sequentially.
 
 ## Actions and Reactions
 <!-- TODO: This should be updated to indicate that a player may have more than one action per turn. Also get rid of minor actions. -->
@@ -20,13 +20,13 @@ In the real world, you aren't just as good at swinging an axe as you are stabbin
 
 In a similar way it's difficult to have a single evasion skill, so evading an attack is split up into two different categories depending on whether the attack is considered Direct or Indirect. An attack is considered Direct if the defender is explicitly targeted by the attack, and if the attack could be completely evaded by quick movement. In the case of a Direct attack, the defender will roll a Dodge check, which is an Agility based skill. An attack is considered Indirect if the defender is not the explicit target, but is somehow affected by the attack- usually in the case of area-of-effect attacks that will affect multiple people, or if the attack could not be completely evaded by quick movement. In the case of an Indirect attack, the defender will roll a Reflexes check, which is an Intuition based skill.
 
-One last thing to that is mentioned on this page is Armor Value. Armor value (AV) is what the attacker rolls their Potency check against when determining damage. Every piece of armor that a character is wearing contributes to their total armor valu. Depending on how well the attacker rolls, the defender is dealt damage for a weak, medium, or strong hit, respectively. More on armor value can be found on the [armor page](/basics/equipment/).
+One last thing to that is mentioned on this page is Armor Value. Armor value (AV) is what the attacker rolls their Potency check against when determining damage. Every piece of armor that a character is wearing contributes to their total armor valu. Depending on how well the attacker rolls, the defender is dealt damage for a weak, medium, or strong hit, respectively. More on armor value can be found on the [armor page](../basics/equipment.md).
 
 <!-- TODO: ^----- Combine? ------v -->
 
 ## Attacking with a Weapon
 
-Attacking with a weapon is a [test of ability](../basics/test.md). The attribute for the test can be any of the attributes that the weapon is tagged with, and the difficulty of the test is the [armor value](../basics/equipment.md) of the target. Success on the test means dealing damage equal to the amount the attacker rolled, a critical success means double damage, a failure means half damage, and a critical failure means do damage at all.
+Attacking with a weapon is a [test of ability](../basics/tests.md). The attribute for the test can be any of the attributes that the weapon is tagged with, and the difficulty of the test is the [armor value](../basics/equipment.md) of the target. Success on the test means dealing damage equal to the amount the attacker rolled, a critical success means double damage, a failure means half damage, and a critical failure means do damage at all.
 
 As an example, here's the test for attacking an armor value 15 target using a greatsword with the tags _brawn_, _melee_, _large_, _cleaving_, and _slashing_:
 
@@ -42,9 +42,9 @@ As an example, here's the test for attacking an armor value 15 target using a gr
 >
 >  ****
 >
->  * **On a critical success:** the target [takes damage](/character/damage_and_injuries) equal to double the attacker's total for the test.
->  * **On a success:** the target [takes damage](/character/damage_and_injuries) equal the attacker's total for the test.
->  * **On a failure:** the target [takes damage](/character/damage_and_injuries) equal to half of the attacker's total for the test, rounded down.
+>  * **On a critical success:** the target [takes damage](../basics/damage_and_injuries.md) equal to double the attacker's total for the test.
+>  * **On a success:** the target [takes damage](../basics/damage_and_injuries.md) equal the attacker's total for the test.
+>  * **On a failure:** the target [takes damage](../basics/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down.
 >  * **On a critical failure:** the target takes no damage.
 
 ### Improvised Weapons
@@ -67,9 +67,9 @@ As an example, here's a possible test for attacking an armor value 15 target usi
 >
 >  ****
 >
->  * **On a critical success:** the target [takes damage](damage_and_injuries.md) equal to double the attacker's total for the test.
->  * **On a success:** the target [takes damage](damage_and_injuries.md) equal the attacker's total for the test.
->  * **On a failure:** the target [takes damage](damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.
+>  * **On a critical success:** the target [takes damage](../basics/damage_and_injuries.md) equal to double the attacker's total for the test.
+>  * **On a success:** the target [takes damage](../basics/damage_and_injuries.md) equal the attacker's total for the test.
+>  * **On a failure:** the target [takes damage](../basics/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.
 >  * **On a critical failure:** the target takes no damage and the sniper rifle gets bent or broken in the scuffle and requires repairs.
 
 <!-- TODO: This is no longer accurate. Needs updating. -->

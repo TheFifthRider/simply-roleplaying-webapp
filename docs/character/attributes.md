@@ -1,6 +1,6 @@
 # Attributes
 
-Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Each attribute is assigned a die of a certain level at [character creation](/character/creation/), which is rolled as a part of [tests of ability](/basics/tests/). [You can learn more about die levels here](/basics/dice/).
+Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Each attribute is assigned a die of a certain level at [character creation](../character/creation.md), which is rolled as a part of [tests of ability](../basics/tests.md). [You can learn more about die levels here](../basics/dice.md).
 
 <br/>
 
@@ -22,7 +22,7 @@ Attributes are the measurement of a character's intrinsic ability, from how stro
 
 ## Attribute Modifier
 
-Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](/basics/tests/). In most campaigns they start at +0, as indicated in [character creation](/character/creation/), and increase as you acquire [milestones](/basics/milestones/).
+Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](../basics/tests.md). In most campaigns they start at +0, as indicated in [character creation](creation.md), and increase as you acquire [milestones](../basics/milestones/).
 
 <br/>
 

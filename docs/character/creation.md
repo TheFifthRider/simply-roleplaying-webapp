@@ -7,7 +7,7 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 <br/>
 
 ## What are your natural abilities?
-All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](/character/attributes/), then choose either to **rank your attributes** or **spend creation points**.
+All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](attributes.md), then choose either to **rank your attributes** or **spend creation points**.
 
 If you chose to **rank your attributes**, order your attributes from what your character should be best at to what your character should be worst at. Set your best attribute to level d12 and your second best attribute to level d10. Then set your worst attribute to level d4, and your second worst attribute to level d6. Finally, set the remaining two attributes to level d8.
 
@@ -17,7 +17,7 @@ If you chose to **spend creation points**, you get a pool of 12 creation points 
 
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate your character's maxiumum damage. Read up on [stamina](/basics/damage_and_injuries), then calculate your maximum damage by adding 48 to the best possible value you can roll on your character's brawn die.
+Once you've done that, it's time to calculate your character's maximum damage. Read up on [stamina](../basics/damage_and_injuries.md), then calculate your maximum damage by adding 48 to the best possible value you can roll on your character's brawn die.
 
 `Maximum Stamina = 48 + best possible roll on brawn die`
 
@@ -25,19 +25,19 @@ Once you've done that, it's time to calculate your character's maxiumum damage. 
 
 ## What have you learned?
 
-Everyone has a variety of abilities that they have learned over time through practice. [Read up on skills and backgrounds](/character/skills/), then choose to either **make a background** or **start brimming with potential**.
+Everyone has a variety of abilities that they have learned over time through practice. [Read up on skills and backgrounds](../character/skills.md), then choose to either **make a background** or **start brimming with potential**.
 
 If you chose to **make a background**, write a background that summarizes the skills your character has learned so far.
 
-If you chose to **start brimming with potential**, your gamemaster will allot you with a starting pool of 25 points of potential to spend on skills as you progress.
+If you chose to **start brimming with potential**, your gamemaster will allot you with a starting pool of 15 points of potential to spend on skills as you progress.
 
-_Gamemasters, you can offer more than one starting background if you wish, just make sure you always offer 25 points of potential per background should a player opt to not make a background._
+_Gamemasters, you can offer more than one starting background if you wish, just make sure you always offer 15 points of potential per background should a player opt to not make a background._
 
 <br/>
 
 ## What is your story?
 
-Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on advantages and disadvantages](/character/advantages_and_disadvantages/) and pick a few to help develop your character's history further.
+Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on advantages and disadvantages](advantages_and_disadvantages.md) and pick a few to help develop your character's history further.
 
 A character can have any amount of Advantages and Disadvantages so long as the total ranks of character's advantages is equal to the total ranks of the character's disadvantages.
 

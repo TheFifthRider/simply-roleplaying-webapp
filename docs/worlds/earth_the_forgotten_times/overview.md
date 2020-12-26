@@ -1,8 +1,7 @@
 # Earth: The Forgotten Times
 
-* [Races](/worlds/earth_the_forgotten_times/races/)
-* [Religions](/worlds/earth_the_forgotten_times/races/) 
-	
+* [Pangeans](pangeans.md)
+* [Pantheons](pantheons.md) 
 
 Earth: The Forgotten Times is set on the earth before the time of the tower of Babel, with the erection of the tower of Babel being fact and the ending of the time period that all stories within Earth: The Forgotten Times. In this campaign world, there is a wise and benevolent magic user and warrior named Xeanth who watches over and ensures that the world heads down the time stream that is most beneficial for it. Often he will choose champions, which usually is how any major arc in this campaign world occurs. In addition to the rest of that, Dragons are mythical creatures in this campaign world, created only artificially through high level transformation magic, magic that is only wieldable by a select few individuals.
 
