@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../../img/favicon.ico">
-  <title>Companions - Simply Roleplaying</title>
+  <title>Roll for Initiative - Simply Roleplaying</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
 <link rel="stylesheet" href="../../css/theme.css" />
@@ -21,8 +21,8 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Companions";
-    var mkdocs_page_input_path = "basics\\companions.md";
+    var mkdocs_page_name = "Roll for Initiative";
+    var mkdocs_page_input_path = "action\\turns.md";
     var mkdocs_page_url = null;
   </script>
   
@@ -68,39 +68,37 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Gameplay Basics</span></p>
-                <ul class="current">
-                    <li class="toctree-l1"><a class="reference internal" href="../dice/">Dice</a>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../basics/dice/">Dice</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../tests/">Tests of Ability</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../basics/tests/">Tests of Ability</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../damage_and_injuries/">Damage and Injuries</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../basics/damage_and_injuries/">Damage and Injuries</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../downtime/">Between Adventures</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../basics/downtime/">Between Adventures</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../milestones/">Advancement</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../basics/milestones/">Advancement</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../equipment/">Equipment</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../basics/equipment/">Equipment</a>
                     </li>
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Companions</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#helpers">Helpers</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#allies">Allies</a>
-    </li>
-    </ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../basics/companions/">Companions</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Action</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../action/action/">Action Scenarios</a>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../action/">Action Scenarios</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../action/turns/">Roll for Initiative</a>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Roll for Initiative</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#delaying-your-turn">Delaying your turn</a>
+    </li>
+    </ul>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../action/attacking/">Attacking</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../attacking/">Attacking</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../action/chases/">Chases</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../chases/">Chases</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../action/techniques/">Combat Techniques</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../techniques/">Combat Techniques</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">World Mechanics</span></p>
@@ -139,11 +137,11 @@
     
       
         
-          <li>Gameplay Basics &raquo;</li>
+          <li>Action &raquo;</li>
         
       
     
-    <li>Companions</li>
+    <li>Roll for Initiative</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -154,14 +152,22 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="companions">Companions</h1>
-<p>Companions are characters that adventure alongside your character-- be they a mentor, a sibling, or an animal with whom you've formed a lasting bond. There are two types of Companions, Helpers and Allies.</p>
-<h2 id="helpers">Helpers</h2>
-<p>Helper companions just have a <a href="../../character/skills/">background</a> that describes them, which can be used like any other background on your character sheet to assist you in <a href="../tests/">tests</a>.</p>
-<h2 id="allies">Allies</h2>
-<p>Allies are more nuanced-- they have their own pool of health, attributes, attribute modifiers, passive attributes, equipment, and their own background. However, allies only progress when you do and cannot have their own potential. To make an ally, follow the <a href="../character/creation,md">creating a character</a> steps, except allies have health equal to the maximum roll of their Brawn die and Allies must be created with a background instead of taking the starting pool of potential.</p>
-<p>While allies cannot learn new backgrounds of their own, they can use any background on your character sheet that references them. In addition, whenever you hit a  milestone rank the companion's modifiers from highest to lowest. Increase the modifiers of the companion's two highest attributes by +4, the second two highest by +3, and the last two attributes' modifiers by +2.</p>
-<p>In combat, your ally goes at the same time you do. Either you or your ally can take a major action, but not both. Both you and your ally can take a minor action.</p>
+                <h1 id="roll-for-initiative">Roll for Initiative</h1>
+<p>There are several ways of determining the character order in rounds, the most iconic in tabletop games is <strong>rolling for initiative</strong>. To do this in Simply Roleplaying, at the beginning of the action scenario each participant makes an Intuition roll (adding their modifier as normal) and marks the result of this value as their <strong>initiative</strong> for the scenario.</p>
+<p>Characters then take their turn in order from highest roll to lowest roll. Ties can be broken by the character's <a href="../../character/attributes/">passive intuition score</a>, then by the die level of the Intuition attribute-- d6s beat d4s, d8s beat d6s and so forth. Further ties can be broken at GM discretion.</p>
+<p>At the end of each round, after all characters have taken their turn, characters who join the action after the initial rolls roll for initiative and are sorted into the initiative order based on their roll.</p>
+<h2 id="delaying-your-turn">Delaying your turn</h2>
+<p>Sometimes a character will wish to take their turn at a later time. Perhaps the room has filled with smoke and they're waiting for a clear shot, or the enemy mage is about to cast a spell and they want to wait out the attack. In whatever case this might be, the character may choose to <strong>delay their turn</strong> until a later time in the round. </p>
+<p>Before any character with a lower initiative score takes their turn, the delayed character may take their turn. If more than one character are delaying their turns at the same time, each character is given the opportunity to take their delayed turn in initiative order. If a character is delaying their turn at the end of the round, they are given one final opportunity to take their turn. Delayed turns cannot carry over between rounds.</p>
+<h1 id="elective-action-order">Elective Action Order</h1>
+<p><em>The following is adapted from the ruleset designed by Fred Hicks on his blog post <a href="http://www.deadlyfredly.com/2012/02/marvel/">Accidentally Designing Marvel’s Action Order System</a>.</em></p>
+<p>Elective Action Order allows for a more teamwork-centric and tactical approach to initiative order by giving each character the ability to determine who acts after them.</p>
+<p>After rolling for initiative, instead of ordering participants from highest roll to lowest roll, the highest roller is declared the first to act. In the case of an ambush, tensions broken by the first shot fired, or some other situation where it is clear who will (or has) acted first gamemasters may opt to skip rolling and instead start the turn order with that character.</p>
+<p>Then, after each participant finishes their turn, they choose another participant who has not taken a turn yet this round to take their turn next. If another character interrupts the turn order the chosen character does not take their turn. Instead, the interrupting character may take their turn if they have not already done so in this round, then choose the next participant to act.</p>
+<p>Once all participants in a round have taken their turn, characters who are not participants in the combat can become participants. Then, the last participant to take a turn in the round chooses the participant starts the next round.</p>
+<h2 id="elective-action-order-in-practice">Elective Action Order in Practice</h2>
+<p>Gamemasters, if you intend to use Elective Action Order you should be aware of its tactical advantages and disadvantages. One question you will likely be asked immediately is "why would I ever pass to an enemy?" The answer here lies in vying for control of the end of the round, since the decides the order of the next round. Used cleverly, this can allow key players or even the entire team the opportunity to take two uninterrupted turns in a row-- one at the end of the round, and one at the start of the next round.</p>
+<p>In addition, making sure that the enemies of the combat are clearly distinct so your players can easily identify who they are choosing to go next. If you have a bunch of largely indistinguishable non-player characters, consider clearly defining squads of those non-player characters. Squads are simply made up of characters that will always pass their action to another character in their "squad" until none are available. this helps your players (and you!) so the turn can be passed to "the bandits" instead of needing to specify which specific bandit they're referring to.</p>
               
             </div>
           </div>
@@ -169,10 +175,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../../action/action/" class="btn btn-neutral float-right" title="Action Scenarios">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../attacking/" class="btn btn-neutral float-right" title="Attacking">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../equipment/" class="btn btn-neutral" title="Equipment"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../action/" class="btn btn-neutral" title="Action Scenarios"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -205,10 +211,10 @@
           <a href="https://github.com/TheFifthRider/simply-roleplaying-webapp/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
       
       
-        <span><a href="../equipment/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../action/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../../action/action/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../attacking/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>

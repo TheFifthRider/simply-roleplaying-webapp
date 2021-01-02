@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../../img/favicon.ico">
-  <title>Chase Scenario - Simply Roleplaying</title>
+  <title>Chases - Simply Roleplaying</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
 <link rel="stylesheet" href="../../css/theme.css" />
@@ -21,8 +21,8 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Chase Scenario";
-    var mkdocs_page_input_path = "action\\racing.md";
+    var mkdocs_page_name = "Chases";
+    var mkdocs_page_input_path = "action\\chases.md";
     var mkdocs_page_url = null;
   </script>
   
@@ -88,23 +88,29 @@
                 <ul class="current">
                     <li class="toctree-l1"><a class="reference internal" href="../action/">Action Scenarios</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../combat/">Combat Scenario</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../turns/">Roll for Initiative</a>
                     </li>
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Chase Scenario</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../attacking/">Attacking</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Chases</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#acting-in-a-race">Acting in a Race</a>
+    <li class="toctree-l2"><a class="reference internal" href="#acting-in-a-chase">Acting in a Chase</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#closing">Closing</a>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#performing-a-stunt">Performing a stunt</a>
+    <li class="toctree-l3"><a class="reference internal" href="#performing-a-stunt">Performing a Stunt</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#creating-an-obstacle-or-shortcut">Creating an Obstacle or Shortcut</a>
+        <ul>
+    <li class="toctree-l4"><a class="reference internal" href="#creating-an-obstacle">Creating an Obstacle</a>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#improvising">Improvising</a>
+    <li class="toctree-l4"><a class="reference internal" href="#creating-a-shortcut">Creating a Shortcut</a>
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#chasing">Chasing</a>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#shaking-pursuit">Shaking Pursuit</a>
     </li>
     </ul>
                     </li>
@@ -151,7 +157,7 @@
         
       
     
-    <li>Chase Scenario</li>
+    <li>Chases</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -162,42 +168,43 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="chase-scenario">Chase Scenario</h1>
-<p>A necromancer flees as the tide turns against his undead minions, an archeologist braves the ocean to be first to reach an ancient tomb, a spy dashes through the hangar towards their getaway starship fueled for takeoff. A <strong>race scenario</strong> is best suited for any action scenario in which participants are competing to reach a particular goal.
-<!-- Define terms --></p>
-<!--
-Glossary of terms:
-  Necessary:
-    Race: the scenario
-    Race actions: actions + reactions
-
-  Maybe unnecessary:
-    Leg: A segment of the race with some kind of length
-
-  Should have been defined previously or be removed:
-    Intiative: score for who goes when
-    Turn order: order of who goes when
-    Round: a completion of the turn order
-
-
-    Rename closing?
-  -->
-
-<p>Typically once the goal is reached by one or both parties, the race will end. Each character's position in a race is described by their distance away from the goal.</p>
-<p>The length of each section (or <strong>leg</strong>) of the race is determined by your GM based on the scale. While a race by foot across the room may be over in a matter of seconds, a race over a longer distance by a faster means may take hours or even days. Therefore, the position of each character relative to the goal of the race is measured in a special kind of action reserved for races. Each character in a race has a number of these <strong>race actions</strong> available per leg equal to the number of actions plus the number of reactions they have in a combat scenario.</p>
-<h2 id="acting-in-a-race">Acting in a Race</h2>
-<p>There are five possible ways that a race action can be spent: closing, performing a stunt, creating an obstacle, creating a shortcut, or improvising. Your GM may rule that they are not all always available. If the race comes to a rickety bridge, for instance, Closing may not be an option-- participants might have to perform a stunt to cross.</p>
+                <h1 id="chases">Chases</h1>
+<p>A necromancer flees as the tide turns against his undead minions, an archeologist braves the ocean to be first to reach an ancient tomb, a spy dashes through the hangar towards their getaway starship fueled for takeoff. <strong>Chases</strong> are action scenarios best suited for when participants are competing to reach a particular <strong>goal</strong>.</p>
+<p>A footrace across the room may be over in a matter of seconds, a car chase across the interstate may take hours, and chasing across countries might even take days. Whatever the scope of the chase, each character in a chase has a <strong>position</strong> that is described by their distance from the goal in actions.</p>
+<h2 id="acting-in-a-chase">Acting in a Chase</h2>
+<p>When in a chase, there are a few special actions available to its participants: <strong>closing</strong> to progress towards the goal, <strong>performing a stunt</strong> to take a risk to get closer faster, <strong>creating an obstacle</strong> to slow down other participants, and <strong>creating a shortcut</strong> to speed up other participants. A character can always spend their actions on doing other things, however as always the gamemaster must rule that the action makes sense in the context.</p>
 <h3 id="closing">Closing</h3>
-<p><img height=80px width=80px src="\icons\close.png" style="float: left; margin-right: 20px;">A character who uses their race action to <strong>close</strong> decreases their distance to the goal by one race action. This represents doing whatever is necessary to get closer to the goal, be it kicking down a door, running across a room, or speeding down the highway.</p>
-<h3 id="performing-a-stunt">Performing a stunt</h3>
-<p><img height=80px width=80px src="\icons\perform_stunt.png" style="float: left; margin-right: 20px; margin-bottom: 120px;">A character who uses their race action to <strong>perform a stunt</strong> takes a risk to try to get to the goal faster. After the character's action is described, the GM determines a number of race actions that this stunt is worth and the difficulty of the skill check necessary to pull off the stunt. The character attempting the stunt then makes the skill check. If the character succeeds, they move the stunt's worth in race actions towards the goal. If they fail, they must spend the same number of race actions recovering from the stunt. This represents performing dangerous stunts like running up rooftops, weaving through heavy traffic, or taking a shortcut through an asteroid field.</p>
+<p><img height=80px width=80px src="/icons/close.png" style="float: left; margin-right: 20px;">A character who uses an action to <strong>close</strong> decreases their distance to the goal by one action. This represents doing whatever is necessary to get closer to the goal, be it kicking down a door, running across a room, or speeding down the highway.</p>
+<h3 id="performing-a-stunt">Performing a Stunt</h3>
+<p><img height=80px width=80px src="/icons/perform_stunt.png" style="float: left; margin-right: 20px; margin-bottom: 120px;">A character who uses their action to <strong>perform a stunt</strong> takes a risk to try to get to the goal faster. Stunts are complicated, so they take <strong>at least 2 actions</strong> to perform. Based on the stunt described, the player can wager a number of actions as the cost of the stunt-- based on the number of actions it takes and the action described, the gamemaster will then devise a <a href="../../basics/tests/">test of ability</a> to determine what is necessary to successfully pull off the stunt. </p>
+<p>If the character...</p>
+<ul>
+<li><strong>Fails,</strong> the stunt goes wrong in some way. Their actions are wasted and they suffer the risk of the test.</li>
+<li><strong>Partially succeeds,</strong> their stunt is successful, but not as efficient as it could have been. They move towards the goal with the same number of actions that they spent on the stunt, then move towards the goal by a further action. They also suffer some risk from the test.</li>
+<li><strong>Fully succeeds,</strong> their stunt is fully successful. They move towards the goal a number of actions equal to twice the number of actions they spent on the stunt and will effectively minimize the risk from the test.</li>
+<li><strong>Critically succeeds,</strong> their stunt is wildly successful. They move towards the goal a number of actions equal to twice the number of actions they spent on the stunt, then move 2 further actions towards the goal.</li>
+</ul>
 <h3 id="creating-an-obstacle-or-shortcut">Creating an Obstacle or Shortcut</h3>
-<p><img height=80px width=80px src="\icons\obstacle_shortcut.png" style="float: left; margin-right: 20px; margin-bottom: 200px;"> A character who uses their race action to <strong>create an obstacle</strong> or <strong>create a shortcut</strong> chooses to not move closer to the goal, but rather change the race for other racers further from the goal. Your GM will determine who in the race can possibly be affected by the obstacle or shortcut. Like performing a stunt, the GM determines a number of race actions that this obstacle or shortcut is worth and the difficulty of the skill check necessary to successfully create the obstacle or shortcut, if any. The character trying to create the obstacle or shortcut then makes the skill check, if applicable. If the character suceeds and they are creating a shortcut, they and all affected racers move that many actions towards the goal. If the character succeeds and they are creating an obstacle, all affected racers move that many actions away from the goal. Depending on the size and complexity, a character may need to spend several actions creating the obstacle or shortcut.</p>
-<h3 id="improvising">Improvising</h3>
-<p><img height=80px width=80px src="\icons\improvise.png" style="float: left; margin-right: 20px;"> A character who uses their race action to <strong>improvise</strong> performs some action that does not move them along their path to the goal. This represents the many other possible actions that a character might take in a race, like attacking or performing a combat technique.</p>
-<h2 id="chasing">Chasing</h2>
-<p>Sometimes, a race will be initiated by pursuit. While usually the pursued character is fleeing to somewhere (in which case, a typical race towards a goal is appropriate), occasionally the pursued character's goal is simply to shake their pursuers. In this case, the pursued character's position is considered the "goal" of the race, and the pursued character will no longer be able to <strong>close</strong> or <strong>perform a stunt</strong>
-<!-- TODO: Insert waylaying action here --></p>
+<p><img height=80px width=80px src="/icons/obstacle_shortcut.png" style="float: left; margin-right: 20px; margin-bottom: 200px;"> A character who uses their actions to <strong>create an obstacle</strong> or <strong>create a shortcut</strong> chooses to not move closer to the goal, but rather change the chase for other participants. Just like stunts, creating obstacles and shortcuts are complicated and require <strong>at least 2 actions</strong> to perform. </p>
+<p>Based on what makes sense, the gamemaster will determine who in the chase is affected by the obstacle or shortcut. Like performing a stunt, the character wagers a number of actions that this obstacle or shortcut is worth and the gamemaster establishes a <a href="../../basics/tests/">test of ability</a> to determine whether the creation of the obstacle or shortcut is successful or not.</p>
+<h4 id="creating-an-obstacle">Creating an Obstacle</h4>
+<p>If the character...</p>
+<ul>
+<li><strong>Fails,</strong> the obstacle could not be created. Their actions are wasted and they suffer the risk of the test.</li>
+<li><strong>Partially succeeds,</strong> the obstacle was created, but offers only marginal benefit. All affected participants are moved 1 action away from the goal to represent the obstacle's delay and the character suffers some risk from the test.</li>
+<li><strong>Fully succeeds,</strong> the obstacle was created successfully. All affected participants are moved a number of actions away from the goal equal to the number of actions spent on the obstacle.</li>
+<li><strong>Critically succeeds,</strong> the obstacle was particularly effective. All affected participants are moved a number of actions away from the goal equal to the number of actions spent on the obstacle plus 1.</li>
+</ul>
+<h4 id="creating-a-shortcut">Creating a Shortcut</h4>
+<p>If the character...</p>
+<ul>
+<li><strong>Fails,</strong> the shortcut could not be created. Their actions are wasted and they suffer the risk of the test.</li>
+<li><strong>Partially succeeds,</strong> the shortcut was created, but offers only marginal benefit. All affected participants are moved 1 action towards the goal to represent the time saved by the shortcut and the character suffers some risk from the test.</li>
+<li><strong>Fully succeeds,</strong> the shortcut was created successfully. All affected participants are moved a number of actions towards the goal equal to the number of actions spent on the shortcut.</li>
+<li><strong>Critically succeeds,</strong> the shortcut was created and is particularly effective. All affected participants are moved a number of actions towards the goal equal to the number of actions spent on the shortcut plus 1.</li>
+</ul>
+<h2 id="shaking-pursuit">Shaking Pursuit</h2>
+<p>Sometimes, a chase will be initiated by pursuit. While usually the pursued character is fleeing to somewhere (in which case, a typical chase towards a goal is appropriate), occasionally the pursued character's goal is simply to shake their pursuers. In this case, the pursued character's position is considered to be the goal of the chase and any actions that the pursued character takes that would move them towards the goal instead move all their pursuers that many actions away.</p>
               
             </div>
           </div>
@@ -208,7 +215,7 @@ Glossary of terms:
         <a href="../techniques/" class="btn btn-neutral float-right" title="Combat Techniques">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../combat/" class="btn btn-neutral" title="Combat Scenario"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../attacking/" class="btn btn-neutral" title="Attacking"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -241,7 +248,7 @@ Glossary of terms:
           <a href="https://github.com/TheFifthRider/simply-roleplaying-webapp/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
       
       
-        <span><a href="../combat/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../attacking/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
         <span style="margin-left: 15px"><a href="../techniques/" style="color: #fcfcfc">Next &raquo;</a></span>
