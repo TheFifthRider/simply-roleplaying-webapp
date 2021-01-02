@@ -18,7 +18,7 @@ While the gamemaster ultimately has final say over what the injury is, any playe
 
 ### Dying
 
-If a character suffers an injury but all of their injury boxes are marked, their accumulated injuries become life-threatening.  When your injuries get this bad, they tend to come with trauma, permanent scars, or crippled limbs. Mark the **dying** box on your character sheet and erase all damage you've taken so far. If a character who is dying suffers enough damage to take an injury, they die.
+If a character suffers an injury when all of their injury boxes are marked, their accumulated injuries become life-threatening.  When your injuries get this bad, they tend to come with trauma, permanent scars, or crippled limbs. Mark the **dying** box on your character sheet and erase all damage you've taken so far. If a character who is dying suffers enough damage to take an injury, they die.
 
 <br/>
 

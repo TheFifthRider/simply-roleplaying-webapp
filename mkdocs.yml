@@ -18,8 +18,9 @@ nav:
         - basics/companions.md
     - 'Action':
         - action/action.md
-        - action/combat.md
-        - action/racing.md
+        - action/turns.md
+        - action/attacking.md
+        - action/chases.md
         - action/techniques.md
     - 'World Mechanics':
         - extras/magic.md
