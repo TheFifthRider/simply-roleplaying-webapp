@@ -6,9 +6,9 @@ Where attributes represent the intrinsic attributes of a character (their streng
 
 ## Honing your Skills
 
-A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the higher the die level of the die in question. A character who has a d4 in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels you can read about them here](../basics/dice.md).
+A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the higher the die level of the die in question. A character who has a d4 in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of die levels you can read about them here](../getting_started/dice.md).
 
-As stated in [character creation](creation.md), characters in Simply Roleplaying can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation](creation.md), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned [at the end of every session](../basics/milestones.md).
+[Characters created in Simply Roleplaying](../getting_started/creation.md), can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation](../getting_started/creation.md), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned [at the end of every session](milestones.md).
 
 <br/>
 
@@ -20,7 +20,7 @@ Players can spend potential in one of two ways: either by being trained in a ski
 
 #### Training
 
-Training is an intense period of study that characters can engage in over a period of several hours of [downtime](../basics/downtime.md#training-a-skill), given either a trainer or suitable materials to study from. At the conclusion of the **training**, as long as it was not significantly interrupted, the potential is spent and the character learns or levels up the trained skill. A character can act as a trainer for a skill provided that they have either mastered it or it pertains to one of their backgrounds.
+Training is an intense period of study that characters can engage in over a period of several hours of [downtime](../gameplay/downtime.md#training-a-skill), given either a trainer or suitable materials to study from. At the conclusion of the **training**, as long as it was not significantly interrupted, the potential is spent and the character learns or levels up the trained skill. A character can act as a trainer for a skill provided that they have either mastered it or it pertains to one of their backgrounds.
 
 <br/>
 
@@ -38,13 +38,13 @@ When you level a skill up to d12, you've **mastered** it and can't level it up a
 
 ### Forgetting a Skill
 
-Sometimes a skill might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that the skill no longer makes sense for them. In that case, you can always choose to **forget**. During any period of [downtime](../basics/downtime.md#forgetting-a-skill), you may decrease the die level of one of your skills to reclaim one point of potential, representing your character losing interest in or forgetting about that skill in preparation to learn something new.
+Sometimes a skill might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that the skill no longer makes sense for them. In that case, you can always choose to **forget**. During any period of [downtime](../gameplay/downtime.md#forgetting-a-skill), you may decrease the die level of one of your skills to reclaim one point of potential, representing your character losing interest in or forgetting about that skill in preparation to learn something new.
 
 <br/>
 
 ## Building a Background
 
-Once a character has three related d12 skills, they can take a few hours of [downtime](../basics/downtime.md#creating-a-background) to reflect and combine them together to form a **background** that summarizes the aspect of the character that is reflected by those three skills. Backgrounds can be added to any test that their name implies that they would be useful for and are worth a d12 when added to a test.
+Once a character has three related d12 skills, they can take a few hours of [downtime](../gameplay/downtime.md#creating-a-background) to reflect and combine them together to form a **background** that summarizes the aspect of the character that is reflected by those three skills. Backgrounds can be added to any test that their name implies that they would be useful for and are worth a d12 when added to a test.
 
 > A character had mastered the skills _Acrobatics_, _Lockpicking_, and _Sneaking_, it would make sense for them to be able to combine them together into a background called _Thief_, since all of those skills are the kind a Thief might have.
 
@@ -54,7 +54,7 @@ When a character develops a new background, the skills combined into that backgr
 
 If a character has three d12 skills that are related to one of their existing backgrounds, instead of creating a new background they can choose to level an existing background up. Higher leveled backgrounds can be used multiple times on a test, up to a number of times equal to their level.
 
-To level up a background, a character takes a few hours of [downtime](../basics/downtime.md#leveling-up-a-background) and erases the three related d12 skills, just like when creating a background. Then, they rename the background to represent the expertise gained and mark down the new level of the background.
+To level up a background, a character takes a few hours of [downtime](../gameplay/downtime.md#leveling-up-a-background) and erases the three related d12 skills, just like when creating a background. Then, they rename the background to represent the expertise gained and mark down the new level of the background.
 
 > A roguish character with a _Thief_ background has mastered Dexterity, _Sneaking_, and _Traps_. These skills all are relevant to the _Thief_ background so rather than add a new background they choose to level up their existing background. These skills represent their abilities beyond being a thief, so they rename their background to _Master Thief (Level 2)_.
 

@@ -53,7 +53,7 @@ A character can always spend downtime to forget a skill in addition to any other
 
 ## Recovering
 
-A character who recovers can spend a few periods of downtime to erase all of the injury boxes on their character sheet. How many periods of downtime are needed to erase all of the injury boxes tends to depend on the number of injuries received, though it's usually not more than two. More details on recovering can be found in [Damage and Injuries](damage_and_injuries.md)
+A character who recovers can spend a few periods of downtime to erase all of the injury boxes on their character sheet. How many periods of downtime are needed to erase all of the injury boxes tends to depend on the number of injuries received, though it's usually not more than two. More details on recovering can be found in [Damage and Injuries](../character/damage_and_injuries.md#Recovering)
 
 <br/>
 

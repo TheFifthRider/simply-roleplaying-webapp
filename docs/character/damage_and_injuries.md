@@ -2,7 +2,7 @@
 
 ## Damage
 
-**Damage** is the amount of energy that a character has to handle strenuous and dangerous things. The maximum amount of damage a character can sustain is calculated based on the die level of a character's brawn die as explained in [character creation](../character/creation.md) and can be increased by [milestones](milestones.md).
+**Damage** is the amount of energy that a character has to handle strenuous and dangerous things. The maximum amount of damage a character can sustain is calculated based on the die level of a character's brawn die as explained in [character creation](../getting_started/creation.md) and can be increased by [milestones](milestones.md).
 
 Whenever a character suffers damage from an attack or risk, they mark it down on their character sheet. If the total amount of damage exceeds their **maximum damage**, they take an injury and then erase all damage they've taken so far.
 
@@ -24,7 +24,7 @@ If a character suffers an injury when all of their injury boxes are marked, thei
 
 ## Recovering
 
-If a character **rests** they erase all of their accumulated damage. Whenever the character spends [some downtime](downtime.md#recovering) resting, they may erase all marked injury boxes on their character sheets.
+If a character **rests** they erase all of their accumulated damage. Whenever the character spends [some downtime](../gameplay/downtime.md#recovering) resting, they may erase all marked injury boxes on their character sheets.
 
 If the rest was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around or rename it to reflect the healing process. Recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury. If you need to check that injury box again, it means those wounds reopened.
 

@@ -1,6 +1,6 @@
 # Tests of Ability
 
-Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling an _attribute_ die, along with some combination of _skill_ and _background_ dice to meet or exceed a number that represents the difficulty of doing what they want to do.
+Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling an [attribute die](../character/attributes.md), along with some combination of [skill and background dice](../character/skills.md) to meet or exceed a number that represents the difficulty of doing what they want to do.
 
 While most tests emerge fluidly from gameplay and don't require this level of detail, a fully written test would look something like this:
 
@@ -48,13 +48,13 @@ When characters directly compete with each other, the gamemaster may rule that i
 
 ## Resolving Tests
 
-In most cases the gamemaster will determine what attribute(s) are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or backgrounds. A character can contribute one skill or background die to a test of ability up to the total amount allowed by their earned [milestones](/basics/milestones/).
+In most cases the gamemaster will determine what attribute(s) are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or backgrounds. A character can contribute one skill or background die to a test of ability up to the total amount allowed by their earned [milestones](../character/milestones.md).
 
 <br/>
 
 ### Aid
 
-Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their aid by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice up to the total amount allowed by their earned [milestones](/basics/milestones/) to use for the test.
+Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their aid by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice up to the total amount allowed by their earned [milestones](../character/milestones.md) to use for the test.
 
 All characters who aid in the test help the tested character reach their goal, making success more likely, but each character who aids in the test also either introduce a new risk to the test or somehow worsen the existing risk, making failure all the more dangerous. If the initial risk was a deadly pitfall, the aiding character could be at risk of falling in as well. If the initial risk was taking too long to researching an antidote before the poison took hold, the additional minds involved might result in a fatal miscommunication.
 
@@ -82,7 +82,11 @@ Determining the outcome of a competition in which there are two participants is 
 
 <br/>
 
+#### Competition Tiebreakers
 
+Sometimes, characters in a competition might tie. In cases where the gamemaster needs these ties to be broken, other aspects of the tied characters come into question. A tie can be broken by comparing the passive scores the respective attributes that the characters used for the test. If there is still a tie, compare each character's attribute die used for that test-- d12s beat d10s, d10s beat d8s, and so on. Further ties can be resolved at the gamemaster's discretion, perhaps taking into consideration number of relevant skills/backgrounds or sources of narrative truth. 
+
+<br/>
 
 ## Example of a Test
 

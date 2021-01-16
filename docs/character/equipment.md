@@ -95,7 +95,7 @@ Weapons with this tag fire shrapnel, fire, poison, or other hazards to coat a wi
 
 ### Weapon
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes. More on attacks can be found in [Performing Attacks](../action/attacking.md).
+Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes. More on attacks can be found in [Performing Attacks](../gameplay/attacking.md).
 
 ### Will
 

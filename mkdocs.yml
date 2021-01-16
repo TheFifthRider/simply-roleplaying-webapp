@@ -3,25 +3,24 @@ repo_url: 'https://github.com/TheFifthRider/simply-roleplaying-webapp/'
 nav:
     - Home: index.md
     - About: about.md
-    - 'Creating a Character':
-        - character/creation.md
+    - 'Getting Started':
+        - getting_started/dice.md
+        - getting_started/creation.md
+    - 'What makes a Character':
         - character/advantages_and_disadvantages.md
         - character/attributes.md
+        - character/companions.md
+        - character/damage_and_injuries.md
+        - character/equipment.md
         - character/skills.md
-    - 'Gameplay Basics':
-        - basics/dice.md
-        - basics/tests.md
-        - basics/damage_and_injuries.md
-        - basics/downtime.md
-        - basics/milestones.md
-        - basics/equipment.md
-        - basics/companions.md
-    - 'Action':
-        - action/action.md
-        - action/turns.md
-        - action/attacking.md
-        - action/chases.md
-        - action/techniques.md
+        - character/milestones.md
+    - 'Playing the Game':
+        - gameplay/action.md
+        - gameplay/chases.md
+        - gameplay/attacking.md
+        - gameplay/techniques.md
+        - gameplay/downtime.md
+        - gameplay/tests.md
     - 'World Mechanics':
         - extras/magic.md
     - 'The World':

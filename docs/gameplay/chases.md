@@ -4,23 +4,23 @@ A necromancer flees as the tide turns against his undead minions, an archeologis
 
 A footrace across the room may be over in a matter of seconds, a car chase across the interstate may take hours, and chasing across countries might even take days. Whatever the scope of the chase, each character in a chase has a **position** that is described by their distance from the goal in actions.
 
-
+<br/>
 
 ## Acting in a Chase
 
 When in a chase, there are a few special actions available to its participants: **closing** to progress towards the goal, **performing a stunt** to take a risk to get closer faster, **creating an obstacle** to slow down other participants, and **creating a shortcut** to speed up other participants. A character can always spend their actions on doing other things, however as always the gamemaster must rule that the action makes sense in the context.
 
-
+<br/>
 
 ### Closing
 
 <img height=80px width=80px src="/icons/close.png" style="float: left; margin-right: 20px;">A character who uses an action to **close** decreases their distance to the goal by one action. This represents doing whatever is necessary to get closer to the goal, be it kicking down a door, running across a room, or speeding down the highway.
 
-
+<br/>
 
 ### Performing a Stunt
 
-<img height=80px width=80px src="/icons/perform_stunt.png" style="float: left; margin-right: 20px; margin-bottom: 120px;">A character who uses their action to **perform a stunt** takes a risk to try to get to the goal faster. Stunts are complicated, so they take **at least 2 actions** to perform. Based on the stunt described, the player can wager a number of actions as the cost of the stunt-- based on the number of actions it takes and the action described, the gamemaster will then devise a [test of ability](../basics/tests.md) to determine what is necessary to successfully pull off the stunt. 
+<img height=80px width=80px src="/icons/perform_stunt.png" style="float: left; margin-right: 20px; margin-bottom: 120px;">A character who uses their action to **perform a stunt** takes a risk to try to get to the goal faster. Stunts are complicated, so they take **at least 2 actions** to perform. Based on the stunt described, the player can wager a number of actions as the cost of the stunt-- based on the number of actions it takes and the action described, the gamemaster will then devise a [test of ability](tests.md) to determine what is necessary to successfully pull off the stunt. 
 
 If the character...
 
@@ -29,13 +29,13 @@ If the character...
 *   **Fully succeeds,** their stunt is fully successful. They move towards the goal a number of actions equal to twice the number of actions they spent on the stunt and will effectively minimize the risk from the test.
 *   **Critically succeeds,** their stunt is wildly successful. They move towards the goal a number of actions equal to twice the number of actions they spent on the stunt, then move 2 further actions towards the goal.
 
-
+<br/>
 
 ### Creating an Obstacle or Shortcut
 
 <img height=80px width=80px src="/icons/obstacle_shortcut.png" style="float: left; margin-right: 20px; margin-bottom: 200px;"> A character who uses their actions to **create an obstacle** or **create a shortcut** chooses to not move closer to the goal, but rather change the chase for other participants. Just like stunts, creating obstacles and shortcuts are complicated and require **at least 2 actions** to perform. 
 
-Based on what makes sense, the gamemaster will determine who in the chase is affected by the obstacle or shortcut. Like performing a stunt, the character wagers a number of actions that this obstacle or shortcut is worth and the gamemaster establishes a [test of ability](../basics/tests.md) to determine whether the creation of the obstacle or shortcut is successful or not.
+Based on what makes sense, the gamemaster will determine who in the chase is affected by the obstacle or shortcut. Like performing a stunt, the character wagers a number of actions that this obstacle or shortcut is worth and the gamemaster establishes a [test of ability](tests.md) to determine whether the creation of the obstacle or shortcut is successful or not.
 
 #### Creating an Obstacle
 
@@ -55,7 +55,7 @@ If the character...
 *   **Fully succeeds,** the shortcut was created successfully. All affected participants are moved a number of actions towards the goal equal to the number of actions spent on the shortcut.
 *   **Critically succeeds,** the shortcut was created and is particularly effective. All affected participants are moved a number of actions towards the goal equal to the number of actions spent on the shortcut plus 1.
 
-
+<br/>
 
 ## Shaking Pursuit
 

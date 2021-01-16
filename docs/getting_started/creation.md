@@ -7,7 +7,7 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 <br/>
 
 ## What are your natural abilities?
-All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](attributes.md), then choose either to **rank your attributes** or **spend creation points**.
+All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then choose either to **rank your attributes** or **spend creation points**.
 
 If you chose to **rank your attributes**, order your attributes from what your character should be best at to what your character should be worst at. Set your best attribute to level d12 and your second best attribute to level d10. Then set your worst attribute to level d4, and your second worst attribute to level d6. Finally, set the remaining two attributes to level d8.
 
@@ -17,7 +17,7 @@ If you chose to **spend creation points**, you get a pool of 12 creation points 
 
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate your character's maximum damage. Read up on [stamina](../basics/damage_and_injuries.md), then calculate your maximum damage by adding 48 to the best possible value you can roll on your character's brawn die.
+Once you've done that, it's time to calculate your character's maximum damage. Read up on [damage](../character/damage_and_injuries.md), then calculate your maximum damage by adding 48 to the best possible value you can roll on your character's brawn die.
 
 `Maximum Stamina = 48 + best possible roll on brawn die`
 
@@ -37,7 +37,7 @@ _Gamemasters, you can offer more than one starting background if you wish, just 
 
 ## What is your story?
 
-Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on advantages and disadvantages](advantages_and_disadvantages.md) and pick a few to help develop your character's history further.
+Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on advantages and disadvantages](../character/advantages_and_disadvantages.md) and pick a few to help develop your character's history further.
 
 A character can have any amount of Advantages and Disadvantages so long as the total ranks of character's advantages is equal to the total ranks of the character's disadvantages.
 
@@ -52,6 +52,8 @@ A tomb explorer would likely have a bedroll, tent, backpack, mess kit, pack of t
 A starship diplomat, on the other hand, would likely have things like a universal translator, fine clothes, id card, hologram computer, a wax seal kit, a handful of fountain pens, a sheaf of paper, and other sophisticated items.
 
 From bedrolls to mp3 players, what a character might carry with them in their day-to-day is telling of personality, circumstances of life, and so many other things. Consider also carrying an object of personal significance to your character, such as a an old, handwritten journal or a locket carrying an irreplaceable lock of grey hair.
+
+Once you've finished figuring out what you've got, read up on [equipment][../character/equipment.md] and add equipment tags to anything that would benefit from having them. Be sure to talk to your gamemaster about the equipment and tags you've chosen.
 
 <br/>
 
