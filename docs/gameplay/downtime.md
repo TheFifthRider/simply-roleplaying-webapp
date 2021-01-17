@@ -1,4 +1,4 @@
-# Between Adventures
+# Downtime
 
 Downtime is a period of rest in which a character has enough time to pursue productive ends. Usually this is a period of at least four hours in which a character can focus on the activity without significant distractions. Some downtime activities are quite simple, while others have requirements such as tools or a space to work in.
 

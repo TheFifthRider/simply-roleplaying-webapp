@@ -4,7 +4,7 @@
 
 **Damage** is the amount of energy that a character has to handle strenuous and dangerous things. The maximum amount of damage a character can sustain is calculated based on the die level of a character's brawn die as explained in [character creation](../getting_started/creation.md) and can be increased by [milestones](milestones.md).
 
-Whenever a character suffers damage from an attack or risk, they mark it down on their character sheet. If the total amount of damage exceeds their **maximum damage**, they take an injury and then erase all damage they've taken so far.
+Whenever a character suffers damage from an attack or risk, they mark it down on their character sheet. If the total amount of damage they have suffered exceeds their **maximum damage**, they take an injury and then erase all damage they've taken so far.
 
 <br/>
 
@@ -16,9 +16,13 @@ While the gamemaster ultimately has final say over what the injury is, any playe
 
 <br/>
 
-### Dying
+### Defeat
 
-If a character suffers an injury when all of their injury boxes are marked, their accumulated injuries become life-threatening.  When your injuries get this bad, they tend to come with trauma, permanent scars, or crippled limbs. Mark the **dying** box on your character sheet and erase all damage you've taken so far. If a character who is dying suffers enough damage to take an injury, they die.
+If a character suffers an injury when all of their injury boxes are marked, their injuries have caught up to them and they are **defeated**. What that means depends on the situation; they might have been paralyzed by fear, captured, swallowed, traumatized... they might even be dead. Whatever happened, they're at least going to need to take some downtime to recover.
+
+#### Defeat and Death
+
+Gamemasters, defeat _can_ mean death for a character but it shouldn't always. In fact, it should probably only mean death when that propels the story forward in an interesting way. If the defeat is for one of your players, this should count double. Always check with your players before putting their character's life on the line-- the threat of death can be a compelling and interesting aspect of a campaign, but when it happens abruptly due to a few bad rolls it can do more to harm the game than help it.
 
 <br/>
 
@@ -27,8 +31,6 @@ If a character suffers an injury when all of their injury boxes are marked, thei
 If a character **rests** they erase all of their accumulated damage. Whenever the character spends [some downtime](../gameplay/downtime.md#recovering) resting, they may erase all marked injury boxes on their character sheets.
 
 If the rest was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around or rename it to reflect the healing process. Recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury. If you need to check that injury box again, it means those wounds reopened.
-
-<br/>
 
 ### Healing
 

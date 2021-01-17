@@ -7,17 +7,17 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 <br/>
 
 ## What are your natural abilities?
-All characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then choose either to **rank your attributes** or **spend creation points**.
+Your starting speed is 3m. This measures the amount of distance you can travel in a few seconds-- the length of [an action](../gameplay/action.md#moving-your-speed).
+
+In addition, all characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then choose either to **rank your attributes** or **spend creation points**.
 
 If you chose to **rank your attributes**, order your attributes from what your character should be best at to what your character should be worst at. Set your best attribute to level d12 and your second best attribute to level d10. Then set your worst attribute to level d4, and your second worst attribute to level d6. Finally, set the remaining two attributes to level d8.
 
 If you chose to **spend creation points**, you get a pool of 12 creation points to spend on the starting die levels of your attributes. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
 
-<br/>
-
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate your character's maximum damage. Read up on [damage](../character/damage_and_injuries.md), then calculate your maximum damage by adding 48 to the best possible value you can roll on your character's brawn die.
+Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/damage_and_injuries.md), then calculate your maximum damage by adding 48 to the best possible value you can roll on your character's brawn die.
 
 `Maximum Stamina = 48 + best possible roll on brawn die`
 
