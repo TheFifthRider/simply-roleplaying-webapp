@@ -12,7 +12,7 @@ Milestones are markers of when the player characters advance and are awarded to 
 
 * Increase your <!-- test pool? number of dice you can use on tests? --> by 1
 * Choose two attributes and increase their modifiers by 4, then:
-    * If you chose agility as one of these attributes, gain <!-- movement speed? -->
+    * If you chose agility as one of these attributes, increase your **speed** by 1m.
     * If you chose brawn as one of these attributes, gain 25 [maximum damage](damage_and_injuries.md)
     * If you chose intuition as one of these attributes, gain <!-- passive bonus? -->
     * If you chose knowledge as one of these attributes, gain <!-- ??? -->

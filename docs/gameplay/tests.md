@@ -18,8 +18,8 @@ While most tests emerge fluidly from gameplay and don't require this level of de
 >
 >  If they...
 >
->  * **Fail:** the merchant refuses to do business with you ever again and tips off the authorities
->  * **Partially succeed:** the merchant refuses to buy the contraband and threatens to involve the authorities if you ever try to sell them contraband again
+>  * **Fail:** the merchant gets indignant and starts making a scene. The authorities are sure to get involved immediately.
+>  * **Partially succeed:** the merchant agrees to buy the contraband, but it seems like they're not likely to want to see you again. They may tip off the authorities, but not until after you've left.
 >  * **Fully succeed:** you win them over or they don't seem to notice this time-- the merchant accepts the deal
 >  * **Critically succeed:** not only does the merchant accept the deal but they happen to be a known fence in the area and look forward to working with you again
 
