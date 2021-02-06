@@ -6,20 +6,22 @@ At the end of every session, a character earns some amount of potential, varying
 
 <br/>
 
+## Abilities
+
+Whenever a character accumulates 10 points of potential, they may either learn a new [ability](../character/abilities.md) or increase the power of an existing ability.
+
 ## Milestones
 
-Milestones are markers of when the player characters advance and are awarded to celebrate the significant things the players have accomplished over the course of the game. Milestones typically occur at the end of significant arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Whenever character's achieve milestones, they are awarded a larger than average amount of potential, their attribute modifiers increase, and they get to add one additional die to tests of ability.
+Milestones are markers of when the player characters advance and are awarded to celebrate the significant things the players have accomplished over the course of the game. Milestones typically occur at the end of significant arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Whenever character's achieve milestones, they are awarded a larger than average amount of potential, they get one of the following benefits:
 
-* Increase your <!-- test pool? number of dice you can use on tests? --> by 1
-* Choose two attributes and increase their modifiers by 4, then:
-    * If you chose agility as one of these attributes, increase your **speed** by 1m.
-    * If you chose brawn as one of these attributes, gain 25 [maximum damage](damage_and_injuries.md)
-    * If you chose intuition as one of these attributes, gain <!-- passive bonus? -->
-    * If you chose knowledge as one of these attributes, gain <!-- ??? -->
-    * If you chose presence as one of these attributes,  gain <!-- ??? -->
-    * If you chose will as one of these attributes, gain an [injury box](damage_and_injuries.md)
-* Choose two more attributes and increase their modifiers by 3
-* Increase the modifiers for your final two attributes by 2
+*   Increase their **dice** by 1
+
+OR
+
+*   Increase their attribute modifiers
+    *   Increase two by 4
+    *   Increase two others by 3
+    *   Increase the last two by 2
 
 <br/>
 
