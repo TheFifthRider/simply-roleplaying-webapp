@@ -18,6 +18,14 @@ An ability is composed of a **charge** that describes how often you can use it, 
 
 To create a new ability, pick a trigger and an effect. The charge for the ability will be **once per rest**.
 
+#### Creating another Ability that shares Charge
+
+Sometimes when you create an ability, you'll want it to share the same charge as an existing ability. This is particularly helpful when you want some flexibility in how you can use your abilities. In that case, increase the charge of the existing ability by one and add a new trigger and effect as normal. It may be useful to come up with a name for the shared pool of charge and to treat it like a resource.
+
+#### Creating Passive Abilities
+
+Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a **passive ability**. Passive abilities do not have charge, and cannot gain charge from [improvements](#Improving-Existing-Abilities)-- however because they are always active, it can be tricky to balance them. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a charge.
+
 ### Example Triggers and Effects
 
 Here are a few examples of triggers and effects to get you started. Not all of the triggers or effects listed here are created equal. You can look to your gamemaster for guidance on what abilities are balanced combinations.
@@ -32,53 +40,71 @@ Here are a few examples of triggers and effects to get you started. Not all of t
 | When I take a specific action I can...                       | ...roll 1d4 and recover that much damage.                    |
 | When I make a specific test I can...                         | ...move up to my speed.                                      |
 |                                                              | ...give a specific equipment a specific tag for a specific amount of time. |
+|                                                              | ...get a specific equipment with specific tags for a specific amount of time. |
 
 ### Example Abilities
 
 Here are a few example abilities created using the triggers and effects listed above:
 
-| Ability Name                       | Charge         | Trigger                                                  | Effect                                                       |
-| ---------------------------------- | -------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| Reinforce Armor                    | Once per rest, | I can spend downtime to...                               | ...increase 1 target's Armor Value by 1d4 for the next scene. |
-| Target Vitals                      | Once per rest, | When I'm hidden from my target I can...                  | ...give a weapon the **intuition** tag until the end of my next turn. |
-| I've Read That                     | Once per rest, | When I research information I can...                     | ...add an extra 1d4 to my roll.                              |
-| Shrug It Off                       | Once per rest, | I can spend 2 actions to...                              | ...recover from an injury.                                   |
-| Everything is a Weapon in my Hands | Once per rest, | When I'm holding equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+#### Reinforce Armor
+
+| Charge | Trigger | Effect |
+| ---------- | --------- | ------- |
+| Once per rest, | I can spend downtime to... | ...increase 1 target's Armor Value by 1d4 for the next scene |
+
+#### Target Vitals
+
+| Charge         | Trigger                                 | Effect                                                       |
+| -------------- | --------------------------------------- | ------------------------------------------------------------ |
+| Once per rest, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** tag until the end of my turn. |
+
+#### I've Read That
+
+| Charge         | Trigger                              | Effect                          |
+| -------------- | ------------------------------------ | ------------------------------- |
+| Once per rest, | When I research information I can... | ...add an extra 1d4 to my roll. |
+
+#### Shrug It Off
+
+| Charge         | Trigger                     | Effect                     |
+| -------------- | --------------------------- | -------------------------- |
+| Once per rest, | I can spend 2 actions to... | ...recover from an injury. |
+
+#### Everything is a Weapon in my Hands
+
+| Charge         | Trigger                                                  | Effect                                                       |
+| -------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| Once per rest, | When I'm holding equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+
+
 
 ## Improving Existing Abilities
 
-If you choose to **improve an existing ability**, you can either strengthen that ability in some way, give it an extra effect, or make it more flexible, adding a new trigger and effect to an existing recharge.
+If you choose to **improve an existing ability**, you can either give an ability an extra effect or strengthen that ability in some way.
+
+### Giving an Ability an Additional Effect
+
+Adding an extra effect to an existing ability is fairly straightforward. Simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
 
 ### Making an Ability Stronger
 
 Strengthening an ability is all about amplifying its effects. Here are some examples of ways you could strengthen an ability:
 
-| Effect                         | Ways you could strengthen it |
-| ------------------------------ | ---------------------------- |
-| ...do something extraordinary. |                              |
+| Effect                                                       | Ways you could strengthen it                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ...do something extraordinary.                               | Increase the magnitude of the extraordinary action.          |
+| ...increase 1 target's Armor Value by 1d4 for a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>increase the amount of time |
+| ...give 1 target 1d4 that they can use to perform a specific action. They lose this die after a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>Add an additional action they could perform<br/>Increase the amount of time |
+| ...add an extra 1d4 to my roll.                              |                                                              |
+| ...recover from an injury.                                   |                                                              |
+| ...roll 1d4 and recover that much damage.                    |                                                              |
+| ...move up to my speed.                                      |                                                              |
+| ...give a specific equipment a specific tag for a specific amount of time. | Add additional tags<br/>Add equipment that could be used<br/>Increase the amount of time |
+| ...get a specific equipment with specific tags for a specific amount of time. | Add additional tags<br/>Increase the amount of time          |
 
-Amplify the effects
-*    Add/increase number of targets
-*    Add/increase area of effect
-     *    1.5m
-     *    5m
-*    Increase duration
-     *    1 turn
-     *    1 scene
-     *    1 session
-     *    forever
-*   Just generally increase magnitude
 
-### Giving an Ability an Additional Effect
 
-*   Add a new **effect** to an existing **ability**
-
-### Making an Ability more Flexible
-
-*   Increase the **recharge** of an existing ability (name charges thematically)
-*   Add a new **trigger** and **effect** to that ability which can be used by spending the same **recharge**
-
-#### Passive advancement
+## How Abilities Scale
 
 At certain numbered milestones, dice increase and equipment granted by abilities become more powerful.
 
@@ -105,11 +131,11 @@ At certain numbered milestones, dice increase and equipment granted by abilities
 
 _(6 Milestones / 200 Potential) -- Level 15 Monk in D&D_
 
-**My Body is a Weapon III**
-While unarmed or wielding a weapon used in your martial arts you get a special equipment named **Martial Arts** with the following tags: **agility**, **armor**, **magical**, **weapon**, **+6**
-_This modifier increases with your milestones, up to +9 at Milestone 9. When you improve this ability you can add a tag._
+**My Body is a Weapon III** <br/>
+While unarmed or wielding a weapon used in your martial arts you get a special equipment named **Martial Arts** with the following tags: **agility**, **armor**, **magical**, **weapon**, **+6**<br/>
+_This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When you improve this ability you can add a tag._
 
-**Focus**
+**Focus** <br/>
 You've learned to harness the magic in the world around you into your martial prowess.
 You have **15** points of Focus which can be spent on the following abilities:
 
