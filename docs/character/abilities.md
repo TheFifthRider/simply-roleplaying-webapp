@@ -24,24 +24,44 @@ Here are a few examples of triggers and effects to get you started. Not all of t
 
 | Trigger                                                      | Effect                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| When I'm in a specific situation I can...                    | ...do  something extraordinary.                              |
-| I may spend (1, 2, 3, ... ) actions to...                    | ...increase 1 target's Armor Value by 1d4 until the end of their next turn. |
-| I may spend downtime to...                                   | ...give 1 target 1d4 that they can use to perform a specific action. |
+| When I'm in a specific situation I can...                    | ...do something extraordinary.                               |
+| I can spend (1, 2, 3, ... ) actions to...                    | ...increase 1 target's Armor Value by 1d4 for a specific amount of time. |
+| I can spend downtime to...                                   | ...give 1 target 1d4 that they can use to perform a specific action. They lose this die after a specific amount of time. |
 | When I use equipment with a specific tag I can...            | ...add an extra 1d4 to my roll.                              |
 | When I do something related to a specific background I can... | ...recover from an injury.                                   |
 | When I take a specific action I can...                       | ...roll 1d4 and recover that much damage.                    |
 | When I make a specific test I can...                         | ...move up to my speed.                                      |
-|                                                              | ...give an equipment a specific tag until the end of my next turn. |
+|                                                              | ...give a specific equipment a specific tag for a specific amount of time. |
+
+### Example Abilities
+
+Here are a few example abilities created using the triggers and effects listed above:
+
+| Ability Name                       | Charge         | Trigger                                                  | Effect                                                       |
+| ---------------------------------- | -------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| Reinforce Armor                    | Once per rest, | I can spend downtime to...                               | ...increase 1 target's Armor Value by 1d4 for the next scene. |
+| Target Vitals                      | Once per rest, | When I'm hidden from my target I can...                  | ...give a weapon the **intuition** tag until the end of my next turn. |
+| I've Read That                     | Once per rest, | When I research information I can...                     | ...add an extra 1d4 to my roll.                              |
+| Shrug It Off                       | Once per rest, | I can spend 2 actions to...                              | ...recover from an injury.                                   |
+| Everything is a Weapon in my Hands | Once per rest, | When I'm holding equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
 
 ## Improving Existing Abilities
 
-Instead of gaining an ability, you can enhance an existing ability.
+If you choose to **improve an existing ability**, you can either strengthen that ability in some way, give it an extra effect, or make it more flexible, adding a new trigger and effect to an existing recharge.
 
 ### Making an Ability Stronger
+
+Strengthening an ability is all about amplifying its effects. Here are some examples of ways you could strengthen an ability:
+
+| Effect                         | Ways you could strengthen it |
+| ------------------------------ | ---------------------------- |
+| ...do something extraordinary. |                              |
 
 Amplify the effects
 *    Add/increase number of targets
 *    Add/increase area of effect
+     *    1.5m
+     *    5m
 *    Increase duration
      *    1 turn
      *    1 scene
