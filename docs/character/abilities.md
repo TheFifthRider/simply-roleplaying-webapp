@@ -30,15 +30,18 @@ Not all abilities need to be limited by how often they can be used, like a marti
 
 Here are a few examples of triggers and effects to get you started. Not all of the triggers or effects listed here are created equal. You can look to your gamemaster for guidance on what abilities are balanced combinations.
 
+<!-- TODO: Separate triggers into 1 action / 2 actions / 3 actions? -->
+
 | Trigger                                                      | Effect                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | When I'm in a specific situation I can...                    | ...do something extraordinary.                               |
 | I can spend (1, 2, 3, ... ) actions to...                    | ...increase 1 target's Armor Value by 1d4 for a specific amount of time. |
-| I can spend downtime to...                                   | ...give 1 target 1d4 that they can use to perform a specific action. They lose this die after a specific amount of time. |
+| I can spend downtime to...                                   | ...give 1 target a 1d4 advantage. They lose this die after a specific amount of time. |
+| When I make a specific test I can...                         | ...give 1 target a 1d4 disadvantage.                         |
 | When I use equipment with a specific tag I can...            | ...add an extra 1d4 to my roll.                              |
 | When I do something related to a specific background I can... | ...recover from an injury.                                   |
 | When I take a specific action I can...                       | ...roll 1d4 and recover that much damage.                    |
-| When I make a specific test I can...                         | ...move up to my speed.                                      |
+|                                                              | ...move up to my speed.                                      |
 |                                                              | ...give a specific equipment a specific tag for a specific amount of time. |
 |                                                              | ...get a specific equipment with specific tags for a specific amount of time. |
 
@@ -84,11 +87,11 @@ If you choose to **improve an existing ability**, you can either give an ability
 
 ### Giving an Ability an Additional Effect
 
-Adding an extra effect to an existing ability is fairly straightforward. Simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
+Sometimes you just want an ability to do more. Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
 
 ### Making an Ability Stronger
 
-Strengthening an ability is all about amplifying its effects. Here are some examples of ways you could strengthen an ability:
+If you want an ability to do what it already does, but better, you can amplify its effects. Generally, this amplification can be done by increasing the number of targets, the duration of effects, or broadening the situations in which the ability can apply. Here are some effects and how you might strengthen them:
 
 | Effect                                                       | Ways you could strengthen it                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
