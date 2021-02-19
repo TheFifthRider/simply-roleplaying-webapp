@@ -28,22 +28,33 @@ Not all abilities need to be limited by how often they can be used, like a marti
 
 ### Example Triggers and Effects
 
-Here are a few examples of triggers and effects to get you started. Not all of the triggers or effects listed here are created equal. You can look to your gamemaster for guidance on what abilities are balanced combinations.
+Here are a few examples of triggers and effects to get you started.
 
 <!-- TODO: Separate triggers into 1 action / 2 actions / 3 actions? -->
 
 | Trigger                                                      | Effect                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| When I'm in a specific situation I can...                    | ...do something extraordinary.                               |
-| I can spend (1, 2, 3, ... ) actions to...                    | ...increase 1 target's Armor Value by 1d4 for a specific amount of time. |
-| I can spend downtime to...                                   | ...give 1 target a 1d4 advantage. They lose this die after a specific amount of time. |
-| When I make a specific test I can...                         | ...give 1 target a 1d4 disadvantage.                         |
-| When I use equipment with a specific tag I can...            | ...add an extra 1d4 to my roll.                              |
-| When I do something related to a specific background I can... | ...recover from an injury.                                   |
-| When I take a specific action I can...                       | ...roll 1d4 and recover that much damage.                    |
-|                                                              | ...move up to my speed.                                      |
-|                                                              | ...give a specific equipment a specific tag for a specific amount of time. |
-|                                                              | ...get a specific equipment with specific tags for a specific amount of time. |
+| When I'm in a specific situation I can...                    | ...increase 1 target's Armor Value by 1d4 until the end of their next turn. |
+| When I use equipment with a specific tag I can...            | ...give 1 target a 1d4 advantage until the end of their next turn. |
+| I can spend an action to...                                  | ...add an extra 1d4 to my roll.                              |
+| When I do something related to a specific background I can... | ...roll 1d4 and recover that much damage.                    |
+| When I take a specific action I can...                       | ...give a specific equipment a specific tag until the end of my next turn. |
+| When I make a specific test I can...                         | ...move up to my speed.                                      |
+|                                                              | ...do something extraordinary.                               |
+|                                                              | ...get a specific equipment with specific tags until the end of my next turn. |
+|                                                              | ...move a target up to my speed.                             |
+|                                                              | ...perform a specific action.                                |
+|                                                              | ...remove a specific type of disadvantage from yourself.     |
+|                                                              | ...reroll the dice for a test.                               |
+
+#### Big Abilities
+
+| Trigger                               | Effect                                                       |
+| ------------------------------------- | ------------------------------------------------------------ |
+| I can spend (2 or more) actions to... | ...recover from an injury.                                   |
+| I can spend downtime to...            | ...perform a weaker ability with a duration, but it lasts until the end of the next scene. |
+|                                       | ...use a power to do something big.                          |
+|                                       | ...create something permanent.                               |
 
 ### Example Abilities
 
@@ -75,9 +86,9 @@ Here are a few example abilities created using the triggers and effects listed a
 
 #### Everything is a Weapon in my Hands
 
-| Charge         | Trigger                                                  | Effect                                                       |
-| -------------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| Once per rest, | When I'm holding equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+| Charge         | Trigger                                                | Effect                                                       |
+| -------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| Once per rest, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
 
 
 
