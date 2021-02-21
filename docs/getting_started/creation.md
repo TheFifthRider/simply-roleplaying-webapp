@@ -6,7 +6,8 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 
 <br/>
 
-## What are your natural abilities?
+## What comes naturally to you?
+
 Your starting speed is 3m. This measures the amount of distance you can travel in a few seconds-- the length of [an action](../gameplay/action.md#moving-your-speed).
 
 In addition, all characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then choose either to **rank your attributes** or **spend creation points**.
@@ -17,9 +18,9 @@ If you chose to **spend creation points**, you get a pool of 12 creation points 
 
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/damage_and_injuries.md), then calculate your maximum damage by adding 48 to the best possible value you can roll on your character's brawn die.
+Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/damage_and_injuries.md), then calculate your maximum damage by determining the highest possible value you can roll on your character's brawn die.
 
-`Maximum Stamina = 48 + best possible roll on brawn die`
+`Maximum Damage = Best possible roll on brawn die`
 
 <br/>
 
@@ -32,6 +33,10 @@ If you chose to **make a background**, write a background that summarizes the sk
 If you chose to **start brimming with potential**, your gamemaster will allot you with a starting pool of 15 points of potential to spend on skills as you progress.
 
 _Gamemasters, you can offer more than one starting background if you wish, just make sure you always offer 15 points of potential per background should a player opt to not make a background._
+
+### What unique thing can you do?
+
+Whether you choose to make a background or start with potential, you'll also create an ability that sets you apart from other characters. [Read up on abilities,](../character/abilities.md) then work with your GM to pick or create one for your character.
 
 <br/>
 

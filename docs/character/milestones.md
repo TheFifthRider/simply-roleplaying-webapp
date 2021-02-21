@@ -12,7 +12,9 @@ Whenever a character accumulates 10 points of potential, they may either learn a
 
 ## Milestones
 
-Milestones are markers of when the player characters advance and are awarded to celebrate the significant things the players have accomplished over the course of the game. Milestones typically occur at the end of significant arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Whenever character's achieve milestones, they are awarded a larger than average amount of potential, they get one of the following benefits:
+Milestones are markers of when the player characters advance and are awarded to celebrate the significant things the players have accomplished over the course of the game. Milestones typically occur at the end of significant arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. 
+
+Whenever character's achieve milestones, they are awarded a larger than average amount of potential and they get one of the following benefits:
 
 *   Increase their **dice** by 1
 

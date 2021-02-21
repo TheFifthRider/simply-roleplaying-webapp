@@ -10,6 +10,8 @@ If you choose to **gain a new ability**, your character learns a new ability. If
 
 ### Creating an Ability
 
+<!-- Can we name charge something different that represents it as a resource right off the bat? -->
+
 An ability is composed of a **charge** that describes how often you can use it, a **trigger** that describes when it happens, and an **effect** that describes what it does. A finished ability reads something like this: 
 
 | Charge        | Trigger             | Effect                      |
@@ -18,19 +20,29 @@ An ability is composed of a **charge** that describes how often you can use it, 
 
 To create a new ability, pick a trigger and an effect. The charge for the ability will be **once per rest**.
 
-#### Creating another Ability that shares Charge
+<!-- Describe the difficulty of usual tests -->
 
-Sometimes when you create an ability, you'll want it to share the same charge as an existing ability. This is particularly helpful when you want some flexibility in how you can use your abilities. In that case, increase the charge of the existing ability by one and add a new trigger and effect as normal. It may be useful to come up with a name for the shared pool of charge and to treat it like a resource.
+#### Big Abilities
+
+Some effects are stronger than others. When you have an effect that is clearly stronger than 
+
+#### Creating Abilities with Shared Charge
+
+When you create an ability, you can choose to have it share the same charge as an existing ability. Choose an ability that you already have, increase the charge of the existing ability by one, and add a new trigger and effect to represent the new ability. 
+
+Once an ability has more than two or three charges, it is likely that the ability represents a core gameplay mechanic for your character. Consider naming the charges as a resource of some kind-- about what they're drawing upon to perform this ability and come up with a name for a resource that can be used to represent the charges.
+
+<!-- Points example -->
 
 #### Creating Passive Abilities
 
-Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a **passive ability**. Passive abilities do not have charge, and cannot gain charge from [improvements](#Improving-Existing-Abilities)-- however because they are always active, it can be tricky to balance them. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a charge.
+Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a **passive ability**.
+
+Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a charge.
 
 ### Example Triggers and Effects
 
 Here are a few examples of triggers and effects to get you started.
-
-<!-- TODO: Separate triggers into 1 action / 2 actions / 3 actions? -->
 
 | Trigger                                                      | Effect                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -46,15 +58,19 @@ Here are a few examples of triggers and effects to get you started.
 |                                                              | ...perform a specific action.                                |
 |                                                              | ...remove a specific type of disadvantage from yourself.     |
 |                                                              | ...reroll the dice for a test.                               |
+|                                                              | ...give 1 target a 1d4 disadvantage until the end of their next turn. |
 
 #### Big Abilities
 
-| Trigger                               | Effect                                                       |
-| ------------------------------------- | ------------------------------------------------------------ |
-| I can spend (2 or more) actions to... | ...recover from an injury.                                   |
-| I can spend downtime to...            | ...perform a weaker ability with a duration, but it lasts until the end of the next scene. |
-|                                       | ...use a power to do something big.                          |
-|                                       | ...create something permanent.                               |
+| Trigger                               | Effect                                                   |
+| ------------------------------------- | -------------------------------------------------------- |
+| I can spend (2 or more) actions to... | ...recover from an injury.                               |
+| I can spend downtime to...            | ...give a specific equipment a specific tag for a scene. |
+|                                       | ...give 1 target a 1d4 advantage for a scene.            |
+|                                       | ...increase 1 target's Armor Value by 1d4 for a scene.   |
+|                                       | ...give 1 target a 1d4 disadvantage for a scene.         |
+|                                       | ...use a power to do something big.                      |
+|                                       | ...create something permanent.                           |
 
 ### Example Abilities
 
