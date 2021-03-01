@@ -2,6 +2,14 @@
 
 **Abilities** are the special things that your character can do, the things that make your character mechanically unique. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their unique [power](../extras/powers.md) allows them to do something extraordinary, or they are just inhumanly good at remembering details!
 
+## Resources
+
+Consider what drives your character, and what makes them able to do the incredible things they do.
+
+<!-- Create a resource to begin with. Always upgrades? Only ever upgrades on new abilities? -->
+
+## Ability Advancement
+
 For every **10 potential earned** (not spent) choose to either [gain a new ability](#gaining-new-abilities) or [improve an existing ability](#improving-existing-abilities)
 
 ## Gaining new Abilities
@@ -12,13 +20,13 @@ If you choose to **gain a new ability**, your character learns a new ability. If
 
 <!-- Can we name charge something different that represents it as a resource right off the bat? -->
 
-An ability is composed of a **charge** that describes how often you can use it, a **trigger** that describes when it happens, and an **effect** that describes what it does. A finished ability reads something like this: 
+An ability is composed of a **cost** that describes how often you can use it, a **trigger** that describes when it happens, and an **effect** that describes what it does. A finished ability reads something like this: 
 
-| Charge        | Trigger             | Effect                      |
+| Cost          | Trigger             | Effect                      |
 | ------------- | ------------------- | --------------------------- |
 | Once per rest | when I attack I can | add an extra d4 to my roll. |
 
-To create a new ability, pick a trigger and an effect. The charge for the ability will be **once per rest**.
+To create a new ability, pick a trigger and an effect. The cost for the ability will be **once per rest**.
 
 <!-- Describe the difficulty of usual tests -->
 
