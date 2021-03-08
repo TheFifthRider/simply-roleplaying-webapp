@@ -8,6 +8,8 @@ Consider what drives your character, and what makes them able to do the incredib
 
 <!-- Create a resource to begin with. Always upgrades? Only ever upgrades on new abilities? -->
 
+<!-- There are actually many different kinds of resources, and having something better than just reflavored Fate Points is probably compelling, but complicated. Let's return to this. -->
+
 ## Ability Advancement
 
 For every **10 potential earned** (not spent) choose to either [gain a new ability](#gaining-new-abilities) or [improve an existing ability](#improving-existing-abilities)
@@ -26,7 +28,7 @@ An ability is composed of a **cost** that describes how often you can use it, a 
 | ------------- | ------------------- | --------------------------- |
 | Once per rest | when I attack I can | add an extra d4 to my roll. |
 
-To create a new ability, pick a trigger and an effect. The cost for the ability will be **once per rest**.
+To create a new ability, pick a trigger and an effect. <!-- Maybe not true --> The cost for the ability will be **once per rest**.
 
 <!-- Describe the difficulty of usual tests -->
 
