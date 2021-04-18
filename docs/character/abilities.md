@@ -157,7 +157,7 @@ You start with a pool of two ability points, and gain more as you gain additiona
 
 ### Additional and Alternate Costs
 
-Your GM may say that some abilities require costs other than ability points. This is especially true of abilities that permanently create or enhance [equipment](../equipment.md), which often have costs associated with the materials, tools, and space needed to perform the enhancement. These costs may replace the ability point cost, or may be in addition to the ability point cost depending on what makes sense.
+Your GM may say that some abilities require costs other than ability points. This is especially true of abilities that permanently create or enhance [equipment](equipment.md), which often have costs associated with the materials, tools, and space needed to perform the enhancement. These costs may replace the ability point cost, or may be in addition to the ability point cost depending on what makes sense.
 
 ### Passive Abilities
 

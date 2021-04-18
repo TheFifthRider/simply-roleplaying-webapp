@@ -46,7 +46,7 @@ A **6d4** disadvantage on a character called **Waist Deep in Sewage** could be u
 
 ## Special Advantages and Disadvantages
 
-All advantages and disadvantages can be used as described above, but they can also be customized along the same lines as [abilities](../characters/abilities.md). Being _On Fire_ is absolutely a disadvantage, but if you wanted to represent the damage of the flames the burning character might need to take one of the dice off of the disadvantage and take damage equal to the number they roll on it.
+All advantages and disadvantages can be used as described above, but they can also be customized along the same lines as [abilities](../character/abilities.md). Being _On Fire_ is absolutely a disadvantage, but if you wanted to represent the damage of the flames the burning character might need to take one of the dice off of the disadvantage and take damage equal to the number they roll on it.
 
 There are no hard and fast rules on customizing Advantages and Disadvantages, but a good rule of thumb for gamemasters is not to give every Advantage and Disadvantage special rules. Aside from the complexity it adds, customizing Advantages and Disadvantages make them feel special-- They give flair to specialized equipment (such as magic items, incendiary devices, or poisons) and powerful character [abilities](../character/abilities.md).
 

@@ -8,18 +8,18 @@ nav:
         - getting_started/creation.md
     - 'What makes a Character':
         - character/abilities.md
-        - character/advantages_and_disadvantages.md
         - character/attributes.md
         - character/companions.md
         - character/damage_and_injuries.md
         - character/equipment.md
+        - character/legacy.md
         - character/skills.md
         - character/milestones.md
     - 'Playing the Game':
         - gameplay/action.md
         - gameplay/chases.md
         - gameplay/attacking.md
-        - gameplay/techniques.md
+        - gameplay/advantages_and_disadvantages.md
         - gameplay/downtime.md
         - gameplay/tests.md
     - 'World Mechanics':

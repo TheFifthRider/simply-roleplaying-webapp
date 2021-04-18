@@ -50,7 +50,7 @@ When characters directly compete with each other, the gamemaster may rule that i
 
 In most cases the gamemaster will determine what attribute(s) are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or backgrounds. A character can contribute one skill or background die to a test of ability up to the total amount allowed by their earned [milestones](../character/milestones.md).
 
-After that, a character can take dice from any relevant [advantages](advantages_disadvantages.md) and add them to their roll. If the test is against another character, they can also take dice from any relevant [disadvantages](advantages_disadvantages.md) that character suffers from and add those to their roll as well.
+After that, a character can take dice from any relevant [advantages](advantages_and_disadvantages.md) and add them to their roll. If the test is against another character, they can also take dice from any relevant [disadvantages](advantages_and_disadvantages.md) that character suffers from and add those to their roll as well.
 
 <br/>
 

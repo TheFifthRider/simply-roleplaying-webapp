@@ -485,6 +485,7 @@ When ranked up as a part of a signature technique [text]. You may choose one of 
     *
 
 #### Patch Up
+
 [Description] ([Cost])
 [Action type]
 

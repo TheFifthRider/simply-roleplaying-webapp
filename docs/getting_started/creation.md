@@ -42,9 +42,7 @@ Whether you choose to make a background or start with potential, you'll also cre
 
 ## What is your story?
 
-Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on advantages and disadvantages](../character/advantages_and_disadvantages.md) and pick a few to help develop your character's history further.
-
-A character can have any amount of Advantages and Disadvantages so long as the total ranks of character's advantages is equal to the total ranks of the character's disadvantages.
+Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on legacies](../character/legacy.md) and pick a few to help develop your character's history further.
 
 <br/>
 
