@@ -12,9 +12,9 @@ Your starting speed is 3m. This measures the amount of distance you can travel i
 
 In addition, all characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then choose either to **rank your attributes** or **spend creation points**.
 
-If you chose to **rank your attributes**, order your attributes from what your character should be best at to what your character should be worst at. Set your best attribute to level d12 and your second best attribute to level d10. Then set your worst attribute to level d4, and your second worst attribute to level d6. Finally, set the remaining two attributes to level d8.
+If you chose to **rank your attributes**, order your attributes from what your character should be best at to what your character should be worst at. Set your best attribute to d12 and your second best attribute to d10. Then set your worst attribute to d4, and your second worst attribute to d6. Finally, set the remaining two attributes to d8.
 
-If you chose to **spend creation points**, you get a pool of 12 creation points to spend on the starting die levels of your attributes. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
+If you chose to **spend creation points**, you get a pool of 12 creation points to spend on the starting size of your attributes. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
 
 ### How much stress can you handle?
 

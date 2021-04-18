@@ -1,6 +1,6 @@
 # Attributes
 
-Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Each attribute is assigned a die of a certain level at [character creation](../getting_started/creation.md), which is rolled as a part of [tests of ability](../gameplay/tests.md). [You can learn more about die levels here](../getting_started/dice.md).
+Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Each attribute is assigned a die of a certain size at [character creation](../getting_started/creation.md), which is rolled as a part of [tests of ability](../gameplay/tests.md). [You can learn more about dice size here](../getting_started/dice.md).
 
 <br/>
 

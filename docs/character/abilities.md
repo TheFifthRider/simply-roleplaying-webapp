@@ -2,13 +2,13 @@
 
 **Abilities** are the special things that your character can do, the things that make your character mechanically unique. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their unique [power](../extras/powers.md) allows them to do something extraordinary, or they are just inhumanly good at remembering details!
 
-## Resources
+## What makes an Ability?
 
-Consider what drives your character, and what makes them able to do the incredible things they do.
+An ability has a **trigger** that describes when it happens, and an **effect** that describes what it does. Many abilities also have a **cost** to activate them, which we'll go into later. A finished ability reads something like this: 
 
-<!-- Create a resource to begin with. Always upgrades? Only ever upgrades on new abilities? -->
-
-<!-- There are actually many different kinds of resources, and having something better than just reflavored Fate Points is probably compelling, but complicated. Let's return to this. -->
+| Cost                        | Trigger             | Effect                      |
+| --------------------------- | ------------------- | --------------------------- |
+| By spending 1 ability point | when I attack I can | add an extra d4 to my roll. |
 
 ## Ability Advancement
 
@@ -20,17 +20,9 @@ If you choose to **gain a new ability**, your character learns a new ability. If
 
 ### Creating an Ability
 
-<!-- Can we name charge something different that represents it as a resource right off the bat? -->
-
-An ability is composed of a **cost** that describes how often you can use it, a **trigger** that describes when it happens, and an **effect** that describes what it does. A finished ability reads something like this: 
-
-| Cost          | Trigger             | Effect                      |
-| ------------- | ------------------- | --------------------------- |
-| Once per rest | when I attack I can | add an extra d4 to my roll. |
-
 To create a new ability, pick a trigger and an effect. <!-- Maybe not true --> The cost for the ability will be **once per rest**.
 
-<!-- Describe the difficulty of usual tests -->
+<!-- Describe the power level of typical abilities -->
 
 #### Big Abilities
 
@@ -43,12 +35,6 @@ When you create an ability, you can choose to have it share the same charge as a
 Once an ability has more than two or three charges, it is likely that the ability represents a core gameplay mechanic for your character. Consider naming the charges as a resource of some kind-- about what they're drawing upon to perform this ability and come up with a name for a resource that can be used to represent the charges.
 
 <!-- Points example -->
-
-#### Creating Passive Abilities
-
-Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a **passive ability**.
-
-Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a charge.
 
 ### Example Triggers and Effects
 
@@ -88,33 +74,33 @@ Here are a few example abilities created using the triggers and effects listed a
 
 #### Reinforce Armor
 
-| Charge | Trigger | Effect |
+| Cost | Trigger | Effect |
 | ---------- | --------- | ------- |
-| Once per rest, | I can spend downtime to... | ...increase 1 target's Armor Value by 1d4 for the next scene |
+| By spending 1 scrap, | I can spend downtime to... | ...increase 1 target's Armor Value by 1d4 for the next scene |
 
 #### Target Vitals
 
-| Charge         | Trigger                                 | Effect                                                       |
-| -------------- | --------------------------------------- | ------------------------------------------------------------ |
-| Once per rest, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** tag until the end of my turn. |
+| Cost                            | Trigger                                 | Effect                                                       |
+| ------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
+| By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** tag until the end of my turn. |
 
 #### I've Read That
 
-| Charge         | Trigger                              | Effect                          |
-| -------------- | ------------------------------------ | ------------------------------- |
-| Once per rest, | When I research information I can... | ...add an extra 1d4 to my roll. |
+| Cost                                 | Trigger                              | Effect                          |
+| ------------------------------------ | ------------------------------------ | ------------------------------- |
+| By spending a point of recollection, | When I research information I can... | ...add an extra 1d4 to my roll. |
 
 #### Shrug It Off
 
-| Charge         | Trigger                     | Effect                     |
-| -------------- | --------------------------- | -------------------------- |
-| Once per rest, | I can spend 2 actions to... | ...recover from an injury. |
+| Cost                                      | Trigger                     | Effect                     |
+| ----------------------------------------- | --------------------------- | -------------------------- |
+| By spending a point of indestructibility, | I can spend 2 actions to... | ...recover from an injury. |
 
 #### Everything is a Weapon in my Hands
 
-| Charge         | Trigger                                                | Effect                                                       |
-| -------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| Once per rest, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+| Cost                                  | Trigger                                                | Effect                                                       |
+| ------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of martial focus, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
 
 
 
@@ -161,7 +147,29 @@ At certain numbered milestones, dice increase and equipment granted by abilities
 | 8          | 1d12 | +8       |
 | 9+         | 1d12 | +9       |
 
+## Cost and Ability Points
 
+Many abilities have a **cost** that limit how often they can be used. A ability may cost magic gems, imbued talismans of paper, or even simply tire the character using them by depleting their mana, chi, or other source of energy.
+
+Consider what drives your character, and what makes them able to do the incredible things they do. Whatever it is, that is the name of your type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later.
+
+You start with a pool of two ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering) or when it makes sense that you would.
+
+### Additional and Alternate Costs
+
+Your GM may say that some abilities require costs other than ability points. This is especially true of abilities that permanently create or enhance [equipment](../equipment.md), which often have costs associated with the materials, tools, and space needed to perform the enhancement. These costs may replace the ability point cost, or may be in addition to the ability point cost depending on what makes sense.
+
+### Passive Abilities
+
+Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a **passive ability**.
+
+Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a charge.
+
+### Alternatives to Ability Points
+
+If you're feeling particularly creative, you may want your abilities to be powered by something other than a pool of points. They could be powered by a pool of dice, a set of leveled slots, or a deck of cards that does something different depending on what card you draw. If you or your GM have a creative idea for how you want to power your character's abilities, go for it.
+
+If you choose to do so, keep in mind the capability of characters with ability point pools. A character with a deck of cards that do different things likely shouldn't start with more than two cards, and should gain additional cards or improve existing cards in a way similar to how a character with ability points would gain additional points in their pool and improve their existing abilities.
 
 
 
