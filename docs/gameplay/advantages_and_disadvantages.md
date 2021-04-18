@@ -36,9 +36,9 @@ However, an advantage or disadvantage should also go away whenever it makes sens
 
 A **2d6** advantage called **Inspired by Bravery** could be used twice by those inspired to gain an extra 1d6 on a roll.
 
-A **4d10** disadvantage called **Seeing Shadows** could be used four times by anyone who wants to use a character's hallucinations against them to gain an extra 1d10 on a roll
+A **4d10** disadvantage called **Seeing Shadows** could be used four times by anyone who wants to use a character's hallucinations against them to gain an extra 1d10 on a roll.
 
-A **3d8** advantage called **Cover behind the Parapets** can be used three times by anyone who 
+A **3d8** advantage called **Cover behind the Parapets** can be used three times by anyone who could avoid danger behind the stone fortifications.
 
 A **6d4** disadvantage on a character called **Waist Deep in Sewage** could be used six times by monsters lurking under the water or a sniper taking advantage of the character's slowed movements to get an extra 1d4.
 
