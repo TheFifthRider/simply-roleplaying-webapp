@@ -6,7 +6,7 @@ Sometimes characters have a leg up; they have access to an **advantage**. This c
 
 ## What are they?
 
-All advantages and disadvantages have a **name** that describes them and one or more **dice** of the same size attached to them. Just like with [skills and backgrounds](../character/skills.md), the name of the advantage or disadvantage is how you determine if it makes sense that you can benefit from it. The dice represent the bonus you can gain from the advantage or disadvantage, discussed more in the next section.
+All advantages and disadvantages are a number of **dice** of the same size with a **name** that describes them. Just like with [skills and backgrounds](../character/skills.md), the name of the advantage or disadvantage is how you determine if it makes sense that you can benefit from it. When you can benefit from the advantage or disadvantage, you can take dice off of the advantage or disadvantage to get a bonus.
 
 <br/>
 
