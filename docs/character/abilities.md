@@ -28,14 +28,6 @@ To create a new ability, pick a trigger and an effect. <!-- Maybe not true --> T
 
 Some effects are stronger than others. When you have an effect that is clearly stronger than 
 
-#### Creating Abilities with Shared Charge
-
-When you create an ability, you can choose to have it share the same charge as an existing ability. Choose an ability that you already have, increase the charge of the existing ability by one, and add a new trigger and effect to represent the new ability. 
-
-Once an ability has more than two or three charges, it is likely that the ability represents a core gameplay mechanic for your character. Consider naming the charges as a resource of some kind-- about what they're drawing upon to perform this ability and come up with a name for a resource that can be used to represent the charges.
-
-<!-- Points example -->
-
 ### Example Triggers and Effects
 
 Here are a few examples of triggers and effects to get you started.
@@ -147,25 +139,41 @@ At certain numbered milestones, dice increase and equipment granted by abilities
 | 8          | 1d12 | +8       |
 | 9+         | 1d12 | +9       |
 
-## Cost and Ability Points
+## Costs and Ability Points
 
-Many abilities have a **cost** that limit how often they can be used. A ability may cost magic gems, imbued talismans of paper, or even simply tire the character using them by depleting their mana, chi, or other source of energy.
+Many abilities have a **cost** that limit how often they can be used. An ability may cost magic gems, imbued talismans of paper, or even simply tire the character using them by depleting their mana, chi, or other source of energy. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?
 
-Consider what drives your character, and what makes them able to do the incredible things they do. Whatever it is, that is the name of your type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later.
+Whatever it is, that their type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later. You start with a pool of two of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering) or when it makes sense that you would.
 
-You start with a pool of two ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering) or when it makes sense that you would.
+### Creating Multiple types of Ability Points
 
-### Additional and Alternate Costs
+Characters don't necessarily have one source of powers. A magical blade fighter that uses their _mana_ to use abilities related to their magic power might also have _flourishes_ that they use to perform abilities related to their sword mastery. A cyborg psychic might have both _ammunition_ for their arsenal of weapons and _psi points_. An inventor may have any number of different ability points, each attached to different inventions.
 
-Your GM may say that some abilities require costs other than ability points. This is especially true of abilities that permanently create or enhance [equipment](equipment.md), which often have costs associated with the materials, tools, and space needed to perform the enhancement. These costs may replace the ability point cost, or may be in addition to the ability point cost depending on what makes sense.
+You can give your character an additional type of ability points whenever you would increase the number of ability points you have. Instead of increasing the number of ability points you have, just create a new pool of two ability points of the new type. When you can increase the number of ability points you have, you may choose **one** of the types of ability points that you have to increase.
 
-### Passive Abilities
+
+
+## Other Costs
+
+Spending ability points is often the simplest way to give abilities a cost, but not every ability needs to spend ability points. Some abilities to have an alternate cost such as time, money, or damage. Some might have no cost at all. Some particularly powerful or permanent abilities might combine an alternate cost with the cost of the ability points.
+
+### Alternate or Additional Costs
+
+Your GM may say that some abilities require additional costs beyond your initial abilities. This is especially true of abilities that permanently create or enhance things like [equipment](equipment.md), which often have monetary costs associated with the materials, tools, and space needed to perform the enhancement. 
+
+Sometimes the cost of an ability is time. The space station might need to spend multiple turns worth of actions charging its _Planet-Destroying Laser_, or an _Dragonbreath Cannon_ might need a scene to cool down once it's been used. 
+
+These costs may replace the ability point cost, or may be in addition to the ability point cost depending on what makes sense.
+
+### Passive Abilities: Abilities with No Cost
 
 Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a **passive ability**.
 
-Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a charge.
+Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a cost.
 
-### Alternatives to Ability Points
+
+
+## Customizing Ability Points
 
 If you're feeling particularly creative, you may want your abilities to be powered by something other than a pool of points. They could be powered by a pool of dice, a set of leveled slots, or a deck of cards that does something different depending on what card you draw. If you or your GM have a creative idea for how you want to power your character's abilities, go for it.
 
