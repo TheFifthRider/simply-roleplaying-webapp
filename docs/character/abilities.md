@@ -4,107 +4,33 @@
 
 ## What makes an Ability?
 
-An ability has a **trigger** that describes when it happens, and an **effect** that describes what it does. Many abilities also have a **cost** to activate them, which we'll go into later. A finished ability reads something like this: 
+An ability has a **trigger** that describes when it happens, and an **effect** that describes what it does. Many abilities also have a **cost** to activate them. A finished ability reads something like this: 
 
 | Cost                        | Trigger             | Effect                      |
 | --------------------------- | ------------------- | --------------------------- |
 | By spending 1 ability point | when I attack I can | add an extra d4 to my roll. |
 
+
+
 ## Ability Advancement
 
 For every **10 potential earned** (not spent) choose to either [gain a new ability](#gaining-new-abilities) or [improve an existing ability](#improving-existing-abilities)
 
+
+
 ## Gaining new Abilities
 
-If you choose to **gain a new ability**, your character learns a new ability. If your GM has a list of abilities for you to choose from, you can choose one of those, or you can create your own.
+If you choose to **gain a new ability**, your character learns a new ability. If your GM has a list of abilities for you to choose from, you can choose one of those, or you can [create your own](#creating-an-ability).
 
-### Creating an Ability
-
-To create a new ability, pick a trigger and an effect. <!-- Maybe not true --> The cost for the ability will be **once per rest**.
-
-<!-- Describe the power level of typical abilities -->
-
-#### Big Abilities
-
-Some effects are stronger than others. When you have an effect that is clearly stronger than 
-
-### Example Triggers and Effects
-
-Here are a few examples of triggers and effects to get you started.
-
-| Trigger                                                      | Effect                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| When I'm in a specific situation I can...                    | ...increase 1 target's Armor Value by 1d4 until the end of their next turn. |
-| When I use equipment with a specific tag I can...            | ...give 1 target a 1d4 advantage until the end of their next turn. |
-| I can spend an action to...                                  | ...add an extra 1d4 to my roll.                              |
-| When I do something related to a specific background I can... | ...roll 1d4 and recover that much damage.                    |
-| When I take a specific action I can...                       | ...give a specific equipment a specific tag until the end of my next turn. |
-| When I make a specific test I can...                         | ...move up to my speed.                                      |
-|                                                              | ...do something extraordinary.                               |
-|                                                              | ...get a specific equipment with specific tags until the end of my next turn. |
-|                                                              | ...move a target up to my speed.                             |
-|                                                              | ...perform a specific action.                                |
-|                                                              | ...remove a specific type of disadvantage from yourself.     |
-|                                                              | ...reroll the dice for a test.                               |
-|                                                              | ...give 1 target a 1d4 disadvantage until the end of their next turn. |
-
-#### Big Abilities
-
-| Trigger                               | Effect                                                   |
-| ------------------------------------- | -------------------------------------------------------- |
-| I can spend (2 or more) actions to... | ...recover from an injury.                               |
-| I can spend downtime to...            | ...give a specific equipment a specific tag for a scene. |
-|                                       | ...give 1 target a 1d4 advantage for a scene.            |
-|                                       | ...increase 1 target's Armor Value by 1d4 for a scene.   |
-|                                       | ...give 1 target a 1d4 disadvantage for a scene.         |
-|                                       | ...use a power to do something big.                      |
-|                                       | ...create something permanent.                           |
-
-### Example Abilities
-
-Here are a few example abilities created using the triggers and effects listed above:
-
-#### Reinforce Armor
-
-| Cost | Trigger | Effect |
-| ---------- | --------- | ------- |
-| By spending 1 scrap, | I can spend downtime to... | ...increase 1 target's Armor Value by 1d4 for the next scene |
-
-#### Target Vitals
-
-| Cost                            | Trigger                                 | Effect                                                       |
-| ------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
-| By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** tag until the end of my turn. |
-
-#### I've Read That
-
-| Cost                                 | Trigger                              | Effect                          |
-| ------------------------------------ | ------------------------------------ | ------------------------------- |
-| By spending a point of recollection, | When I research information I can... | ...add an extra 1d4 to my roll. |
-
-#### Shrug It Off
-
-| Cost                                      | Trigger                     | Effect                     |
-| ----------------------------------------- | --------------------------- | -------------------------- |
-| By spending a point of indestructibility, | I can spend 2 actions to... | ...recover from an injury. |
-
-#### Everything is a Weapon in my Hands
-
-| Cost                                  | Trigger                                                | Effect                                                       |
-| ------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of martial focus, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
-
-
-
-## Improving Existing Abilities
+### Improving Existing Abilities
 
 If you choose to **improve an existing ability**, you can either give an ability an extra effect or strengthen that ability in some way.
 
-### Giving an Ability an Additional Effect
+#### Giving an Ability an Additional Effect
 
 Sometimes you just want an ability to do more. Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
 
-### Making an Ability Stronger
+#### Making an Ability Stronger
 
 If you want an ability to do what it already does, but better, you can amplify its effects. Generally, this amplification can be done by increasing the number of targets, the duration of effects, or broadening the situations in which the ability can apply. Here are some effects and how you might strengthen them:
 
@@ -122,6 +48,12 @@ If you want an ability to do what it already does, but better, you can amplify i
 
 
 
+## Big Abilities
+
+Some effects are stronger than others. When you have an effect that is clearly stronger than 
+
+Whenever you [gain a milestone](milestones.md) you can either **gain a new big ability**, **transform an existing ability into a big ability**, or **improve an existing big ability**.
+
 ## How Abilities Scale
 
 At certain numbered milestones, dice increase and equipment granted by abilities become more powerful.
@@ -138,6 +70,10 @@ At certain numbered milestones, dice increase and equipment granted by abilities
 | 7          | 1d10 | +7       |
 | 8          | 1d12 | +8       |
 | 9+         | 1d12 | +9       |
+
+# Creating an Ability
+
+[Abilities](abilities.md) consist of a **cost** a **trigger** and an **effect**. To create a new ability, you need to create one of each of these.
 
 ## Costs and Ability Points
 
@@ -181,35 +117,71 @@ If you choose to do so, keep in mind the capability of characters with ability p
 
 
 
+## Triggers and Effects
+
+Here are a few examples of triggers and effects to get you started.
+
+| Trigger                                                      | Effect                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| When I'm in a specific situation I can...                    | ...increase 1 target's Armor Value by 1d4 until the end of their next turn. |
+| When I use equipment with a specific tag I can...            | ...give 1 target a 1d4 advantage until the end of their next turn. |
+| I can spend an action to...                                  | ...add an extra 1d4 to my roll.                              |
+| When I do something related to a specific background I can... | ...roll 1d4 and recover that much damage.                    |
+| When I take a specific action I can...                       | ...give a specific equipment a specific tag until the end of my next turn. |
+| When I make a specific test I can...                         | ...move up to my speed.                                      |
+|                                                              | ...do something extraordinary.                               |
+|                                                              | ...get a specific equipment with specific tags until the end of my next turn. |
+|                                                              | ...move a target up to my speed.                             |
+|                                                              | ...perform a specific action.                                |
+|                                                              | ...remove a specific type of disadvantage from yourself.     |
+|                                                              | ...reroll the dice for a test.                               |
+|                                                              | ...give 1 target a 1d4 disadvantage until the end of their next turn. |
+
+#### Big Abilities
+
+| Trigger                               | Effect                                                   |
+| ------------------------------------- | -------------------------------------------------------- |
+| I can spend (2 or more) actions to... | ...recover from an injury.                               |
+| I can spend downtime to...            | ...give a specific equipment a specific tag for a scene. |
+|                                       | ...give 1 target a 1d4 advantage for a scene.            |
+|                                       | ...increase 1 target's Armor Value by 1d4 for a scene.   |
+|                                       | ...give 1 target a 1d4 disadvantage for a scene.         |
+|                                       | ...use a power to do something big.                      |
+|                                       | ...create something permanent.                           |
+
+
+
 ## Example Abilities
 
-### Martial Artist
+Here are a few example abilities created using examples of costs paired with the triggers and effects listed above:
 
-_(6 Milestones / 200 Potential) -- Level 15 Monk in D&D_
+#### Reinforce Armor
 
-**My Body is a Weapon III** <br/>
-While unarmed or wielding a weapon used in your martial arts you get a special equipment named **Martial Arts** with the following tags: **agility**, **armor**, **magical**, **weapon**, **+6**<br/>
-_This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When you improve this ability you can add a tag._
+| Cost                 | Trigger                    | Effect                                                       |
+| -------------------- | -------------------------- | ------------------------------------------------------------ |
+| By spending 1 scrap, | I can spend downtime to... | ...increase 1 target's Armor Value by 1d4 for the next scene |
 
-**Focus** <br/>
-You've learned to harness the magic in the world around you into your martial prowess.
-You have **15** points of Focus which can be spent on the following abilities:
+#### Target Vitals
 
-*   **Flurry of Blows II:** When you attack with your **Martial Arts** you can spend 1 focus to add an extra **1d10**. 
-    If you succeed on the attack, choose one of the following additional benefits:
-    *   **Leg Sweep:** Give them a **1d10** disadvantage named **knocked down** that lasts until they spend 1 action to stand up.
-    *   **Knock Back:** Push them up to **3m** away. 
-    *   **Lock Up:** They cannot perform actions when it is not their turn until the end of your next turn.
-*   **Step of the Wind II:** Spend 1 focus to increase your speed by 1m and gain the ability to run up vertical surfaces and across liquids until the end of your turn.
-*   **Patient Defense:** As an action, spend 1 focus to increase your AV by **1d10** until the start of your next turn.
-*   **Deflect Projectiles:** If you have your **Martial Arts** equipment and a projectile you can catch fails to hit you while **Patient Defense** is active, you can spend 1 focus to hurl the projectile back at the person who shot you, making an attack with your **Martial Arts**.
-*   **Slow Fall:** Spend 1 focus to get an extra **1d10** on a test to avoid damage from a fall.
-*   **Quickened Healing:** Spend an action and 2 focus to roll **2d10** and recover that much damage.
-*   **Stunning Strike II:** When you succeed on an attack with your **Martial Arts** you can spend 1 focus to force the target to succeed on a test of **Brawn** or take a **1d10** disadvantage named **stunned** until the end of your next turn. The difficulty of the test is the potency of your attack. While they have this disadvantage, they cannot perform actions.
-*   **Focused Aim:** When you fail on an attack, spend 1 focus to add an extra **1d10**, potentially turning a failure into a success.
-*   **Evasion:** Spend 1 focus to get an extra **1d10** to tests of Agility to avoid danger.
-*   **Stillness of Mind:** Spend 1 focus to remove a disadvantage that has to do with your mental state.
-*   **Purity of Body:** Spend 1 focus to end the effect of a disease or poison on you.
-*   **Diamond Soul:** Spend 1 focus to reroll any test made to avoid danger.
-*   **Wholeness of Body**: Spend 1 focus during downtime to heal an injury.
+| Cost                            | Trigger                                 | Effect                                                       |
+| ------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
+| By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** tag until the end of my turn. |
+
+#### I've Read That
+
+| Cost                                 | Trigger                              | Effect                          |
+| ------------------------------------ | ------------------------------------ | ------------------------------- |
+| By spending a point of recollection, | When I research information I can... | ...add an extra 1d4 to my roll. |
+
+#### Shrug It Off
+
+| Cost                                      | Trigger                     | Effect                     |
+| ----------------------------------------- | --------------------------- | -------------------------- |
+| By spending a point of indestructibility, | I can spend 2 actions to... | ...recover from an injury. |
+
+#### Everything is a Weapon in my Hands
+
+| Cost                                  | Trigger                                                | Effect                                                       |
+| ------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of martial focus, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
 
