@@ -1,11 +1,11 @@
-## Example Abilities
+# Example Abilities
 
-### Martial Artist
+## Martial Artist
 
 _(6 Milestones / 200 Potential) -- Level 15 Monk in D&D_
 
 **My Body is a Weapon III** <br/>
-While unarmed or wielding a weapon used in your martial arts you get a special equipment named **Martial Arts** with the following tags: **agility**, **armor**, **magical**, **weapon**, **+6**<br/>
+While you have no other equipment with the **armor** or **weapon** tag equipped, you are equipped with a special equipment named **Martial Arts** with the following tags: **agility**, **armor**, **magical**, **weapon**, **+6**<br/>
 _This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When you improve this ability you can add a tag._
 
 **Focus** <br/>
@@ -21,7 +21,7 @@ You have **15** points of Focus which can be spent on the following abilities:
 *   **Patient Defense:** As an action, spend 1 focus to increase your AV by **1d10** until the start of your next turn.
 *   **Deflect Projectiles:** If you have your **Martial Arts** equipment and a projectile you can catch fails to hit you while **Patient Defense** is active, you can spend 1 focus to hurl the projectile back at the person who shot you, making an attack with your **Martial Arts**.
 *   **Slow Fall:** Spend 1 focus to get an extra **1d10** on a test to avoid damage from a fall.
-*   **Quickened Healing:** Spend an action and 2 focus to roll **2d10** and recover that much damage.
+*   **Quickened Healing:** Spend an action and 2 focus to recover damage equal to **1d10 plus your Agility modifier**.
 *   **Stunning Strike II:** When you succeed on an attack with your **Martial Arts** you can spend 1 focus to force the target to succeed on a test of **Brawn** or take a **1d10** disadvantage named **stunned** until the end of your next turn. The difficulty of the test is the potency of your attack. While they have this disadvantage, they cannot perform actions.
 *   **Focused Aim:** When you fail on an attack, spend 1 focus to add an extra **1d10**, potentially turning a failure into a success.
 *   **Evasion:** Spend 1 focus to get an extra **1d10** to tests of Agility to avoid danger.
@@ -29,3 +29,14 @@ You have **15** points of Focus which can be spent on the following abilities:
 *   **Purity of Body:** Spend 1 focus to end the effect of a disease or poison on you.
 *   **Diamond Soul:** Spend 1 focus to reroll any test made to avoid danger.
 *   **Wholeness of Body**: Spend 1 focus during downtime to heal an injury.
+
+
+
+## Bearserker
+
+**Who Needs Armor?**<br/>
+While you have no other equipment with the **armor** tag equipped, you are equipped with a special equipment named **Rock Hard Abs** with the following tags: **brawn**, **armor**, **+6**<br/>
+_This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When you improve this ability you can add a tag._
+
+**Rage**
+

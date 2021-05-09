@@ -126,7 +126,7 @@ Here are a few examples of triggers and effects to get you started.
 | When I'm in a specific situation I can...                    | ...increase 1 target's Armor Value by 1d4 until the end of their next turn. |
 | When I use equipment with a specific tag I can...            | ...give 1 target a 1d4 advantage until the end of their next turn. |
 | I can spend an action to...                                  | ...add an extra 1d4 to my roll.                              |
-| When I do something related to a specific background I can... | ...roll 1d4 and recover that much damage.                    |
+| When I do something related to a specific background I can... | ...roll 1d4 plus a specific Attributes modifier and recover that much damage. |
 | When I take a specific action I can...                       | ...give a specific equipment a specific tag until the end of my next turn. |
 | When I make a specific test I can...                         | ...move up to my speed.                                      |
 |                                                              | ...do something extraordinary.                               |
