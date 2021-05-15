@@ -20,17 +20,19 @@ For every **10 potential earned** (not spent) choose to either [gain a new abili
 
 ## Gaining new Abilities
 
-If you choose to **gain a new ability**, your character learns a new ability. If your GM has a list of abilities for you to choose from, you can choose one of those, or you can [create your own](#creating-an-ability).
+If you choose to **gain a new ability**, your character learns a new ability. If your GM has a list of abilities for you to choose from, you can choose one of those, or you can [create your own](#creating-an-ability). 
 
-### Improving Existing Abilities
+
+
+## Improving Existing Abilities
 
 If you choose to **improve an existing ability**, you can either give an ability an extra effect or strengthen that ability in some way.
 
-#### Giving an Ability an Additional Effect
+### Giving an Ability an Additional Effect
 
 Sometimes you just want an ability to do more. Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
 
-#### Making an Ability Stronger
+### Making an Ability Stronger
 
 If you want an ability to do what it already does, but better, you can amplify its effects. Generally, this amplification can be done by increasing the number of targets, the duration of effects, or broadening the situations in which the ability can apply. Here are some effects and how you might strengthen them:
 

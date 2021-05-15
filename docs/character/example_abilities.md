@@ -38,5 +38,23 @@ You have **15** points of Focus which can be spent on the following abilities:
 While you have no other equipment with the **armor** tag equipped, you are equipped with a special equipment named **Rock Hard Abs** with the following tags: **brawn**, **armor**, **+6**<br/>
 _This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When you improve this ability you can add a tag._
 
-**Rage**
+**Fury:** 6/6
+
+* **Bearserking II:** You can spend a point of Fury to create a **1d10** special advantage called **Raging Berserker**. 
+  Each time you attack, add **1d10** to the advantage.
+  The first time you take damage each round, add **1d10** to the advantage.
+  ~~At the end of your turn, **Enraged** ends unless you have spent a die from it since your last turn~~
+  * **Grin and _bear_ it:** When you are attacked while you have the **Raging Berserker** advantage, you can spend a die from the advantage to increase your armor value by the result until the start of your next turn.
+  * **Relentless:** If taking damage would cause you to be **defeated** while you have the **Raging Berserker** advantage, you can spend a die from the advantage to not be defeated by that damage.
+
+* **Danger Sense:** When you make a test of ability to avoid danger, add **1d10** to the roll.
+* **Spirit Seeker II:** By spending some downtime with them, you can understand and be understood by animals near you. 
+  * When you do, you can choose one of them-- for the next scene, you can see through their senses instead of your own.
+* **Raging Strikes:** The second time you attack each turn you can make a third attack without spending an action.
+* **Un-_bear_-able Strength:** When you make a test of brawn to push, pull, lift, or break stuff, add **1d10** to the roll.
+* **Feral Instinct:** When you make a test to determine Initiative, add **1d10** to the roll.
+  * You can choose to roll to enter the initiative order even if you're surprised.
+* **Instinctive Pounce:** (As part of the bonus action you take to enter your rage, you can move up to half your speed.) 
+* **Brutal Critical II:** When you **Critically Succeed** on an attack, create a **2d10** disadvantage on your victim called **Brutally Wounded**. You may spend one of the dice from the disadvantage to add it to the attack you just made.
+* **Spirit Walker:** By spending some downtime, you can summon a bear spirit who magically grants you a success on **finding answers to questions** about the natural world within 3km of you above ground, or within 300m underground. You may ask the GM up to 3 questions about anything natural to the area, which the GM must answer truthfully.
 
