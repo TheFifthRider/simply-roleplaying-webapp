@@ -10,19 +10,19 @@ An ability has a **trigger** that describes when it happens, and an **effect** t
 | --------------------------- | ------------------- | --------------------------- |
 | By spending 1 ability point | when I attack I can | add an extra d4 to my roll. |
 
-
+<br/>
 
 ## Ability Advancement
 
 For every **10 potential earned** (not spent) choose to either [gain a new ability](#gaining-new-abilities) or [improve an existing ability](#improving-existing-abilities)
 
-
+<br/>
 
 ## Gaining new Abilities
 
 If you choose to **gain a new ability**, your character learns a new ability. If your GM has a list of abilities for you to choose from, you can choose one of those, or you can [create your own](#creating-an-ability). 
 
-
+<br/>
 
 ## Improving Existing Abilities
 
@@ -41,20 +41,13 @@ If you want an ability to do what it already does, but better, you can amplify i
 | ...do something extraordinary.                               | Increase the magnitude of the extraordinary action.          |
 | ...increase 1 target's Armor Value by 1d4 for a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>increase the amount of time |
 | ...give 1 target 1d4 that they can use to perform a specific action. They lose this die after a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>Add an additional action they could perform<br/>Increase the amount of time |
-| ...add an extra 1d4 to my roll.                              |                                                              |
-| ...recover from an injury.                                   |                                                              |
-| ...roll 1d4 and recover that much damage.                    |                                                              |
+| ...add an extra 1d4 to my roll.                              | Create a 2d4 advantage that you can use immediately          |
+| ...make a test and recover that much damage.                 |                                                              |
 | ...move up to my speed.                                      |                                                              |
 | ...give a specific equipment a specific tag for a specific amount of time. | Add additional tags<br/>Add equipment that could be used<br/>Increase the amount of time |
 | ...get a specific equipment with specific tags for a specific amount of time. | Add additional tags<br/>Increase the amount of time          |
 
-
-
-## Big Abilities
-
-Some effects are stronger than others. When you have an effect that is clearly stronger than 
-
-Whenever you [gain a milestone](milestones.md) you can either **gain a new big ability**, **transform an existing ability into a big ability**, or **improve an existing big ability**.
+<br/>
 
 ## How Abilities Scale
 
@@ -73,6 +66,8 @@ At certain numbered milestones, dice increase and equipment granted by abilities
 | 8          | 1d12 | +8       |
 | 9+         | 1d12 | +9       |
 
+<br/>
+
 # Creating an Ability
 
 [Abilities](abilities.md) consist of a **cost** a **trigger** and an **effect**. To create a new ability, you need to create one of each of these.
@@ -89,7 +84,7 @@ Characters don't necessarily have one source of powers. A magical blade fighter 
 
 You can give your character an additional type of ability points whenever you would increase the number of ability points you have. Instead of increasing the number of ability points you have, just create a new pool of two ability points of the new type. When you can increase the number of ability points you have, you may choose **one** of the types of ability points that you have to increase.
 
-
+<br/>
 
 ## Other Costs
 
@@ -109,7 +104,7 @@ Not all abilities need to be limited by how often they can be used, like a marti
 
 Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a cost.
 
-
+<br/>
 
 ## Customizing Ability Points
 
@@ -117,7 +112,7 @@ If you're feeling particularly creative, you may want your abilities to be power
 
 If you choose to do so, keep in mind the capability of characters with ability point pools. A character with a deck of cards that do different things likely shouldn't start with more than two cards, and should gain additional cards or improve existing cards in a way similar to how a character with ability points would gain additional points in their pool and improve their existing abilities.
 
-
+<br/>
 
 ## Triggers and Effects
 
@@ -151,7 +146,7 @@ Here are a few examples of triggers and effects to get you started.
 |                                       | ...use a power to do something big.                      |
 |                                       | ...create something permanent.                           |
 
-
+<br/>
 
 ## Example Abilities
 
@@ -187,3 +182,59 @@ Here are a few example abilities created using examples of costs paired with the
 | ------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
 | By spending a point of martial focus, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
 
+<br/>
+
+## Example of Making an Ability Stronger
+
+Here's a more in-detail example of how one could make an ability stronger.
+
+Let's start with the ability **Berserking**
+
+#### Berserking
+
+| Cost                         | Trigger                            | Effect                          |
+| ---------------------------- | ---------------------------------- | ------------------------------- |
+| By spending a point of fury, | When I make an **attack** I can... | ...add an extra 1d4 to my roll. |
+
+A good starting point, but let's see if we can make it more interesting.
+
+The next chance we get to improve abilities, we choose to **make the ability stronger**. We can't increase the number of dice that we have, but we can change the dice into an **advantage** that can be used more than once. Since advantages are more broadly useful than just attacks, let's also change the trigger to an action.
+
+#### Berserking II
+
+| Cost                         | Trigger                     | Effect                                                       |
+| ---------------------------- | --------------------------- | ------------------------------------------------------------ |
+| By spending a point of fury, | I can spend an action to... | ...create a 2d4 Advantage named **Berserking** for the scene. |
+
+Already this is looking jucier. Now, not only do we get a 1d4 bonus to attacks, but we can also spend the dice on the advantage for breaking down doors, resisting mind control, and all kinds of other stuff that having a **Berserking** advantage helps with.
+
+Where do we go from here? Well, a simple route would just be to increase the number of dice that we have on the Berserking advantage to get more Berserking Time, but what if we made it a special advantage? We'd need our gamemaster's approval and their help making some balanced tweaks, but with their help we could come up with something like...
+
+#### Berserking III
+
+| Cost                         | Trigger                     | Effect                                                       |
+| ---------------------------- | --------------------------- | ------------------------------------------------------------ |
+| By spending a point of fury, | I can spend an action to... | ...create a 1d4 Special Advantage named **Berserking** for the scene. |
+
+> **Berserking**
+>
+> When you **make an attack** add 1d4 to this advantage.
+> The first time you **take damage** each turn, add 1d4 to this advantage.
+> If you end your turn without spending dice from this advantage, the advantage is lost.
+
+This is what our gamemaster helped us come up with. It's a Special Advantage that feeds itself the more that we attack and take damage, but it has the downside of needing to be used at least once on each of our turns or it goes away. Now we're really getting somewhere! 
+
+But... what if we could make it _even better?_ Our gamemaster has an idea for that-- they say that if we want to, we can upgrade the ability again to remove the restriction that causes us to lose the advantage.
+
+#### Berserking IV
+
+| Cost                         | Trigger                     | Effect                                                       |
+| ---------------------------- | --------------------------- | ------------------------------------------------------------ |
+| By spending a point of fury, | I can spend an action to... | ...create a 1d4 Special Advantage named **Berserking** for the scene. |
+
+> **Berserking**
+>
+> When you **make an attack** add 1d4 to this advantage.
+> The first time you **take damage** each turn, add 1d4 to this advantage.
+
+Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get a powerful advantage that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!
