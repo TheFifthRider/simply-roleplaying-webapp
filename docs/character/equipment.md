@@ -20,6 +20,8 @@ Equipment with this tag make is often light, compact, or relies on manual precis
 
 ### Armor
 
+_requires: any attribute tag_
+
 Equipment with this tag are wearable defense like personal shield generators, Kevlar vests, or full plate. When worn, armor grants the wearer with **armor value** equal to **the highest passive value of the equipment's tagged attributes**. A character can only benefit from one set of armor at a time.
 
 ### Battering
@@ -88,6 +90,10 @@ Weapons in this tag fire a number of projectiles in rapid succession, bombarding
 
 Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. When carried, shields **increase the character's armor value by 5**.
 
+**Storage**
+
+Equipment with this tag grant an extra column of additional inventory grid slots.
+
 ### Slashing
 
 Weapons with this tag are weapons that have one or more long, sharp edges that can be used to lacerate. _Hunting knives_, _khopeshes_, and _rapiers_ often have the Slashing tag.
@@ -97,7 +103,9 @@ Weapons with this tag fire shrapnel, fire, poison, or other hazards to coat a wi
 
 ### Weapon
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes. More on attacks can be found in [Performing Attacks](../gameplay/attacking.md).
+_requires: Any attribute tag AND any range tag_
+
+Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes at one of the tagged ranges. More on attacks can be found in [Performing Attacks](../gameplay/attacking.md).
 
 ### Will
 
