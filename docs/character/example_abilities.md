@@ -40,7 +40,7 @@ _This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When
 
 **Fury:** 6/6
 
-* **Bearserking II:** You can spend a point of Fury to create a **1d10** special advantage called **Raging Berserker**. 
+* **Bearserking IV:** You can spend a point of Fury to create a **1d10** special advantage called **Raging Berserker**. 
   Each time you attack, add **1d10** to the advantage.
   The first time you take damage each round, add **1d10** to the advantage.
   ~~At the end of your turn, **Enraged** ends unless you have spent a die from it since your last turn~~
