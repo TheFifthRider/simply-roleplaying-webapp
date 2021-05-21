@@ -30,6 +30,16 @@ At any point after determining the result of a skill check, a player may declare
 
 <br/>
 
+#### Renaming a Skill
+
+Leveling up a skill can also be an opportunity to refine it. Whenever you level up a skill, whether through training or gaining insight, you can also rename it to better represent the skill that your character is developing.
+
+> A character with the skill _Spotting Traps_ narrowly avoids the last arrow trap of a dungeon and _gains insight_, spending a point of potential to level up the skill. As they reflect on how it might be less useful back above ground, they decide to rename the skill to _Quick Reflexes_ as they level it up.
+>
+> A character with the skill _Research_ spends days trying to crack the secrets of an alien artifact, working with a librarian to help train them in getting better at researching. To represent both the newfound knowledge and to help them get more specific answers in the future, they decide to rename the skill to _Extraterrestrial Research_ as they level it up. 
+
+<br/>
+
 ### Mastering a Skill
 
 When you level a skill up to d12, you've **mastered** it and can't level it up anymore. If you want to get more skilled in this area, you'll have to create a background with the skill.
