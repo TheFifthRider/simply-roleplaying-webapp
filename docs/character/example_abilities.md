@@ -57,7 +57,7 @@ _This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When
 * **Feral Instinct II:** When you make a test to determine Initiative, add **1d10** to the roll.
   * You can choose to roll to enter the initiative order even if you are surprised or otherwise wouldn't know that an actions scenario had started.
 * **Brutal Critical II:** When you **Critically Succeed** on an attack, add **1d10** to the roll _(before doubling it for damage)_ and create a **1d10** disadvantage on your victim called **Brutally Wounded**.
-* **Spirit Walker:** By spending some downtime, you can summon a bear spirit who magically grants you a success on **finding answers to questions** about the natural world within 3km of you above ground, or within 300m underground. You may ask the GM up to 3 questions about anything natural to the area, which the GM must answer truthfully.
+* **Spirit Walker:** By spending some downtime, you can summon a bear spirit who magically grants you a success on **gathering information** about the natural world within 3km of you above ground, or within 300m underground. You may ask the GM up to 3 questions about anything natural to the area, which the GM must answer truthfully.
 
 * :warning: **Raging Strikes:** The second time you attack each turn you can make a third attack without spending an action.
 
@@ -72,7 +72,7 @@ _(6 Milestones / 290 Potential) -- Level 15 Wizard in D&D_
 * **Expert Divination**:
 * **The Third Eye**:
 * **Cantrips**: While you are equipped with equipment tagged with **Arcane** and **Focus**, you can:
-  * **Firebolt**: spend an action to make an attack with the equipment as if it had the **Fire**, **Long-Range**, **Close-Range**, and **Weapon** tags
+  * **Firebolt**: spend an action to make an attack with the equipment as if it had the **Fire**, **Long-Range**, **Close-Range**, **Weapon**, and **Knowledge** tags
   * **Prestidigitation**: spend an action to do something harmless and flavorful, like heating or cooling food, lighting torches, or cleaning/dirtying clothes
   * **Mage Hand**: spend an action to create an arcane hand that can manipulate objects within **Close-Range**. It can lift five pounds and apply five pounds of force.
   * **Dancing Lights**: spend an action to create up to four ethereal sources of light (flavored as you choose) within **Close-Range** for the scene. They spread light like torches and you can only have four active at once.
@@ -81,23 +81,31 @@ _(6 Milestones / 290 Potential) -- Level 15 Wizard in D&D_
   * **Magic Missile**: Spend up to three actions and a spell slot of first level or higher to create one dart of magical energy per action spent. Each dart flies towards a target you choose within **Long-Range** and deals **1d10** damage. If you spent a spell slot of second level or higher, create an additional dart for each spell slot above first.
   * **Shield**: When someone targets you, you can spend a reaction and a spell slot of first level or higher to roll **1d10** and add it to your AV until the start of your next turn. In addition, damage taken from spells is reduced by the result of your roll.
   * **Feather Fall**: When you are falling, you can spend a reaction and a spell slot of first level or higher to reduce the fall speed of you and up to five other targets within 20m. Until the spell ends, you all now fall at 20m per round and take no damage from falling. The spell ends at the end of your turn unless you spend two actions during your turn to keep it going.
-  * **Alarm**: Ward an area within **Short-Range**. Choose Silent Alarm or Audible Alarm, and any number of creatures who can come and go as they please. For the next 8 hours, if anyone not chosen enters the area, the chosen alarm will sound. A silent alarm alerts you through a mental ping that wakes you up, as long as you are within 5km. An audible alarm alerts everyone in the vicinity by creating the sound of a hand bell for the next ten seconds.
+  * **Detect Magic** (Divination): You can spend some downtime and a spell slot of first level or higher to automatically succeed on **gathering information** about magical sources around you. You may ask the GM up to 3 questions about sources of magic in the area, which the GM must answer truthfully.
 * **Second Level Spells**: 3/3 Slots
-  * **Augury**: You can spend some downtime and a spell slot of second level or higher to ask a question of the GM about the outcome of actions you will undertake immediately following the downtime. The GM can answer your question only with vague portents-- either "Weal" for good fortune, "Woe" for bad fortune, "Weal and Woe" for a mix of both, and "Neither Weal nor Woe" if the answer is neither good nor bad fortune. If you've already cast this spell once since the last time you've rested, the GM rolls 1d4 in secret for each time you've cast the spell since the last time you've rested. If they roll any 1s, they must give you a random answer.
-  * **Suggestion**:
-  * **Misty Step**: 
+  * **Augury** (Divination): You can spend some downtime and a spell slot of second level or higher to ask your GM about a course of action you plan to take immediately after the downtime ends. (Spell otherwise unchanged)
+  * **Locate Object** (Divination): You can spend a spell slot of second level or higher to automatically succeed on **gathering information** about the current location of an object of a certain type, or a specific object that you've seen. You may focus on this spell for up to 10 minutes. You may ask the GM up to 3 questions about the location of the object, which the GM must answer truthfully. As this information is divined magically, you can ask these three questions at any point while focusing on the spell, receiving answers based on the current location of the object each time.
+  * **Misty Step**: You can spend an action and a spell slot of second level or higher to teleport up to twice your movement speed to a point you can see.
 * **Third Level Spells**: 3/3 Slots
-  * **Counterspell**:
-  * **Fireball**:
+
+  * **Counterspell**: You can spend a reaction and a spell slot of third level or higher to attempt to make a test of **Arcane magic** against a target's **Passive Will** to attempt to cancel a magical ability or spell they are using within **Close-Range**. If you spent a spell slot of fourth level or higher, add **1d10** to your roll for each level the slot was above 3rd.
+  * **Fireball**: Choose a point within **Long-Range**. Make an attack against each target within **Close-Range** of that point as though your focus had the **Fire**, **Weapon**, and **Knowledge** tags. If you spent a spell slot of fourth level or higher, add **1d10** to your roll for each level the slot was above 3rd.
 * **Fourth Level Spells**: 3/3 Slots
-  * **Arcane Eye**:
-  * **Greater Invisibility**:
+  
+  * **Arcane Eye** (Divination): You can spend an action and a spell slot of fourth level or higher to create a 1-inch diameter, invisible, and magical eye within **Close-Range**. The eye can see anything within **Close-Range**, in darkness as well as light, and you can mentally see through the magical eye while the spell is active. You can spend an action at the beginning of each of your turns for up to an hour to keep the spell active. When you do, you can also move the eye up to 10m in any direction, potentially around but not through solid objects.
+  * **Greater Invisibility**: You can spend an action and a spell slot of fourth level or higher to touch a target and turn them and everything they are wearing or carrying invisible for up to the rest of the scene. You can spend an action at the beginning of each of your turns to keep the spell active.
 * **Fifth Level Spells**: 2/2 Slots
-  * **Scrying**:
+  
+  * **Scrying** (Divination): You can spend some downtime and a spell slot of fifth level or higher to attempt a test of **Arcane magic** against the target's **Passive Will** to **gather information** about them and where they are as if you were within 10 feet of them.
 * **Sixth Level Spells**: 1/1 Slots
-  * **Disintegrate**:
+  
+  * **Disintegrate**: You can spend an action and a spell slot of sixth level or higher to make an attack with the equipment as if it had the **Laser**, **Long-Range**, **Close-Range**, **Weapon**, and **Knowledge** tags. Add **5d10** to the roll.  If you spent a spell slot of seventh level or higher, add an additional **1d10** to your roll for each level the slot was above 6th.
 * **Seventh Level Spells**: 1/1 Slots
-  * **Teleport**:
+
+  * **Teleport**: You can spend an action and a spell slot of seventh level or higher to transport yourself and up to eight targets of your choice within range to a destination. If you don't have some kind of magical anchor there, make a test of **Arcane magic**. On a critical success, you arrive exactly where you picture. On a success, you end up a random distance away from your target. On a partial success, you arrive at a similar location. On a failure everyone teleporting takes damage equal to half of the difficulty of the test and you must make the test again. (It is possible for you to fail multiple times, dealing damage each time)
+
+    If you're **very familiar** with the area, the difficulty of this test is **30**. If you've **seen the area casually** the difficulty is **40**. If you've **viewed the area once** the difficulty is **50**. If you're acting on a description of the area, the difficulty is **60**. If you're teleporting to somewhere that **no longer exists or never existed**, the difficulty is **80**.
 * **Eighth Level Spells**: 1/1 Slots
-  * **Maze**:
+  
+  * **Maze**: You can spend an action and a spell slot of eighth level or higher to choose a target within **Short-Range**. They vanish, transported to a labyrinthine maze. They remain there as long as the spell remains active or until they escape the maze. You can spend an action on your turn to keep the spell going for up to a scene. On their turn, the target must spend all of its actions to attempt to escape the maze, making a test of **Knowledge** against your **Passive Knowledge**. When the target returns, they return as close to where they disappeared from as possible.
 
