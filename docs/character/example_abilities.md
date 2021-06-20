@@ -65,13 +65,14 @@ _This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When
 
 ## Diviner
 
-_(6 Milestones / 290 Potential) -- Level 15 Wizard in D&D_
+_(6 Milestones / 250 Potential) -- Level 15 Wizard in D&D_
 
-* **Arcane Recovery**: During downtime, recover up to **6** Spell Slots
-* **Portent II**:
-* **Expert Divination**:
-* **The Third Eye**:
+* **Arcane Recovery**: During downtime, recover a number of spell slots up to a total level of **6**.
+* **Portent II**: 
+* **Expert Divination**: (Ability unchanged)
+* **The Third Eye**: You can open your third eye for a scene, revealing magic and giving you the ability to see in the dark. Once you do this, you can't use it again until after your next downtime.
 * **Cantrips**: While you are equipped with equipment tagged with **Arcane** and **Focus**, you can:
+  
   * **Firebolt**: spend an action to make an attack with the equipment as if it had the **Fire**, **Long-Range**, **Close-Range**, **Weapon**, and **Knowledge** tags
   * **Prestidigitation**: spend an action to do something harmless and flavorful, like heating or cooling food, lighting torches, or cleaning/dirtying clothes
   * **Mage Hand**: spend an action to create an arcane hand that can manipulate objects within **Close-Range**. It can lift five pounds and apply five pounds of force.
@@ -108,4 +109,61 @@ _(6 Milestones / 290 Potential) -- Level 15 Wizard in D&D_
 * **Eighth Level Spells**: 1/1 Slots
   
   * **Maze**: You can spend an action and a spell slot of eighth level or higher to choose a target within **Short-Range**. They vanish, transported to a labyrinthine maze. They remain there as long as the spell remains active or until they escape the maze. You can spend an action on your turn to keep the spell going for up to a scene. On their turn, the target must spend all of its actions to attempt to escape the maze, making a test of **Knowledge** against your **Passive Knowledge**. When the target returns, they return as close to where they disappeared from as possible.
+
+
+
+
+
+## Assassin
+
+_(6 Milestones / 210 Potential) -- Level 15 Rogue in D&D_
+
+* **Sneak Attack VIII**: Once per turn, when you make an attack with **Agility** or **Intuition** against a target who is flanked or has a disadvantage, add **8d10** to the roll.
+* **Assassinate**: When you attack an enemy who hasn't taken their turn in a combat encounter, they get a **1d10** disadvantage called **Assassin's Prey**.
+* **Steady Aim**: You can spend an action to give yourself a **1d10** advantage called **Steady Aim**. You lose this advantage if you take an action to move.
+* **Uncanny Dodge**: When you're targeted by an attack, you can spend a reaction to roll **1d10** and add it to your AV for the attack.
+* **Evasion II**: When a test you can see is made against your passive **Agility**, you can spend a reaction to roll **2d10** and increase your passive **Agility** by that amount.
+* **Infiltration Expertise**: You can spend an extended period of downtime to create a false identity for yourself. You can't establish an identity that belongs to someone else.
+* **Reliable Talent**: When you make a test of any ability with your maximum dice, you may treat any roll that is lower than your passive score for that ability as if you rolled the passive score.
+* **Imposter III**: If you spend some downtime studying someone's speech, handwriting, and mannerism, you can mimic it to near perfection. In addition, you get a **3d10** advantage called **Convincing Imposter**. While you have this advantage, the casual observer can't tell that you are any different from the individual you are mimicking.
+* **Blindsense**: You automatically succeed on tests to detect invisible and hidden creatures as long as you can get within 10 feet of them.
+* **Slippery Mind II**: When a test is made against your passive **Will**, you can spend a reaction to roll **2d10** and increase your passive **Will** by that amount.
+
+
+
+## Haghunter
+
+_(6 Milestones / 270 Potential) -- Level 15 Ranger in D&D_
+
+* **Favored Foe:**
+* **Natural Explorer III:** (SRP solves this problem by letting you level this up to choose new areas when you want them)
+* **Fighting Style: Archery:** When you make an attack with a Bow, you can add **1d10** to the roll.
+* **Planar Warrior:**
+* **Primeval Awareness:**
+* :warning: **Follow Up Strike:** The second time you attack each turn you can make a third attack without spending an action.
+* **Ethereal Step:**
+* **Land's Stride:**
+* **Nature's Veil:**
+* **Distant Strike:**
+* **Vanish:**
+* **Spectral Defense:**
+* **First Level Spells:** 4/4 Slots
+  * One
+  * Two
+  * Three
+  * Protection from Evil and Good
+* **Second Level Spells:** 3/3 Slots
+  * Four
+  * Five
+  * Misty Step
+* **Third Level Spells:** 3/3 Slots
+  * Six
+  * Seven
+  * Haste
+* **Fourth Level Spells:** 2/2 Slots
+  * Eight
+  * Nine
+  * Banishment
+
+
 
