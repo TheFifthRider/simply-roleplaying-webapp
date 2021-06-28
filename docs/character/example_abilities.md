@@ -65,7 +65,7 @@ _This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When
 
 ## Diviner
 
-_(6 Milestones / 250 Potential) -- Level 15 Wizard in D&D_
+_(6 Milestones / 240 Potential) -- Level 15 Wizard in D&D_
 
 * **Arcane Recovery:** During downtime, recover up to **6** levels of Spell Slots
 
@@ -73,14 +73,14 @@ _(6 Milestones / 250 Potential) -- Level 15 Wizard in D&D_
 
 * **Expert Divination:** When you cast a spell tagged with **[Divination]** of second level or higher, you can regain a spell slot of a lower level.
 
-* **The Third Eye:** You can spend an action to open your third eye, granting you one form of unique vision until you next rest. You can change which form of vision you are benefiting from by spending some downtime.
+* **The Third Eye II:** You can spend an action to open your third eye, granting you one form of unique vision until you next rest. You can change which form of vision you are benefiting from by spending some downtime.
 
     * **Darkvision:** You can see in the dark, in greyscale.
     * **Greater Comprehension:** You can read any language.
     * **See Invisibility:** You can see invisible creatures.
     * **See Ethereal:** You can see into the ethereal plane.
 
-* **Cantrips:** While you are equipped with equipment tagged with **Arcane** and **Focus**, you can:
+* **Cantrips IV:** While you are equipped with equipment tagged with **Arcane** and **Focus**, you can:
   
   * **Firebolt:** spend an action to make an attack with the equipment as if it had the **Fire**, **Long-Range**, **Close-Range**, **Weapon**, and **Knowledge** tags
   * **Prestidigitation:** spend an action to do something harmless and flavorful, like heating or cooling food, lighting torches, or cleaning/dirtying clothes
@@ -152,38 +152,38 @@ _(6 Milestones / 210 Potential) -- Level 15 Rogue in D&D_
 
 ## Haghunter
 
-_(6 Milestones / 250 Potential) -- Level 15 Ranger in D&D_
+_(6 Milestones / 300 Potential) -- Level 15 Ranger in D&D_
 
-* **Hunted Foe:** As an action, you can create a **1d10** disadvantage called **Marked for the Hunt** on a creature within **Long-range** that lasts until the end of the scene. (:warning: PROF times)
+* **Hunted Foe III:** As an action, you can create a **1d10** disadvantage called **Marked for the Hunt** on a creature within **Long-range** that lasts until the end of the scene. You can do this six times per rest.
 * **Fighting Style: Archery:** When you make an attack with a Bow, you can add **1d10** to the roll.
 * **Arcane Burst II:** As an action, you can create a **2d10** disadvantage called **Crackling with Energy** on a creature within **Short-range** that lasts until the end of your turn. If you make an attack against them, you can spend two dice from the disadvantage on the attack.
 * :warning: **Follow Up Strike:** The second time you attack each turn you can make a third attack without spending an action.
 * **Roving:** Your movement speed increases by 1 meter-- also, you can swim and climb at the same speed you move.
 * **Tireless:** As an action, you can create a **1d10** advantage called **Tireless Hunter**.
-* **Ethereal Step:** ?
+* **Ethereal Step:** As an action, slip through a parallel dimension until the end of your next turn. To those in the real world, you disappear entirely and they cannot target you. You can still see creatures and objects from the real world, but not hear them or interact with them. You can phase through objects in the real world, but at half speed.
 * **Land's Stride:** Terrain and plants are easier for you to navigate. You can add **1d10** to any roll you make to navigate the hazards of terrain or plants, and they can't slow you down. In addition, if the hazard is the effects of a naturally occurring plant you automatically succeed on attempts to avoid harm from it.
-* **Nature's Veil:** As an action, you can become **invisible** until the start of your next turn. (:warning: PROF times)
+* **Nature's Veil III:** As an action, you can become **invisible** until the start of your next turn. You can do this six times per rest.
 * **Distant Strike:** As an action, you can teleport 3m and make an attack. If you perform this action at least two times, you can make a third attack with this action without spending an action.
 * **Spectral Defense II:** As a reaction, roll **2d10** and add it to your armor value.
 * **First Level Spells IV:** 4/4 Slots
-  * One
-  * Two
-  * Three
+  * Ensnaring Strike
+  * Hunter's Mark
+  * Zephyr Strike
   * Protection from Evil and Good
   * Speak with Animals
 * **Second Level Spells III:** 3/3 Slots
-  * Four
-  * Five
+  * Darkvision
+  * Pass without Trace
   * Misty Step
   * Beast Sense
 * **Third Level Spells III:** 3/3 Slots
-  * Six
-  * Seven
+  * Conjure Barrage
+  * Flame Arrows
   * Haste
   * Speak with Plants
-* **Fourth Level Spells II:** 2/2 Slots
-  * Eight
-  * Nine
+* **Fourth Level Spells III:** 2/2 Slots
+  * Freedom of Movement
+  * Guardian of Nature
   * Banishment
   * Locate Creature
 
