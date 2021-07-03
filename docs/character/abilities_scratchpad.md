@@ -40,3 +40,17 @@ Every 10 potential, choose one:
 *   Learn two new abilities
 *   Increase character's ability points by 2
 
+
+
+
+
+| Effect                                                       | Ways you could strengthen it                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ...do something extraordinary.                               | Increase the magnitude of the extraordinary action.          |
+| ...increase 1 target's Armor Value by 1d4 for a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>increase the amount of time |
+| ...give 1 target a 1d4 advantage. They lose this advantage after a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>Add an additional action they could perform<br/>Increase the amount of time |
+| ...add an extra 1d4 to my roll.                              | Add an extra 1d4 to my roll, then create a 1d4 advantage.    |
+| ...make a test and recover that much damage.                 |                                                              |
+| ...move up to my speed.                                      |                                                              |
+| ...give a specific equipment a specific tag for a specific amount of time. | Add additional tags<br/>Add equipment that could be used<br/>Increase the amount of time |
+| ...get a specific equipment with specific tags for a specific amount of time. | Add additional tags<br/>Increase the amount of time          |

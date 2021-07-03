@@ -161,7 +161,7 @@ If you want an ability to do what it already does, but better, you can amplify i
 | Effect                                                       | Ways you could strengthen it                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ...do something extraordinary.                               | Increase the magnitude of the extraordinary action.          |
-| ...increase 1 target's Armor Value by 1d4 for a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>increase the amount of time |
+| ...increase 1 target's Armor Value by 1d4 for a specific amount of time. | Replace targets with an area of effect<br/>increase the amount of time |
 | ...give 1 target 1d4 that they can use to perform a specific action. They lose this die after a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>Add an additional action they could perform<br/>Increase the amount of time |
 | ...add an extra 1d4 to my roll.                              | Create a 2d4 advantage that you can use immediately          |
 | ...make a test and recover that much damage.                 |                                                              |
