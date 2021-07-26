@@ -33,39 +33,50 @@ Whatever it is, that their type of **ability points**. If you can't think of one
 You earn new abilities and upgrade existing abilities by earning [potential](milestones.md). Every **10 potential you earn** (spent or not) you get to choose one of the following:
 
 * Increase your [ability points](#costs-and-ability-points) by two
-* [Get a new ability](#gaining-new-abilities) and increase your [ability points](#costs-and-ability-points) by one
-* [Get two new abilities](#gaining-new-abilities)
+* [Get a new ability](#creating-an-ability) and increase your [ability points](#costs-and-ability-points) by one
+* [Get two new abilities](#creating-an-ability)
 * [Improve an existing ability](#improving-existing-abilities)
 
 <br/>
 
-## Gaining new Abilities
-
-Whenever you **gain a new ability**, your character immediately learn a new ability. If your GM has a list of abilities for you to choose from, you can choose from those, or you can [create your own](#creating-an-ability).
-
-<br/>
-
-## Improving Existing Abilities
-
-If you choose to **improve an existing ability**, you can either give an ability an extra effect or strengthen one of the ability's existing effects.
-
-<br/>
-
-# Creating an Ability
+## Creating an Ability: The Basics
 
 Usually an ability has a **trigger** that describes when it happens and an **effect** that describes what it does. Many abilities also have a **cost** to activate them. A finished ability reads something like this: 
 
-| Cost                        | Trigger             | Effect                                                |
-| --------------------------- | ------------------- | ----------------------------------------------------- |
-| By spending 1 ability point | when I attack I can | light my sword on fire to add an extra d4 to my roll. |
+| Cost                        | Trigger             | Effect                                            |
+| --------------------------- | ------------------- | ------------------------------------------------- |
+| By spending 1 ability point | when I attack I can | light my sword on fire to add an extra d4 damage. |
 
 <br/>
 
-## Choosing Costs
+## Automatic Scaling
+
+Not all aspects of abilities should be improved by a player choosing to **improve an ability**. When improving an ability that grants am extra die, increasing the size of a die does not feel as impactful as increasing the number of dice.
+
+This is especially if the effect needs to be improved in order to stay relevant. An ability which allows you to use your fists as though they had the **Weapon** tag becomes much less interesting once you find a **+3** Quarterstaff, since you don't get the +3 bonus for using your fists.
+
+Probably the best way to solve this is by making that part of the effect scale by milestone, like so!
+
+| Milestones | Die  | Equipment Quality |
+| ---------- | ---- | ----------------- |
+| 0          | 1d4  | +0                |
+| 1          | 1d4  | +1                |
+| 2          | 1d6  | +2                |
+| 3          | 1d6  | +3                |
+| 4          | 1d8  | +4                |
+| 5          | 1d8  | +5                |
+| 6          | 1d10 | +6                |
+| 7          | 1d10 | +7                |
+| 8          | 1d12 | +8                |
+| 9+         | 1d12 | +9                |
+
+<br/>
+
+### Choosing Costs
 
 Spending ability points is often the simplest way to give abilities a cost, but not every ability needs to spend ability points. Some abilities to have an alternate cost such as time, money, or damage. Some might have no cost at all. Some particularly powerful or permanent abilities might combine an alternate cost with the cost of the ability points.
 
-### Alternate or Additional Costs
+#### Alternate or Additional Costs
 
 Your GM may say that some abilities require additional costs beyond your initial abilities. This is especially true of abilities that permanently create or enhance things like [equipment](equipment.md), which often have monetary costs associated with the materials, tools, and space needed to perform the enhancement. 
 
@@ -73,15 +84,15 @@ Sometimes the cost of an ability is time. The space station might need to spend 
 
 These costs may replace the ability point cost, or may be in addition to the ability point cost depending on what makes sense.
 
-### Passive Abilities: Abilities with No Cost
+#### Passive Abilities: Abilities with No Cost
 
 Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a **passive ability**.
 
-Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a cost.
+Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. Your Gamemaster may suggest using **multiple triggers** that must be satisfied to use the effect or making the effect **less strong** compared to an ability with a cost.
 
 <br/>
 
-## Example Abilities
+### Example Abilities
 
 Here are a few examples of triggers and effects to get you started.
 
@@ -90,13 +101,11 @@ Here are a few examples of triggers and effects to get you started.
 | When I'm in a specific situation I can...                    | ...give 1 target a 1d4 advantage.                            |
 | When I use equipment with a specific tag I can...            | ...add an extra 1d4 to 1 target's roll.                      |
 | I can spend an action to...                                  | ...roll 1d4 plus a specific Attributes modifier and heal 1 target that much damage. |
-| When I do something related to a specific background I can... |                                                              |
-| When I take a specific action I can...                       | ...give a specific equipment a specific tag until the end of my next turn. |
-| When I make a specific test I can...                         | ...move up to my speed.                                      |
-|                                                              | ...do something extraordinary.                               |
+| When I do something related to a specific background I can... | ...give a specific equipment a specific tag until the end of my next turn. |
+| When I take a specific action I can...                       | ...move up to my speed.                                      |
+| When I make a specific test I can...                         | ...do something extraordinary.                               |
 |                                                              | ...perform an action as if I had a specific equipment with specific tags. |
 |                                                              | ...move a target up to my speed.                             |
-|                                                              | ...perform a specific action.                                |
 |                                                              | ...remove a specific type of disadvantage from yourself.     |
 |                                                              | ...reroll the dice for a test.                               |
 |                                                              | ...give 1 target a 1d4 disadvantage until the end of their next turn. |
@@ -115,7 +124,7 @@ Here are a few examples of triggers and effects to get you started.
 
 <br/>
 
-### Example Abilities
+## Example Abilities
 
 Here are a few example abilities created using examples of costs paired with the triggers and effects listed above:
 
@@ -171,25 +180,6 @@ If you want an ability to do what it already does, but better, you can amplify i
 | ...move up to my speed.                                      |                                                              |
 | ...give a specific equipment a specific tag for a specific amount of time. | Add additional tags<br/>Add equipment that could be used<br/>Increase the amount of time |
 | ...get a specific equipment with specific tags for a specific amount of time. | Add additional tags<br/>Increase the amount of time          |
-
-<br/>
-
-### How Abilities Scale
-
-At certain numbered milestones, dice increase and equipment granted by abilities become more powerful.
-
-| Milestones | Die  | Modifier |
-| ---------- | ---- | -------- |
-| 0          | 1d4  | +0       |
-| 1          | 1d4  | +1       |
-| 2          | 1d6  | +2       |
-| 3          | 1d6  | +3       |
-| 4          | 1d8  | +4       |
-| 5          | 1d8  | +5       |
-| 6          | 1d10 | +6       |
-| 7          | 1d10 | +7       |
-| 8          | 1d12 | +8       |
-| 9+         | 1d12 | +9       |
 
 <br/>
 
