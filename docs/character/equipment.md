@@ -37,7 +37,7 @@ Weapons with this tag have a wedge shaped blade that is swung with a chop. _Batt
 
 ### Close-range
 
-Equipment with this tag can be used on targets that are outside of arm's reach but still pretty close, usually between 1.5v and 10m away.
+Equipment with this tag can be used on targets that are outside of arm's reach but still pretty close, usually between 1.5m and 10m away.
 
 ### Concealable
 Equipment with this tag are small and easy to take out or hide. _Daggers_, _miniature crossbows_, _pistols_, and _brass knuckles_ often have the Concealable tag.

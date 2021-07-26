@@ -25,12 +25,6 @@ While you are equipped with equipment tagged with **Arcane** and **Focus**, you 
 
 
 
-
-
-
-
-
-
 All abilities are limited in their number of uses.
 
 Every 10 potential, choose one:
@@ -39,8 +33,6 @@ Every 10 potential, choose one:
 *   Learn new ability, increase a character's ability points by 1
 *   Learn two new abilities
 *   Increase character's ability points by 2
-
-
 
 
 
