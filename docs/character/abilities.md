@@ -1,5 +1,3 @@
-
-
 # Abilities
 
 **Abilities** are the unique things that characters can do-- what makes them play differently from other characters. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their unique [power](../extras/powers.md) over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!
@@ -8,7 +6,7 @@
 
 ## What do Abilities do?
 
-Whatever you want them to! 
+Whatever you want them to!
 
 Abilities are mechanics that players make up to express their characters. If that sounds like a lot, don't worry! This page is almost exclusively advice on how to build your own abilities. If that seems like too much for you, there's also couple of example abilities here for you to steal-- and more where those came from in the [abilities gallery](../example_abilities.md).
 
@@ -16,7 +14,15 @@ Your GM may decide to create and curate a list of abilities that characters are 
 
 ### What can't you do with abilities?
 
-Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability that says "I instantly kill all of the evil boss characters." Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, maybe they do! Playing an overpowered character who can completely change the world has lots of interesting dramatic potential. As long as everyone is having fun, that's all that matters.
+Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called _Godmode_ that _instantly kills all of the evil boss characters._ Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, maybe they do! Playing an overpowered character who can completely change the world has lots of interesting dramatic potential. As long as everyone is having fun, that's all that matters.
+
+### What do they look like?
+
+Usually an ability has a **trigger** that describes when it happens and an **effect** that describes what it does. Many abilities also have a **cost** to activate them. A finished ability reads something like this: 
+
+| Cost                        | Trigger       | Effect                                                  |
+| --------------------------- | ------------- | ------------------------------------------------------- |
+| By spending 1 ability point | when I attack | I can light my sword on fire to add an extra d4 damage. |
 
 <br/>
 
@@ -25,6 +31,20 @@ Abilities tend to work best when you don't try to put restrictions on them. If y
 Many abilities have a **cost** that limit how often they can be used. An ability may cost magic gems, imbued talismans of paper, or even simply tire the character using them by depleting their mana, chi, or other source of energy. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?
 
 Whatever it is, that their type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later. You start with a pool of two of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering) or when it makes sense that you would.
+
+<br/>
+
+## Upgrading Abilities
+
+As you get stronger, so should your abilities!
+
+### Giving an Ability an Additional Effect
+
+Sometimes you just want an ability to do more. Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
+
+### Making an Ability Stronger
+
+If you want an ability to do what it already does, but better, you can amplify its effects. Generally, this amplification can be done by increasing the number of targets, the duration of effects, or broadening the situations in which the ability can apply.
 
 <br/>
 
@@ -39,17 +59,9 @@ You earn new abilities and upgrade existing abilities by earning [potential](mil
 
 <br/>
 
-## Creating an Ability: The Basics
-
-Usually an ability has a **trigger** that describes when it happens and an **effect** that describes what it does. Many abilities also have a **cost** to activate them. A finished ability reads something like this: 
-
-| Cost                        | Trigger             | Effect                                            |
-| --------------------------- | ------------------- | ------------------------------------------------- |
-| By spending 1 ability point | when I attack I can | light my sword on fire to add an extra d4 damage. |
-
-<br/>
-
 ## Automatic Scaling
+
+<!-- TODO: Workshop this -->
 
 Not all aspects of abilities should be improved by a player choosing to **improve an ability**. When improving an ability that grants am extra die, increasing the size of a die does not feel as impactful as increasing the number of dice.
 
@@ -72,59 +84,43 @@ Probably the best way to solve this is by making that part of the effect scale b
 
 <br/>
 
-### Choosing Costs
+## Revisiting Ability Points
 
-Spending ability points is often the simplest way to give abilities a cost, but not every ability needs to spend ability points. Some abilities to have an alternate cost such as time, money, or damage. Some might have no cost at all. Some particularly powerful or permanent abilities might combine an alternate cost with the cost of the ability points.
+### Creating Multiple types of Ability Points
 
-#### Alternate or Additional Costs
+Characters don't necessarily have one source of powers. A magical blade fighter that uses their _mana_ to use abilities related to their magic power might also have _flourishes_ that they use to perform abilities related to their sword mastery. A cyborg psychic might have both _ammunition_ for their arsenal of weapons and _psi points_. An inventor may have any number of different ability points, each representative of their different inventions.
 
-Your GM may say that some abilities require additional costs beyond your initial abilities. This is especially true of abilities that permanently create or enhance things like [equipment](equipment.md), which often have monetary costs associated with the materials, tools, and space needed to perform the enhancement. 
+You can give your character an additional type of ability points whenever you would increase the number of ability points you have. Instead of increasing the number of ability points you have, just create a new pool of two ability points of the new type. When you can increase the number of ability points you have, you only gain that many ability points in total-- you must choose which of your types of ability points increase.
 
-Sometimes the cost of an ability is time. The space station might need to spend multiple turns worth of actions charging its _Planet-Destroying Laser_, or a _Dragonbreath Cannon_ might need a scene to cool down once it's been used. 
+### Customizing Ability Points
 
-These costs may replace the ability point cost, or may be in addition to the ability point cost depending on what makes sense.
+If you're feeling particularly creative, you may want your abilities to be powered by something other than a pool of points. They could be powered by a pool of dice, a set of leveled slots, or a deck of cards that does something different depending on what card you draw. If you or your GM have a creative idea for how you want to power your character's abilities, go for it.
 
-#### Passive Abilities: Abilities with No Cost
+If you choose to do so, keep in mind the capability of characters with ability point pools. A character with a deck of cards that do different things likely shouldn't start with more than two cards, and should gain additional cards or improve existing cards in a way similar to how a character with ability points would gain additional points in their pool and improve their existing abilities.
 
-Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a **passive ability**.
+</br>
 
-Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. Your Gamemaster may suggest using **multiple triggers** that must be satisfied to use the effect or making the effect **less strong** compared to an ability with a cost.
+## Revisiting Costs
 
-<br/>
+While ability points generally reflect what powers your character, costs are by no means strictly limited to ability points. Alternate costs may replace the ability point cost or may be in addition to the ability point cost depending on what makes sense.
 
-### Example Abilities
+#### Alternate Costs
 
-Here are a few examples of triggers and effects to get you started.
+Sometimes the cost of an ability is time. The space station might need to spend multiple turns worth of actions charging its _Planet-Destroying Laser_, or a ship's _Dragonbreath Cannon_ might need a scene to cool down once it's been used. 
 
-| Trigger                                                      | Effect                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| When I'm in a specific situation I can...                    | ...give 1 target a 1d4 advantage.                            |
-| When I use equipment with a specific tag I can...            | ...add an extra 1d4 to 1 target's roll.                      |
-| I can spend an action to...                                  | ...roll 1d4 plus a specific Attributes modifier and heal 1 target that much damage. |
-| When I do something related to a specific background I can... | ...give a specific equipment a specific tag until the end of my next turn. |
-| When I take a specific action I can...                       | ...move up to my speed.                                      |
-| When I make a specific test I can...                         | ...do something extraordinary.                               |
-|                                                              | ...perform an action as if I had a specific equipment with specific tags. |
-|                                                              | ...move a target up to my speed.                             |
-|                                                              | ...remove a specific type of disadvantage from yourself.     |
-|                                                              | ...reroll the dice for a test.                               |
-|                                                              | ...give 1 target a 1d4 disadvantage until the end of their next turn. |
+Sometimes the cost of an ability is strictly monetary -- this is often when it's reasonable to expect that a character would have access to the resources necessary to pull the ability off, but may not want to take the time in-game to play it out. An alchemist who can _Brew Poisons_ might require a certain amount of money for herbs and supplies. An espionage agent who can _Forge Documents_ might need to make a few key bribes to have access to the proper tools.
 
-#### Big Abilities
+There's no limit to what a cost for an ability could be, but in general it's best if it's something your character has ready access to. Creating an ability that costs something that you don't often have just means you'll have an ability on your character sheet that you won't often use.
 
-| Trigger                               | Effect                                                   |
-| ------------------------------------- | -------------------------------------------------------- |
-| I can spend (2 or more) actions to... | ...recover from an injury.                               |
-| I can spend downtime to...            | ...give a specific equipment a specific tag for a scene. |
-|                                       | ...give 1 target a 1d4 advantage for a scene.            |
-|                                       | ...increase 1 target's Armor Value by 1d4 for a scene.   |
-|                                       | ...give 1 target a 1d4 disadvantage for a scene.         |
-|                                       | ...use a power to do something big.                      |
-|                                       | ...create something permanent.                           |
+#### Abilities with No Cost
+
+Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a cost, talk to your gamemaster about making the ability a **passive ability**.
+
+Passive abilities are simply abilities which do not have cost. Gamemasters and players should expect to workshop passive abilities more than active abilities. Your Gamemaster may suggest using **multiple triggers** that must be satisfied to use the effect or making the effect **less strong** compared to an ability with a cost.
 
 <br/>
 
-## Example Abilities
+### Some Examples
 
 Here are a few example abilities created using examples of costs paired with the triggers and effects listed above:
 
@@ -157,6 +153,38 @@ Here are a few example abilities created using examples of costs paired with the
 | Cost                                  | Trigger                                                | Effect                                                       |
 | ------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
 | By spending a point of martial focus, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+
+<br/>
+
+### Example Abilities
+
+Here are a few examples of triggers and effects to get you started.
+
+| Trigger                                                      | Effect                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| When I'm in a specific situation I can...                    | ...give 1 target a 1d4 advantage.                            |
+| When I use equipment with a specific tag I can...            | ...add an extra 1d4 to 1 target's roll.                      |
+| I can spend an action to...                                  | ...roll 1d4 plus a specific Attributes modifier and heal 1 target that much damage. |
+| When I do something related to a specific background I can... | ...give a specific equipment a specific tag until the end of my next turn. |
+| When I take a specific action I can...                       | ...move up to my speed.                                      |
+| When I make a specific test I can...                         | ...do something extraordinary.                               |
+|                                                              | ...perform an action as if I had a specific equipment with specific tags. |
+|                                                              | ...move a target up to my speed.                             |
+|                                                              | ...remove a specific type of disadvantage from yourself.     |
+|                                                              | ...reroll the dice for a test.                               |
+|                                                              | ...give 1 target a 1d4 disadvantage until the end of their next turn. |
+
+#### Big Abilities
+
+| Trigger                               | Effect                                                   |
+| ------------------------------------- | -------------------------------------------------------- |
+| I can spend (2 or more) actions to... | ...recover from an injury.                               |
+| I can spend downtime to...            | ...give a specific equipment a specific tag for a scene. |
+|                                       | ...give 1 target a 1d4 advantage for a scene.            |
+|                                       | ...increase 1 target's Armor Value by 1d4 for a scene.   |
+|                                       | ...give 1 target a 1d4 disadvantage for a scene.         |
+|                                       | ...use a power to do something big.                      |
+|                                       | ...create something permanent.                           |
 
 <br/>
 
@@ -237,19 +265,3 @@ But... what if we could make it _even better?_ Our gamemaster has an idea for th
 > The first time you **take damage** each turn, add 1d4 to this advantage.
 
 Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get a powerful advantage that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!
-
-
-
-## Deep Dive on Creating Ability Points
-
-### Creating Multiple types of Ability Points
-
-Characters don't necessarily have one source of powers. A magical blade fighter that uses their _mana_ to use abilities related to their magic power might also have _flourishes_ that they use to perform abilities related to their sword mastery. A cyborg psychic might have both _ammunition_ for their arsenal of weapons and _psi points_. An inventor may have any number of different ability points, each representative of their different inventions.
-
-You can give your character an additional type of ability points whenever you would increase the number of ability points you have. Instead of increasing the number of ability points you have, just create a new pool of two ability points of the new type. When you can increase the number of ability points you have, you only gain that many ability points in total-- you must choose which of your types of ability points increase.
-
-### Customizing Ability Points
-
-If you're feeling particularly creative, you may want your abilities to be powered by something other than a pool of points. They could be powered by a pool of dice, a set of leveled slots, or a deck of cards that does something different depending on what card you draw. If you or your GM have a creative idea for how you want to power your character's abilities, go for it.
-
-If you choose to do so, keep in mind the capability of characters with ability point pools. A character with a deck of cards that do different things likely shouldn't start with more than two cards, and should gain additional cards or improve existing cards in a way similar to how a character with ability points would gain additional points in their pool and improve their existing abilities.
