@@ -6,15 +6,11 @@
 
 ## What do Abilities do?
 
-Whatever you want them to!
+Whatever you want them to! Well, as long as your table is cool with it anyway. 
 
-Abilities are mechanics that players make up to express their characters. If that sounds like a lot, don't worry! This page is almost exclusively advice on how to build your own abilities. If that seems like too much for you, there's also couple of example abilities here for you to steal-- and more where those came from in the [abilities gallery](../example_abilities.md).
+Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called _Godmode_ that _makes you immortal._ Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, that's not to say nobody would. Overpowered characters who can completely change the world have lots of interesting dramatic potential. As long as everyone is having fun, that's what matters.
 
-Your GM may decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.
-
-### What can't you do with abilities?
-
-Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called _Godmode_ that _instantly kills all of the evil boss characters._ Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, maybe they do! Playing an overpowered character who can completely change the world has lots of interesting dramatic potential. As long as everyone is having fun, that's all that matters.
+Your GM may also decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.
 
 ### What do they look like?
 
@@ -30,7 +26,9 @@ Usually an ability has a **trigger** that describes when it happens and an **eff
 
 Many abilities have a **cost** that limit how often they can be used. An ability may cost magic gems, imbued talismans of paper, or even simply tire the character using them by depleting their mana, chi, or other source of energy. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?
 
-Whatever it is, that their type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later. You start with a pool of two of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering) or when it makes sense that you would.
+Whatever it is, that their type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later. You start with a pool of two of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering).
+
+You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
 
 ### Creating Multiple types of Ability Points
 
@@ -98,13 +96,19 @@ You earn new abilities and upgrade existing abilities by earning [potential](mil
 
 ## Let's Make Some Abilities
 
-Here are a few example abilities created using examples of costs paired with the triggers and effects listed above:
+All right, we've spent enough time talking about how they work. Let's make some ability points and an ability to use them.
 
-#### Reinforce Armor
+### Tinkering Inventor
 
-| Cost                 | Trigger                    | Effect                                                       |
-| -------------------- | -------------------------- | ------------------------------------------------------------ |
-| By spending 1 scrap, | I can spend downtime to... | ...increase 1 target's Armor Value by 1d4 for the next scene |
+What if our character was a tinkering inventor who spent their time making new gadgets? Each invention could then be a different ability, and their abilities would be powered by the **scrap** that make up their creations.
+
+<!-- TODO -->
+
+**Reinforce Armor**
+
+| Cost                 | Trigger                    | Effect                                                    |
+| -------------------- | -------------------------- | --------------------------------------------------------- |
+| By spending 1 scrap, | I can spend downtime to... | ...give 1 target a 4d4 advantage called Reinforced Armor. |
 
 #### Target Vitals
 
