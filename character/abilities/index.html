@@ -67,30 +67,36 @@
                 <ul class="current">
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Abilities</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#what-makes-an-ability">What makes an Ability?</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ability-advancement">Ability Advancement</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#gaining-new-abilities">Gaining new Abilities</a>
+    <li class="toctree-l2"><a class="reference internal" href="#what-do-abilities-do">What do Abilities do?</a>
         <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#creating-an-ability">Creating an Ability</a>
-        <ul>
-    <li class="toctree-l4"><a class="reference internal" href="#big-abilities">Big Abilities</a>
-    </li>
-    <li class="toctree-l4"><a class="reference internal" href="#creating-abilities-with-shared-charge">Creating Abilities with Shared Charge</a>
+    <li class="toctree-l3"><a class="reference internal" href="#what-do-they-look-like">What do they look like?</a>
     </li>
         </ul>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#example-triggers-and-effects">Example Triggers and Effects</a>
+    <li class="toctree-l2"><a class="reference internal" href="#costs-and-ability-points">Costs and Ability Points</a>
         <ul>
-    <li class="toctree-l4"><a class="reference internal" href="#big-abilities_1">Big Abilities</a>
+    <li class="toctree-l3"><a class="reference internal" href="#creating-multiple-types-of-ability-points">Creating Multiple types of Ability Points</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#customizing-ability-points">Customizing Ability Points</a>
     </li>
         </ul>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#example-abilities">Example Abilities</a>
+    <li class="toctree-l2"><a class="reference internal" href="#upgrading-abilities">Upgrading Abilities</a>
         <ul>
-    <li class="toctree-l4"><a class="reference internal" href="#reinforce-armor">Reinforce Armor</a>
+    <li class="toctree-l3"><a class="reference internal" href="#giving-an-ability-an-additional-effect">Giving an Ability an Additional Effect</a>
     </li>
+    <li class="toctree-l3"><a class="reference internal" href="#making-an-ability-stronger">Making an Ability Stronger</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#when-abilities-should-upgrade-themselves">When Abilities Should Upgrade Themselves</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#when-do-you-get-or-improve-abilities">When do you get or improve Abilities?</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#lets-make-some-abilities">Let's Make Some Abilities</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#tinkering-inventor">Tinkering Inventor</a>
+        <ul>
     <li class="toctree-l4"><a class="reference internal" href="#target-vitals">Target Vitals</a>
     </li>
     <li class="toctree-l4"><a class="reference internal" href="#ive-read-that">I've Read That</a>
@@ -103,31 +109,25 @@
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#improving-existing-abilities">Improving Existing Abilities</a>
+    <li class="toctree-l2"><a class="reference internal" href="#improving-an-ability-throughout-a-campaign">Improving an Ability Throughout a Campaign</a>
         <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#giving-an-ability-an-additional-effect">Giving an Ability an Additional Effect</a>
+    <li class="toctree-l3"><a class="reference internal" href="#berserking">Berserking</a>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#making-an-ability-stronger">Making an Ability Stronger</a>
+    <li class="toctree-l3"><a class="reference internal" href="#berserking-ii">Berserking II</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#berserking-iii">Berserking III</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#berserking-iv">Berserking IV</a>
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#how-abilities-scale">How Abilities Scale</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#cost-and-ability-points">Cost and Ability Points</a>
+    <li class="toctree-l2"><a class="reference internal" href="#example-triggers-and-effects">Example Triggers and Effects</a>
         <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#additional-and-alternate-costs">Additional and Alternate Costs</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#passive-abilities">Passive Abilities</a>
-    </li>
-    <li class="toctree-l3"><a class="reference internal" href="#alternatives-to-ability-points">Alternatives to Ability Points</a>
+    <li class="toctree-l3"><a class="reference internal" href="#big-abilities">Big Abilities</a>
     </li>
         </ul>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#example-abilities_1">Example Abilities</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#martial-artist">Martial Artist</a>
-    </li>
-        </ul>
+    <li class="toctree-l2"><a class="reference internal" href="#example-improvements-to-effects">Example Improvements to Effects</a>
     </li>
     </ul>
                     </li>
@@ -213,9 +213,14 @@
             <div class="section">
               
                 <h1 id="abilities">Abilities</h1>
-<p><strong>Abilities</strong> are the special things that your character can do, the things that make your character mechanically unique. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the <a href="../equipment/#weapon">weapon</a> tag, their unique <a href="../../extras/powers/">power</a> allows them to do something extraordinary, or they are just inhumanly good at remembering details!</p>
-<h2 id="what-makes-an-ability">What makes an Ability?</h2>
-<p>An ability has a <strong>trigger</strong> that describes when it happens, and an <strong>effect</strong> that describes what it does. Many abilities also have a <strong>cost</strong> to activate them, which we'll go into later. A finished ability reads something like this: </p>
+<p><strong>Abilities</strong> are the unique things that characters can do-- what makes them play differently from other characters. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the <a href="../equipment/#weapon">weapon</a> tag, their unique <a href="../../extras/powers/">power</a> over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!</p>
+<p><br/></p>
+<h2 id="what-do-abilities-do">What do Abilities do?</h2>
+<p>Whatever you want them to! Well, as long as your table is cool with it anyway. </p>
+<p>Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called <em>Godmode</em> that <em>makes you immortal.</em> Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, that's not to say nobody would. Overpowered characters who can completely change the world have lots of interesting dramatic potential. As long as everyone is having fun, that's what matters.</p>
+<p>Your GM may also decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.</p>
+<h3 id="what-do-they-look-like">What do they look like?</h3>
+<p>Usually an ability has a <strong>trigger</strong> that describes when it happens and an <strong>effect</strong> that describes what it does. Many abilities also have a <strong>cost</strong> to activate them. A finished ability reads something like this: </p>
 <table>
 <thead>
 <tr>
@@ -227,132 +232,119 @@
 <tbody>
 <tr>
 <td>By spending 1 ability point</td>
-<td>when I attack I can</td>
-<td>add an extra d4 to my roll.</td>
+<td>when I attack</td>
+<td>I can light my sword on fire to add an extra d4 damage.</td>
 </tr>
 </tbody>
 </table>
-<h2 id="ability-advancement">Ability Advancement</h2>
-<p>For every <strong>10 potential earned</strong> (not spent) choose to either <a href="#gaining-new-abilities">gain a new ability</a> or <a href="#improving-existing-abilities">improve an existing ability</a></p>
-<h2 id="gaining-new-abilities">Gaining new Abilities</h2>
-<p>If you choose to <strong>gain a new ability</strong>, your character learns a new ability. If your GM has a list of abilities for you to choose from, you can choose one of those, or you can create your own.</p>
-<h3 id="creating-an-ability">Creating an Ability</h3>
-<p>To create a new ability, pick a trigger and an effect. <!-- Maybe not true --> The cost for the ability will be <strong>once per rest</strong>.</p>
-<!-- Describe the power level of typical abilities -->
+<p><br/></p>
+<h2 id="costs-and-ability-points">Costs and Ability Points</h2>
+<p>Many abilities have a <strong>cost</strong> that limit how often they can be used. An ability may cost magic gems, imbued talismans of paper, or even simply tire the character using them by depleting their mana, chi, or other source of energy. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?</p>
+<p>Whatever it is, that their type of <strong>ability points</strong>. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later. You start with a pool of two of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you <a href="../../gameplay/downtime/#recovering">spend some downtime to recover</a>.</p>
+<p>You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their <em>mana</em> from leylines. A might be able to replenish their <em>ammunition</em> in an arsenal.  A leader might replenish their <em>pride</em> from cheering throngs of admirers.</p>
+<h3 id="creating-multiple-types-of-ability-points">Creating Multiple types of Ability Points</h3>
+<p>Characters don't necessarily have one source of powers. A magical blade fighter that uses their <em>mana</em> to use abilities related to their magic power might also have <em>flourishes</em> that they use to perform abilities related to their sword mastery. A cyborg psychic might have both <em>ammunition</em> for their arsenal of weapons and <em>psi points</em>. An inventor may have any number of different ability points, each representative of their different inventions.</p>
+<p>You can give your character an additional type of ability points whenever you would increase the number of ability points you have. Instead of increasing the number of ability points you have, just create a new pool of two ability points of the new type. When you can increase the number of ability points you have, you only gain that many ability points in total-- you must choose which of your types of ability points increase.</p>
+<h3 id="customizing-ability-points">Customizing Ability Points</h3>
+<p>If you're feeling particularly creative, you may want your abilities to be powered by something other than a pool of points. They could be powered by a pool of dice, a set of leveled slots, or a deck of cards that does something different depending on what card you draw. If you or your GM have a creative idea for how you want to power your character's abilities, go for it.</p>
+<p>If you choose to do so, keep in mind the capability of characters with ability point pools. A character with a deck of cards that do different things likely shouldn't start with more than two cards, and should gain additional cards or improve existing cards in a way similar to how a character with ability points would gain additional points in their pool and improve their existing abilities.</p>
+<p><br/></p>
+<h2 id="upgrading-abilities">Upgrading Abilities</h2>
+<p>As you get stronger, so should your abilities! When you upgrade your abilities, usually you're looking to either <strong>give them an extra effect</strong> or <strong>make them stronger</strong>.</p>
+<h3 id="giving-an-ability-an-additional-effect">Giving an Ability an Additional Effect</h3>
+<p>Sometimes you just want an ability to do more. Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.</p>
+<h3 id="making-an-ability-stronger">Making an Ability Stronger</h3>
+<p>If you want an ability to do what it already does, but better, you can amplify its effects. Generally, this amplification can be done by increasing the number of targets, the duration of effects, or broadening the situations in which the ability can apply.</p>
+<h3 id="when-abilities-should-upgrade-themselves">When Abilities Should Upgrade Themselves</h3>
+<!-- TODO: Workshop this -->
 
-<h4 id="big-abilities">Big Abilities</h4>
-<p>Some effects are stronger than others. When you have an effect that is clearly stronger than </p>
-<h4 id="creating-abilities-with-shared-charge">Creating Abilities with Shared Charge</h4>
-<p>When you create an ability, you can choose to have it share the same charge as an existing ability. Choose an ability that you already have, increase the charge of the existing ability by one, and add a new trigger and effect to represent the new ability. </p>
-<p>Once an ability has more than two or three charges, it is likely that the ability represents a core gameplay mechanic for your character. Consider naming the charges as a resource of some kind-- about what they're drawing upon to perform this ability and come up with a name for a resource that can be used to represent the charges.</p>
-<!-- Points example -->
-
-<h3 id="example-triggers-and-effects">Example Triggers and Effects</h3>
-<p>Here are a few examples of triggers and effects to get you started.</p>
+<blockquote>
+<p>:warning: This section is a work in progress</p>
+</blockquote>
+<p>Not all aspects of abilities should be improved by a player choosing to <strong>improve an ability</strong>. When improving an ability that grants am extra die, increasing the size of a die does not feel as impactful as increasing the number of dice.</p>
+<p>This is especially if the effect needs to be improved in order to stay relevant. An ability which allows you to use your fists as though they had the <strong>Weapon</strong> tag becomes much less interesting once you find a <strong>+3</strong> Quarterstaff, since you don't get the +3 bonus for using your fists.</p>
+<p>Probably the best way to solve this is by making that part of the effect scale by milestone, like so!</p>
 <table>
 <thead>
 <tr>
-<th>Trigger</th>
-<th>Effect</th>
+<th>Milestones</th>
+<th>Die</th>
+<th>Equipment Quality</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>When I'm in a specific situation I can...</td>
-<td>...increase 1 target's Armor Value by 1d4 until the end of their next turn.</td>
+<td>0</td>
+<td>1d4</td>
+<td>+0</td>
 </tr>
 <tr>
-<td>When I use equipment with a specific tag I can...</td>
-<td>...give 1 target a 1d4 advantage until the end of their next turn.</td>
+<td>1</td>
+<td>1d4</td>
+<td>+1</td>
 </tr>
 <tr>
-<td>I can spend an action to...</td>
-<td>...add an extra 1d4 to my roll.</td>
+<td>2</td>
+<td>1d6</td>
+<td>+2</td>
 </tr>
 <tr>
-<td>When I do something related to a specific background I can...</td>
-<td>...roll 1d4 and recover that much damage.</td>
+<td>3</td>
+<td>1d6</td>
+<td>+3</td>
 </tr>
 <tr>
-<td>When I take a specific action I can...</td>
-<td>...give a specific equipment a specific tag until the end of my next turn.</td>
+<td>4</td>
+<td>1d8</td>
+<td>+4</td>
 </tr>
 <tr>
-<td>When I make a specific test I can...</td>
-<td>...move up to my speed.</td>
+<td>5</td>
+<td>1d8</td>
+<td>+5</td>
 </tr>
 <tr>
-<td></td>
-<td>...do something extraordinary.</td>
+<td>6</td>
+<td>1d10</td>
+<td>+6</td>
 </tr>
 <tr>
-<td></td>
-<td>...get a specific equipment with specific tags until the end of my next turn.</td>
+<td>7</td>
+<td>1d10</td>
+<td>+7</td>
 </tr>
 <tr>
-<td></td>
-<td>...move a target up to my speed.</td>
+<td>8</td>
+<td>1d12</td>
+<td>+8</td>
 </tr>
 <tr>
-<td></td>
-<td>...perform a specific action.</td>
-</tr>
-<tr>
-<td></td>
-<td>...remove a specific type of disadvantage from yourself.</td>
-</tr>
-<tr>
-<td></td>
-<td>...reroll the dice for a test.</td>
-</tr>
-<tr>
-<td></td>
-<td>...give 1 target a 1d4 disadvantage until the end of their next turn.</td>
+<td>9+</td>
+<td>1d12</td>
+<td>+9</td>
 </tr>
 </tbody>
 </table>
-<h4 id="big-abilities_1">Big Abilities</h4>
-<table>
-<thead>
-<tr>
-<th>Trigger</th>
-<th>Effect</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>I can spend (2 or more) actions to...</td>
-<td>...recover from an injury.</td>
-</tr>
-<tr>
-<td>I can spend downtime to...</td>
-<td>...give a specific equipment a specific tag for a scene.</td>
-</tr>
-<tr>
-<td></td>
-<td>...give 1 target a 1d4 advantage for a scene.</td>
-</tr>
-<tr>
-<td></td>
-<td>...increase 1 target's Armor Value by 1d4 for a scene.</td>
-</tr>
-<tr>
-<td></td>
-<td>...give 1 target a 1d4 disadvantage for a scene.</td>
-</tr>
-<tr>
-<td></td>
-<td>...use a power to do something big.</td>
-</tr>
-<tr>
-<td></td>
-<td>...create something permanent.</td>
-</tr>
-</tbody>
-</table>
-<h3 id="example-abilities">Example Abilities</h3>
-<p>Here are a few example abilities created using the triggers and effects listed above:</p>
-<h4 id="reinforce-armor">Reinforce Armor</h4>
+<p><br/></p>
+<h2 id="when-do-you-get-or-improve-abilities">When do you get or improve Abilities?</h2>
+<p>You earn new abilities and upgrade existing abilities by earning <a href="../milestones/">potential</a>. Every <strong>10 potential you earn</strong> (spent or not) you get to choose one of the following:</p>
+<ul>
+<li>Increase your <a href="#costs-and-ability-points">ability points</a> by two</li>
+<li><a href="#creating-an-ability">Get a new ability</a> and increase your <a href="#costs-and-ability-points">ability points</a> by one</li>
+<li><a href="#creating-an-ability">Get two new abilities</a></li>
+<li><a href="#improving-existing-abilities">Improve an existing ability</a></li>
+</ul>
+<p><br/></p>
+<h2 id="lets-make-some-abilities">Let's Make Some Abilities</h2>
+<p>All right, we've spent enough time talking about how they work. Let's make some ability points and an ability to use them.</p>
+<blockquote>
+<p>:warning: This section is a work in progress</p>
+</blockquote>
+<h3 id="tinkering-inventor">Tinkering Inventor</h3>
+<p>What if our character was a tinkering inventor who spent their time making new gadgets? Each invention could then be a different ability, and their abilities would be powered by the <strong>scrap</strong> that make up their creations.</p>
+<!-- TODO -->
+
+<p><strong>Reinforce Armor</strong></p>
 <table>
 <thead>
 <tr>
@@ -365,7 +357,7 @@
 <tr>
 <td>By spending 1 scrap,</td>
 <td>I can spend downtime to...</td>
-<td>...increase 1 target's Armor Value by 1d4 for the next scene</td>
+<td>...give 1 target a 4d4 advantage called Reinforced Armor.</td>
 </tr>
 </tbody>
 </table>
@@ -437,12 +429,200 @@
 </tr>
 </tbody>
 </table>
-<h2 id="improving-existing-abilities">Improving Existing Abilities</h2>
-<p>If you choose to <strong>improve an existing ability</strong>, you can either give an ability an extra effect or strengthen that ability in some way.</p>
-<h3 id="giving-an-ability-an-additional-effect">Giving an Ability an Additional Effect</h3>
-<p>Sometimes you just want an ability to do more. Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.</p>
-<h3 id="making-an-ability-stronger">Making an Ability Stronger</h3>
-<p>If you want an ability to do what it already does, but better, you can amplify its effects. Generally, this amplification can be done by increasing the number of targets, the duration of effects, or broadening the situations in which the ability can apply. Here are some effects and how you might strengthen them:</p>
+<p><br/></p>
+<h2 id="improving-an-ability-throughout-a-campaign">Improving an Ability Throughout a Campaign</h2>
+<p>Here's a more in-detail example of how one could make an ability stronger over the course of multiple enhancements.</p>
+<p>Let's start with the ability <strong>Berserking</strong></p>
+<h4 id="berserking">Berserking</h4>
+<table>
+<thead>
+<tr>
+<th>Cost</th>
+<th>Trigger</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>By spending a point of fury,</td>
+<td>When I make an <strong>attack</strong> I can...</td>
+<td>...add an extra 1d4 to my roll.</td>
+</tr>
+</tbody>
+</table>
+<p>A good starting point, but let's see if we can make it more interesting.</p>
+<p>The next chance we get to improve abilities, we choose to <strong>make the ability stronger</strong>. We can't increase the number of dice that we have, but we can change the dice into an <strong>advantage</strong> that can be used more than once. Since advantages are more broadly useful than just attacks, let's also change the trigger to an action.</p>
+<h4 id="berserking-ii">Berserking II</h4>
+<table>
+<thead>
+<tr>
+<th>Cost</th>
+<th>Trigger</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>By spending a point of fury,</td>
+<td>I can spend an action to...</td>
+<td>...create a 2d4 Advantage named <strong>Berserking</strong> for the scene.</td>
+</tr>
+</tbody>
+</table>
+<p>Already this is looking jucier. Now, not only do we get a 1d4 bonus to attacks, but we can also spend the dice on the advantage for breaking down doors, resisting mind control, and all kinds of other stuff that having a <strong>Berserking</strong> advantage helps with.</p>
+<p>Where do we go from here? Well, a simple route would just be to increase the number of dice that we have on the Berserking advantage to get more Berserking Time, but what if we made it a special advantage? We'd need our gamemaster's approval and their help making some balanced tweaks, but with their help we could come up with something like...</p>
+<h4 id="berserking-iii">Berserking III</h4>
+<table>
+<thead>
+<tr>
+<th>Cost</th>
+<th>Trigger</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>By spending a point of fury,</td>
+<td>I can spend an action to...</td>
+<td>...create a 1d4 Special Advantage named <strong>Berserking</strong> for the scene.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Berserking</strong></p>
+<p>When you <strong>make an attack</strong> add 1d4 to this advantage.
+The first time you <strong>take damage</strong> each turn, add 1d4 to this advantage.
+If you end your turn without spending dice from this advantage, the advantage is lost.</p>
+</blockquote>
+<p>This is what our gamemaster helped us come up with. It's a Special Advantage that feeds itself the more that we attack and take damage, but it has the downside of needing to be used at least once on each of our turns or it goes away. Now we're really getting somewhere! </p>
+<p>But... what if we could make it <em>even better?</em> Our gamemaster has an idea for that-- they say that if we want to, we can upgrade the ability again to remove the restriction that causes us to lose the advantage.</p>
+<h4 id="berserking-iv">Berserking IV</h4>
+<table>
+<thead>
+<tr>
+<th>Cost</th>
+<th>Trigger</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>By spending a point of fury,</td>
+<td>I can spend an action to...</td>
+<td>...create a 1d4 Special Advantage named <strong>Berserking</strong> for the scene.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Berserking</strong></p>
+<p>When you <strong>make an attack</strong> add 1d4 to this advantage.
+The first time you <strong>take damage</strong> each turn, add 1d4 to this advantage.</p>
+</blockquote>
+<p>Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get a powerful advantage that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!</p>
+<p><br/></p>
+<h2 id="example-triggers-and-effects">Example Triggers and Effects</h2>
+<blockquote>
+<p>:warning: This section will be removed, I plan to better explain these with concrete examples in <a href="#lets-make-some-abilities">Let's Make Some Abilities</a>.</p>
+</blockquote>
+<p>Here are a few examples of triggers and effects to get you started.</p>
+<table>
+<thead>
+<tr>
+<th>Trigger</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>When I'm in a specific situation I can...</td>
+<td>...give 1 target a 1d4 advantage.</td>
+</tr>
+<tr>
+<td>When I use equipment with a specific tag I can...</td>
+<td>...add an extra 1d4 to 1 target's roll.</td>
+</tr>
+<tr>
+<td>I can spend an action to...</td>
+<td>...roll 1d4 plus a specific Attributes modifier and heal 1 target that much damage.</td>
+</tr>
+<tr>
+<td>When I do something related to a specific background I can...</td>
+<td>...give a specific equipment a specific tag until the end of my next turn.</td>
+</tr>
+<tr>
+<td>When I take a specific action I can...</td>
+<td>...move up to my speed.</td>
+</tr>
+<tr>
+<td>When I make a specific test I can...</td>
+<td>...do something extraordinary.</td>
+</tr>
+<tr>
+<td></td>
+<td>...perform an action as if I had a specific equipment with specific tags.</td>
+</tr>
+<tr>
+<td></td>
+<td>...move a target up to my speed.</td>
+</tr>
+<tr>
+<td></td>
+<td>...remove a specific type of disadvantage from yourself.</td>
+</tr>
+<tr>
+<td></td>
+<td>...reroll the dice for a test.</td>
+</tr>
+<tr>
+<td></td>
+<td>...give 1 target a 1d4 disadvantage until the end of their next turn.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="big-abilities">Big Abilities</h4>
+<table>
+<thead>
+<tr>
+<th>Trigger</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I can spend (2 or more) actions to...</td>
+<td>...recover from an injury.</td>
+</tr>
+<tr>
+<td>I can spend downtime to...</td>
+<td>...give a specific equipment a specific tag for a scene.</td>
+</tr>
+<tr>
+<td></td>
+<td>...give 1 target a 1d4 advantage for a scene.</td>
+</tr>
+<tr>
+<td></td>
+<td>...increase 1 target's Armor Value by 1d4 for a scene.</td>
+</tr>
+<tr>
+<td></td>
+<td>...give 1 target a 1d4 disadvantage for a scene.</td>
+</tr>
+<tr>
+<td></td>
+<td>...use a power to do something big.</td>
+</tr>
+<tr>
+<td></td>
+<td>...create something permanent.</td>
+</tr>
+</tbody>
+</table>
+<p><br/></p>
+<h2 id="example-improvements-to-effects">Example Improvements to Effects</h2>
+<blockquote>
+<p>:warning: This section will be removed, I plan to better explain these with concrete examples in <a href="#lets-make-some-abilities">Let's Make Some Abilities</a>.</p>
+</blockquote>
 <table>
 <thead>
 <tr>
@@ -457,7 +637,7 @@
 </tr>
 <tr>
 <td>...increase 1 target's Armor Value by 1d4 for a specific amount of time.</td>
-<td>Increase the number of targets<br/>Replace targets with an area of effect<br/>increase the amount of time</td>
+<td>Replace targets with an area of effect<br/>increase the amount of time</td>
 </tr>
 <tr>
 <td>...give 1 target 1d4 that they can use to perform a specific action. They lose this die after a specific amount of time.</td>
@@ -465,14 +645,10 @@
 </tr>
 <tr>
 <td>...add an extra 1d4 to my roll.</td>
-<td></td>
+<td>Create a 2d4 advantage that you can use immediately</td>
 </tr>
 <tr>
-<td>...recover from an injury.</td>
-<td></td>
-</tr>
-<tr>
-<td>...roll 1d4 and recover that much damage.</td>
+<td>...make a test and recover that much damage.</td>
 <td></td>
 </tr>
 <tr>
@@ -489,111 +665,7 @@
 </tr>
 </tbody>
 </table>
-<h2 id="how-abilities-scale">How Abilities Scale</h2>
-<p>At certain numbered milestones, dice increase and equipment granted by abilities become more powerful.</p>
-<table>
-<thead>
-<tr>
-<th>Milestones</th>
-<th>Die</th>
-<th>Modifier</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>0</td>
-<td>1d4</td>
-<td>+0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>1d4</td>
-<td>+1</td>
-</tr>
-<tr>
-<td>2</td>
-<td>1d6</td>
-<td>+2</td>
-</tr>
-<tr>
-<td>3</td>
-<td>1d6</td>
-<td>+3</td>
-</tr>
-<tr>
-<td>4</td>
-<td>1d8</td>
-<td>+4</td>
-</tr>
-<tr>
-<td>5</td>
-<td>1d8</td>
-<td>+5</td>
-</tr>
-<tr>
-<td>6</td>
-<td>1d10</td>
-<td>+6</td>
-</tr>
-<tr>
-<td>7</td>
-<td>1d10</td>
-<td>+7</td>
-</tr>
-<tr>
-<td>8</td>
-<td>1d12</td>
-<td>+8</td>
-</tr>
-<tr>
-<td>9+</td>
-<td>1d12</td>
-<td>+9</td>
-</tr>
-</tbody>
-</table>
-<h2 id="cost-and-ability-points">Cost and Ability Points</h2>
-<p>Many abilities have a <strong>cost</strong> that limit how often they can be used. A ability may cost magic gems, imbued talismans of paper, or even simply tire the character using them by depleting their mana, chi, or other source of energy.</p>
-<p>Consider what drives your character, and what makes them able to do the incredible things they do. Whatever it is, that is the name of your type of <strong>ability points</strong>. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later.</p>
-<p>You start with a pool of two ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you <a href="../../gameplay/downtime/#recovering">spend some downtime to recover</a> or when it makes sense that you would.</p>
-<h3 id="additional-and-alternate-costs">Additional and Alternate Costs</h3>
-<p>Your GM may say that some abilities require costs other than ability points. This is especially true of abilities that permanently create or enhance <a href="../equipment/">equipment</a>, which often have costs associated with the materials, tools, and space needed to perform the enhancement. These costs may replace the ability point cost, or may be in addition to the ability point cost depending on what makes sense.</p>
-<h3 id="passive-abilities">Passive Abilities</h3>
-<p>Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a <a href="../equipment/#Weapon">weapon</a>. If it doesn't always make sense for an ability to have a charge, talk to your gamemaster about making the ability a <strong>passive ability</strong>.</p>
-<p>Passive abilities are simply abilities which do not have charge. Gamemasters and players should expect to workshop passive abilities more than active abilities. In addition, consider adding additional triggers that all must be satisfied to use the effect, or weakening the effect compared to an ability with a charge.</p>
-<h3 id="alternatives-to-ability-points">Alternatives to Ability Points</h3>
-<p>If you're feeling particularly creative, you may want your abilities to be powered by something other than a pool of points. They could be powered by a pool of dice, a set of leveled slots, or a deck of cards that does something different depending on what card you draw. If you or your GM have a creative idea for how you want to power your character's abilities, go for it.</p>
-<p>If you choose to do so, keep in mind the capability of characters with ability point pools. A character with a deck of cards that do different things likely shouldn't start with more than two cards, and should gain additional cards or improve existing cards in a way similar to how a character with ability points would gain additional points in their pool and improve their existing abilities.</p>
-<h2 id="example-abilities_1">Example Abilities</h2>
-<h3 id="martial-artist">Martial Artist</h3>
-<p><em>(6 Milestones / 200 Potential) -- Level 15 Monk in D&amp;D</em></p>
-<p><strong>My Body is a Weapon III</strong> <br/>
-While unarmed or wielding a weapon used in your martial arts you get a special equipment named <strong>Martial Arts</strong> with the following tags: <strong>agility</strong>, <strong>armor</strong>, <strong>magical</strong>, <strong>weapon</strong>, <strong>+6</strong><br/>
-<em>This modifier increases with your milestones, up to +9 at Milestone 9.<br/>When you improve this ability you can add a tag.</em></p>
-<p><strong>Focus</strong> <br/>
-You've learned to harness the magic in the world around you into your martial prowess.
-You have <strong>15</strong> points of Focus which can be spent on the following abilities:</p>
-<ul>
-<li><strong>Flurry of Blows II:</strong> When you attack with your <strong>Martial Arts</strong> you can spend 1 focus to add an extra <strong>1d10</strong>. 
-    If you succeed on the attack, choose one of the following additional benefits:<ul>
-<li><strong>Leg Sweep:</strong> Give them a <strong>1d10</strong> disadvantage named <strong>knocked down</strong> that lasts until they spend 1 action to stand up.</li>
-<li><strong>Knock Back:</strong> Push them up to <strong>3m</strong> away. </li>
-<li><strong>Lock Up:</strong> They cannot perform actions when it is not their turn until the end of your next turn.</li>
-</ul>
-</li>
-<li><strong>Step of the Wind II:</strong> Spend 1 focus to increase your speed by 1m and gain the ability to run up vertical surfaces and across liquids until the end of your turn.</li>
-<li><strong>Patient Defense:</strong> As an action, spend 1 focus to increase your AV by <strong>1d10</strong> until the start of your next turn.</li>
-<li><strong>Deflect Projectiles:</strong> If you have your <strong>Martial Arts</strong> equipment and a projectile you can catch fails to hit you while <strong>Patient Defense</strong> is active, you can spend 1 focus to hurl the projectile back at the person who shot you, making an attack with your <strong>Martial Arts</strong>.</li>
-<li><strong>Slow Fall:</strong> Spend 1 focus to get an extra <strong>1d10</strong> on a test to avoid damage from a fall.</li>
-<li><strong>Quickened Healing:</strong> Spend an action and 2 focus to roll <strong>2d10</strong> and recover that much damage.</li>
-<li><strong>Stunning Strike II:</strong> When you succeed on an attack with your <strong>Martial Arts</strong> you can spend 1 focus to force the target to succeed on a test of <strong>Brawn</strong> or take a <strong>1d10</strong> disadvantage named <strong>stunned</strong> until the end of your next turn. The difficulty of the test is the potency of your attack. While they have this disadvantage, they cannot perform actions.</li>
-<li><strong>Focused Aim:</strong> When you fail on an attack, spend 1 focus to add an extra <strong>1d10</strong>, potentially turning a failure into a success.</li>
-<li><strong>Evasion:</strong> Spend 1 focus to get an extra <strong>1d10</strong> to tests of Agility to avoid danger.</li>
-<li><strong>Stillness of Mind:</strong> Spend 1 focus to remove a disadvantage that has to do with your mental state.</li>
-<li><strong>Purity of Body:</strong> Spend 1 focus to end the effect of a disease or poison on you.</li>
-<li><strong>Diamond Soul:</strong> Spend 1 focus to reroll any test made to avoid danger.</li>
-<li><strong>Wholeness of Body</strong>: Spend 1 focus during downtime to heal an injury.</li>
-</ul>
+<p><br/></p>
               
             </div>
           </div>
