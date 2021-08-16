@@ -55,7 +55,7 @@ Just like with any other piece of equipment, focuses have an attribute tag to de
 
 <!-- TODO: Update when we get abilities -->
 
-Some powers may be usable without equipment, this usually increases the risks associated with those powers. Of course, when a character has a particular **ability** to use a power without equipment that's a different story. (**Abilities coming soon**)
+Some powers may be usable without equipment, this usually increases the risks associated with those powers. Of course, when a character has a particular [ability](../character/abilities.md) to use a power without equipment that's a different story.
 
 <br/>
 

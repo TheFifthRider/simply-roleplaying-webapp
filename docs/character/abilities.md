@@ -60,6 +60,8 @@ If you want an ability to do what it already does, but better, you can amplify i
 
 <!-- TODO: Workshop this -->
 
+> :warning: This section is a work in progress
+
 Not all aspects of abilities should be improved by a player choosing to **improve an ability**. When improving an ability that grants am extra die, increasing the size of a die does not feel as impactful as increasing the number of dice.
 
 This is especially if the effect needs to be improved in order to stay relevant. An ability which allows you to use your fists as though they had the **Weapon** tag becomes much less interesting once you find a **+3** Quarterstaff, since you don't get the +3 bonus for using your fists.
@@ -100,15 +102,22 @@ All right, we've spent enough time talking about how they work. Let's make some 
 
 ### Tinkering Inventor
 
-What if our character was a tinkering inventor who spent their time making new gadgets? Each invention could then be a different ability, and their abilities would be powered by the **scrap** that make up their creations.
+What if our character was a _Tinkering Inventor_? Their abilities could be the inventions they create, powered by the **scrap** that the Inventor uses to make them. One ability could be **Springloaded Boots**-- a cobbled together contraption that allows the wearer to leap further and run faster... until it breaks. That's pretty easy to represent as an advantage that the Inventor puts together over some downtime.
 
-<!-- TODO -->
+Ability points: **Scrap**
+Ability: **Springloaded Boots**
 
-**Reinforce Armor**
+| Cost                 | Trigger                    | Effect                                                      |
+| -------------------- | -------------------------- | ----------------------------------------------------------- |
+| By spending 1 scrap, | I can spend downtime to... | ...give 1 target a 4d4 advantage called Springloaded Boots. |
 
-| Cost                 | Trigger                    | Effect                                                    |
-| -------------------- | -------------------------- | --------------------------------------------------------- |
-| By spending 1 scrap, | I can spend downtime to... | ...give 1 target a 4d4 advantage called Reinforced Armor. |
+And upgrading it would probably mean making the boots last longer and be more durable, so we can just increase the number of dice on the advantage
+
+| Cost                 | Trigger                    | Effect                                                       |
+| -------------------- | -------------------------- | ------------------------------------------------------------ |
+| By spending 1 scrap, | I can spend downtime to... | ...give 1 target a **6**d4 advantage called Springloaded Boots. |
+
+> :warning: This section is a work in progress
 
 #### Target Vitals
 
@@ -193,7 +202,9 @@ Wow. We are now three improvements deep into this ability and it feels pretty po
 
 <br/>
 
-### Example Abilities
+## Example Triggers and Effects
+
+> :warning: This section will be removed, I plan to better explain these with concrete examples in [Let's Make Some Abilities](#lets-make-some-abilities).
 
 Here are a few examples of triggers and effects to get you started.
 
@@ -225,7 +236,9 @@ Here are a few examples of triggers and effects to get you started.
 
 <br/>
 
-## Deep Dive on Improving Existing Abilities
+## Example Improvements to Effects
+
+> :warning: This section will be removed, I plan to better explain these with concrete examples in [Let's Make Some Abilities](#lets-make-some-abilities).
 
 | Effect                                                       | Ways you could strengthen it                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
