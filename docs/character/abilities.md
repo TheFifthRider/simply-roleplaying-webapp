@@ -102,7 +102,7 @@ All right, we've spent enough time talking about how they work. Let's make some 
 
 ### Tinkering Inventor
 
-What if our character was a _Tinkering Inventor_? Their abilities could be the inventions they create, powered by the **scrap** that the Inventor uses to make them. One ability could be **Springloaded Boots**-- a cobbled together contraption that allows the wearer to leap further and run faster... until it breaks. That's pretty easy to represent as an advantage that the Inventor puts together over some downtime.
+What if our character was a _Tinkering Inventor_? Someone who can always make the right tools for the job. Their abilities could be the inventions they create, powered by the **scrap** that the Inventor uses to make them. One ability could be **Springloaded Boots**-- a cobbled together contraption that allows the wearer to leap further and run faster... until it breaks. That's pretty easy to represent as an advantage that the Inventor puts together over some downtime.
 
 Ability points: **Scrap**
 Ability: **Springloaded Boots**
@@ -117,13 +117,27 @@ And upgrading it would probably mean making the boots last longer and be more du
 | -------------------- | -------------------------- | ------------------------------------------------------------ |
 | By spending 1 scrap, | I can spend downtime to... | ...give 1 target a **6**d4 advantage called Springloaded Boots. |
 
-> :warning: This section is a work in progress
 
-#### Target Vitals
+
+### Unassuming Assassin
+
+What if our character was an _Unassuming Assassin_? Someone small or frail who nonetheless is a lethal threat. Their abilities could be powered by their ability to mentally note their enemy's weak spots with **assassin's marks**. One ability could be **Strike Their Weaknesses**-- their ability to make attacks based neither on strength or speed, but rather on careful observations.
+
+Ability points: **Assassin's Marks**
+Ability: **Strike Their Weaknesses**
 
 | Cost                            | Trigger                                 | Effect                                                       |
 | ------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
 | By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** tag until the end of my turn. |
+
+Upgrading this ability might allow us to add another tag, maybe the _concealable_ tag.
+
+| Cost                            | Trigger                                 | Effect                                                       |
+| ------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
+| By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** and **concealable** tags until the end of my turn. |
+
+
+>   :warning: This section is a work in progress
 
 #### I've Read That
 
