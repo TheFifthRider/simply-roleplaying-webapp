@@ -60,7 +60,7 @@ If you want an ability to do what it already does, but better, you can amplify i
 
 <!-- TODO: Workshop this -->
 
-> :warning: This section is a work in progress
+> This section is a work in progress
 
 Not all aspects of abilities should be improved by a player choosing to **improve an ability**. When improving an ability that grants am extra die, increasing the size of a die does not feel as impactful as increasing the number of dice.
 
@@ -68,18 +68,18 @@ This is especially if the effect needs to be improved in order to stay relevant.
 
 Probably the best way to solve this is by making that part of the effect scale by milestone, like so!
 
-| Milestones | Die  | Equipment Quality |
-| ---------- | ---- | ----------------- |
-| 0          | 1d4  | +0                |
-| 1          | 1d4  | +1                |
-| 2          | 1d6  | +2                |
-| 3          | 1d6  | +3                |
-| 4          | 1d8  | +4                |
-| 5          | 1d8  | +5                |
-| 6          | 1d10 | +6                |
-| 7          | 1d10 | +7                |
-| 8          | 1d12 | +8                |
-| 9+         | 1d12 | +9                |
+| Milestones | Die  | Equipment Quality | Passive |
+| ---------- | ---- | ----------------- | ------- |
+| 0          | 1d4  | +0                |10|
+| 1          | 1d4  | +1                |15|
+| 2          | 1d6  | +2                |20|
+| 3          | 1d6  | +3                |25|
+| 4          | 1d8  | +4                |30|
+| 5          | 1d8  | +5                |35|
+| 6          | 1d10 | +6                |40|
+| 7          | 1d10 | +7                |45|
+| 8          | 1d12 | +8                |50|
+| 9+         | 1d12 | +9                |55|
 
 
 
@@ -115,13 +115,32 @@ And upgrading it would probably mean making the boots last longer and be more du
 
 | Cost                 | Trigger                    | Effect                                                       |
 | -------------------- | -------------------------- | ------------------------------------------------------------ |
-| By spending 1 scrap, | I can spend downtime to... | ...give 1 target a **6**d4 advantage called Springloaded Boots. |
+| By spending 1 scrap, | I can spend downtime to... | ...give 1 target an **8**d4 advantage called Springloaded Boots. |
+
+
+
+### Alchemist
+
+What if our character was an _Alchemist_ who produced poisons and potions? Their abilities could be the various potions effects they know how to make, powered by the **concoctions** that the Alchemist brews when the party rests. One ability could be a **Health Potion** that heals a bit of damage.
+
+Ability points: **Concoctions**
+Ability: **Health Potion**
+
+| Cost                      | Trigger                     | Effect                                       |
+| ------------------------- | --------------------------- | -------------------------------------------- |
+| By spending 1 concoction, | I can spend an action to... | ...heal 10 damage from 1 target I can reach. |
+
+We could then upgrade this potion to give it a secondary effect-- perhaps an invigorating advantage?
+
+| Cost                      | Trigger                     | Effect                                                       |
+| ------------------------- | --------------------------- | ------------------------------------------------------------ |
+| By spending 1 concoction, | I can spend an action to... | ...heal 10 damage from 1 target I can reach and give them a 2d4 advantage called _Invigorated_. |
 
 
 
 ### Unassuming Assassin
 
-What if our character was an _Unassuming Assassin_? Someone small or frail who nonetheless is a lethal threat. Their abilities could be powered by their ability to mentally note their enemy's weak spots with **assassin's marks**. One ability could be **Strike Their Weaknesses**-- their ability to make attacks based neither on strength or speed, but rather on careful observations.
+What if our character was an _Unassuming Assassin_? Someone small or frail who nonetheless is a lethal threat. Their abilities could be powered by their ability to mentally note their enemy's weak spots with **assassin's marks**. One ability could be **Strike Their Weaknesses**-- a technique to make attacks with anything based on intuitive analysis rather than strength or speed.
 
 Ability points: **Assassin's Marks**
 Ability: **Strike Their Weaknesses**
@@ -137,19 +156,24 @@ Upgrading this ability might allow us to add another tag, maybe the _concealable
 | By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** and **concealable** tags until the end of my turn. |
 
 
->   :warning: This section is a work in progress
 
-#### I've Read That
+### Internet Savant
 
-| Cost                                 | Trigger                              | Effect                          |
-| ------------------------------------ | ------------------------------------ | ------------------------------- |
-| By spending a point of recollection, | When I research information I can... | ...add an extra 1d4 to my roll. |
+What if our character was an _Internet Savant_ who mastered the art of utilizing the collective human knowledge present on the web? Their abilities could be powered by their **cellular data**. A core ability of theirs could be **There's a Wiki for That**, because of course there is.
 
-#### Shrug It Off
+| Cost                                  | Trigger                                                     | Effect                          |
+| ------------------------------------- | ----------------------------------------------------------- | ------------------------------- |
+| By spending a point of cellular data, | When I spend some downtime to research information I can... | ...add an extra 1d4 to my roll. |
 
-| Cost                                      | Trigger                     | Effect                     |
-| ----------------------------------------- | --------------------------- | -------------------------- |
-| By spending a point of indestructibility, | I can spend 2 actions to... | ...recover from an injury. |
+Upgrading this ability might allow the Savant to utilize some tidbits they picked up when researching as an advantage.
+
+| Cost                                  | Trigger                                                     | Effect                                                       |
+| ------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| By spending a point of cellular data, | When I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and give myself an appropriately titled 4d4 advantage based on what I researched. |
+
+<!-- TODO: Continue -->
+
+>  Tis section is a work in progress
 
 #### Everything is a Weapon in my Hands
 
@@ -218,7 +242,7 @@ Wow. We are now three improvements deep into this ability and it feels pretty po
 
 ## Example Triggers and Effects
 
-> :warning: This section will be removed, I plan to better explain these with concrete examples in [Let's Make Some Abilities](#lets-make-some-abilities).
+> This section will be removed, I plan to better explain these with concrete examples in [Let's Make Some Abilities](#lets-make-some-abilities).
 
 Here are a few examples of triggers and effects to get you started.
 
@@ -252,7 +276,7 @@ Here are a few examples of triggers and effects to get you started.
 
 ## Example Improvements to Effects
 
-> :warning: This section will be removed, I plan to better explain these with concrete examples in [Let's Make Some Abilities](#lets-make-some-abilities).
+> This section will be removed, I plan to better explain these with concrete examples in [Let's Make Some Abilities](#lets-make-some-abilities).
 
 | Effect                                                       | Ways you could strengthen it                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
