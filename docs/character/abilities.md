@@ -117,7 +117,7 @@ And upgrading it would probably mean making the boots last longer and be more du
 | -------------------- | -------------------------- | ------------------------------------------------------------ |
 | By spending 1 scrap, | I can spend downtime to... | ...give 1 target an **8**d4 advantage called Springloaded Boots. |
 
-
+<br/>
 
 ### Alchemist
 
@@ -136,7 +136,7 @@ We could then upgrade this potion to give it a secondary effect-- perhaps an inv
 | ------------------------- | --------------------------- | ------------------------------------------------------------ |
 | By spending 1 concoction, | I can spend an action to... | ...heal 10 damage from 1 target I can reach and give them a 2d4 advantage called _Invigorated_. |
 
-
+<br/>
 
 ### Unassuming Assassin
 
@@ -155,11 +155,14 @@ Upgrading this ability might allow us to add another tag, maybe the _concealable
 | ------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
 | By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** and **concealable** tags until the end of my turn. |
 
-
+<br/>
 
 ### Internet Savant
 
 What if our character was an _Internet Savant_ who mastered the art of utilizing the collective human knowledge present on the web? Their abilities could be powered by their **cellular data**. A core ability of theirs could be **There's a Wiki for That**, because of course there is.
+
+Ability points: **Cellular Data**
+Ability: **There's a Wiki for That**
 
 | Cost                                  | Trigger                                                     | Effect                          |
 | ------------------------------------- | ----------------------------------------------------------- | ------------------------------- |
@@ -171,15 +174,24 @@ Upgrading this ability might allow the Savant to utilize some tidbits they picke
 | ------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | By spending a point of cellular data, | When I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and give myself an appropriately titled 4d4 advantage based on what I researched. |
 
-<!-- TODO: Continue -->
+<br/>
 
->  Tis section is a work in progress
+### Street Brawler
 
-#### Everything is a Weapon in my Hands
+What if our character was a _Street Brawler_ who was used to using anything at their disposal in a scrap? Their abilities could be powered by their **reputation** as a fighter. An ability of theirs could be **Everything's a Weapon in My Hands**, letting them improvise weapons from whatever they can grab.
 
-| Cost                                  | Trigger                                                | Effect                                                       |
-| ------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of martial focus, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+Ability points: **Reputation**
+Ability: **Everything's a Weapon in My Hands**
+
+| Cost                               | Trigger                                                | Effect                                                       |
+| ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of reputation, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+
+Upgrading this ability could make those weapons more lethal by giving them an extra tag.
+
+| Cost                               | Trigger                                                | Effect                                                       |
+| ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of reputation, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. It also gets the **+1** tag if it isn't already tagged with a bigger **+X** tag. _(The GM will give it an attribute tag if it doesn't already have one)_ |
 
 <br/>
 
