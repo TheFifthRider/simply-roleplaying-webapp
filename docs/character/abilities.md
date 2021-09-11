@@ -1,12 +1,12 @@
 # Abilities
 
-**Abilities** are the unique things that characters can do-- what makes them play differently from other characters. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their unique [power](../extras/powers.md) over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!
+**Abilities** are the cool mechanics that show off what makes your character awesome. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their [power](../extras/powers.md) over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!
 
 <br/>
 
 ## What do Abilities do?
 
-Whatever you want them to! Well, as long as your table is cool with it anyway. 
+Abilities do whatever you want them to! Well, as long as your table is cool with it anyway. 
 
 Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called _Godmode_ that _makes you immortal._ Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, that's not to say nobody would. Overpowered characters who can completely change the world have lots of interesting dramatic potential. As long as everyone is having fun, that's what matters.
 
@@ -24,7 +24,7 @@ Usually an ability has a **trigger** that describes when it happens and an **eff
 
 ## Costs and Ability Points
 
-Many abilities have a **cost** that limit how often they can be used. An ability may cost magic gems, imbued talismans of paper, or even simply tire the character using them by depleting their mana, chi, or other source of energy. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?
+A **cost** limits how often an ability can be used. An ability may cost magic gems, imbued talismans of paper, or a source of energy like mana. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?
 
 Whatever it is, that their type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later. You start with a pool of two of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering).
 
@@ -50,7 +50,9 @@ As you get stronger, so should your abilities! When you upgrade your abilities, 
 
 ### Giving an Ability an Additional Effect
 
-Sometimes you just want an ability to do more. Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
+Sometimes you just want an ability to do more. If an ability gave you an extra die, giving it an extra effect would be allowing you to create an [advantage][../gameplay/advantages_and_disadvantages.md] as well. 
+
+ Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
 
 ### Making an Ability Stronger
 
@@ -249,56 +251,5 @@ But... what if we could make it _even better?_ Our gamemaster has an idea for th
 > The first time you **take damage** each turn, add 1d4 to this advantage.
 
 Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get a powerful advantage that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!
-
-<br/>
-
-## Example Triggers and Effects
-
-> This section will be removed, I plan to better explain these with concrete examples in [Let's Make Some Abilities](#lets-make-some-abilities).
-
-Here are a few examples of triggers and effects to get you started.
-
-| Trigger                                                      | Effect                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| When I'm in a specific situation I can...                    | ...give 1 target a 1d4 advantage.                            |
-| When I use equipment with a specific tag I can...            | ...add an extra 1d4 to 1 target's roll.                      |
-| I can spend an action to...                                  | ...roll 1d4 plus a specific Attributes modifier and heal 1 target that much damage. |
-| When I do something related to a specific background I can... | ...give a specific equipment a specific tag until the end of my next turn. |
-| When I take a specific action I can...                       | ...move up to my speed.                                      |
-| When I make a specific test I can...                         | ...do something extraordinary.                               |
-|                                                              | ...perform an action as if I had a specific equipment with specific tags. |
-|                                                              | ...move a target up to my speed.                             |
-|                                                              | ...remove a specific type of disadvantage from yourself.     |
-|                                                              | ...reroll the dice for a test.                               |
-|                                                              | ...give 1 target a 1d4 disadvantage until the end of their next turn. |
-
-#### Big Abilities
-
-| Trigger                               | Effect                                                   |
-| ------------------------------------- | -------------------------------------------------------- |
-| I can spend (2 or more) actions to... | ...recover from an injury.                               |
-| I can spend downtime to...            | ...give a specific equipment a specific tag for a scene. |
-|                                       | ...give 1 target a 1d4 advantage for a scene.            |
-|                                       | ...increase 1 target's Armor Value by 1d4 for a scene.   |
-|                                       | ...give 1 target a 1d4 disadvantage for a scene.         |
-|                                       | ...use a power to do something big.                      |
-|                                       | ...create something permanent.                           |
-
-<br/>
-
-## Example Improvements to Effects
-
-> This section will be removed, I plan to better explain these with concrete examples in [Let's Make Some Abilities](#lets-make-some-abilities).
-
-| Effect                                                       | Ways you could strengthen it                                 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ...do something extraordinary.                               | Increase the magnitude of the extraordinary action.          |
-| ...increase 1 target's Armor Value by 1d4 for a specific amount of time. | Replace targets with an area of effect<br/>increase the amount of time |
-| ...give 1 target 1d4 that they can use to perform a specific action. They lose this die after a specific amount of time. | Increase the number of targets<br/>Replace targets with an area of effect<br/>Add an additional action they could perform<br/>Increase the amount of time |
-| ...add an extra 1d4 to my roll.                              | Create a 2d4 advantage that you can use immediately          |
-| ...make a test and recover that much damage.                 |                                                              |
-| ...move up to my speed.                                      |                                                              |
-| ...give a specific equipment a specific tag for a specific amount of time. | Add additional tags<br/>Add equipment that could be used<br/>Increase the amount of time |
-| ...get a specific equipment with specific tags for a specific amount of time. | Add additional tags<br/>Increase the amount of time          |
 
 <br/>
