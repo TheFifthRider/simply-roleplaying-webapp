@@ -2,15 +2,31 @@
 
 **Abilities** are the cool mechanics that show off what makes your character awesome. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their [power](../extras/powers.md) over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!
 
+This section is written assuming that players and GMs will work together to create cool abilities, but you can also o decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.
+
 <br/>
 
 ## What do Abilities do?
 
-Abilities do whatever you want them to! Well, as long as your table is cool with it anyway. 
+Abilities do whatever you want them to! Well, as long as your table is cool with it anyway.
 
-Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called _Godmode_ that _makes you immortal._ Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, that's not to say nobody would. Overpowered characters who can completely change the world have lots of interesting dramatic potential. As long as everyone is having fun, that's what matters.
+Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called *Godmode* that *makes you immortal.* Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, that's not to say nobody would. Overpowered characters who can completely change the world have lots of interesting dramatic potential. As long as everyone is having fun, that's what matters.
 
-Your GM may also decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.
+### Ok, but what do they usually do?
+
+Often, a character's abilities will do things like:
+
+*   Do something narratively extraordinary
+*   Move the character where they want to be
+*   Move someone else where the character wants them to be
+*   Give some [equipment](equipment.md) a specific [tag](equipment.md#the-full-list-of-tags)
+*   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
+*   Make a test to heal [damage](damage_and_injuries.md)
+*   Deal [damage](damage_and_injuries.md)
+*   Create an [advantage or disadvantage](../gameplay/advantages.md)
+    *   ...which could be a [special advantage or disadvantage](../gameplay/advantages.md#Special Advantages and Disadvantages)
+
+If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** and describing what happens if they Critically Succeed, Succeed, Partially Succeed, or Fail.
 
 ### What do they look like?
 
@@ -50,23 +66,17 @@ As you get stronger, so should your abilities! When you upgrade your abilities, 
 
 ### Giving an Ability an Additional Effect
 
-Sometimes you just want an ability to do more. If an ability gave you an extra die, giving it an extra effect would be allowing you to create an [advantage][../gameplay/advantages_and_disadvantages.md] as well. 
-
- Adding an extra effect to an existing ability is fairly straightforward-- simply choose a new effect and add it to your ability's existing trigger. The strength of the effect should be comparable to or less than the strength of the initial effect for the ability.
+Sometimes you just want an ability to do more. If an ability gave you an extra die, giving it an extra effect might allow you to create an [advantage][../gameplay/advantages_and_disadvantages.md] as well. If an ability allowed you to give equipment a tag, adding an extra effect might let you heal the wielder too!
 
 ### Making an Ability Stronger
 
-If you want an ability to do what it already does, but better, you can amplify its effects. Generally, this amplification can be done by increasing the number of targets, the duration of effects, or broadening the situations in which the ability can apply.
+If you want an ability to do what it already does, but better, you can amplify its effects. If an ability would pushing a character away from you, a stronger version of the ability might be able to push everyone within a **close range** of you instead. If an ability would grant you an extra die when wielding **weapons** tagged with **cleaving**, a strengthened version of the ability might give you that bonus with **cleaving** or **hooking**-tagged **weapons**. Stronger abilities typically increase the number of targets, the duration of effects, or broaden the situations in which an ability might apply.
 
 ### When Abilities Should Upgrade Themselves
 
-<!-- TODO: Workshop this -->
-
-> This section is a work in progress
-
 Not all aspects of abilities should be improved by a player choosing to **improve an ability**. When improving an ability that grants am extra die, increasing the size of a die does not feel as impactful as increasing the number of dice.
 
-This is especially if the effect needs to be improved in order to stay relevant. An ability which allows you to use your fists as though they had the **Weapon** tag becomes much less interesting once you find a **+3** Quarterstaff, since you don't get the +3 bonus for using your fists.
+This is especially if the effect needs to be improved in order to stay relevant. An ability which allows you to use your fists as though they had the **Weapon** tag becomes much less interesting once you find another **+3** **Weapon**.
 
 Probably the best way to solve this is by making that part of the effect scale by milestone, like so!
 

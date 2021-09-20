@@ -1,3 +1,7 @@
+Generally speaking, abilities don't need to be balanced. That said, we should inspect what it means to critically succeed if things were "unbalanced."
+
+
+
 **Firebolt Cantrip** [   ]  [   ]
 While you are equipped with equipment tagged with **Arcane** and **Focus**, you can spend an action and a use of this ability to make an attack with the equipment as if it had the **Fire**, **Long-Range**, **Close-Range**, **Weapon**, and **Knowledge** tags
 
