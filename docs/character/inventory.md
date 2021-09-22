@@ -1,6 +1,6 @@
 # Inventory
 
-Inventory is the place where you keep your stuff. Usually stuff means [equipment.md](../equipment.md) aandother flavorful knicknacks. Sorry. I meant to say that stuff s (ignore the s) means or rather consists of your [equipment](equipment.md) and other flavorful items that may or may not have effects.
+Inventory is the place where you keep your stuff. Usually stuff means [equipment](equipment.md) aandother flavorful knicknacks. Sorry. I meant to say that stuff s (ignore the s) means or rather consists of your [equipment](equipment.md) and other flavorful items that may or may not have effects.
 
 ## How much can your inventory hold?
 

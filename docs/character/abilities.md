@@ -23,8 +23,8 @@ Often, a character's abilities will do things like:
 *   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
 *   Make a test to heal [damage](damage_and_injuries.md)
 *   Deal [damage](damage_and_injuries.md)
-*   Create an [advantage or disadvantage](../gameplay/advantages.md)
-    *   ...which could be a [special advantage or disadvantage](../gameplay/advantages.md#Special Advantages and Disadvantages)
+*   Create an [advantage or disadvantage](../gameplay/advantages_and_disadvantages.md)
+    *   ...which could be a [special advantage or disadvantage](../gameplay/advantages_and_disadvantages.md#Special Advantages and Disadvantages)
 
 If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** and describing what happens if they Critically Succeed, Succeed, Partially Succeed, or Fail.
 
