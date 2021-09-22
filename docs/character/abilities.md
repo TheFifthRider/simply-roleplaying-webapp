@@ -72,15 +72,26 @@ Sometimes you just want an ability to do more. If an ability gave you an extra d
 
 If you want an ability to do what it already does, but better, you can amplify its effects. If an ability would pushing a character away from you, a stronger version of the ability might be able to push everyone within a **close range** of you instead. If an ability would grant you an extra die when wielding **weapons** tagged with **cleaving**, a strengthened version of the ability might give you that bonus with **cleaving** or **hooking**-tagged **weapons**. Stronger abilities typically increase the number of targets, the duration of effects, or broaden the situations in which an ability might apply.
 
-### When Abilities Should Upgrade Themselves
+<br/>
 
-Not all aspects of abilities should be improved by a player choosing to **improve an ability**. When improving an ability that grants am extra die, increasing the size of a die does not feel as impactful as increasing the number of dice.
+## When do you get or improve Abilities?
 
-This is especially if the effect needs to be improved in order to stay relevant. An ability which allows you to use your fists as though they had the **Weapon** tag becomes much less interesting once you find another **+3** **Weapon**.
+You earn new abilities and upgrade existing abilities by earning [potential](milestones.md). Every **10 potential you earn** (spent or not) you get to choose one of the following:
 
-Probably the best way to solve this is by making that part of the effect scale by milestone, like so!
+* Increase your [ability points](#costs-and-ability-points) by two
+* [Get a new ability](#creating-an-ability) and increase your [ability points](#costs-and-ability-points) by one
+* [Get two new abilities](#creating-an-ability)
+* [Improve an existing ability](#improving-existing-abilities)
 
-| Milestones | Die  | Equipment Quality | Passive |
+<br/>
+
+## Abilities Growing with Milestones
+
+When making an ability, you may not want all aspects of the ability to be improved by a player choosing to **improve an ability**. Things like difficulties for tests, the size of bonus dice, and the **+X** tag on ability-created equipment aren't things that feel rewarding to level up-- improving an ability should feel exactly like that-- an improvement. It should never feel like keeping up.
+
+To that end, use Milestones to gauge when an ability's power grows. Bonus dice granted by an ability, for example, might start as d4s at Milestone 0 and increase every two milestones until Milestone 8, when they become d12s. Here are some more suggestions!
+
+| Milestones | Die  | Equipment Quality | Test difficulty |
 | ---------- | ---- | ----------------- | ------- |
 | 0          | 1d4  | +0                |10|
 | 1          | 1d4  | +1                |15|
@@ -92,19 +103,6 @@ Probably the best way to solve this is by making that part of the effect scale b
 | 7          | 1d10 | +7                |45|
 | 8          | 1d12 | +8                |50|
 | 9+         | 1d12 | +9                |55|
-
-
-
-<br/>
-
-## When do you get or improve Abilities?
-
-You earn new abilities and upgrade existing abilities by earning [potential](milestones.md). Every **10 potential you earn** (spent or not) you get to choose one of the following:
-
-* Increase your [ability points](#costs-and-ability-points) by two
-* [Get a new ability](#creating-an-ability) and increase your [ability points](#costs-and-ability-points) by one
-* [Get two new abilities](#creating-an-ability)
-* [Improve an existing ability](#improving-existing-abilities)
 
 <br/>
 
