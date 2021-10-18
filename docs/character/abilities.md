@@ -38,19 +38,23 @@ Usually an ability has a **trigger** that describes when it happens and an **eff
 
 <br/>
 
-## Rewarding Limitations
+## Requirements
 
-<!--todo-->
+Every ability has **requirements** that must be met for you to be able to use it. The more requirements an ability has, or the more costly the requirements, the more powerful the ability should be. Often, requirements will be things like:
 
-Not all abilities need to be limited by how often they can be used, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon). If it doesn't always make sense for an ability to have a cost, talk to your gamemaster about making the ability a **passive ability**.
+* Wielding a specific tool (using weapons specific to your art when performing martial arts techniques)
+* Being in a specific situation (defending against a melee attack being required to counter)
+* Spending a specific resource (spending mana to cast spells)
+* Taking a specific amount of time (spending some downtime to create a potion)
+* Fulfilling a specific narrative goal (learning a character's mannerisms to mimic them)
 
-Passive abilities are simply abilities which do not have cost. Gamemasters and players should expect to workshop passive abilities more than active abilities. Your Gamemaster may suggest using **multiple triggers** that must be satisfied to use the effect or making the effect **less strong** compared to an ability with a cost.
+The most basic kind of requirement that almost every ability has is a **cost**, which limits the amount of times it can be used before the character has to rest. That's not to say that every ability needs to have a cost-- some abilities shouldn't be limited in that way, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon).
 
 <br/>
 
 ## Costs and Ability Points
 
-A **cost** limits how often an ability can be used. An ability may cost magic gems, imbued talismans of paper, or a source of energy like mana. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?
+A **cost** limits how often an ability can be used before a character has to rest or recuperate. An ability may cost magic gems, imbued talismans of paper, or a source of energy like mana. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?
 
 Whatever it is, that their type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later. You start with a pool of two of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering).
 
