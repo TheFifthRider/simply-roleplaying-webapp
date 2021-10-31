@@ -2,7 +2,7 @@
 
 **Abilities** are the cool mechanics that show off what makes your character awesome. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their [power](../extras/powers.md) over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!
 
-This section is written assuming that players and GMs will work together to create cool abilities, but you can also o decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.
+This section is written assuming that players and GMs will work together to create cool abilities, but you can also decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.
 
 <br/>
 
@@ -10,7 +10,7 @@ This section is written assuming that players and GMs will work together to crea
 
 Abilities do whatever you want them to! Well, as long as your table is cool with it anyway.
 
-Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called *Godmode* that *makes you immortal.* Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, that's not to say nobody would. Overpowered characters who can completely change the world have lots of interesting dramatic potential. As long as everyone is having fun, that's what matters.
+Abilities tend to work best when you don't try to put restrictions on them. If you want to make an ability called *Godmode* that *makes you immortal.* Go for it. Just make sure you check with your GM and the rest of the table-- they may not want to play a TTRPG where somebody has cheat codes on. Of course, that's not to say that characters shouldn't be overpowered! Protagonists with the ability to shape the world to their whim can create a compelling story. Just make sure that everyone is on the same page and having fun, that's what matters.
 
 ### Ok, but what do they usually do?
 
@@ -26,15 +26,7 @@ Often, a character's abilities will do things like:
 *   Create an [advantage or disadvantage](../gameplay/advantages_and_disadvantages.md)
     *   ...which could be a [special advantage or disadvantage](../gameplay/advantages_and_disadvantages.md#Special Advantages and Disadvantages)
 
-If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** and describing what happens if they Critically Succeed, Succeed, Partially Succeed, or Fail.
-
-### What do they look like?
-
-Usually an ability has a **trigger** that describes when it happens and an **effect** that describes what it does. Many abilities also have a **cost** to activate them. A finished ability reads something like this: 
-
-| Cost                        | Trigger       | Effect                                                  |
-| --------------------------- | ------------- | ------------------------------------------------------- |
-| By spending 1 ability point | when I attack | I can light my sword on fire to add an extra d4 damage. |
+If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
 
 <br/>
 
@@ -42,23 +34,23 @@ Usually an ability has a **trigger** that describes when it happens and an **eff
 
 Every ability has **requirements** that must be met for you to be able to use it. The more requirements an ability has, or the more costly the requirements, the more powerful the ability should be. Often, requirements will be things like:
 
-* Wielding a specific tool (using weapons specific to your art when performing martial arts techniques)
-* Being in a specific situation (defending against a melee attack being required to counter)
-* Spending a specific resource (spending mana to cast spells)
-* Taking a specific amount of time (spending some downtime to create a potion)
-* Fulfilling a specific narrative goal (learning a character's mannerisms to mimic them)
+* Wielding a specific tool, like being required to _use weapons specific to your art_ to use a martial arts technique
+* Being in a specific situation, like being required to be _defending against a melee attack_ to perform a counter
+* Spending a specific resource, like being required to _spend mana_ to cast a spell
+* Taking a specific amount of time, like being required to _spend some downtime_ to create a potion
+* Fulfilling a specific narrative goal, like being required to _memorize a character's mannerisms_ to disguise yourself as them
 
-The most basic kind of requirement that almost every ability has is a **cost**, which limits the amount of times it can be used before the character has to rest. That's not to say that every ability needs to have a cost-- some abilities shouldn't be limited in that way, like a martial artist's natural ability to use their fists as a [weapon](equipment.md#Weapon).
+The most basic kind of requirement that almost every ability has is a cost, usually in the form of the character's ability points.
 
 <br/>
 
 ## Costs and Ability Points
 
-A **cost** limits how often an ability can be used before a character has to rest or recuperate. An ability may cost magic gems, imbued talismans of paper, or a source of energy like mana. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do?
+A **cost** limits how many times an ability can be used before a character has to rest or resupply. An ability may cost magic gems, imbued talismans of paper, a source of energy like mana, or anything else you can come up with! 
 
-Whatever it is, that their type of **ability points**. If you can't think of one, it's okay to just call them "ability points" and come up with a name for them later. You start with a pool of two of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering).
+Whatever you choose it to be, that is their type of **ability points**. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do? If you're not sure, it's okay to just call them "ability points" and come up with a name for them later. 
 
-You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
+You start with a pool of **2** of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering). You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
 
 ### Creating Multiple types of Ability Points
 
@@ -80,11 +72,11 @@ As you get stronger, so should your abilities! When you upgrade your abilities, 
 
 ### Giving an Ability an Additional Effect
 
-Sometimes you just want an ability to do more. If an ability gave you an extra die, giving it an extra effect might allow you to create an [advantage][../gameplay/advantages_and_disadvantages.md] as well. If an ability allowed you to give equipment a tag, adding an extra effect might let you heal the wielder too!
+Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [advantage][../gameplay/advantages_and_disadvantages.md] named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
 
 ### Making an Ability Stronger
 
-If you want an ability to do what it already does, but better, you can amplify its effects. If an ability would pushing a character away from you, a stronger version of the ability might be able to push everyone within a **close range** of you instead. If an ability would grant you an extra die when wielding **weapons** tagged with **cleaving**, a strengthened version of the ability might give you that bonus with **cleaving** or **hooking**-tagged **weapons**. Stronger abilities typically increase the number of targets, the duration of effects, or broaden the situations in which an ability might apply.
+If you want an ability to do what it already does, but better, you can amplify its effects. If an ability would push a target away from you, a stronger version of the ability might be able to push everyone within a _close range_ of you away instead. If an ability would grant you an extra _d4_ when wielding weapons tagged with _cleaving_, a strengthened version of the ability might give you an extra _d4_ with _cleaving_ or _hooking_-tagged _weapons_. Stronger abilities typically increase the number of targets, the duration of effects, or broaden the situations in which an ability might apply.
 
 <br/>
 
@@ -101,9 +93,9 @@ You earn new abilities and upgrade existing abilities by earning [potential](mil
 
 ## Abilities Growing with Milestones
 
-When making an ability, you may not want all aspects of the ability to be improved by a player choosing to **improve an ability**. Things like difficulties for tests, the size of bonus dice, and the **+X** tag on ability-created equipment aren't things that feel rewarding to level up-- improving an ability should feel exactly like that-- an improvement. It should never feel like keeping up.
+When making an ability, you may not want all aspects of the ability to be improved by a player choosing to **improve an ability**-- increasing the difficulties for tests, the size of bonus dice, or the **+X** tag on ability-created equipment aren't things that necessarily feel rewarding to level up. Improving an ability should always feel like an improvement, it should never feel like keeping up.
 
-To that end, use Milestones to gauge when an ability's power grows. Bonus dice granted by an ability, for example, might start as d4s at Milestone 0 and increase every two milestones until Milestone 8, when they become d12s. Here are some more suggestions!
+To that end, certain aspects of abilities should increase automatically as a character earns additional milestones. Bonus dice granted by an ability, for example, might start as d4s at Milestone 0 and increase every two milestones until Milestone 8, when they become d12s. Test difficulties might increase by 5 every milestone. Here are some suggestions:
 
 | Milestones | Die  | Equipment Quality | Test difficulty |
 | ---------- | ---- | ----------------- | ------- |
@@ -117,6 +109,8 @@ To that end, use Milestones to gauge when an ability's power grows. Bonus dice g
 | 7          | 1d10 | +7                |45|
 | 8          | 1d12 | +8                |50|
 | 9+         | 1d12 | +9                |55|
+
+You can also tie effects to things that are automatically improved every milestone like maximum damage, passive ability scores, and total dice.
 
 <br/>
 
@@ -273,5 +267,15 @@ But... what if we could make it _even better?_ Our gamemaster has an idea for th
 > The first time you **take damage** each turn, add 1d4 to this advantage.
 
 Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get a powerful advantage that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!
+
+<br/>
+
+## Keeping it All "Balanced"
+
+Gamemasters, as you've been reading through this section you're probably wondering if there's some kind of behind-the-scenes mechanic for making a balanced ability. The short answer is: there isn't.
+
+The longer answer is there isn't, but not for a lack of trying. I spent quite some time working out various systems for point-buying your way to "balanced" abilities, but at the end of the day they all ended up being unbalanced in one way or another. After all, if you have an ability that gives you an extra d8 when you attack an undead enemy, how useful that ability is depends entirely on how often the GM pits you against undead enemies. If you have an ability to fly, how useful that ability is depends on how often you need to and couldn't otherwise.
+
+Rather than try to balance abilities from the get-go, I'd encourage balancing abilities as you go. If an ability feels too strong? Give it an extra requirement, or make one of its requirements more costly! If an ability feels too weak? Give it an extra effect or strengthen one of its existing effects for free.
 
 <br/>
