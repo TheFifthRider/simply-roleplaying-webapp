@@ -125,15 +125,15 @@ What if our character was a _Tinkering Inventor_? Someone who can always make th
 Ability points: **Scrap**
 Ability: **Springloaded Boots**
 
-| Cost                 | Trigger                    | Effect                                                      |
-| -------------------- | -------------------------- | ----------------------------------------------------------- |
-| By spending 1 scrap, | I can spend downtime to... | ...give 1 target a 4d4 advantage called Springloaded Boots. |
+| Requirements                                     | Effect                                                      |
+| ------------------------------------------------ | ----------------------------------------------------------- |
+| By spending 1 scrap over some downtime, I can... | ...give 1 target a 4d4 advantage called Springloaded Boots. |
 
 And upgrading it would probably mean making the boots last longer and be more durable, so we can just increase the number of dice on the advantage
 
-| Cost                 | Trigger                    | Effect                                                       |
-| -------------------- | -------------------------- | ------------------------------------------------------------ |
-| By spending 1 scrap, | I can spend downtime to... | ...give 1 target an **8**d4 advantage called Springloaded Boots. |
+| Requirements                                     | Effect                                                       |
+| :----------------------------------------------- | ------------------------------------------------------------ |
+| By spending 1 scrap over some downtime, I can... | ...give 1 target an **8**d4 advantage called Springloaded Boots. |
 
 <br/>
 
@@ -144,15 +144,15 @@ What if our character was an _Alchemist_ who produced poisons and potions? Their
 Ability points: **Concoctions**
 Ability: **Health Potion**
 
-| Cost                      | Trigger                     | Effect                                       |
-| ------------------------- | --------------------------- | -------------------------------------------- |
-| By spending 1 concoction, | I can spend an action to... | ...heal 10 damage from 1 target I can reach. |
+| Requirements                                       | Effect                                       |
+| -------------------------------------------------- | -------------------------------------------- |
+| By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach. |
 
 We could then upgrade this potion to give it a secondary effect-- perhaps an invigorating advantage?
 
-| Cost                      | Trigger                     | Effect                                                       |
-| ------------------------- | --------------------------- | ------------------------------------------------------------ |
-| By spending 1 concoction, | I can spend an action to... | ...heal 10 damage from 1 target I can reach and give them a 2d4 advantage called _Invigorated_. |
+| Requirements                                       | Effect                                                       |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach and give them a 2d4 advantage called _Invigorated_. |
 
 <br/>
 
@@ -163,15 +163,15 @@ What if our character was an _Unassuming Assassin_? Someone small or frail who n
 Ability points: **Assassin's Marks**
 Ability: **Strike Their Weaknesses**
 
-| Cost                            | Trigger                                 | Effect                                                       |
-| ------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
-| By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** tag until the end of my turn. |
+| Requirements                                                 | Effect                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending an assassin's mark when I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** tag until the end of my turn. |
 
 Upgrading this ability might allow us to add another tag, maybe the _concealable_ tag.
 
-| Cost                            | Trigger                                 | Effect                                                       |
-| ------------------------------- | --------------------------------------- | ------------------------------------------------------------ |
-| By spending an assassin's mark, | When I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** and **concealable** tags until the end of my turn. |
+| Requirements                                                 | Effect                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending an assassin's mark when I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** and **concealable** tags until the end of my turn. |
 
 <br/>
 
@@ -182,15 +182,15 @@ What if our character was an _Internet Savant_ who mastered the art of utilizing
 Ability points: **Cellular Data**
 Ability: **There's a Wiki for That**
 
-| Cost                                  | Trigger                                                     | Effect                          |
-| ------------------------------------- | ----------------------------------------------------------- | ------------------------------- |
-| By spending a point of cellular data, | When I spend some downtime to research information I can... | ...add an extra 1d4 to my roll. |
+| Requirements                                                 | Effect                          |
+| ------------------------------------------------------------ | ------------------------------- |
+| By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll. |
 
 Upgrading this ability might allow the Savant to utilize some tidbits they picked up when researching as an advantage.
 
-| Cost                                  | Trigger                                                     | Effect                                                       |
-| ------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| By spending a point of cellular data, | When I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and give myself an appropriately titled 4d4 advantage based on what I researched. |
+| Requirements                                                 | Effect                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and give myself an appropriately titled 4d4 advantage based on what I researched. |
 
 <br/>
 
@@ -201,15 +201,15 @@ What if our character was a _Street Brawler_ who was used to using anything at t
 Ability points: **Reputation**
 Ability: **Everything's a Weapon in My Hands**
 
-| Cost                               | Trigger                                                | Effect                                                       |
-| ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of reputation, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+| Requirements                                                 | Effect                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of reputation when I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. _(The GM will give it an attribute tag if it doesn't already have one)_ |
 
 Upgrading this ability could make those weapons more lethal by giving them an extra tag.
 
-| Cost                               | Trigger                                                | Effect                                                       |
-| ---------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of reputation, | When I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. It also gets the **+1** tag if it isn't already tagged with a bigger **+X** tag. _(The GM will give it an attribute tag if it doesn't already have one)_ |
+| Requirements                                                 | Effect                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of reputation when I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. It also gets the **+1** tag if it isn't already tagged with a bigger **+X** tag. _(The GM will give it an attribute tag if it doesn't already have one)_ |
 
 <br/>
 
@@ -221,9 +221,9 @@ Let's start with the ability **Berserking**
 
 #### Berserking
 
-| Cost                         | Trigger                            | Effect                          |
-| ---------------------------- | ---------------------------------- | ------------------------------- |
-| By spending a point of fury, | When I make an **attack** I can... | ...add an extra 1d4 to my roll. |
+| Requirements                                           | Effect                          |
+| ------------------------------------------------------ | ------------------------------- |
+| By spending a point of fury, I can use an action to... | ...add an extra 1d4 to my roll. |
 
 A good starting point, but let's see if we can make it more interesting.
 
@@ -231,9 +231,9 @@ The next chance we get to improve abilities, we choose to **make the ability str
 
 #### Berserking II
 
-| Cost                         | Trigger                     | Effect                                                       |
-| ---------------------------- | --------------------------- | ------------------------------------------------------------ |
-| By spending a point of fury, | I can spend an action to... | ...create a 2d4 Advantage named **Berserking** for the scene. |
+| Requirements                                           | Effect                                                       |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of fury, I can use an action to... | ...create a 2d4 Advantage named **Berserking** for the scene. |
 
 Already this is looking jucier. Now, not only do we get a 1d4 bonus to attacks, but we can also spend the dice on the advantage for breaking down doors, resisting mind control, and all kinds of other stuff that having a **Berserking** advantage helps with.
 
@@ -241,9 +241,9 @@ Where do we go from here? Well, a simple route would just be to increase the num
 
 #### Berserking III
 
-| Cost                         | Trigger                     | Effect                                                       |
-| ---------------------------- | --------------------------- | ------------------------------------------------------------ |
-| By spending a point of fury, | I can spend an action to... | ...create a 1d4 Special Advantage named **Berserking** for the scene. |
+| Requirements                                           | Effect                                                       |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of fury, I can use an action to... | ...create a 1d4 Special Advantage named **Berserking** for the scene. |
 
 > **Berserking**
 >
@@ -257,9 +257,9 @@ But... what if we could make it _even better?_ Our gamemaster has an idea for th
 
 #### Berserking IV
 
-| Cost                         | Trigger                     | Effect                                                       |
-| ---------------------------- | --------------------------- | ------------------------------------------------------------ |
-| By spending a point of fury, | I can spend an action to... | ...create a 1d4 Special Advantage named **Berserking** for the scene. |
+| Requirements                                           | Effect                                                       |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| By spending a point of fury, I can use an action to... | ...create a 1d4 Special Advantage named **Berserking** for the scene. |
 
 > **Berserking**
 >
