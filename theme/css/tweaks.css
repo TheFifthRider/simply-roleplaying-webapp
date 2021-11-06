@@ -54,3 +54,23 @@
     padding-top: 97px;     /* 72 px + 1.618em */
   }
 }
+
+.wy-table-responsive table td, .wy-table-responsive table th {
+  white-space: normal;
+}
+
+.wy-table-responsive table {
+  margin-bottom: 15px !important;
+}
+
+.rst-content .section .docutils {
+  display: table;
+}
+
+.rst-content table.docutils td {
+  font-size: 100%;
+}
+
+.rst-content table.docutils thead {
+  text-align: left;
+}
