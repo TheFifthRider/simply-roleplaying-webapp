@@ -14,8 +14,8 @@ nav:
         - character/equipment.md
         - character/legacy.md
         - character/skills.md
-        - character/milestones.md
     - 'Playing the Game':
+        - gameplay/advancement.md
         - gameplay/action.md
         - gameplay/chases.md
         - gameplay/attacking.md

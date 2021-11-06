@@ -2,7 +2,7 @@
 
 ## Damage
 
-**Damage** is the amount of energy that a character has to handle strenuous and dangerous things. The maximum amount of damage a character can sustain is calculated based on the die level of a character's brawn die as explained in [character creation](../getting_started/creation.md) and can be increased by [milestones](milestones.md).
+**Damage** is the amount of energy that a character has to handle strenuous and dangerous things. The maximum amount of damage a character can sustain is calculated based on the die level of a character's brawn die as explained in [character creation](../getting_started/creation.md) and can be increased by [milestones](../gameplay/advancement.md).
 
 Whenever a character suffers damage from an attack or risk, they mark it down on their character sheet. If the total amount of damage they have suffered exceeds their **maximum damage**, they take an injury and then erase all damage they've taken so far.
 

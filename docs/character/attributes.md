@@ -22,7 +22,7 @@ Attributes are the measurement of a character's intrinsic ability, from how stro
 
 ## Attribute Modifier
 
-Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](../gameplay/tests.md). In most campaigns they start at +0, as indicated in [character creation](../getting_started/creation.md), and increase as you acquire [milestones](milestones.md).
+Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](../gameplay/tests.md). In most campaigns they start at +0, as indicated in [character creation](../getting_started/creation.md), and increase as you acquire [milestones](../gameplay/advancement.md).
 
 <br/>
 

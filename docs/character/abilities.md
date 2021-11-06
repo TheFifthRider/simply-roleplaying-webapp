@@ -82,7 +82,7 @@ If you want an ability to do what it already does, but better, you can amplify i
 
 ## When do you get or improve Abilities?
 
-You earn new abilities and upgrade existing abilities by earning [potential](milestones.md). Every **10 potential you earn** (spent or not) you get to choose one of the following:
+You earn new abilities and upgrade existing abilities by earning [potential](skills.md#honing-your-skills). Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
 
 * Increase your [ability points](#costs-and-ability-points) by two
 * [Get a new ability](#creating-an-ability) and increase your [ability points](#costs-and-ability-points) by one

@@ -8,7 +8,7 @@ Where attributes represent the intrinsic attributes of a character (their streng
 
 A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the larger the size of the die in question. A character who has a d4 in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of dice sizes you can read about them here](../getting_started/dice.md).
 
-[Characters created in Simply Roleplaying](../getting_started/creation.md), can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation](../getting_started/creation.md), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned [at the end of every session](milestones.md).
+[Characters created in Simply Roleplaying](../getting_started/creation.md), can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation](../getting_started/creation.md), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned [at the end of every session](../gameplay/advancement.md).
 
 <br/>
 
