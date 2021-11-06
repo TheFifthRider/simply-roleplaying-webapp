@@ -84,10 +84,9 @@ If you want an ability to do what it already does, but better, you can amplify i
 
 You earn new abilities and upgrade existing abilities by earning [potential](skills.md#honing-your-skills). Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
 
-* Increase your [ability points](#costs-and-ability-points) by two
-* [Get a new ability](#creating-an-ability) and increase your [ability points](#costs-and-ability-points) by one
-* [Get two new abilities](#creating-an-ability)
-* [Improve an existing ability](#improving-existing-abilities)
+At the end of any session, you can reduce your maximum ability points by **1** to [learn a new ability](#creating-an-ability), or reduce your maximum ability points by **2** to [improve an existing ability](#improving-existing-abilities). 
+
+If you happen to have multiple pools of ability points you may reduce any one of them by **1** to learn a new ability, or **2** to improve an existing ability. You can also reduce two of them by **1** to improve an existing ability.
 
 <br/>
 
