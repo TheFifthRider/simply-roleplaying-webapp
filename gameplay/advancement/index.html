@@ -22,15 +22,14 @@
   <script>
     // Current page data
     var mkdocs_page_name = "Advancement";
-    var mkdocs_page_input_path = "character\\milestones.md";
+    var mkdocs_page_input_path = "gameplay\\advancement.md";
     var mkdocs_page_url = null;
   </script>
   
   <script src="../../js/jquery-2.1.1.min.js" defer></script>
   <script src="../../js/modernizr-2.8.3.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script> 
-  
 </head>
 
 <body class="wy-body-for-nav" role="document">
@@ -64,24 +63,33 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">What makes a Character</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/abilities/">Abilities</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/attributes/">Attributes</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/companions/">Companions</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/damage_and_injuries/">Damage and Injuries</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/equipment/">Equipment</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/legacy/">Legacy</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/skills/">Skills and Backgrounds</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Playing the Game</span></p>
                 <ul class="current">
-                    <li class="toctree-l1"><a class="reference internal" href="../abilities/">Abilities</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../attributes/">Attributes</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../companions/">Companions</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../damage_and_injuries/">Damage and Injuries</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../equipment/">Equipment</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../legacy/">Legacy</a>
-                    </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../skills/">Skills and Backgrounds</a>
-                    </li>
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Advancement</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#every-session">Every Session</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#checklists-and-goals">Checklists and Goals</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#at-the-end-of-a-session">At the end of a session:</a>
+    </li>
+        </ul>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#abilities">Abilities</a>
     </li>
@@ -89,32 +97,23 @@
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#when-to-give-milestones">When to give Milestones</a>
     </li>
-        </ul>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#checklists-and-goals">Checklists and Goals</a>
-        <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#at-the-end-of-a-session">At the end of a session:</a>
-    </li>
     <li class="toctree-l3"><a class="reference internal" href="#when-a-milestone-is-achieved">When a milestone is achieved:</a>
     </li>
         </ul>
     </li>
     </ul>
                     </li>
-                </ul>
-                <p class="caption"><span class="caption-text">Playing the Game</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/action/">Action Scenarios</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../action/">Action Scenarios</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/chases/">Chases</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../chases/">Chases</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/attacking/">Attacking</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../attacking/">Attacking</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/advantages_and_disadvantages/">Advantages and Disadvantages</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../advantages_and_disadvantages/">Advantages and Disadvantages</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/downtime/">Downtime</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../downtime/">Downtime</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/tests/">Tests of Ability</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../tests/">Tests of Ability</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">World Mechanics</span></p>
@@ -153,7 +152,7 @@
     
       
         
-          <li>What makes a Character &raquo;</li>
+          <li>Playing the Game &raquo;</li>
         
       
     
@@ -170,55 +169,82 @@
               
                 <h1 id="advancement">Advancement</h1>
 <h2 id="every-session">Every Session</h2>
-<p>At the end of every session, a character earns some amount of potential, varying based on the significance of what happened in the campaign. This is ultimately up to the gamemaster to determine, but about one to two points of potential per two hours of playtime is usually right for an average session.</p>
+<p>At the end of every session, a character earns some amount of <a href="../../character/skills/#honing-your-skills">potential</a>, varying based on the significance of what happened in the campaign. This is ultimately up to the gamemaster to determine, but about one to two points of potential per two hours of playtime is usually right for an average session.</p>
+<p><br/></p>
+<h2 id="checklists-and-goals">Checklists and Goals</h2>
+<p>An interactive way of determining how many points of <a href="../../character/skills/#honing-your-skills">potential</a> to earn at the end of a session is by setting session goals. Come up with a list of goals that start with "Gain a point of <a href="../../character/skills/#honing-your-skills">potential</a> if we..."-- about one per hour you usually play. Then, at the end of each session, read each goal aloud. If the group met the goal, everyone gains a point of potential.</p>
+<p>Here are some end-of-session goals that should work for most campaigns assuming a four hour session, along with the milestone instructions in checklist form.</p>
+<p><br/></p>
+<h3 id="at-the-end-of-a-session">At the end of a session:</h3>
+<ul class="task-list">
+<li class="task-list-item"><input type="checkbox"/> Gain a point of <a href="../../character/skills/#honing-your-skills">potential</a> if we come up with a witty title to remember this session by</li>
+<li class="task-list-item"><input type="checkbox"/> Gain a point of <a href="../../character/skills/#honing-your-skills">potential</a> if we accomplished something new and important</li>
+<li class="task-list-item"><input type="checkbox"/> Gain a point of <a href="../../character/skills/#honing-your-skills">potential</a> if we learned something important about the world, or if something important changed</li>
+<li class="task-list-item"><input type="checkbox"/> Gain a point of <a href="../../character/skills/#honing-your-skills">potential</a> if we learned something important about a player character, or if something important changed</li>
+</ul>
 <p><br/></p>
 <h2 id="abilities">Abilities</h2>
-<p>Whenever a character accumulates 10 points of potential, they may either learn a new <a href="../abilities/">ability</a> or increase the power of an existing ability.</p>
+<p>Every <strong>10 potential you earn</strong> (spent or not) you increase your maximum ability points by two.</p>
+<p><br/></p>
 <h2 id="milestones">Milestones</h2>
 <p>Milestones are markers of when the player characters advance and are awarded to celebrate the significant things the players have accomplished over the course of the game. Milestones typically occur at the end of significant arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. </p>
-<p>Whenever character's achieve milestones, they are awarded a larger than average amount of potential and they get one of the following benefits:</p>
+<p>Whenever character's achieve milestones, they are awarded a larger than average amount of <a href="../../character/skills/#honing-your-skills">potential</a>, then they get one of the following benefits:</p>
 <ul>
 <li>Increase their <strong>dice</strong> by 1</li>
 </ul>
 <p>OR</p>
 <ul>
-<li>Increase their attribute modifiers<ul>
+<li>Increase their <a href="../../character/attributes/#attribute-modifier">attribute modifiers</a><ul>
 <li>Increase two by 4</li>
 <li>Increase two others by 3</li>
 <li>Increase the last two by 2</li>
 </ul>
 </li>
 </ul>
+<p>And then they also get to do one of the following:</p>
+<ul>
+<li>Increase their maximum <a href="../../character/abilities/#costs-and-ability-points">ability points</a> by 6</li>
+</ul>
+<p>OR</p>
+<ul>
+<li>Increase their maximum <a href="../../character/damage_and_injuries/">damage</a> by 12 and their maximum <a href="../../character/abilities/#costs-and-ability-points">ability points</a> by 3</li>
+</ul>
+<p>OR</p>
+<ul>
+<li>Increase their maximum <a href="../../character/damage_and_injuries/">damage</a> by 24</li>
+</ul>
 <p><br/></p>
 <h3 id="when-to-give-milestones">When to give Milestones</h3>
 <p>This section is largely for gamemasters, players you can skip it if you'd like. A good rule of thumb for awarding milestones is to give a milestone about every 25 potential earned, and to grant roughly two session's worth of potential when you do so.</p>
-<p>If you use session goals, this should happen more or less naturally as milestones tend to come after sessions that have players check all the boxes. If it doesn't come naturally, feel free to come up with additional session goals for accomplishing significant arcs, defeating significant foes, or whatever best suits your campaign. Whatever you choose, session goals should be about celebrating the accomplishments of the player characters and the story you are all weaving together.</p>
-<p><br/></p>
-<h2 id="checklists-and-goals">Checklists and Goals</h2>
-<p>An interactive way of determining how many points of potential to earn at the end of a session is by setting session goals. Come up with a list of goals that start with "Gain a point of potential if we..."-- about one per hour you usually play. Then, at the end of each session, read each goal aloud. If the group met the goal, everyone gains a point of potential.</p>
-<p>Here are some end-of-session goals that should work for most campaigns assuming a four hour session, along with the milestone instructions in checklist form.</p>
-<p><br/></p>
-<h3 id="at-the-end-of-a-session">At the end of a session:</h3>
-<ul class="task-list">
-<li class="task-list-item"><input type="checkbox"/> Gain a point of potential if we come up with a witty title to remember this session by</li>
-<li class="task-list-item"><input type="checkbox"/> Gain a point of potential if we accomplished something new and important</li>
-<li class="task-list-item"><input type="checkbox"/> Gain a point of potential if we learned something new and important about the world</li>
-<li class="task-list-item"><input type="checkbox"/> Gain a point of potential if we learned something new and important about one of the player characters</li>
-</ul>
 <p><br/></p>
 <h3 id="when-a-milestone-is-achieved">When a milestone is achieved:</h3>
 <ul class="task-list">
-<li class="task-list-item"><input type="checkbox"/> Increase your <!-- ??? --> by 1</li>
-<li class="task-list-item"><input type="checkbox"/> Increase two attribute modifiers by 5, then:<ul class="task-list">
-<li class="task-list-item"><input type="checkbox"/> Gain <!-- ??? --> if one of the attributes was agility</li>
-<li class="task-list-item"><input type="checkbox"/> Increase your maximum damage by 25 if one of the attributes was brawn</li>
-<li class="task-list-item"><input type="checkbox"/> Gain <!-- ??? --> if one of the attributes was intuition</li>
-<li class="task-list-item"><input type="checkbox"/> Gain <!-- ??? --> if one of the attributes was knowledge</li>
-<li class="task-list-item"><input type="checkbox"/> Gain an injury box if one of the attributes was will</li>
-</ul>
+<li>
+<p>Choose <strong>one:</strong></p>
 </li>
-<li class="task-list-item"><input type="checkbox"/> Increase two attribute modifiers by 4</li>
-<li class="task-list-item"><input type="checkbox"/> Increase two attribute modifiers by 3</li>
+<li class="task-list-item">
+<p><input type="checkbox"/> Increase dice by 1</p>
+</li>
+<li class="task-list-item">
+<p><input type="checkbox"/> Increase your <a href="../../character/attributes/#attribute-modifier">attribute modifiers</a></p>
+<ol>
+<li>
+<p>Increase two <a href="../../character/attributes/#attribute-modifier">attribute modifiers</a> by 4</p>
+</li>
+<li>
+<p>Increase another two <a href="../../character/attributes/#attribute-modifier">attribute modifiers</a> by 3</p>
+</li>
+<li>
+<p>Increase the last two <a href="../../character/attributes/#attribute-modifier">attribute modifiers</a> by 2</p>
+</li>
+</ol>
+</li>
+<li>
+<p>Choose <strong>one:</strong></p>
+</li>
+<li class="task-list-item"><input type="checkbox"/> Increase your maximum <a href="../../character/abilities/#costs-and-ability-points">ability points</a> by 6</li>
+<li class="task-list-item"><input type="checkbox"/> Increase your maximum <a href="../../character/abilities/#costs-and-ability-points">ability points</a> by 3 and your maximum <a href="../../character/damage_and_injuries/">damage</a> by 12</li>
+<li class="task-list-item"><input type="checkbox"/> Increase your maximum <a href="../../character/damage_and_injuries/">damage</a> by 24</li>
 </ul>
 <p><br/></p>
               
@@ -228,10 +254,10 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../../gameplay/action/" class="btn btn-neutral float-right" title="Action Scenarios">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../action/" class="btn btn-neutral float-right" title="Action Scenarios">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../skills/" class="btn btn-neutral" title="Skills and Backgrounds"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../../character/skills/" class="btn btn-neutral" title="Skills and Backgrounds"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -259,19 +285,22 @@
   </div>
 
   <div class="rst-versions" role="note" aria-label="versions">
-    <span class="rst-current-version" data-toggle="rst-current-version">
-      
-          <a href="https://github.com/TheFifthRider/simply-roleplaying-webapp/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
-      
-      
-        <span><a href="../skills/" style="color: #fcfcfc;">&laquo; Previous</a></span>
-      
-      
-        <span style="margin-left: 15px"><a href="../../gameplay/action/" style="color: #fcfcfc">Next &raquo;</a></span>
-      
-    </span>
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+        <span>
+          <a href="https://github.com/TheFifthRider/simply-roleplaying-webapp/" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
+        </span>
+    
+    
+      <span><a href="../../character/skills/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../action/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
 </div>
     <script>var base_url = '../..';</script>
+    <script src="../../js/theme_extra.js" defer></script>
     <script src="../../js/theme.js" defer></script>
       <script src="../../js/extra.js" defer></script>
       <script src="../../js/hammer-2.0.8.min.js" defer></script>
