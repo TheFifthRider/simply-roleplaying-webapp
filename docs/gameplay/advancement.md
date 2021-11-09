@@ -1,4 +1,4 @@
-# Advancement
+Advancement
 
 ## Every Session
 
@@ -66,23 +66,20 @@ This section is largely for gamemasters, players you can skip it if you'd like. 
 
 ### When a milestone is achieved:
 
-* Choose **one:**
+- Choose **one:**
+    * [ ] Increase dice by 1
+    * [ ] Increase your [attribute modifiers](../character/attributes.md#attribute-modifier)
 
-  * [ ] Increase dice by 1
+        1. Increase two [attribute modifiers](../character/attributes.md#attribute-modifier) by 4
+        2. Increase another two [attribute modifiers](../character/attributes.md#attribute-modifier) by 3
+        3. Increase the last two [attribute modifiers](../character/attributes.md#attribute-modifier) by 2
 
-  * [ ] Increase your [attribute modifiers](../character/attributes.md#attribute-modifier)
-
-    1. Increase two [attribute modifiers](../character/attributes.md#attribute-modifier) by 4
-
-    2. Increase another two [attribute modifiers](../character/attributes.md#attribute-modifier) by 3
-
-    3. Increase the last two [attribute modifiers](../character/attributes.md#attribute-modifier) by 2
-
-* Choose **one:**
-   * [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6
-  * [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3 and your maximum [damage](../character/damage_and_injuries.md) by 12
-  * [ ] Increase your maximum [damage](../character/damage_and_injuries.md) by 24
+- Choose **one:**
+    * [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6
+    * [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3 and your maximum [damage](../character/damage_and_injuries.md) by 12
+    * [ ] Increase your maximum [damage](../character/damage_and_injuries.md) by 24
 
   
 
 <br/>
+

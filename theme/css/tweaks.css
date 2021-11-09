@@ -74,3 +74,15 @@
 .rst-content table.docutils thead {
   text-align: left;
 }
+
+.rst-content .section li.task-list-item p {
+  margin-bottom: 0;
+}
+
+.rst-content .section li.task-list-item {
+  margin-left: 0;
+}
+
+.rst-content .section li.task-list-item ol {
+  margin-left: 24px;
+}
