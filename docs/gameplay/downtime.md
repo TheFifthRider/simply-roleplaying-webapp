@@ -12,15 +12,15 @@ Crafting is an umbrella term for any downtime activity that allows characters to
 
 Here's an example recipe for a sleep poison:
 
->  ### Sleep Poison
+>  **Sleep Poison**
 >
 >   A living creature that is wounded by a weapon coated in a dose of this poison must make a difficulty 20 test of Brawn or be poisoned for 1 hour. The poisoned target is unconscious for the duration, unless woken by violent force or given medical attention to remove the poison.
->   
->   
+
+<nbsp/>
+
+>  **Making Sleep Poison**
 >
->  #### Making Sleep Poison
->
->  * Requires uncommon Alchemical supplies found in <biome>. Can be purchased for 2sp.
+>  * Requires uncommon mushrooms found in dark, isolated caves. Can be purchased for 2sp.
 >
 >  _Difficulty **15** Test of **Knowledge**_
 >
