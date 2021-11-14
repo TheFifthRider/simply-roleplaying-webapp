@@ -66,6 +66,18 @@ If you choose to do so, keep in mind the capability of characters with ability p
 
 <br/>
 
+## Gaining Ability Points and Creating Abilities
+
+Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
+
+Any number of times between sessions you can reduce your maximum ability points by **1** to [learn a new ability](#creating-an-ability), or reduce your maximum ability points by **2** to [improve an existing ability](#improving-existing-abilities). If you happen to have multiple pools of ability points you may reduce any one of them by **1** to learn a new ability, or **2** to improve an existing ability. You can also reduce two of them by **1** to improve an existing ability.
+
+Similarly, between sessions you can remove abilities from your character sheet if you feel like they don't belong-- whether you just don't like how they work or if you feel like they don't make sense to your character anymore. If you do, make sure you increase your maximum ability points to compensate for the points you spent to earn that ability.
+
+If you made up new abilities or improvements, it's a good idea to make sure you take some time to talk them over with your table and/or your GM before you introduce them.
+
+<br/>
+
 ## Upgrading Abilities
 
 As you get stronger, so should your abilities! When you upgrade your abilities, usually you're looking to either **give them an extra effect** or **make them stronger**.
@@ -77,16 +89,6 @@ Sometimes you just want an ability to do more. If an ability gave you an extra *
 ### Making an Ability Stronger
 
 If you want an ability to do what it already does, but better, you can amplify its effects. If an ability would push a target away from you, a stronger version of the ability might be able to push everyone within a _close range_ of you away instead. If an ability would grant you an extra _d4_ when wielding weapons tagged with _cleaving_, a strengthened version of the ability might give you an extra _d4_ with _cleaving_ or _hooking_-tagged _weapons_. Stronger abilities typically increase the number of targets, the duration of effects, or broaden the situations in which an ability might apply.
-
-<br/>
-
-## When do you get or improve Abilities?
-
-You earn new abilities and upgrade existing abilities by earning [potential](skills.md#honing-your-skills). Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
-
-At the end of any session, you can reduce your maximum ability points by **1** to [learn a new ability](#creating-an-ability), or reduce your maximum ability points by **2** to [improve an existing ability](#improving-existing-abilities). 
-
-If you happen to have multiple pools of ability points you may reduce any one of them by **1** to learn a new ability, or **2** to improve an existing ability. You can also reduce two of them by **1** to improve an existing ability.
 
 <br/>
 
@@ -275,6 +277,6 @@ Gamemasters, as you've been reading through this section you're probably wonderi
 
 The longer answer is there isn't, but not for a lack of trying. I spent quite some time working out various systems for point-buying your way to "balanced" abilities, but at the end of the day they all ended up being unbalanced in one way or another. After all, if you have an ability that gives you an extra d8 when you attack an undead enemy, how useful that ability is depends entirely on how often the GM pits you against undead enemies. If you have an ability to fly, how useful that ability is depends on how often you need to and couldn't otherwise.
 
-Rather than try to balance abilities from the get-go, I'd encourage balancing abilities as you go. If an ability feels too strong? Give it an extra requirement, or make one of its requirements more costly! If an ability feels too weak? Give it an extra effect or strengthen one of its existing effects for free.
+Rather than try to balance abilities from the get-go, I'd encourage balancing abilities _as you go_. If an ability feels too strong? Give it an extra requirement, or make one of its requirements more costly! If an ability feels too weak? Give it an extra effect or strengthen one of its existing effects without requiring the character to upgrade it.
 
 <br/>
