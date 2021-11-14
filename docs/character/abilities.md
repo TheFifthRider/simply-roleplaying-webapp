@@ -16,15 +16,15 @@ Abilities tend to work best when you don't try to put restrictions on them. If y
 
 Often, a character's abilities will do things like:
 
-*   Do something narratively extraordinary
-*   Move the character where they want to be
-*   Move someone else where the character wants them to be
-*   Give some [equipment](equipment.md) a specific [tag](equipment.md#the-full-list-of-tags)
-*   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
+*   Inflict [damage](damage_and_injuries.md)
 *   Make a test to heal [damage](damage_and_injuries.md)
-*   Deal [damage](damage_and_injuries.md)
 *   Create an [advantage or disadvantage](../gameplay/advantages_and_disadvantages.md)
     *   ...which could be a [special advantage or disadvantage](../gameplay/advantages_and_disadvantages.md#Special Advantages and Disadvantages)
+*   Give some [equipment](equipment.md) a specific [tag](equipment.md#the-full-list-of-tags)
+*   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
+*   Move the character where they want to be
+*   Move someone else where the character wants them to be
+*   Do something narratively extraordinary
 
 If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
 
@@ -84,7 +84,7 @@ As you get stronger, so should your abilities! When you upgrade your abilities, 
 
 ### Giving an Ability an Additional Effect
 
-Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [advantage][../gameplay/advantages_and_disadvantages.md] named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
+Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [advantage](../gameplay/advantages_and_disadvantages.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
 
 ### Making an Ability Stronger
 

@@ -12,15 +12,15 @@ Crafting is an umbrella term for any downtime activity that allows characters to
 
 Here's an example recipe for a sleep poison:
 
->  ### Sleep Poison
+>  **Sleep Poison**
 >
 >   A living creature that is wounded by a weapon coated in a dose of this poison must make a difficulty 20 test of Brawn or be poisoned for 1 hour. The poisoned target is unconscious for the duration, unless woken by violent force or given medical attention to remove the poison.
->   
->   
+
+<nbsp/>
+
+>  **Making Sleep Poison**
 >
->  #### Making Sleep Poison
->
->  * Requires uncommon Alchemical supplies found in <biome>. Can be purchased for 2sp.
+>  * Requires uncommon mushrooms found in dark, isolated caves. Can be purchased for 2sp.
 >
 >  _Difficulty **15** Test of **Knowledge**_
 >
@@ -53,7 +53,7 @@ A character can always spend downtime to forget a skill in addition to any other
 
 ## Recovering
 
-A character who recovers can spend a few periods of downtime to erase all of the injury boxes on their character sheet. How many periods of downtime are needed to erase all of the injury boxes tends to depend on the number of injuries received, though it's usually not more than two. More details on recovering can be found in [Damage and Injuries](../character/damage_and_injuries.md#Recovering)
+A character can spend a period of downtime recovering to erase all of the injury boxes on their character sheet and restore their spent [ability points](../character/abilities.md#costs-and-ability-points). More details on recovering from injuries specifically can be found in [Damage and Injuries](../character/damage_and_injuries.md#Recovering).
 
 <br/>
 
