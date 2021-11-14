@@ -68,15 +68,15 @@ Choose **one:**
 * [ ] Increase dice by 1
 * [ ] Increase your [attribute modifiers](../character/attributes.md#attribute-modifier)
     1. Increase two [attribute modifiers](../character/attributes.md#attribute-modifier) by 4
-    2. Increase another two [attribute modifiers](../character/attributes.md#attribute-modifier) by 
+    2. Increase another two [attribute modifiers](../character/attributes.md#attribute-modifier) by 3
     3. Increase the last two [attribute modifiers](../character/attributes.md#attribute-modifier) by 2
 
 
 Choose **one:**
 
-* [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6
-* [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3 and your maximum [damage](../character/damage_and_injuries.md) by 12
-* [ ] Increase your maximum [damage](../character/damage_and_injuries.md) by 24
+* [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 9 and your maximum [damage](../character/damage_and_injuries.md) by 12
+* [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6 and your maximum [damage](../character/damage_and_injuries.md) by 18
+* [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3 and your maximum [damage](../character/damage_and_injuries.md) by 24
 
 And finally...
 
