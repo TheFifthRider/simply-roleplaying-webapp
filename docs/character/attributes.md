@@ -22,24 +22,24 @@ Attributes are the measurement of a character's intrinsic ability, from how stro
 
 ## Attribute Modifier
 
-Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](../gameplay/tests.md). In most campaigns they start at +0, as indicated in [character creation](../getting_started/creation.md), and increase as you acquire [milestones](../gameplay/advancement.md).
+Over time, as a character grows and becomes more proficient at their skills, they will also naturally become stronger and sharper. **Attribute modifiers** are a bonus added to the result of a specific attribute die in [tests of ability](../gameplay/tests.md). In most campaigns they start at +0, as indicated in [character creation](../getting_started/creation.md), and increase as you get more [milestones](../gameplay/advancement.md).
 
 <br/>
 
 ## Passive Attribute Scores
 
-Attributes are core to a character's ability, even when they are not consciously focusing on them. Whenever there is a risk that a character cannot consciously oppose, they use the appropriate passive score instead of rolling the dice. A characters **passive score** for an attribute is calculated as your best possible roll with the die of that attribute, plus the attribute's modifier, plus the character's Intuition modifier.
+Character's don't always have to roll to resist risks. Whenever a character is reflexively opposing a risk they use an attribute's **passive score** instead of rolling the dice. You can calculate your character's passive score by increasing that attribute's modifier by 6 for each of your **dice**!
 
-`Passive Score = best possible roll + Modifier + Intuition Modifier`
+`Passive Score = Modifier + 6 for each die`
 
-> A vizier tests their _Presence_ to manipulate their monarch by feeding them fabrications. Even though the monarch has no reason to suspect the vizier of lying, their extensive experience creates a difficulty of their passive _Presence_ score-- how likely they are to notice the social signs of mistruth.
+> An advisor tests their _Presence_ to manipulate their monarch by feeding them fabrications. Even though the monarch has no reason to suspect the advisor of lying, their extensive experience creates a difficulty of their passive _Presence_ score-- how likely they are to notice the social signs of mistruth.
 >
-> The monarch's _Presence_ is a d12, their _Presence_ modifier a +9, and their _Intuition_ modifier a +3. Their passive _Presence_, and the difficulty of the Vizier's test, is calculated as 12 + 9 + 3 = 24.
+> The monarch is a four dice character with a _Presence_ modifier of +9. Their passive _Presence_, and the difficulty of the advisor's test, is calculated as 9 + (4 x 6) = 33.
 
 <br/>
 
-> A young wizard tries to tiptoe past their sleeping master, testing their _Agility_ to silently swipe the master's fabled wand, risking getting caught red handed and getting turned into a newt _or worse_. Because the master is asleep, the difficulty of the test is the master's passive _Intuition_ score-- how likely the master's instincts are to wake her up from the noises her apprentice makes.
+> A young wizard tries to tiptoe past their sleeping master, testing their _Agility_ to silently swipe the master's fabled wand, risking getting caught red handed and getting turned into a newt _or worse_. Because the master is asleep, the difficulty of the test is the master's passive _Intuition_ score-- how likely the master's instincts are to wake them up from the noises their apprentice makes.
 >
-> The master's intuition is a d10, her intuition modifier is +9. Her passive intuition, and the difficulty of the Apprentice's test, is calculated as 10 + 9 + 9 = 28.
+> The master is a three dice character with an _Intuition_ modifier of +8. Their passive intuition, and the difficulty of the Apprentice's test, is calculated as 8 + (6 x 3)  = 26.
 
 <br/>
