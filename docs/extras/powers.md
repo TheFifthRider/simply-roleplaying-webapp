@@ -45,17 +45,19 @@ Here's an example of implementing a risk of exhaustion into a strenuous use of p
 
 <br/>
 
-## Powers and Equipment
+## Using Powers
 
-Many pieces of [equipment](../character/equipment.md) can be used to help with [tests of ability](../gameplay/tests.md). With powers, that equipment may also allow them to perform greater feats or skip over certain requirements. Magicians might have wands, cauldrons, or spellbooks. Superheroes might have rings, hammers, or gadgets. Psionics might have emitters, inhibitors, or focusing helmets. Any equipment with the tag [focus](../character/equipment.md#focus) and tagged with one or more [extranormal powers](../character/equipment.md#extranormal-power) is considered to be a piece of equipment that allows the wielder to use that particular power.
+Depending on what makes sense for your game, it's possible that everyone has access to powers and can use them just like skills. However in most games powers are granted by [abilities](../character/abilities.md), [equipment](../character/equipment.md), or some combination of both.
+
+### Powers and Abilities
+
+Abilities serve many purposes for powers. They can be permission to use a power at all, plus codifications of cool things you can do with them. <!-- expand -->
+
+### Powers and Equipment
+
+[Equipment](../character/equipment.md) with the tag [focus](../character/equipment.md#focus) and tagged with one or more [extranormal powers](../character/equipment.md#extranormal-power) will either allow the wielder to use that particular power or enhance their control over the power, perhaps strengthening the power, reducing the requirements for using the power at all, or mitigating the usual risks that such a power has. Focuses take many shapes. Magicians might have wands, cauldrons, or spellbooks. Superheroes might have rings, hammers, or gadgets. Psionics might have emitters, inhibitors, or focusing helmets.
 
 Just like with any other piece of equipment, focuses have an attribute tag to determine which attribute you use to exert your power. Usually this is a mental attribute. Intuition focuses might be used for powers dealing with the slippery minds of others. Knowledge focuses might be used for powers manifesting elemental forces, and Will focuses might be used for manifesting power borrowed from a covenant or divinity.
-
-### Using Powers without Equipment
-
-<!-- TODO: Update when we get abilities -->
-
-Some powers may be usable without equipment, this usually increases the risks associated with those powers. Of course, when a character has a particular [ability](../character/abilities.md) to use a power without equipment that's a different story.
 
 <br/>
 
