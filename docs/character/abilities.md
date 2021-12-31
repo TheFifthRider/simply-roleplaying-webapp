@@ -24,7 +24,7 @@ Often, a character's abilities will do things like:
 *   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
 *   Move the character where they want to be
 *   Move someone else where the character wants them to be
-*   Do something narratively extraordinary
+*   Do something narratively extraordinary (for instance, using [powers](../extras/powers.md))
 
 If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
 
@@ -36,19 +36,22 @@ Every ability has **requirements** that must be met for you to be able to use it
 
 * Wielding a specific tool, like being required to _use weapons specific to your art_ to use a martial arts technique
 * Being in a specific situation, like being required to be _defending against a melee attack_ to perform a counter
-* Spending a specific resource, like being required to _spend mana_ to cast a spell
 * Taking a specific amount of time, like being required to _spend some downtime_ to create a potion
 * Fulfilling a specific narrative goal, like being required to _memorize a character's mannerisms_ to disguise yourself as them
+* Spending a specific resource, like being required to _spend mana_ to cast a spell (usually, spending ability points)
 
-The most basic kind of requirement that almost every ability has is a cost, usually in the form of the character's ability points.
+### Optional Requirements
+
+You can make an ability more flexible by making it stronger if more requirements are met. These **optional requirements** are often things like spending extra ability points, taking additional time, or fulfilling an extra goal. For instance:
+
+>   **Craft a Disguise**
+>   If you've spent at least one period of downtime every day for the last seven days observing a character, you can disguise yourself as that character. You automatically pass as them visually and at a distance.<br/>_If you've spent at least two periods of downtime each day observing them,_ you better understand their mannerisms. You automatically pass as them when interacting with all but their closest friends.
 
 <br/>
 
-## Costs and Ability Points
+## Ability Points
 
-A **cost** limits how many times an ability can be used before a character has to rest or resupply. An ability may cost magic gems, imbued talismans of paper, a source of energy like mana, or anything else you can come up with! 
-
-Whatever you choose it to be, that is their type of **ability points**. This is a chance to personalize how your character plays, so consider what powers your character's abilities. What makes them able to do the incredible things they do? If you're not sure, it's okay to just call them "ability points" and come up with a name for them later. 
+Consider what powers your character's abilities. What makes them able to do the incredible things they do?  An ability may cost magic gems, imbued talismans of paper, a source of energy like mana, or anything else you can come up with! Whatever you choose it to be, that is their type of **ability points**. If you're not sure, it's okay to just call them "ability points" and come up with a name for them later-- but it is a good idea to come up with a name for them later. It helps to make the flavor of your character come to life!
 
 You start with a pool of **2** of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering). You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
 

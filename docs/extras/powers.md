@@ -2,25 +2,53 @@
 
 Magic is a common tool in high fantasy, superhero fiction, and science fiction-- it goes by different names depending on your exact setting, but the rules presented here should work for anything from magic spells to super powers to psionics. They're all forms of extranormal **powers**.
 
+Here's a way you can achieve powers in Simply Roleplaying using appropriately named Skills/Backgrounds, Abilities, and Equipment.
+
 <br/>
 
 ## What can Powers Do?
 
-By their very nature, powers almost always allow their wielder to do things that would otherwise be impossible. Creating flame from nothing, communicating over vast distances, or teleportation are all things that are typically accomplishable with the right powers. Powers, just like anything else that a character can do, should require a [test of ability](../gameplay/tests.md) to use.
+By their very nature, powers almost always allow their wielder to do things that would otherwise be impossible. Creating flame from nothing, communicating over vast distances, or teleportation are all things that are typically accomplishable with the right powers.
 
-Powers are usually described by the [skills](../character/skills.md) required to wield them; a _pyromancy_ skill would allow the wielder to manipulate fire, a _telepathy_ skill would allow them to speak into the minds of others, and a _gravitational manipulation_ skill would let them manipulate gravity. 
+<br/>
 
-### Naming Skills Tied to Powers
+## How do Powers Work?
+
+Powers, just like anything else significant that a character does, often require a [test of ability](../gameplay/tests.md) to use. The [skills and backgrounds](../character/skills.md) required to wield them tend to describe the power; a _pyromancy_ skill allows the wielder to manipulate fire, a _telepathy_ skill allows them to speak into the minds of others, and a _gravitational manipulation_ skill allows them manipulate gravity.
+
+That said, just having the _pyromancy_ skill doesn't necessarily give you control over flame. Usually you'll need an ability, a piece of equipment, or some combination of both to do that.
+
+### Powers and Abilities
+
+Powers are extraordinary and unique things that a character can do. If this sounds a lot like an ability, you're right! The root of almost every power is an Ability that allows you to _do something narratively extraordinary_.
+
+Specifically, it's often a good idea to have a base level ability that gives you some sway over your power. Take this Ability, for instance:
+
+>   **Pyromancer**<br/>When you have equipment tagged with _Focus_ and _Pyromancy_, you can conjure and control flame through the _pyromancy_ skill. Your GM may ask you to spend ability points on particularly large or complicated effects.
+
+Characters without that ability could still learn and use the _pyromancy_ skill to represent their knowledge of how pyromancy works or its history, but only those with that ability could use it to literally move fire.
+
+In addition, you'll often want to create abilities for some of the extraordinary things you can do with your powers. Pyromancer will let you perform tests of abilities to control flames, but creating an explosion or summoning a fire elemental are likely the domain of a supplementary ability!
+
+### Powers and Equipment
+
+[Equipment](../character/equipment.md) with the tag [focus](../character/equipment.md#focus) and tagged with one or more [extranormal powers](../character/equipment.md#extranormal-power) will either allow the wielder to use that particular power or enhance their control over the power, perhaps strengthening the power, reducing the requirements for using the power at all, or mitigating the usual risks that such a power has. Focuses take many shapes. Magicians might have wands, cauldrons, or spellbooks. Superheroes might have rings, hammers, or gadgets. Psionics might have emitters, inhibitors, or focusing helmets.
+
+Focuses also have an attribute tag to determine which attribute you use to exert your power. Usually this is a mental attribute; Intuition focuses might be used for powers dealing with the slippery minds of others, Knowledge focuses might be used for powers manifesting elemental forces, and Will focuses might be used for manifesting power borrowed from a covenant or divinity.
+
+### Naming Powers and their Skills
 
 Unless your setting encourages particularly broad skills, your gamemaster may want you to avoid more ambiguously named skills like _magic_ or _super-powers_ and instead focus on specifics. A good rule of thumb is to think of a particular thing to have power over and use that as the description of the skill. Your gamemaster should be able to help you figure out what a good skill would be to represent the power you want in their setting.
 
 <br/>
 
-## What Limits Powers?
+## Further Limiting Powers
 
-Even if powers can do the impossible, they likely cannot do _every_ impossible thing, beyond even the limitations imposed by the nature of your powers. 
+Without powers, skills and backgrounds tend to be limited by what we can suspend our disbelief that the character we're playing can do. For instance; no matter how stealthy you are, you still can't hide in broad daylight. It's much easier to suspend our disbelief with made-up powers, so they can easily become the most useful thing in a campaign! If you find that powers are taking over your game, consider the following:
 
-Most powers have [risks](../gameplay/tests.md#risk-guidelines). The power may have chance of going wrong or be strenuous to use, meaning the very act of using those powers in a test may have their own negative consequences. For powers with risks, the scale of what the power is being used to do usually increases the scale of the risk. Levitating a pebble might be easy with some concentration where levitating a boulder would be exhausting and levitating a mountain might kill you if you tried.
+### Dangerous Powers
+
+Most powers carry greater [risks](../gameplay/tests.md#risk-guidelines) than doing something without them. The power may have chance of going wrong or be strenuous to use, meaning the very act of using those powers in a test may have their own negative consequences. For powers with risks, the scale of what the power is being used to do usually increases the scale of the risk. Levitating a pebble might take a moment of concentration where levitating a boulder would be exhausting and levitating a mountain might take so much out of you it could kill you if you tried.
 
 Here's an example of implementing a risk of exhaustion into a strenuous use of power:
 
@@ -42,22 +70,6 @@ Here's an example of implementing a risk of exhaustion into a strenuous use of p
 >   * **Partially succeed:** the tree grows, but it drains your energy to do so. Take **15** damage from the toll of your magic.
 >   * **Fully succeed:** you coax life to grow faster than it normally would, growing the sapling to a mighty oak
 >   * **Critically succeed:** not only does the tree grow, it flourishes for years to come.
-
-<br/>
-
-## Using Powers
-
-Depending on what makes sense for your game, it's possible that everyone has access to powers and can use them just like skills. However in most games powers are granted by [abilities](../character/abilities.md), [equipment](../character/equipment.md), or some combination of both.
-
-### Powers and Abilities
-
-Abilities serve many purposes for powers. They can be permission to use a power at all, plus codifications of cool things you can do with them. <!-- expand -->
-
-### Powers and Equipment
-
-[Equipment](../character/equipment.md) with the tag [focus](../character/equipment.md#focus) and tagged with one or more [extranormal powers](../character/equipment.md#extranormal-power) will either allow the wielder to use that particular power or enhance their control over the power, perhaps strengthening the power, reducing the requirements for using the power at all, or mitigating the usual risks that such a power has. Focuses take many shapes. Magicians might have wands, cauldrons, or spellbooks. Superheroes might have rings, hammers, or gadgets. Psionics might have emitters, inhibitors, or focusing helmets.
-
-Just like with any other piece of equipment, focuses have an attribute tag to determine which attribute you use to exert your power. Usually this is a mental attribute. Intuition focuses might be used for powers dealing with the slippery minds of others. Knowledge focuses might be used for powers manifesting elemental forces, and Will focuses might be used for manifesting power borrowed from a covenant or divinity.
 
 <br/>
 
