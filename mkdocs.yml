@@ -22,7 +22,8 @@ nav:
         - gameplay/advantages_and_disadvantages.md
         - gameplay/downtime.md
         - gameplay/tests.md
-    - 'World Mechanics':
+    - 'Setting Rules':
+        - extras/setting_rules.md
         - extras/powers.md
     - 'The World':
         - worlds/earth_the_forgotten_times/overview.md
