@@ -56,7 +56,7 @@ A starship diplomat, on the other hand, would likely have things like a universa
 
 From bedrolls to mp3 players, what a character might carry with them in their day-to-day is telling of personality, circumstances of life, and so many other things. Consider also carrying an object of personal significance to your character, such as a an old, handwritten journal or a locket carrying an irreplaceable lock of grey hair.
 
-Once you've finished figuring out what you've got, read up on [equipment][../character/equipment.md] and add equipment tags to anything that would benefit from having them. Be sure to talk to your gamemaster about the equipment and tags you've chosen.
+Once you've finished figuring out what you've got, read up on [equipment](../character/equipment.md) and add equipment tags to anything that would benefit from having them. Be sure to talk to your gamemaster about the equipment and tags you've chosen.
 
 <br/>
 

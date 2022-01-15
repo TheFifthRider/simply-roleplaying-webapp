@@ -11,13 +11,13 @@ Action scenarios are turn based and take place over blocks of time referred to a
 
 ### Initiative Order
 
-There are several ways of determining the character order in rounds, the most iconic in tabletop games is rolling for initiative and acting in an order based on that role. To act in **Initiative Order**, at the beginning of the action scenario each participant is involved in a [competition of Intuition][../basics/tests.md#Competitions], then take their turns in the order they are ranked. Keep track of the results made for this competition.
+There are several ways of determining the character order in rounds, the most iconic in tabletop games is rolling for initiative and acting in an order based on that role. To act in **Initiative Order**, at the beginning of the action scenario each participant is involved in a [competition of Intuition](../gameplay/tests.md#Competitions), then take their turns in the order they are ranked. Keep track of the results made for this competition.
 
 After all characters have taken their turn (otherwise known as the **end of the round**), characters outside of the action scenario can make their own roll for the competition of Inutition, and are added to the initiative order in the position determined by their roll.
 
 #### Initiative Order: Delaying your turn
 
-Sometimes a character will wish to take their turn at a later time. Perhaps the room has filled with smoke and they're waiting for a clear shot, or the enemy mage is about to cast a spell and they want to wait out the attack. In whatever case this might be, the character may choose to **delay their turn** until a later time in the round. 
+Sometimes a character will wish to take their turn at a later time. Perhaps the room has filled with smoke and they're waiting for a clear shot, or the enemy mage is about to cast a spell and they want to wait out the attack. In whatever case this might be, the character may choose to **delay their turn** until a later time in the round.
 
 Before any character with a lower initiative score takes their turn, the delayed character may take their turn. If more than one character are delaying their turns at the same time, each character is given the opportunity to take their delayed turn in initiative order. If a character is delaying their turn at the end of the round, they are given one final opportunity to take their turn. Delayed turns cannot carry over between rounds.
 
@@ -29,7 +29,7 @@ _The following is adapted from the ruleset designed by Fred Hicks on his blog po
 
 **Elective Action Order** allows for a more teamwork-centric and tactical approach to initiative order by giving each character the ability to determine who acts after them.
 
-Just like in initiative order, each participant takes part in a [competition of Intuition][../basics/tests.md#Competitions]. However, unlike in initiative order, instead of ordering participants from highest roll to lowest roll, the highest roller is declared the first to act. In the case of an ambush, tensions broken by the first shot fired, or some other situation where it is clear who will (or has) acted first gamemasters may opt to skip rolling and instead start the turn order with that character.
+Just like in initiative order, each participant takes part in a [competition of Intuition](../gameplay/tests.md#Competitions). However, unlike in initiative order, instead of ordering participants from highest roll to lowest roll, the highest roller is declared the first to act. In the case of an ambush, tensions broken by the first shot fired, or some other situation where it is clear who will (or has) acted first gamemasters may opt to skip rolling and instead start the turn order with that character.
 
 Then, after each participant finishes their turn, they choose another participant who has not taken a turn yet this round to be the next to take their turn. If another character interrupts the turn order the chosen character does not take their turn. Instead, the interrupting character may take their turn if they have not already done so in this round, then choose the next participant to act.
 
