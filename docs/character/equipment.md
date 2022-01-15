@@ -1,5 +1,3 @@
-
-
 # Items and Inventory
 
 Your **items** are your stuff. They go in your **inventory**. Playing cards, bundles of rope, your trusty blade-- it might be equipment with tags to describe its use, or it might simply be a flavorful item that may or may not have specifically codified effects.

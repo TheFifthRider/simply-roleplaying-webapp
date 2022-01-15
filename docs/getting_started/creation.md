@@ -1,8 +1,8 @@
 # Creating a Character
 
-Character creation is intrinsically a player-focused activity, so this section will assume that the person reading it is a player. That said, gamemasters, you should read this as well-- it might even be good to read it aloud to your players at the table.
+Character creation is a player-focused activity, so this section will assume that the person reading it is a player. That said, gamemasters, you should read this as well-- it might even be good to read it aloud to your players at the table.
 
-Creating a character is all about dreaming up a concept, then figuring out how to realize it mechanically. There is no specific order that one must follow when creating a character in Simply Roleplaying, so players should feel free to skip around as they define their character. If you're new to roleplaying games in general, consider writing a quick answer to the questions below as you build your character.
+Creating a character is all about dreaming up a concept, then figuring out how to realize it mechanically. There is no specific order that one must follow when creating a character in Simply Roleplaying, so players should feel free to skip around as they define their character. If you're new to roleplaying games in general, you may want to start by writing an answer to each of the headings before you read the text under them.
 
 <br/>
 
@@ -24,9 +24,9 @@ Once you've done that, it's time to calculate the maximum amount of damage your 
 
 <br/>
 
-## What have you learned?
+## What has your past taught you?
 
-Everyone has a variety of abilities that they have learned over time through practice. [Read up on skills and backgrounds](../character/skills.md), then choose to either **make a background** or **start brimming with potential**.
+[Read up on skills and backgrounds](../character/skills.md), then choose to either **make a background** or **start brimming with potential**.
 
 If you chose to **make a background**, write a background that summarizes the skills your character has learned so far.
 
