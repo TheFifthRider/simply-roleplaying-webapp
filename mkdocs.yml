@@ -10,19 +10,19 @@ nav:
         - character/character.md
         - character/abilities.md
         - character/attributes.md
-        - character/companions.md
         - character/damage_and_injuries.md
-        - character/equipment.md
-        - character/legacy.md
         - character/skills.md
+        - character/equipment.md
+        - character/companions.md
+        - character/legacy.md
     - 'Playing the Game':
+        - gameplay/tests.md
+        - gameplay/common_tests.md
         - gameplay/advancement.md
         - gameplay/action.md
         - gameplay/chases.md
-        - gameplay/attacking.md
         - gameplay/advantages_and_disadvantages.md
         - gameplay/downtime.md
-        - gameplay/tests.md
     - 'Setting Rules':
         - extras/setting_rules.md
         - extras/powers.md

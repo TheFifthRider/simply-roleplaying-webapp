@@ -30,7 +30,7 @@ Equipment with this tag are more effective than other equipment of the same type
 
 #### < Extranormal Power >
 
-Equipment with this tag is infused with a particular type of [extranormal power](../extras/powers.md), augmenting its functionality. 
+Equipment with this tag is infused with a particular type of [extranormal power](../extras/powers.md), augmenting its functionality.
 
 #### Agility
 
@@ -126,7 +126,7 @@ Weapons with this tag fire shrapnel, fire, poison, or other hazards to coat a wi
 
 _requires: Any attribute tag AND any range tag_
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to **perform an attack** with one of the tagged attributes at one of the tagged ranges. More on attacks can be found in [Performing Attacks](../gameplay/attacking.md).
+Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to [attack](../gameplay/common_tests.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
 
 #### Will
 

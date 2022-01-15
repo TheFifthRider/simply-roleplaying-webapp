@@ -108,45 +108,11 @@ Let's bring it all together and walk through a test of ability using the **Sell 
 
 <br/>
 
-## Other Types of Outcomes
-
-Accomplishing what a character set out to do can be nebulous, especially when a the goal of a test is complicated or open ended. In those cases, consider the following rules for handling situations where the goal is to **make progress** on a larger task, or to **gather information**.
-
-### Progress as an Outcome
-
-Sometimes the goal of a test is to make **progress** on a larger goal that can't be resolved by just one test. Such goal might be making something complicated, taking out an enemy, or working as a crew to steer a ship through obstacles. The GM will create a progress meter for the overarching goal of the tests the players-- a total number to reach in order to accomplish the overall goal. Any tests that help accomplish the overall goal can help fill the meter. You can represent this meter just by a total number to hit, or you can draw it on a piece of paper to help illustrate the overall progress, whatever works best for your group.
-
-When a character makes a test of any attribute with a goal to **fill a progress meter**, if they...
-
-*   **Fail:** They instead make things more complicated, either by falling victim to an existing risk or introducing a new one.
-*   **Partially succeed:** They are able to make some progress. Fill the progress meter by half of what they rolled.
-*   **Fully succeed:** They make great progress. Fill the progress meter by what they rolled.
-*   **Critically Succeed:** They make incredible progress. Fill the progress meter by twice what they rolled.
-
-<br/>
-
-### Information as an Outcome
-
-Sometimes the goal of a test is to find **answers to questions**. Such a goal might be researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual. In this case, the results of measure success in number of questions answered. The gamemaster may provide questions that are available to be asked, or allow any question to be asked. 
-
-When a character makes a test of any attribute to **find answers to questions**, if they...
-
-*   **Fail:** They get unreliable information-- they may ask two questions which may be answered either truthfully or falsely.
-*   **Partially succeed:** They learn some information-- they may ask two questions which must be answered truthfully.
-*   **Succeed:** They learn a good amount of information-- they may ask three questions which must be answered truthfully.
-*   **Critically Succeed:** They learn a significant amount of information-- they may ask four questions which must be answered truthfully.
-
-The answers to the questions should make sense contextually and should be as complete as possible given the information at the character's disposal. An investigator looking at the scene of a murder might not be able to answer the question **"Who killed this person?"** with the name of the killer, but they could answer that question with **"someone with red hair and a blue cloak"** based on a strand of hair grasped in the victim's hand and a scrap of cloth found wedged in the door nearby.
-
-Questions should never feel wasted. If the answer to a question was plain or common knowledge and would not normally require a test to uncover, it should be answered without counting against the number of questions that the tested character can ask. If a question is not answerable by the information available in the context of the test, the person asked the question should indicate why it is not answerable and it will not count against the number of questions that the character can ask.
-
-Players, if your gamemaster allows you to ask any question but you're not sure what to ask, **"What questions should I ask?"** can be a solid question to ask, since learning the right questions to ask is a crucial step in information gathering. Gamemasters, if this is a question that is somehow unanswerable, make sure you have an answer as to why and how it can become answerable.
-
-<br/>
-
 ## Good Tests
 
-A test of ability is fundamentally useless without a **goal**, a **risk**, and an **uncertainty**. Without uncertainty, the narrative already clearly indicates what will happen, so it should just happen. Without a goal, the roller's agency is subverted-- if they don't know what they're trying to do, the number rolled doesn't mean anything to them. Without a risk, failure has no cost and the test is drained of tension. At best, it's boring-- at worst it's frustrating. This is not to say that tests need always be dramatic or life-changing-- changing the lettering of a sign to prank a party member is as valid a goal as crossing a dangerous chasm and getting caught in the middle of defacing a street sign is just as valid a risk as losing your grip on a precarious bridge.
+A test of ability is fundamentally useless without a **goal**, a **risk**, and an **uncertainty**. Without uncertainty, the narrative already clearly indicates what will happen, so it should just happen. Without a goal, the roller's agency is subverted-- if they don't know what they're trying to do, the number rolled doesn't mean anything to them. Without a risk, failure has no cost and the test is drained of tension. At best, it's boring-- at worst it's frustrating.
+
+This is not to say that tests need always be dramatic or life-changing-- changing the lettering of a sign to prank a party member is as valid a goal as crossing a precarious bridge. Getting caught in the middle of defacing a street sign is still a risk, it's just a less obvious one than tumbling off of that precarious bridge.
 
 The concept of goals and risks is something that relies on the players being immersed in their character, their surroundings, and the world at large. If you're playing with a bunch of people new to the system, take some time in an introductory dungeon to help your players think in terms of the goals they want to perform and the risks that might come with them.
 
