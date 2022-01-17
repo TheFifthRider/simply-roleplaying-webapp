@@ -2,7 +2,13 @@
 
 A necromancer flees as the tide turns against his undead minions, an archeologist braves the ocean to be first to reach an ancient tomb, a spy dashes through the hangar towards their getaway starship fueled for takeoff. **Chases** are action scenarios best suited for when participants are competing to reach a particular **goal**.
 
-A footrace across the room may be over in a matter of seconds, a car chase across the interstate may take hours, and chasing across countries might even take days. Whatever the scope of the chase, each character in a chase has a **position** that is described by their distance from the goal in actions.
+A footrace across the room may be over in a matter of seconds, a car chase across the interstate may take hours, and chasing across countries might even take days. Whatever the scope of the chase, each participant in a chase has a **position** that is described by their distance from the goal in actions.
+
+<br/>
+
+## Teams
+
+Characters can form into teams, together acting as one participant in the chase. Teams share their position and can work together to take actions. Tests of ability performed by a team are performed by whichever member of the team [makes sense](../getting_started/dice.md#narrative-truth) while the other members of the team provide [assistance](tests.md#assisting). The downside is that they also share a turn and as a team get three actions. Characters can leave a team at any point in a round before their team takes a turn, entering the action scenario as if they were a new participant.
 
 <br/>
 

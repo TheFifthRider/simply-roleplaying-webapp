@@ -54,11 +54,11 @@ After that, a character can take dice from any relevant [advantages](advantages_
 
 <br/>
 
-### Aid
+### Assisting
 
-Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their aid by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice up to the total amount allowed by their earned [milestones](../gameplay/advancement.md) to use for the test.
+Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their assistance by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice up to the total amount allowed by their earned [milestones](../gameplay/advancement.md) to use for the test.
 
-All characters who aid in the test help the tested character reach their goal, making success more likely, but each character who aids in the test also either introduce a new risk to the test or somehow worsen the existing risk, making failure all the more dangerous. If the initial risk was a deadly pitfall, the aiding character could be at risk of falling in as well. If the initial risk was taking too long to researching an antidote before the poison took hold, the additional minds involved might result in a fatal miscommunication.
+All characters who assist in the test help the tested character reach their goal, making success more likely, but each character who assists in the test also either introduce a new risk to the test or somehow worsen the existing risk, making failure all the more dangerous. If the initial risk was a deadly pitfall, the assisting character could be at risk of falling in as well. If the initial risk was taking too long to researching an antidote before the poison took hold, the additional minds involved might result in a fatal miscommunication.
 
 <br/>
 
