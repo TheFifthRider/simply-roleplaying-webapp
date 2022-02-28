@@ -2,6 +2,49 @@
 
 >   :warning: This page is a Work in Progress
 
+Legacies are a testament to what you've done to shape the world and who you know. Like [skills and backgrounds](skills.md) legacies can make it easier to accomplish [tests](../gameplay/tests.md) by granting you bonus dice where the legacy holds sway and legacies are also a source of [narrative truth](../getting_started/dice.md#narrative-truth).
+
+<br/>
+
+## What is a Legacy?
+
+Legacies can be...
+
+* A **position of authority** over people in a community, and they have some kind of title to reflect it. 
+    _Captain of the Whitehall Militia_, <!-- more examples -->. 
+* **Contacts** that you have; people or factions that look out for you. 
+    _Protected by the Thieves' Guild_, _Citizen of the Allied Worlds_, _Friend of the Mini-taur_ <!-- more examples -->. 
+* A **reputation** you've earned
+    _Fang of the Fringe_, _I've Stolen More Than I've Bought_, <!-- more examples -->
+* An **obligation** you must fulfil
+    _Pilgrim of the Four Elements_
+* An **enemy** you have
+    _Hunted by the Iron Herald_ <!-- more examples -->
+
+<br/>
+
+## What does a Legacy do?
+
+Legacies can be added to [tests of ability](../gameplay/tests.md) like skills and backgrounds.
+
+Legacies are also a source of [narrative truth](../getting_started/dice.md#narrative-truth).
+
+<br/>
+
+## Earning Legacies
+
+Legacies are earned at character creation, and any time after that it makes sense for them to be earned.
+
+
+
+
+
+
+
+
+
+<br/>
+
 Legacies are a way of giving a character's past a meaningful impact on their present as a series of benefits and detriments. Legacies can take many forms, though usually they are one of the following.
 
 <br/>
