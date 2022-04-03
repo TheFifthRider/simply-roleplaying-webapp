@@ -1,30 +1,20 @@
-# Skills and Backgrounds
+# Backgrounds and what make them
 
-Where attributes represent the intrinsic attributes of a character (their strength, speed, etc.), skills and backgrounds represent the training and expertise that same character has gained over time. **Skills** represent the individual trained abilities and **backgrounds** represent broad mastery gained by combining several mastered skills together.
-
-<br/>
-
-## Honing your Skills
-
-A character's proficiency with the skills they know is represented by a die; four sided through twelve sided. The more proficient a character is with a skill the larger the size of the die in question. A character who has a d4 in a skill is considered to understand the bare minimum, where a character who has a d12 in a skill is considered to have mastered that skill. [If you're not familiar with the concept of dice sizes you can read about them here](../getting_started/dice.md).
-
-[Characters created in Simply Roleplaying](../getting_started/creation.md), can start anywhere from seasoned adventurers to fledgling recruits, brimming with potential. **Potential** is a measure of your character's ability to learn new skills or grow existing skills, given a competent teacher and time to learn. During [character creation](../getting_started/creation.md), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned [at the end of every session](../gameplay/advancement.md).
+Where attributes represent broadly a character in broad strokes, skills, legacies, and backgrounds are more specific. Having a d12 in Brawn means you're strong, but having a d12 in Brawn, a d8 in your _Wrestling_ skill, a d10 _Giant Wrestler_ legacy, and a background called _The Thighcrusher_ paints quite the vivid picture. **Skills** represent trained capabilites, **Legacies** represent things that you've done or you're known for, and **backgrounds** represent who your character is by combining several d12 skills and/or legacies together.
 
 <br/>
 
-### Spending Potential
+## Potential
 
-Players can spend potential in one of two ways: either by being trained in a skill by a more experienced character or by experimenting on their own and gaining insight in a skill. In either case they can choose to either **learn** the skill if they did not already know it, writing it down as a d4 skill on their character sheet, or **level up** the skill, increasing the size of the skill's die to the next largest size.
-
-<br/>
-
-#### Training
-
-Training is an intense period of study that characters can engage in over a period of several hours of [downtime](../gameplay/downtime.md#training-a-skill), given either a trainer or suitable materials to study from. At the conclusion of the **training**, as long as it was not significantly interrupted, the potential is spent and the character learns or levels up the trained skill. A character can act as a trainer for a skill provided that they have either mastered it or it pertains to one of their backgrounds.
+Every skill and legacy starts out at d4 and can grow to be as powerful as d12. **Potential** is a measure of your character's growth-- how much room do they have to live up to titles, given a competent teacher and time to learn. During [character creation](../getting_started/creation.md), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned [at the end of every session](../gameplay/advancement.md).
 
 <br/>
 
-#### Gaining Insight
+### Spending Potential on Skills
+
+Players can spend potential on skills in one of two ways: either by being trained in a skill by a more experienced character or by experimenting on their own and gaining insight in a skill. In either case they can choose to either **learn** the skill if they did not already know it, writing it down as a d4 skill on their character sheet, or **level up** the skill, increasing the size of the skill's die to the next largest size.
+
+How a character trains varies from individual to individual, but usually involves several hours of [downtime](../gameplay/downtime.md#training-a-skill), a trainer, and/or suitable materials to study from. A character can act as a trainer for a skill provided that they have either mastered it or it pertains to one of their backgrounds. This means that a character can train themselves in a skill once they've mastered it and incorporated it into a background!
 
 At any point after determining the result of a skill check, a player may declare that their character has **gained insight** in either a skill that was used for that check or in a skill that could have been used for that check. When they do this, they may either learn or level up the trained skill.
 
@@ -40,13 +30,13 @@ Leveling up a skill can also be an opportunity to refine it. Whenever you level 
 
 <br/>
 
-### Mastering a Skill
+### Spending Potential on a Legacy
 
-When you level a skill up to d12, you've **mastered** it and can't level it up anymore. If you want to get more skilled in this area, you'll have to create a background with the skill.
 
-<br/>
 
-### Forgetting a Skill
+### Forgetting a Skill / Legacy
+
+<!-- rework -->
 
 Sometimes a skill might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that the skill no longer makes sense for them. In that case, you can always choose to **forget**. During any period of [downtime](../gameplay/downtime.md#forgetting-a-skill), you may decrease the die level of one of your skills to reclaim one point of potential, representing your character losing interest in or forgetting about that skill in preparation to learn something new.
 
