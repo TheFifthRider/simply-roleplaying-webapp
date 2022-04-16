@@ -53,7 +53,7 @@ You can make an ability more flexible by making it stronger if more requirements
 
 Consider what powers your character's abilities. What makes them able to do the incredible things they do?  An ability may cost magic gems, imbued talismans of paper, a source of energy like mana, or anything else you can come up with! Whatever you choose it to be, that is their type of **ability points**. If you're not sure, it's okay to just call them "ability points" and come up with a name for them later-- but it is a good idea to come up with a name for them later. It helps to make the flavor of your character come to life!
 
-You start with a pool of **2** of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering). You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
+You start with a pool of **2** of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering). You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A grenadier might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
 
 ### Creating Multiple types of Ability Points
 

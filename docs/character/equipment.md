@@ -56,7 +56,7 @@ Weapons with this tag have a wedge shaped blade that is swung with a chop. _Batt
 
 #### Close-range
 
-Equipment with this tag can be used on targets that are outside of arm's reach but still pretty close, usually between 1.5m and 10m away.
+Equipment with this tag are effective outside of arm's reach but still pretty close, usually between 1.5m and 10m away.
 
 #### Concealable
 
@@ -88,11 +88,11 @@ Equipment with this tag requires two hands to wield effectively. _Rocket launche
 
 #### Long-range
 
-Equipment with this tag can be used on targets a long ways away, usually over 10m away.
+Equipment with this tag are effective a long ways away, usually over 10m away.
 
 #### Melee-range
 
-Equipment with this tag can be used against targets who are within arm's reach, usually within 1.5m.
+Equipment with this tag are effective within arm's reach, usually within 1.5m.
 
 #### Payload
 

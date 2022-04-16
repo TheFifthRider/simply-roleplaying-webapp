@@ -38,21 +38,28 @@ _Gamemasters, you can offer more than one starting background if you wish, just 
 
 ## What do you have with you?
 
-How the players determine what items their characters have with them is largely up to their gamemaster. In a typical campaign it would not be uncommon for a character to get a full set of armor, a primary weapon, an assortment of whatever things their character might have with them "on a typical day", and an assortment of items related to their current pursuits.
+Think about what possessions your character might have and write them down. This doesn't have to be an exhaustive list, but it should probably cover most things that you'd use to showcase what cool stuff your character can do. 
 
-A tomb explorer would likely have a bedroll, tent, backpack, mess kit, pack of torches, medical supplies, a grappling hook, and other such necessities.
+From bedrolls to mp3 players, what a character might carry with them in their day-to-day speaks a lot to who they are and where they come from. Consider writing down a sentimental object such as a an old, handwritten journal or a locket carrying an irreplaceable lock of grey hair.
 
-A starship diplomat, on the other hand, would likely have things like a universal translator, fine clothes, id card, hologram computer, a wax seal kit, a handful of fountain pens, a sheaf of paper, and other sophisticated items.
+Once you've finished figuring out what you've got, read up on [equipment](../character/equipment.md) and add equipment tags to anything that would benefit from having them. Be sure to talk to your gamemaster about the equipment and tags you've chosen. If your campaign is going to be combat focused, it's probably a good idea to have something with the Weapon tag and something with the Armor tag.
 
-From bedrolls to mp3 players, what a character might carry with them in their day-to-day is telling of personality, circumstances of life, and so many other things. Consider also carrying an object of personal significance to your character, such as a an old, handwritten journal or a locket carrying an irreplaceable lock of grey hair.
+### Examples
 
-Once you've finished figuring out what you've got, read up on [equipment](../character/equipment.md) and add equipment tags to anything that would benefit from having them. Be sure to talk to your gamemaster about the equipment and tags you've chosen.
+A cavern explorer might have a bedroll, tent, backpack, mess kit, pack of torches, medical supplies, and a grappling hook (close-range).
+
+A starship diplomat might have things like a universal translator, fine clothes, id card, hologram computer, a wax seal kit, and a handful of fountain pens.
 
 <br/>
 
-## What can you do?
+## What makes you unique?
 
-[Read up on abilities and ability points,](../character/abilities.md) and consider what type of ability points make sense for your character. Then, work with your GM to pick or create an ability for your character!
+[Read up on abilities and ability points,](../character/abilities.md) and consider what type of ability points make sense for your character. Then work with your GM to pick or create an ability for your character.
+
+Once you've done that, choose one:
+
+*   Give yourself another ability without reducing your ability points (or add a point to your ability points)
+*   Pick something cool and unique to have as equipment-- something useful or mysterious that most people wouldn't have
 
 <br/>
 
