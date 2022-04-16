@@ -24,25 +24,15 @@ Once you've done that, it's time to calculate the maximum amount of damage your 
 
 <br/>
 
-## What has your past taught you?
+## What is your story?
 
-[Read up on skills and backgrounds](../character/skills.md), then choose to either **make a background** or **start brimming with potential**.
+Think about where in the campaign world you come from, and why you are seeking out to adventure with your fellow players. Then, [read up on skills and backgrounds](../character/skills.md), then choose to either **make a background** or **start brimming with potential**.
 
-If you chose to **make a background**, write a background that summarizes the skills your character has learned so far.
+If you chose to **make a background**, write a background that summarizes your character's story so far.
 
 If you chose to **start brimming with potential**, your gamemaster will allot you with a starting pool of 15 points of potential to spend on skills as you progress.
 
 _Gamemasters, you can offer more than one starting background if you wish, just make sure you always offer 15 points of potential per background should a player opt to not make a background._
-
-### What unique thing can you do?
-
-Whether you choose to make a background or start with potential, you'll also create an ability that sets you apart from other characters. [Read up on abilities,](../character/abilities.md) then work with your GM to pick or create one for your character.
-
-<br/>
-
-## What is your story?
-
-Motivations and experiences define characters in ways that no natural or learned ability possibly could. Each player should consider where in the campaign world they come from, and why they are seeking out to adventure with their fellow players. [Read up on legacies](../character/legacy.md) and pick a few to help develop your character's history further.
 
 <br/>
 
@@ -57,6 +47,12 @@ A starship diplomat, on the other hand, would likely have things like a universa
 From bedrolls to mp3 players, what a character might carry with them in their day-to-day is telling of personality, circumstances of life, and so many other things. Consider also carrying an object of personal significance to your character, such as a an old, handwritten journal or a locket carrying an irreplaceable lock of grey hair.
 
 Once you've finished figuring out what you've got, read up on [equipment](../character/equipment.md) and add equipment tags to anything that would benefit from having them. Be sure to talk to your gamemaster about the equipment and tags you've chosen.
+
+<br/>
+
+## What can you do?
+
+[Read up on abilities and ability points,](../character/abilities.md) and consider what type of ability points make sense for your character. Then, work with your GM to pick or create an ability for your character!
 
 <br/>
 
