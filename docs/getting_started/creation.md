@@ -60,6 +60,7 @@ Once you've done that, choose one:
 
 *   Give yourself another ability without reducing your ability points (or add a point to your ability points)
 *   Pick something cool and unique to have as equipment-- something useful or mysterious that most people wouldn't have
+*   Create a helper or ally [companion](character/companions.md) to assist your character
 
 <br/>
 
