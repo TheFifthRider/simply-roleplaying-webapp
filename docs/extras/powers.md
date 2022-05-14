@@ -32,9 +32,9 @@ In addition, you'll often want to create abilities for some of the extraordinary
 
 ### Powers and Equipment
 
-[Equipment](../character/equipment.md) with the tag [focus](../character/equipment.md#focus) and tagged with one or more [extranormal powers](../character/equipment.md#extranormal-power) will either allow the wielder to use that particular power or enhance their control over the power, perhaps strengthening the power, reducing the requirements for using the power at all, or mitigating the usual risks that such a power has. Focuses take many shapes. Magicians might have wands, cauldrons, or spellbooks. Superheroes might have rings, hammers, or gadgets. Psionics might have emitters, inhibitors, or focusing helmets.
+[Equipment](../character/equipment.md) with the tag [focus](../character/equipment.md#focus) and tagged with one or more [extranormal powers](../character/equipment.md#extranormal-power) will either allow the wielder to use that particular power or enhance their control over the power. It might strengthen the power, reduce the requirements for using the power at all, or mitigate the usual risks that the power has. Focuses take many shapes. Magicians might have wands, cauldrons, or spellbooks. Superheroes might have rings, hammers, or gadgets. Psionics might have emitters, inhibitors, or focusing helmets.
 
-Focuses also have an attribute tag to determine which attribute you use to exert your power. Usually this is a mental attribute; Intuition focuses might be used for powers dealing with the slippery minds of others, Knowledge focuses might be used for powers manifesting elemental forces, and Will focuses might be used for manifesting power borrowed from a covenant or divinity.
+Focuses also have an attribute tag to determine which attribute you use to exert your power. Usually this is a mental attribute; Intuition focuses might be used for powers dealing with the slippery minds of others, Knowledge focuses might be used for powers that require intense study like harnessing the mathematical formulas required to manifest elemental forces, and Will focuses might be used for manifesting power drawn from a covenant or divinity.
 
 ### Naming Powers and their Skills
 
@@ -44,11 +44,11 @@ Unless your setting encourages particularly broad skills, your gamemaster may wa
 
 ## Further Limiting Powers
 
-Without powers, skills and backgrounds tend to be limited by what we can suspend our disbelief that the character we're playing can do. For instance; no matter how stealthy you are, you still can't hide in broad daylight. It's much easier to suspend our disbelief with made-up powers, so they can easily become the most useful thing in a campaign! If you find that powers are taking over your game, consider the following:
+Without powers, skills and backgrounds tend to be limited by what we can suspend our disbelief that the character we're playing can do. For instance; no matter how stealthy you are, you still can't hide in broad daylight. It's much easier to suspend our disbelief with made-up powers, so they can easily become the most useful thing in a campaign! If you find that powers are taking over your game, or if you want a particular power to be more difficult to harness, consider making the power(s) in question dangerous.
 
 ### Dangerous Powers
 
-Most powers carry greater [risks](../gameplay/tests.md#risk-guidelines) than doing something without them. The power may have chance of going wrong or be strenuous to use, meaning the very act of using those powers in a test may have their own negative consequences. For powers with risks, the scale of what the power is being used to do usually increases the scale of the risk. Levitating a pebble might take a moment of concentration where levitating a boulder would be exhausting and levitating a mountain might take so much out of you it could kill you if you tried.
+Dangerous powers carry greater [risks](../gameplay/tests.md#risk-guidelines) than doing something without them. The power may have chance of going wrong or be strenuous to use, meaning the very act of using those powers in a test may have their own negative consequences. For powers with risks, the scale of what the power is being used to do usually increases the scale of the risk. Levitating a pebble might take a moment of concentration where levitating a boulder would be exhausting and levitating a mountain might take so much out of you it could kill you if you tried.
 
 Here's an example of implementing a risk of exhaustion into a strenuous use of power:
 
@@ -68,8 +68,8 @@ Here's an example of implementing a risk of exhaustion into a strenuous use of p
 >
 >   * **Fail:** the tree may grow, but it takes far more energy than you expected. Take **30** damage from the toll of your magic.
 >   * **Partially succeed:** the tree grows, but it drains your energy to do so. Take **15** damage from the toll of your magic.
->   * **Fully succeed:** you coax life to grow faster than it normally would, growing the sapling to a mighty oak
->   * **Critically succeed:** not only does the tree grow, it flourishes for years to come.
+>   * **Fully succeed:** you coax life to grow faster than it normally would, growing the sapling to a mighty oak. Take **5** damage from the toll of your magic.
+>   * **Critically succeed:** the tree grows at your will without costing you anything at all
 
 <br/>
 

@@ -32,9 +32,9 @@ Here's an example recipe for a sleep poison:
 >
 >  ****
 >
->  * **On a critical failure:** you've created **1 dose of questionable liquid**. It might be Sleep Poison. Your gamemaster will tell you what it does when it's used.
->* **On a failure:** you mess things up somehow, but you still create **1 dose of Sleep Poison**
->  * **On a success:** crafting goes without issue, you create **2 doses of Sleep Poison**
+>  * **On a failure:** you've created **1 dose of questionable liquid**. It might be Sleep Poison. Your gamemaster will tell you what it does when it's used.
+>* **On a partial success:** you mess things up somehow, but you still create **1 dose of Sleep Poison**
+>  * **On a full success:** crafting goes without issue, you create **2 doses of Sleep Poison**
 >* **On a critical success:** not only do you craft the doses successfully, but you're able to squeeze an extra one through precision use of your materials. You create **3 doses of Sleep Poison**
 
 <br/>

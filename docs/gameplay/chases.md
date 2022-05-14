@@ -8,7 +8,7 @@ A footrace across the room may be over in a matter of seconds, a car chase acros
 
 ## Teams
 
-Characters can form into teams, together acting as one participant in the chase. Teams share their position and can work together to take actions. Tests of ability performed by a team are performed by whichever member of the team [makes sense](../getting_started/dice.md#narrative-truth) while the other members of the team provide [assistance](tests.md#assisting). The downside is that they also share a turn and as a team get three actions. Characters can leave a team at any point in a round before their team takes a turn, entering the action scenario as if they were a new participant.
+Characters can form into teams, together acting as one participant in the chase. Teams share their position and can work together to take actions. Tests of ability performed by a team are performed by whichever member of the team [makes sense](../getting_started/dice.md#narrative-truth) while the other members of the team provide [assistance](tests.md#assisting). The downside is that they also share a turn and as a team get three actions. Characters can leave a team at any point in a round before their team takes a turn, entering the action scenario as if they were a new participant, or join a team at any point in around before their character takes a turn. If a team ever just has one participant, that participant must leave the team and enter the action scenario as if they were a new participant.
 
 <br/>
 

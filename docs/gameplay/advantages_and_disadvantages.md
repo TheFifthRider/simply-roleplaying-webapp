@@ -18,7 +18,7 @@ Advantages and disadvantages can be created to represent any situation in which 
 
 ## How do you use them?
 
-Advantages and disadvantages give you extra dice on top of the normal amount you'd roll [whenever you roll for a test](tests.md#Resolving-Tests). You can take a die from an **advantage** whenever you can benefit from the described advantage. You can take a die from someone else's **disadvantage** whenever you can use the described disadvantage against them.
+Advantages and disadvantages give you extra dice on top of the normal amount you'd roll [whenever you roll for a test](tests.md#Resolving-Tests). You can take a die from an **advantage** whenever you can benefit from the described advantage. You can take a die from a **disadvantage** affecting somebody else whenever you can use the described disadvantage against them.
 
 There's no limit to the number of advantages and disadvantages that you can benefit from, but you typically can only take one die from each applicable advantage or disadvantage per roll. The most common exception to this rule is when an [ability](../character/abilities.md) says otherwise.
 
