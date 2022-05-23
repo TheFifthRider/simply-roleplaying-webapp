@@ -8,7 +8,7 @@ A character in Simply Roleplaying is made up of several different pieces. If you
 
 ## Damage and Injuries
 
-[Damage](damage_and_injuries.md#damage) is how much damage you can take before you sufffer an [injury](damage_and_injuries.md#injury), which take some time to recover from. If you take too many injuries, you'll be [defeated](damage_and_injuries.md#defeat) and the worst of the bad stuff will happen to you.
+Health is how much [damage](damage_and_injuries.md#damage) you can take before you sufffer an [injury](damage_and_injuries.md#injury), which take some time to recover from. If you take too many injuries, you'll be [defeated](damage_and_injuries.md#defeat) and the worst of the bad stuff will happen to you.
 
 ## Attributes
 

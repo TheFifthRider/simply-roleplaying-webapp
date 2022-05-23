@@ -2,9 +2,9 @@
 
 ## Damage
 
-**Damage** is the amount of energy that a character has to handle strenuous and dangerous things. The maximum amount of damage a character can sustain is calculated based on the die level of a character's brawn die as explained in [character creation](../getting_started/creation.md) and can be increased by [milestones](../gameplay/advancement.md).
+**Damage** is the amount of energy that a character has to handle strenuous and dangerous things. A character's **health** is the maximum amount of damage a character can sustain before sustaining a lasting injury. Health is calculated based on the die level of a character's brawn die as explained in [character creation](../getting_started/creation.md) and can be increased by [milestones](../gameplay/advancement.md).
 
-Whenever a character suffers damage from an attack or risk, they mark it down on their character sheet. If the total amount of damage they have suffered exceeds their **maximum damage**, they take an injury and then erase all damage they've taken so far.
+Whenever a character suffers damage from an attack or risk, they subtract that damage from their health. When their health would reach or go below 0, they take an injury and then reset their health.
 
 <br/>
 
@@ -18,7 +18,7 @@ While the gamemaster ultimately has final say over what the injury is, any playe
 
 ### Defeat
 
-If a character suffers an injury when all of their injury boxes are marked, their injuries have caught up to them and they are **defeated**. What that means depends on the situation; they might have been paralyzed by fear, captured, swallowed, traumatized... they might even be dead. Whatever happened, they're at least going to need to take some downtime to recover.
+If a character suffers an injury when all of their injury boxes are marked, their injuries have caught up to them and they are **defeated**. What that means depends on the situation; they might have been paralyzed by fear, captured, swallowed, traumatized... they might even be dead. Whatever happened, they're out of the action until the end of the scene and should probably take some downtime to recover.
 
 #### Defeat and Death
 
@@ -28,7 +28,7 @@ Gamemasters, defeat _can_ mean death for a character but it shouldn't always. In
 
 ## Recovering
 
-If a character **rests** they erase all of their accumulated damage. Whenever the character spends [some downtime](../gameplay/downtime.md#recovering) resting, they may erase all marked injury boxes on their character sheets.
+If a character **rests**, they restore their health to full. Whenever the character spends [some downtime](../gameplay/downtime.md#recovering) resting, they may additionally erase all marked injury boxes on their character sheets.
 
 If the rest was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around or rename it to reflect the healing process. Recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury. If you need to check that injury box again, it means those wounds reopened.
 

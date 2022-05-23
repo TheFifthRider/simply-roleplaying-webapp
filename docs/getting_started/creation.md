@@ -18,9 +18,9 @@ If you chose to **spend creation points**, you get a pool of 12 creation points 
 
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/damage_and_injuries.md), then calculate your maximum damage by adding twelve to the highest possible value you can roll on your character's brawn die.
+Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/damage_and_injuries.md), then calculate your **health** by adding twelve to the highest possible value you can roll on your character's brawn die.
 
-`Maximum Damage = 12 + Best possible roll on brawn die`
+`Health = 12 + Best possible roll on brawn die`
 
 <br/>
 
