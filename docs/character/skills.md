@@ -44,7 +44,7 @@ Leveling up a skill or legacy can also be an opportunity to refine it. Whenever 
 
 <br/>
 
-### Forgetting a Skill or Legacy
+### Abandoning a Skill or Legacy
 
 Sometimes a skill or legacy might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that what you wrote down no longer makes sense for them. In that case, you can always choose to **forget**. During any period of [downtime](../gameplay/downtime.md#forgetting-a-skill), you may decrease the die level of one of your skills or legacies to reclaim one point of potential. This can represent the public's waning attention to your deeds in the case of a legacy, or your character losing interest in or forgetting about that skill in preparation to learn something new.
 
