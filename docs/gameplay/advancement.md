@@ -1,14 +1,10 @@
 # Advancement
 
-## Every Session
-
-At the end of every session, a character earns some amount of [potential](../character/skills.md#honing-your-skills), varying based on the significance of what happened in the campaign. This is ultimately up to the gamemaster to determine, but about one to two points of potential per two hours of playtime is usually right for an average session.
-
-<br/>
-
 ## Checklists and Goals
 
-An interactive way of determining how many points of [potential](../character/skills.md#honing-your-skills) to earn at the end of a session is by setting session goals. Come up with a list of goals that start with "Gain a point of [potential](../character/skills.md#honing-your-skills) if we..."-- about one per hour you usually play. Then, at the end of each session, read each goal aloud. If the group met the goal, everyone gains a point of potential.
+At the end of every session, you earn [potential](../character/skills.md#potential) based on how much progress it feels like the characters have made in the story. While your gamemaster can absolutely decide on how much potential to award on their own (one to two points of potential per two hours of playtime is about right), roleplaying is constructing a shared narrative and unplanned progress through a character arc is just as important as advancing the plot.
+
+A way everybody can help determine how many points of [potential](../character/skills.md#honing-your-skills) to earn at the end of a session is by setting session goals. Come up with a list of goals that start with "Gain a point of [potential](../character/skills.md#honing-your-skills) if we..."-- about one per hour you usually play. Then, at the end of each session, read each goal aloud. If the group met the goal, everyone gains a point of potential.
 
 Here are some end-of-session goals that should work for most campaigns assuming a four hour session, along with the milestone instructions in checklist form.
 
@@ -31,22 +27,22 @@ Every **10 potential you earn** (spent or not) you increase your maximum ability
 
 ## Milestones
 
-Milestones are markers of when the player characters advance and are awarded to celebrate the significant things the players have accomplished over the course of the game. Milestones typically occur at the end of significant arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost-- usually about every 25 potential earned.
+Milestones are significant power boosts. Usually, you'll get a milestone at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Milestones should probably happen about every 25 points of potential earned so players don't feel like they are bumping their heads on the ceiling with regards to advancement.
 
-In addition, whenever a character achieves a milestone they choose **one**:
+Whenever you achieve a milestone:
 
-*   Increase their **dice** by 1
-*   Increase their [attribute modifiers](../character/attributes.md#attribute-modifier)
+*   Increase your **dice** by 1
+*   Get 12 points to increase your [attributes](../character/attributes.md).
 
-If they choose to increase their **dice** by 1, that increases the maximum number of dice they can roll by 1. If they choose to increase their attribute modifiers, they must pick two of their modifiers to increase by **4**, two others to increase by **3**, and then increase their final two modifiers by **2**.
+Just like at [character creation](../getting_started/creation.md), you cannot spend more than **3** of these points on any one attribute, and must spend at least **1** on each.
 
-Then, they choose **one**:
+Then, choose **one**:
 
-* Increase their maximum [damage](../character/damage_and_injuries.md) by 6 and their maximum [ability points](../character/abilities.md#costs-and-ability-points) by 9
-* Increase their maximum [damage](../character/damage_and_injuries.md) by 12 and their maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6
-* Increase their maximum [damage](../character/damage_and_injuries.md) by 18 and their maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3
+* Increase your [health](../character/damage_and_injuries.md) by 6 and your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 9
+* Increase your [health](../character/damage_and_injuries.md) by 12 and your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6
+* Increase your [health](../character/damage_and_injuries.md) by 18 and your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3
 
-In addition to the power bump, milestones also provide a space for the GM and players to check-in and rework any aspects of character that just aren't working. This includes, but is not limited to:
+In addition to the power bump, milestones also provide a space for you and your gamemaster to check-in and rework any aspects of the character that just aren't working. This includes, but is not limited to:
 
 * Forget any number of skills, and reclaim your spent potential
 * Rename any number of skills
@@ -63,13 +59,8 @@ In addition to the power bump, milestones also provide a space for the GM and pl
 
 **When a milestone is achieved....**
 
-Choose **one:**
-
 * [ ] Increase dice by 1
-* [ ] Increase your [attribute modifiers](../character/attributes.md#attribute-modifier)
-    1. Increase two [attribute modifiers](../character/attributes.md#attribute-modifier) by 4
-    2. Increase another two [attribute modifiers](../character/attributes.md#attribute-modifier) by 3
-    3. Increase the last two [attribute modifiers](../character/attributes.md#attribute-modifier) by 2
+* [ ] Get 12 points to increase your [attributes](../character/attributes.md)
 
 
 Choose **one:**

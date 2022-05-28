@@ -10,17 +10,13 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 
 Your starting speed is 3m. This measures the amount of distance you can travel in a few seconds-- the length of [an action](../gameplay/action.md#moving-your-speed).
 
-In addition, all characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then choose either to **rank your attributes** or **spend creation points**.
-
-If you chose to **rank your attributes**, order your attributes from what your character should be best at to what your character should be worst at. Set your best attribute to d12 and your second best attribute to d10. Then set your worst attribute to d4, and your second worst attribute to d6. Finally, set the remaining two attributes to d8.
-
-If you chose to **spend creation points**, you get a pool of 12 creation points to spend on the starting size of your attributes. A d4 is 0 points, a d6 is 1 point, a d8 is 2 points, a d10 is 3 points, and a d12 is 4 points.
+In addition, all characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then determine the starting value for your attributes. You get 12 points to increase your attributes from +0-- you must spend at least 1 point on each attribute, and no more than 3 points.
 
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/damage_and_injuries.md), then calculate your **health** by adding twelve to the highest possible value you can roll on your character's brawn die.
+Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/damage_and_injuries.md), then calculate your **health** by adding your Will and Brawn to 12.
 
-`Health = 12 + Best possible roll on brawn die`
+`Health = 12 + Brawn + Will`
 
 <br/>
 

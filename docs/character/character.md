@@ -4,19 +4,19 @@ A character in Simply Roleplaying is made up of several different pieces. If you
 
 ## Total Dice
 
-**Total dice** represents your general power level. This is the number of dice you can roll from your attributes, skills, and backgrounds.
+**Total dice** represents your general power level. This is the number of dice you can roll from your skills, legacies, and backgrounds.
 
-## Damage and Injuries
+## Health and Injuries
 
-Health is how much [damage](damage_and_injuries.md#damage) you can take before you sufffer an [injury](damage_and_injuries.md#injury), which take some time to recover from. If you take too many injuries, you'll be [defeated](damage_and_injuries.md#defeat) and the worst of the bad stuff will happen to you.
+Health is how much [damage](damage_and_injuries.md#damage) you can take before you suffer an [injury](damage_and_injuries.md#injury). Injuries take time to recover from, and if you take too many you'll be [defeated](damage_and_injuries.md#defeat) and the worst of the bad stuff will happen to you.
 
 ## Attributes
 
-[Attributes](attributes.md) are broad categories which represent your strengths and weaknesses-- your physical strength, ability to quickly respond, willpower, and more. Any time you make a [test of ability](../gameplay/tests.md), it will use one of these attributes. An attribute has a die that it's associated with, a [modifier](attributes.md#attribute-modifiers) that you add to any roll of that die, and a [passive attribute score](attributes.md#passive-attribute-scores) for when you respond reflexively to that attribute being tested.
+[Attributes](attributes.md) are broad categories which represent your strengths and weaknesses-- your physical strength, ability to quickly respond, willpower, and more. Any time you make a [test of ability](../gameplay/tests.md), it'll test a specific attribute and you'll add that attribute to whatever you rolled. You also have [passive attribute scores](attributes.md#passive-attribute-scores) that you use instead of dice for when you respond reflexively to that attribute being tested.
 
-## Skills and Backgrounds
+## Skills, Legacies, and Backgrounds
 
-[Skills and Backgrounds](#skills.md) are what you've learned. [Skills](skills.md#honing-your-skills) are anything concrete that you can get better at, given practice. [Backgrounds](skills.md#building-a-background) are broader phrases built from skills that explain what you're good at.
+[Skills, Legacies, and Backgrounds](skills.md) are the individual pieces that make up who you are and what you've learned. [Skills](skills.md#developing-skills) describe what you know how to do-- they're anything concrete that you can get better at, given practice. [Legacies](../skills.md#earning-legacies) describe your reputation-- they're your values, the factions you've allied with, and the deeds you've done. [Backgrounds](skills.md#building-a-background) describe you-- they're built from Skills and Legacies put together and summarized.
 
 ## Abilities
 

@@ -10,7 +10,7 @@ Every skill and legacy starts out at d4 and can grow to be as powerful as d12. *
 
 <br/>
 
-### Spending Potential on Skills
+### Developing Skills
 
 Whenever you spend [downtime](../gameplay/downtime.md) to **take some time to train** or **gain a flash of insight**, you can spend potential to either **learn** a new skill that you do not have written down on your character sheet or to **level up** a skill that you do have written down on your character sheet. When you learn a new skill, write it down as a new d4 skill. When you level up an existing skill, increase the size of the skill's die to the next largest size. 
 
@@ -20,7 +20,7 @@ A character **gains a flash of insight** in the moment. At any point after deter
 
 <br/>
 
-### Spending Potential on a Legacy
+### Earning Legacies
 
 Whenever you **do something memorable** or **act like your reputation**, you can spend potential to either **start** a new legacy that isn't written on your character sheet, or **level up** a legacy that you already have written down. When you start a new legacy, write it down as a new d4 legacy. When you level up an existing legacy, increase the size of the legacy's die to the next largest size.
 

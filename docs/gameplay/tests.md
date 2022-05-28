@@ -1,6 +1,6 @@
 # Tests of Ability
 
-Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling an [attribute die](../character/attributes.md), along with some combination of [skill and background dice](../character/skills.md) to meet or exceed a number that represents the difficulty of doing what they want to do.
+Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/skills.md) and adding the value of an [attribute](../character/attributes.md) to meet or exceed a number that represents the difficulty of doing what they want to do.
 
 While most tests emerge fluidly from gameplay and don't require this level of detail, a fully written test would look something like this:
 
@@ -29,12 +29,12 @@ While most tests emerge fluidly from gameplay and don't require this level of de
 
 Most of the time, the difficulty is a static number determined by the gamemaster based on the skill required to achieve success with minimal risk. Below are a collection of difficulty rules of thumb. When creating a test, it's a good idea to start with a difficulty based on one of the rules of thumb and increase or decrease it by a few points depending on how easy or difficult the test is meant to be.
 
-* **Talented but inexperienced** characters who have yet to earn a milestone can handle tests of difficulty **10**
-* **Experienced** characters who have earned two milestones can handle tests of difficulty **20**
-* **Professionals** who have earned four milestones can handle tests of difficulty **30**
-* **Experts** who have earned six milestones can handle tests of difficulty **40**
-* **Masters** who have earned eight milestones can handle tests of difficulty **50**
-* Only **Legendary** characters with ten or more milestones can attempt to handle tests of difficulty **60 or higher**
+* **Talented but inexperienced** characters who have yet to earn a milestone can handle tests of difficulty **0**
+* **Experienced** characters who have earned a milestone can handle tests of difficulty **10**
+* **Professionals** who have earned two milestones can handle tests of difficulty **20**
+* **Experts** who have earned three milestones can handle tests of difficulty **30**
+* **Masters** who have earned four milestones can handle tests of difficulty **40**
+* Only **Legendary** characters with five or more milestones can attempt to handle tests of difficulty **50 or higher**
 
 Players, the difficulty rules of thumb can also help you gauge your character's proficiency. If you're regularly rolling above a 20 on a test, chances are you are on the same level as someone who performs those sorts of tests for a living. Gamemasters, if you choose to use more than three skill milestones and three attribute milestones, you should consider writing your own rules of thumb not only to help yourself consistently apply difficulties across your world, but also to help your players understand what rolling a 10 means when compared to the rest of your world's citizens.
 
@@ -86,7 +86,7 @@ Determining the outcome of a competition in which there are two participants is 
 
 #### Competition Tiebreakers
 
-Sometimes, characters in a competition might tie. In cases where the gamemaster needs these ties to be broken, other aspects of the tied characters come into question. A tie can be broken by comparing the passive scores the respective attributes that the characters used for the test. If there is still a tie, compare each character's attribute die used for that test-- d12s beat d10s, d10s beat d8s, and so on. Further ties can be resolved at the gamemaster's discretion, perhaps taking into consideration number of relevant skills/backgrounds or sources of narrative truth. 
+Sometimes, characters in a competition might tie. In cases where the gamemaster needs these ties to be broken, other aspects of the tied characters come into question. A tie can be broken by comparing the passive scores the respective attributes that the characters used for the test. If there is still a tie, that tie is resolved at the gamemaster's discretion, perhaps taking into consideration number of relevant skills/backgrounds or sources of narrative truth. 
 
 <br/>
 
