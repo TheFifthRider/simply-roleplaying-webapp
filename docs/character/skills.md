@@ -10,7 +10,7 @@ Every skill and legacy starts out at d4 and can grow to be as powerful as d12. *
 
 <br/>
 
-### Spending Potential on Skills
+### Developing Skills
 
 Whenever you spend [downtime](../gameplay/downtime.md) to **take some time to train** or **gain a flash of insight**, you can spend potential to either **learn** a new skill that you do not have written down on your character sheet or to **level up** a skill that you do have written down on your character sheet. When you learn a new skill, write it down as a new d4 skill. When you level up an existing skill, increase the size of the skill's die to the next largest size. 
 
@@ -20,7 +20,7 @@ A character **gains a flash of insight** in the moment. At any point after deter
 
 <br/>
 
-### Spending Potential on a Legacy
+### Earning Legacies
 
 Whenever you **do something memorable** or **act like your reputation**, you can spend potential to either **start** a new legacy that isn't written on your character sheet, or **level up** a legacy that you already have written down. When you start a new legacy, write it down as a new d4 legacy. When you level up an existing legacy, increase the size of the legacy's die to the next largest size.
 
@@ -44,7 +44,7 @@ Leveling up a skill or legacy can also be an opportunity to refine it. Whenever 
 
 <br/>
 
-### Forgetting a Skill or Legacy
+### Abandoning a Skill or Legacy
 
 Sometimes a skill or legacy might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that what you wrote down no longer makes sense for them. In that case, you can always choose to **forget**. During any period of [downtime](../gameplay/downtime.md#forgetting-a-skill), you may decrease the die level of one of your skills or legacies to reclaim one point of potential. This can represent the public's waning attention to your deeds in the case of a legacy, or your character losing interest in or forgetting about that skill in preparation to learn something new.
 

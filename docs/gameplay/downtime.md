@@ -1,14 +1,14 @@
 # Downtime
 
-Downtime is a period of rest in which a character has enough time to pursue productive ends. Usually this is a period of at least four hours in which a character can focus on the activity without significant distractions. Some downtime activities are quite simple, while others have requirements such as tools or a space to work in.
+Downtime is a period of time, usually about four hours, during which you can focus on an activity or otherwise rest without significant distractions. Some downtime activities are quite simple, while others have requirements such as tools or a space to work in.
 
-When characters have more than four hours of downtime available to them, the gamemaster may rule that characters can perform multiple downtime actions over the duration.
+When you have more than four hours of downtime available to you, ask your gamemaster how many downtime activities you can perform over the time you have.
 
 <br/>
 
 ## Crafting
 
-Crafting is an umbrella term for any downtime activity that allows characters to create or modify items. While it's not always necessary, it's recommended for players and gamemasters to collaborate to create crafting "recipes" of material requirements and a written out [Test of Ability](tests.md) with a goal of making progress towards creating or modifying a specific item. These recipes can also have any particular tools or environments that are required for creating an item.
+You can spend your downtime to create or modify items! While it's not always necessary, it's probably a good idea to collaborate with your gamemaster to collaborate to create crafting "recipes" of material requirements and a written out [Test of Ability](tests.md) with a goal of making progress towards creating or modifying a specific item. Writing it up makes it easy for you to get consistent results from spending your downtime making stuff. These recipes can also have any particular tools or environments that are required for your creative endeavor.
 
 Here's an example recipe for a sleep poison:
 
@@ -22,7 +22,7 @@ Here's an example recipe for a sleep poison:
 >
 >  * Requires uncommon mushrooms found in dark, isolated caves. Can be purchased for 2sp.
 >
->  _Difficulty **15** Test of **Knowledge**_
+>  _Difficulty **5** Test of **Knowledge**_
 >
 >  ****
 >
@@ -32,33 +32,33 @@ Here's an example recipe for a sleep poison:
 >
 >  ****
 >
->  * **On a critical failure:** you've created **1 dose of questionable liquid**. It might be Sleep Poison. Your gamemaster will tell you what it does when it's used.
->* **On a failure:** you mess things up somehow, but you still create **1 dose of Sleep Poison**
->  * **On a success:** crafting goes without issue, you create **2 doses of Sleep Poison**
+>  * **On a failure:** you've created **1 dose of questionable liquid**. It might be Sleep Poison. Your gamemaster will tell you what it does when it's used.
+>* **On a partial success:** you mess things up somehow, but you still create **1 dose of Sleep Poison**
+>  * **On a full success:** crafting goes without issue, you create **2 doses of Sleep Poison**
 >* **On a critical success:** not only do you craft the doses successfully, but you're able to squeeze an extra one through precision use of your materials. You create **3 doses of Sleep Poison**
 
 <br/>
 
 ## Creating or Leveling Up a Background
 
-A character can spend downtime to reflect on their past experiences and form backgrounds out of them or level up existing backgrounds. More details on building and leveling up a background can be found in [Building a Background (Skills and Backgrounds)](../character/skills.md#building-a-background) and [Leveling Up Backgrounds (Skills and Backgrounds)](../character/skills.md#Leveling Up Backgrounds).
+You can spend downtime to reflect on their past experiences and form backgrounds out of them or level up existing backgrounds. More details on building and leveling up a background can be found in [Building a Background (Skills and Backgrounds)](../character/skills.md#building-a-background) and [Leveling Up Backgrounds (Skills and Backgrounds)](../character/skills.md#Leveling Up Backgrounds).
 
 <br/>
 
-## Forgetting a Skill
+## Abandoning a Skill or Legacy
 
-A character can always spend downtime to forget a skill in addition to any other downtime activities. More details on forgetting can be found in [Forgetting a Skill (Skills and Backgrounds)](../character/skills.md#forgetting-a-skill).
+During downtime, you can always choose to regain some potential by abandoning a skill or legacy in addition to any other downtime activities. More details on reclaiming points from skills and legacies can be found in [Forgetting a Skill (Skills and Backgrounds)](../character/skills.md#abandoning-a-skill-or-legacy).
 
 <br/>
 
 ## Recovering
 
-A character can spend a period of downtime recovering to erase all of the injury boxes on their character sheet and restore their spent [ability points](../character/abilities.md#costs-and-ability-points). More details on recovering from injuries specifically can be found in [Damage and Injuries](../character/damage_and_injuries.md#Recovering).
+You can spend a period of downtime recovering to erase all of the injury boxes on their character sheet and restore your spent [ability points](../character/abilities.md#costs-and-ability-points). More details on recovering from injuries specifically can be found in [Damage and Injuries](../character/damage_and_injuries.md#Recovering).
 
 <br/>
 
 ## Training a Skill
 
-Provided that you have access to training materials or a trainer, downtime can be spent to train a skill. More details on training can be found in [Training (Skills and Backgrounds)](../character/skills.md#training).
+Provided that you have access to training materials or a trainer, you can spend downtime to train a skill. More details on training can be found in [Training (Skills and Backgrounds)](../character/skills.md#training).
 
 <br/>

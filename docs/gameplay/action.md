@@ -9,13 +9,13 @@ Action scenarios are turn based and take place over blocks of time referred to a
 
 <br/>
 
-### Initiative Order
+### Roll Order
 
-There are several ways of determining the character order in rounds, the most iconic in tabletop games is rolling for initiative and acting in an order based on that role. To act in **Initiative Order**, at the beginning of the action scenario each participant is involved in a [competition of Intuition](../gameplay/tests.md#Competitions), then take their turns in the order they are ranked. Keep track of the results made for this competition.
+There are several ways of determining the character order in rounds, the most iconic in tabletop games is rolling for initiative and acting in an order based on that role. To act in **Roll Order**, at the beginning of the action scenario each participant is involved in a [competition of Intuition](../gameplay/tests.md#Competitions), then take their turns in the order they are ranked. Keep track of the results made for this competition.
 
 After all characters have taken their turn (otherwise known as the **end of the round**), characters outside of the action scenario can make their own roll for the competition of Inutition, and are added to the initiative order in the position determined by their roll.
 
-#### Initiative Order: Delaying your turn
+#### Roll Order: Delaying your turn
 
 Sometimes a character will wish to take their turn at a later time. Perhaps the room has filled with smoke and they're waiting for a clear shot, or the enemy mage is about to cast a spell and they want to wait out the attack. In whatever case this might be, the character may choose to **delay their turn** until a later time in the round.
 
@@ -23,11 +23,11 @@ Before any character with a lower initiative score takes their turn, the delayed
 
 <br/>
 
-### Elective Action Order
+### Popcorn Order
 
 _The following is adapted from the ruleset designed by Fred Hicks on his blog post [Accidentally Designing Marvel’s Action Order System](http://www.deadlyfredly.com/2012/02/marvel/)._
 
-**Elective Action Order** allows for a more teamwork-centric and tactical approach to initiative order by giving each character the ability to determine who acts after them.
+**Popcorn Order** allows for a more teamwork-centric and tactical approach to initiative order by giving each character the ability to determine who acts after them.
 
 Just like in initiative order, each participant takes part in a [competition of Intuition](../gameplay/tests.md#Competitions). However, unlike in initiative order, instead of ordering participants from highest roll to lowest roll, the highest roller is declared the first to act. In the case of an ambush, tensions broken by the first shot fired, or some other situation where it is clear who will (or has) acted first gamemasters may opt to skip rolling and instead start the turn order with that character.
 
@@ -35,9 +35,9 @@ Then, after each participant finishes their turn, they choose another participan
 
 Once all participants in a round have taken their turn, characters who are not participants in the combat can become participants. Then, the last participant to take a turn in the round chooses the participant starts the next round.
 
-#### Elective Action Order in Practice
+#### Popcorn Order in Practice
 
-Gamemasters, if you intend to use Elective Action Order you should be aware of its tactical advantages and disadvantages. One question you will likely be asked immediately is "why would I ever pass to an enemy?" The answer here lies in vying for control of the end of the round, since the decides the order of the next round. Used cleverly, this can allow key players or even the entire team the opportunity to take two uninterrupted turns in a row-- one at the end of the round, and one at the start of the next round.
+Gamemasters, if you intend to use Popcorn Order you should be aware of its tactical advantages and disadvantages. One question you will likely be asked immediately is "why would I ever pass to an enemy?" The answer here lies in vying for control of the end of the round, since the decides the order of the next round. Used cleverly, this can allow key players or even the entire team the opportunity to take two uninterrupted turns in a row-- one at the end of the round, and one at the start of the next round.
 
 In addition, making sure that the enemies of the combat are clearly distinct so your players can easily identify who they are choosing to go next. If you have a bunch of largely indistinguishable non-player characters, consider clearly defining squads of those non-player characters. Squads are simply made up of characters that will always pass their action to another character in their "squad" until none are available. this helps your players (and you!) so the turn can be passed to "the bandits" instead of needing to specify which specific bandit they're referring to.
 

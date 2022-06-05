@@ -23,14 +23,14 @@ As an example, here's the test for attacking an armor value 15 target using a gr
 >
 >  **Goal:** Striking the target and inflicting injury
 >
->  **Risk:** Not inflicting any damage <!-- TODO: Review, what really is the risk here? Is it really just not inflicting as much damage as hoped? -->
+>  **Risk:** Not inflicting any damage
 >
 >  ****
 >
+>  * **On a failure:** the target takes no damage.
+>  * **On a partial success:** the target [takes damage](../character/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down.
+>  * **On a full success:** the target [takes damage](../character/damage_and_injuries.md) equal the attacker's total for the test.
 >  * **On a critical success:** the target [takes damage](../character/damage_and_injuries.md) equal to double the attacker's total for the test.
->  * **On a success:** the target [takes damage](../character/damage_and_injuries.md) equal the attacker's total for the test.
->  * **On a failure:** the target [takes damage](../character/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down.
->  * **On a critical failure:** the target takes no damage.
 
 ### Improvised Weapons
 
@@ -50,14 +50,14 @@ As an example, here's a possible test for attacking an armor value 15 target usi
 >
 >  **Goal:** Striking the target and inflicting injury
 >
->  **Risk:** Not inflicting any damage, breaking or damaging the Sniper Rifle <!-- TODO: Review, what really is the risk here? Is it really just not inflicting as much damage as hoped? -->
+>  **Risk:** Not inflicting any damage, breaking or damaging the Sniper Rifle
 >
 >  ****
 >
->  * **On a critical success:** the target [takes damage](../character/damage_and_injuries.md) equal to double the attacker's total for the test.
+>  * **On a failure:** the target takes no damage and the sniper rifle gets bent or broken in the scuffle and requires repairs.
+>  * **On a partial success:** the target [takes damage](../character/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.
 >  * **On a success:** the target [takes damage](../character/damage_and_injuries.md) equal the attacker's total for the test.
->  * **On a failure:** the target [takes damage](../character/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.
->  * **On a critical failure:** the target takes no damage and the sniper rifle gets bent or broken in the scuffle and requires repairs.
+>  * **On a critical success:** the target [takes damage](../character/damage_and_injuries.md) equal to double the attacker's total for the test.
 
 <br/>
 

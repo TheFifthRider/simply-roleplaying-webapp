@@ -114,7 +114,7 @@ To that end, certain aspects of abilities should increase automatically as a cha
 | 8          | 1d12 | +8                |50|
 | 9+         | 1d12 | +9                |55|
 
-You can also tie effects to things that are automatically improved every milestone like maximum damage, passive ability scores, and total dice.
+You can also tie effects to things that are automatically improved every milestone like health, passive ability scores, and total dice.
 
 <br/>
 
