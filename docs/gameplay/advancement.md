@@ -6,7 +6,9 @@ At the end of every session, you earn [potential](../character/skills.md#potenti
 
 A way everybody can help determine how many points of [potential](../character/skills.md#honing-your-skills) to earn at the end of a session is by setting session goals. Come up with a list of goals that start with "Gain a point of [potential](../character/skills.md#honing-your-skills) if we..."-- about one per hour you usually play. Then, at the end of each session, read each goal aloud. If the group met the goal, everyone gains a point of potential.
 
-Here are some end-of-session goals that should work for most campaigns assuming a four hour session, along with the milestone instructions in checklist form.
+Session goals can be as specific as "Gain a point of potential if we defeat the Bronzeridge Bandits," or as generic as "Gain a point of potential if everyone had fun." You don't have to come up with the perfect session goals the first time around-- session goals can always be changed after each session, and should always be changed if the group isn't feeling them. The goal of session goals is to encourage players to do the things that the group enjoys. The more fun the session, the more potential everybody should get! 
+
+Here are some end-of-session goals that should work for most campaigns assuming a four hour session.
 
 <br/>
 
