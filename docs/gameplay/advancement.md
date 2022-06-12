@@ -47,11 +47,11 @@ Every **10 potential you earn** (spent or not) you increase your maximum ability
 
 <br/>
 
-## Milestones
+## Leveling Up
 
-Milestones are significant power boosts. Usually, you'll get a milestone at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Milestones should probably happen about every 25 points of potential earned so players don't feel like they are bumping their heads on the ceiling with regards to advancement.
+Leveling up means more dice to use on tests, and more dice means more power! Usually, you'll level up at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Characters should level up about every 25 points of potential earned so players don't feel like they are bumping their heads on the ceiling when they're leveling up their skills and backgrounds.
 
-Whenever you achieve a milestone:
+Whenever you level up:
 
 *   Increase your **dice** by 1
 *   Get 12 points to increase your [attributes](../character/attributes.md).
@@ -64,7 +64,7 @@ Then, choose **one**:
 * Increase your [health](../character/damage_and_injuries.md) by 12 and your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6
 * Increase your [health](../character/damage_and_injuries.md) by 18 and your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3
 
-In addition to the power bump, milestones also provide a space for you and your gamemaster to check-in and rework any aspects of the character that just aren't working. This includes, but is not limited to:
+In addition to the power bump, leveling up also provides a space for you and your gamemaster to check-in and rework any aspects of the character that just aren't working. This includes, but is not limited to:
 
 * Forget any number of skills, and reclaim your spent potential
 * Rename any number of skills
@@ -77,9 +77,9 @@ In addition to the power bump, milestones also provide a space for you and your 
 
 <br/>
 
-### Milestone Checklist
+### Level Up Checklist
 
-**When a milestone is achieved....**
+**When you level up....**
 
 * [ ] Increase dice by 1
 * [ ] Get 12 points to increase your [attributes](../character/attributes.md)

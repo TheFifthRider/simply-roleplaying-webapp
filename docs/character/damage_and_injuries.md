@@ -2,7 +2,7 @@
 
 ## Damage
 
-**Damage** is the amount of energy that a character has to handle strenuous and dangerous things. A character's **health** is the maximum amount of damage a character can sustain before sustaining a lasting injury. Health is calculated based on the die level of a character's brawn die as explained in [character creation](../getting_started/creation.md) and can be increased by [milestones](../gameplay/advancement.md).
+**Damage** is the amount of energy that a character has to handle strenuous and dangerous things. A character's **health** is the maximum amount of damage a character can sustain before sustaining a lasting injury. Health is calculated based on the die level of a character's brawn die as explained in [character creation](../getting_started/creation.md) and can be increased by [leveling up](../gameplay/advancement.md).
 
 Whenever a character suffers damage from an attack or risk, they subtract that damage from their health. When their health would reach or go below 0, they take an injury and then reset their health.
 

@@ -95,26 +95,26 @@ If you want an ability to do what it already does, but better, you can amplify i
 
 <br/>
 
-## Abilities Growing with Milestones
+## Abilities Growing with Level
 
 When making an ability, you may not want all aspects of the ability to be improved by a player choosing to **improve an ability**-- increasing the difficulties for tests, the size of bonus dice, or the **+X** tag on ability-created equipment aren't things that necessarily feel rewarding to level up. Improving an ability should always feel like an improvement, it should never feel like keeping up.
 
-To that end, certain aspects of abilities should increase automatically as a character earns additional milestones. Bonus dice granted by an ability, for example, might start as d4s at Milestone 0 and increase every two milestones until Milestone 8, when they become d12s. Test difficulties might increase by 5 every milestone. Here are some suggestions:
+To that end, certain aspects of abilities should increase automatically as a character levels up. Bonus dice granted by an ability, for example, might start as d4s at level 1 and increase every two levels until level 8, when they become d12s. Test difficulties might increase by 10 every level. Here are some suggestions:
 
-| Milestones | Die  | Equipment Quality | Test difficulty |
+| Level | Die  | Equipment Quality | Test difficulty |
 | ---------- | ---- | ----------------- | ------- |
-| 0          | 1d4  | +0                |10|
-| 1          | 1d4  | +1                |15|
-| 2          | 1d6  | +2                |20|
-| 3          | 1d6  | +3                |25|
-| 4          | 1d8  | +4                |30|
-| 5          | 1d8  | +5                |35|
-| 6          | 1d10 | +6                |40|
-| 7          | 1d10 | +7                |45|
-| 8          | 1d12 | +8                |50|
-| 9+         | 1d12 | +9                |55|
+| 1         | 1d4  | +0                |0|
+| 2         | 1d4  | +1                |10|
+| 3         | 1d6  | +2                |20|
+| 4         | 1d6  | +3                |30|
+| 5         | 1d8  | +4                |40|
+| 6         | 1d8  | +5                |50|
+| 7         | 1d10 | +6                |60|
+| 8         | 1d10 | +7                |70|
+| 9         | 1d12 | +8                |80|
+| 10+       | 1d12 | +9                |90|
 
-You can also tie effects to things that are automatically improved every milestone like health, passive ability scores, and total dice.
+You can also tie effects to things that are automatically improved every level like health, passive ability scores, and total dice.
 
 <br/>
 

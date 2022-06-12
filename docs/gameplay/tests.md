@@ -29,14 +29,14 @@ While most tests emerge fluidly from gameplay and don't require this level of de
 
 Most of the time, the difficulty is a static number determined by the gamemaster based on the skill required to achieve success with minimal risk. Below are a collection of difficulty rules of thumb. When creating a test, it's a good idea to start with a difficulty based on one of the rules of thumb and increase or decrease it by a few points depending on how easy or difficult the test is meant to be.
 
-* **Talented but inexperienced** characters who have yet to earn a milestone can handle tests of difficulty **0**
-* **Experienced** characters who have earned a milestone can handle tests of difficulty **10**
-* **Professionals** who have earned two milestones can handle tests of difficulty **20**
-* **Experts** who have earned three milestones can handle tests of difficulty **30**
-* **Masters** who have earned four milestones can handle tests of difficulty **40**
-* Only **Legendary** characters with five or more milestones can attempt to handle tests of difficulty **50 or higher**
+* **Talented but inexperienced** level 1 characters can handle tests of difficulty **0**
+* **Experienced** level 2 characters can handle tests of difficulty **10**
+* **Professionals** who are at least level 3 can handle tests of difficulty **20**
+* **Experts** who are at least level 4 can handle tests of difficulty **30**
+* **Masters** who are at least level 5 can handle tests of difficulty **40**
+* Only **Legendary** characters of level 6 and up can attempt to handle tests of difficulty **50 or higher**
 
-Players, the difficulty rules of thumb can also help you gauge your character's proficiency. If you're regularly rolling above a 20 on a test, chances are you are on the same level as someone who performs those sorts of tests for a living. Gamemasters, if you choose to use more than three skill milestones and three attribute milestones, you should consider writing your own rules of thumb not only to help yourself consistently apply difficulties across your world, but also to help your players understand what rolling a 10 means when compared to the rest of your world's citizens.
+Players, the difficulty rules of thumb can also help you gauge your character's proficiency. If you're regularly rolling above a 20 on a test, chances are you are on the same level as someone who performs those sorts of tests for a living. Gamemasters, if you choose to take characters higher than level 6 you should consider writing your own rules of thumb not only to help yourself consistently apply difficulties across your world, but also to help your players understand what rolling a 10 means when compared to the rest of your world's citizens.
 
 <br/>
 
@@ -48,7 +48,7 @@ When characters directly compete with each other, the gamemaster may rule that i
 
 ## Resolving Tests
 
-In most cases the gamemaster will determine what attribute(s) are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or backgrounds. A character can contribute one skill or background die to a test of ability up to the total amount allowed by their earned [milestones](../gameplay/advancement.md).
+In most cases the gamemaster will determine what attribute(s) are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or backgrounds. A character can contribute one skill or background die to a test of ability up to a maximum equal to their [level](../gameplay/advancement.md).
 
 After that, a character can take dice from any relevant [advantages](advantages_and_disadvantages.md) and add them to their roll. If the test is against another character, they can also take dice from any relevant [disadvantages](advantages_and_disadvantages.md) that character suffers from and add those to their roll as well.
 
@@ -56,7 +56,7 @@ After that, a character can take dice from any relevant [advantages](advantages_
 
 ### Assisting
 
-Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their assistance by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice up to the total amount allowed by their earned [milestones](../gameplay/advancement.md) to use for the test.
+Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their assistance by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice less than or equal to their [level](../gameplay/advancement.md) to use for the test.
 
 All characters who assist in the test help the tested character reach their goal, making success more likely, but each character who assists in the test also either introduce a new risk to the test or somehow worsen the existing risk, making failure all the more dangerous. If the initial risk was a deadly pitfall, the assisting character could be at risk of falling in as well. If the initial risk was taking too long to researching an antidote before the poison took hold, the additional minds involved might result in a fatal miscommunication.
 
