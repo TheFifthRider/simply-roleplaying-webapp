@@ -16,7 +16,7 @@ Whenever you spend [downtime](../gameplay/downtime.md) to **take some time to tr
 
 How a character **takes some time to train** varies from individual to individual, but usually involves several hours of [downtime](../gameplay/downtime.md#training-a-skill), a trainer, and/or suitable materials to study from. A character can act as a trainer for a skill provided that it pertains to one of their backgrounds. This means that a character can train themselves in a skill once they've incorporated it into a background!
 
-A character **gains a flash of insight** in the moment. At any point after determining the result of a skill check, a player may declare that their character has **gained insight** in either a skill that was used for that check or in a skill that could have been used for that check.
+A character **gains a flash of insight** in the moment. You can declare you gain insight right before making a test of ability, right after, or even by watching someone else do something awesome. Whenever it makes sense, a player may declare that their character has **gained insight** in either a skill that was used or in a skill that could have been used in the situation.
 
 <br/>
 
