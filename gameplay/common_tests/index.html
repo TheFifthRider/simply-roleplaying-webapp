@@ -57,7 +57,7 @@
                 </ul>
                 <p class="caption"><span class="caption-text">Getting Started</span></p>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../getting_started/dice/">Dice</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../getting_started/dice/">Some basics</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../getting_started/creation/">Creating a Character</a>
                     </li>
@@ -72,7 +72,7 @@
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../character/damage_and_injuries/">Damage and Injuries</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../character/skills/">Skills and Backgrounds</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/skills/">Backgrounds and what make them</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../character/equipment/">Items and Inventory</a>
                     </li>
@@ -93,9 +93,15 @@
     </li>
         </ul>
     </li>
+    <li class="toctree-l2"><a class="reference internal" href="#gathering-information">Gathering Information</a>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#making-progress-on-a-complicated-goal">Making Progress on a Complicated Goal</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#gathering-information">Gathering Information</a>
+    <li class="toctree-l2"><a class="reference internal" href="#preparing-for-action">Preparing for Action</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#no-rewriting-history">No Rewriting History</a>
+    </li>
+        </ul>
     </li>
     </ul>
                     </li>
@@ -105,7 +111,7 @@
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../chases/">Chases</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../advantages_and_disadvantages/">Advantages and Disadvantages</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../advantages_and_disadvantages/">Bonus Dice</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../downtime/">Downtime</a>
                     </li>
@@ -180,13 +186,13 @@
 <p><em>Difficulty <strong>15</strong> Test of <strong>Brawn</strong></em></p>
 <hr />
 <p><strong>Goal:</strong> Striking the target and inflicting injury</p>
-<p><strong>Risk:</strong> Not inflicting any damage <!-- TODO: Review, what really is the risk here? Is it really just not inflicting as much damage as hoped? --></p>
+<p><strong>Risk:</strong> Not inflicting any damage</p>
 <hr />
 <ul>
+<li><strong>On a failure:</strong> the target takes no damage.</li>
+<li><strong>On a partial success:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal to half of the attacker's total for the test, rounded down.</li>
+<li><strong>On a full success:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal the attacker's total for the test.</li>
 <li><strong>On a critical success:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal to double the attacker's total for the test.</li>
-<li><strong>On a success:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal the attacker's total for the test.</li>
-<li><strong>On a failure:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal to half of the attacker's total for the test, rounded down.</li>
-<li><strong>On a critical failure:</strong> the target takes no damage.</li>
 </ul>
 </blockquote>
 <h3 id="improvised-weapons">Improvised Weapons</h3>
@@ -199,25 +205,15 @@
 <p><em>Difficulty <strong>15</strong> Test of <strong>Brawn</strong></em></p>
 <hr />
 <p><strong>Goal:</strong> Striking the target and inflicting injury</p>
-<p><strong>Risk:</strong> Not inflicting any damage, breaking or damaging the Sniper Rifle <!-- TODO: Review, what really is the risk here? Is it really just not inflicting as much damage as hoped? --></p>
+<p><strong>Risk:</strong> Not inflicting any damage, breaking or damaging the Sniper Rifle</p>
 <hr />
 <ul>
-<li><strong>On a critical success:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal to double the attacker's total for the test.</li>
+<li><strong>On a failure:</strong> the target takes no damage and the sniper rifle gets bent or broken in the scuffle and requires repairs.</li>
+<li><strong>On a partial success:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.</li>
 <li><strong>On a success:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal the attacker's total for the test.</li>
-<li><strong>On a failure:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.</li>
-<li><strong>On a critical failure:</strong> the target takes no damage and the sniper rifle gets bent or broken in the scuffle and requires repairs.</li>
+<li><strong>On a critical success:</strong> the target <a href="../../character/damage_and_injuries/">takes damage</a> equal to double the attacker's total for the test.</li>
 </ul>
 </blockquote>
-<p><br/></p>
-<h2 id="making-progress-on-a-complicated-goal">Making Progress on a Complicated Goal</h2>
-<p>Sometimes the goal of a test is to make <strong>progress</strong> on a larger goal that can't be resolved by just one test. Such goal might be making something complicated, taking out an enemy, or working as a crew to steer a ship through obstacles. The GM will create a progress meter for the overarching goal of the tests the players-- a total number to reach in order to accomplish the overall goal. Any tests that help accomplish the overall goal can help fill the meter. You can represent this meter just by a total number to hit, or you can draw it on a piece of paper to help illustrate the overall progress, whatever works best for your group.</p>
-<p>When a character makes a test of any attribute with a goal to <strong>fill a progress meter</strong>, if they...</p>
-<ul>
-<li><strong>Fail:</strong> They instead make things more complicated, either by falling victim to an existing risk or introducing a new one.</li>
-<li><strong>Partially succeed:</strong> They are able to make some progress. Fill the progress meter by half of what they rolled.</li>
-<li><strong>Fully succeed:</strong> They make great progress. Fill the progress meter by what they rolled.</li>
-<li><strong>Critically Succeed:</strong> They make incredible progress. Fill the progress meter by twice what they rolled.</li>
-</ul>
 <p><br/></p>
 <h2 id="gathering-information">Gathering Information</h2>
 <p>Sometimes the goal of a test is to find <strong>answers to questions</strong>. Such a goal might be researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual. In this case, the results of measure success in number of questions answered. The gamemaster may provide questions that are available to be asked, or allow any question to be asked. </p>
@@ -231,6 +227,37 @@
 <p>The answers to the questions should make sense contextually and should be as complete as possible given the information at the character's disposal. An investigator looking at the scene of a murder might not be able to answer the question <strong>"Who killed this person?"</strong> with the name of the killer, but they could answer that question with <strong>"someone with red hair and a blue cloak"</strong> based on a strand of hair grasped in the victim's hand and a scrap of cloth found wedged in the door nearby.</p>
 <p>Questions should never feel wasted. If the answer to a question was plain or common knowledge and would not normally require a test to uncover, it should be answered without counting against the number of questions that the tested character can ask. If a question is not answerable by the information available in the context of the test, the person asked the question should indicate why it is not answerable and it will not count against the number of questions that the character can ask.</p>
 <p>Players, if your gamemaster allows you to ask any question but you're not sure what to ask, <strong>"What questions should I ask?"</strong> can be a solid question to ask, since learning the right questions to ask is a crucial step in information gathering. Gamemasters, if this is a question that is somehow unanswerable, make sure you have an answer as to why and how it can become answerable.</p>
+<p></br></p>
+<h2 id="making-progress-on-a-complicated-goal">Making Progress on a Complicated Goal</h2>
+<p>Sometimes the goal of a test is to make <strong>progress</strong> on a larger goal that can't be resolved by just one test. Such goal might be making something complicated, taking out an enemy, or working as a crew to steer a ship through obstacles. The GM will create a progress meter for the overarching goal of the tests the players-- a total number to reach in order to accomplish the overall goal. Any tests that help accomplish the overall goal can help fill the meter. You can represent this meter just by a total number to hit, or you can draw it on a piece of paper to help illustrate the overall progress, whatever works best for your group.</p>
+<p>When a character makes a test of any attribute with a goal to <strong>fill a progress meter</strong>, if they...</p>
+<ul>
+<li><strong>Fail:</strong> They instead make things more complicated, either by falling victim to an existing risk or introducing a new one.</li>
+<li><strong>Partially succeed:</strong> They are able to make some progress. Fill the progress meter by half of what they rolled.</li>
+<li><strong>Fully succeed:</strong> They make great progress. Fill the progress meter by what they rolled.</li>
+<li><strong>Critically Succeed:</strong> They make incredible progress. Fill the progress meter by twice what they rolled.</li>
+</ul>
+<p><br/></p>
+<h2 id="preparing-for-action">Preparing for Action</h2>
+<p>While it can be rewarding to act out the players gathering information before going on a heist or gearing up before setting out on adventure, sometimes it's more fun to roll for preparation and cut to the chase. When you roll for preparation, how well you succeed awards you with a number of <strong>flashbacks</strong>. Flashbacks do exactly what it sounds like they do-- when the GM describes a complication that your preparation could have resolved, you can use a flashback to take the narrative back in time to describe how your preparation dealt with that problem. </p>
+<blockquote>
+<p>An adventuring party in Victorian London is investigating an elusive murderer. In an effort to capture them, the group takes a few days to take in the crime scene and prepare.</p>
+<p>Later, the group finds themselves deep in the sewers chasing after their quarry. In an effort to catch up to them, the mastermind of the group <strong>flashes back</strong> to purchasing a sewer map from a descendant of one of the original architects. The player marks off the cost of the map and uses it to corner the suspect and force a confrontation.</p>
+</blockquote>
+<p>Not every preparation is guaranteed to succeed, however. The GM is well within their rights to ask you to make a test of ability to see how well your preparation holds up, or even if things go well for you.</p>
+<blockquote>
+<p>An adventuring party plans to steal from a high security vault. They take a few days to case the joint.</p>
+<p>Later, the group is deep within the compound when they discover an impenetrable web of security lasers. The hacker <strong>flashes back</strong> to making preparations to temporarily disable the security. The GM asks them to roll to see if they're able to bypass the vault's security-- and for how long. The hacker manages a partial success-- long enough to get them in to grab what they needed, but not long enough to keep them from tripping the lasers on their way back out the door!</p>
+</blockquote>
+<p>When a character takes some downtime and makes a test of any attribute with a goal to <strong>prepare for a situation</strong>, if they...</p>
+<ul>
+<li><strong>Fail:</strong> They get two flashbacks, but one of them is guaranteed to go wrong.</li>
+<li><strong>Partially succeed:</strong> They get two flashbacks.</li>
+<li><strong>Fully succeed:</strong> They get three flashbacks.</li>
+<li><strong>Critically Succeed:</strong> They get four flashbacks</li>
+</ul>
+<h3 id="no-rewriting-history">No Rewriting History</h3>
+<p>It's important to note that flashbacks <strong>should not</strong> rewrite history. If a guard sounded the alarm, no amount of flashing back to bribing them will undo that the alarm has been pressed. However, if the GM describes the alarm being pressed but hasn't yet described the flashing lights, it's totally valid for someone with tech savviness to cut in with a flashback to disabling the alarm system before the party made their way in.</p>
               
             </div>
           </div>
