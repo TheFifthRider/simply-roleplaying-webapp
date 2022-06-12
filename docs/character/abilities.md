@@ -18,8 +18,8 @@ Often, a character's abilities will do things like:
 
 *   Inflict [damage](damage_and_injuries.md)
 *   Make a test to heal [damage](damage_and_injuries.md)
-*   Create an [advantage or disadvantage](../gameplay/advantages_and_disadvantages.md)
-    *   ...which could be a [special advantage or disadvantage](../gameplay/advantages_and_disadvantages.md#Special Advantages and Disadvantages)
+*   Create [bonus dice](../gameplay/advantages_and_disadvantages.md)
+    *   ...which could be [special bonus dice](../gameplay/advantages_and_disadvantages.md#Special Advantages and Disadvantages)
 *   Give some [equipment](equipment.md) a specific [tag](equipment.md#the-full-list-of-tags)
 *   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
 *   Move the character where they want to be
@@ -87,7 +87,7 @@ As you get stronger, so should your abilities! When you upgrade your abilities, 
 
 ### Giving an Ability an Additional Effect
 
-Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [advantage](../gameplay/advantages_and_disadvantages.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
+Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [bonus](../gameplay/advantages_and_disadvantages.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
 
 ### Making an Ability Stronger
 
@@ -124,20 +124,20 @@ All right, we've spent enough time talking about how they work. Let's make some 
 
 ### Tinkering Inventor
 
-What if our character was a _Tinkering Inventor_? Someone who can always make the right tools for the job. Their abilities could be the inventions they create, powered by the **scrap** that the Inventor uses to make them. One ability could be **Springloaded Boots**-- a cobbled together contraption that allows the wearer to leap further and run faster... until it breaks. That's pretty easy to represent as an advantage that the Inventor puts together over some downtime.
+What if our character was a _Tinkering Inventor_? Someone who can always make the right tools for the job. Their abilities could be the inventions they create, powered by the **scrap** that the Inventor uses to make them. One ability could be **Springloaded Boots**-- a cobbled together contraption that allows the wearer to leap further and run faster... until it breaks. That's pretty easy to represent as bonus dice that the Inventor puts together over some downtime.
 
 Ability points: **Scrap**
 Ability: **Springloaded Boots**
 
-| Requirements                                     | Effect                                                      |
-| ------------------------------------------------ | ----------------------------------------------------------- |
-| By spending 1 scrap over some downtime, I can... | ...give 1 target a 4d4 advantage called Springloaded Boots. |
+| Requirements                                     | Effect                                                     |
+| ------------------------------------------------ | ---------------------------------------------------------- |
+| By spending 1 scrap over some downtime, I can... | ...give 1 target 4d4 bonus dice called Springloaded Boots. |
 
-And upgrading it would probably mean making the boots last longer and be more durable, so we can just increase the number of dice on the advantage
+And upgrading it would probably mean making the boots last longer and be more durable, so we can just increase the number of bonus dice.
 
 | Requirements                                     | Effect                                                       |
 | :----------------------------------------------- | ------------------------------------------------------------ |
-| By spending 1 scrap over some downtime, I can... | ...give 1 target an **8**d4 advantage called Springloaded Boots. |
+| By spending 1 scrap over some downtime, I can... | ...give 1 target **8**d4 bonus dice called Springloaded Boots. |
 
 <br/>
 
@@ -152,11 +152,11 @@ Ability: **Health Potion**
 | -------------------------------------------------- | -------------------------------------------- |
 | By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach. |
 
-We could then upgrade this potion to give it a secondary effect-- perhaps an invigorating advantage?
+We could then upgrade this potion to give it a secondary effect-- perhaps bonus dice for being invigorated?
 
 | Requirements                                       | Effect                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------ |
-| By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach and give them a 2d4 advantage called _Invigorated_. |
+| By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach and give them 2d4 bonus dice called _Invigorated_. |
 
 <br/>
 
@@ -190,11 +190,11 @@ Ability: **There's a Wiki for That**
 | ------------------------------------------------------------ | ------------------------------- |
 | By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll. |
 
-Upgrading this ability might allow the Savant to utilize some tidbits they picked up when researching as an advantage.
+Upgrading this ability might allow the Savant to utilize some tidbits they picked up when researching as bonus dice.
 
 | Requirements                                                 | Effect                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and give myself an appropriately titled 4d4 advantage based on what I researched. |
+| By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and give myself 4d4 bonus dice named after what I researched. |
 
 <br/>
 
@@ -231,46 +231,46 @@ Let's start with the ability **Berserking**
 
 A good starting point, but let's see if we can make it more interesting.
 
-The next chance we get to improve abilities, we choose to **make the ability stronger**. We can't increase the number of dice that we have, but we can change the dice into an **advantage** that can be used more than once. Since advantages are more broadly useful than just attacks, let's also change the trigger to an action.
+The next chance we get to improve abilities, we choose to **make the ability stronger**. We can't increase the number of dice that we have, but we can change the dice into an **bonus dice** that can be used more than once. Since bonus dice are more broadly useful than just attacks, let's also change the trigger to an action.
 
 #### Berserking II
 
 | Requirements                                           | Effect                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of fury, I can use an action to... | ...create a 2d4 Advantage named **Berserking** for the scene. |
+| By spending a point of fury, I can use an action to... | ...create 2d4 bonus dice named **Berserking** for the scene. |
 
-Already this is looking jucier. Now, not only do we get a 1d4 bonus to attacks, but we can also spend the dice on the advantage for breaking down doors, resisting mind control, and all kinds of other stuff that having a **Berserking** advantage helps with.
+Already this is looking jucier. Now, not only do we get a 1d4 bonus to attacks, but we can also spend the dice from the bonus dice for breaking down doors, resisting mind control, and all kinds of other stuff that having **Berserking** bonus dice might help with.
 
-Where do we go from here? Well, a simple route would just be to increase the number of dice that we have on the Berserking advantage to get more Berserking Time, but what if we made it a special advantage? We'd need our gamemaster's approval and their help making some balanced tweaks, but with their help we could come up with something like...
+Where do we go from here? Well, a simple route would just be to increase the number of dice that we have on the Berserking bonus dice to get more Berserking Time, but what if we made them special bonus dice? We'd need our gamemaster's approval and their help making some balanced tweaks, but with their help we could come up with something like...
 
 #### Berserking III
 
 | Requirements                                           | Effect                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of fury, I can use an action to... | ...create a 1d4 Special Advantage named **Berserking** for the scene. |
+| By spending a point of fury, I can use an action to... | ...create 1d4 special bonus dice named **Berserking** for the scene. |
 
 > **Berserking**
 >
-> When you **make an attack** add 1d4 to this advantage.
-> The first time you **take damage** each turn, add 1d4 to this advantage.
-> If you end your turn without spending dice from this advantage, the advantage is lost.
+> When you **make an attack** add 1d4 to these bonus dice.
+> The first time you **take damage** each turn, add 1d4 to these bonus dice.
+> If you end your turn without spending one of these bonus dice, they are all lost.
 
-This is what our gamemaster helped us come up with. It's a Special Advantage that feeds itself the more that we attack and take damage, but it has the downside of needing to be used at least once on each of our turns or it goes away. Now we're really getting somewhere! 
+This is what our gamemaster helped us come up with. They're special bonus dice that feeds themselves the more that we attack and take damage, but have the downside of needing to be used at least once on each of our turns or they go away. Now we're really getting somewhere! 
 
-But... what if we could make it _even better?_ Our gamemaster has an idea for that-- they say that if we want to, we can upgrade the ability again to remove the restriction that causes us to lose the advantage.
+But... what if we could make it _even better?_ Our gamemaster has an idea for that-- they say that if we want to, we can upgrade the ability again to remove the restriction that causes us to lose the bonus dice.
 
 #### Berserking IV
 
 | Requirements                                           | Effect                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of fury, I can use an action to... | ...create a 1d4 Special Advantage named **Berserking** for the scene. |
+| By spending a point of fury, I can use an action to... | ...create 1d4 special bonus dice named **Berserking** for the scene. |
 
 > **Berserking**
 >
-> When you **make an attack** add 1d4 to this advantage.
-> The first time you **take damage** each turn, add 1d4 to this advantage.
+> When you **make an attack** add 1d4 to these bonus dice.
+> The first time you **take damage** each turn, add 1d4 to these bonus dice.
 
-Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get a powerful advantage that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!
+Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get powerful  these dice that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!
 
 <br/>
 

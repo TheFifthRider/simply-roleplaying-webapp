@@ -43,8 +43,8 @@ Every 10 potential, choose one:
 | Effect                                                       | Ways you could strengthen it                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ...do something extraordinary.                               | Increase the magnitude of the extraordinary action.          |
-| ...give 1 target a 1d4 advantage.                            | Increase the number of targets<br/>Replace targets with an area of effect |
-| ...add an extra 1d4 to my roll.                              | Add an extra 1d4 to my roll, then create a 1d4 advantage.    |
+| ...give 1 target 1d4 bonus dice.                             | Increase the number of targets<br/>Replace targets with an area of effect |
+| ...add an extra 1d4 to my roll.                              | Add an extra 1d4 to my roll, then create 1d4 bonus dice.     |
 | ...make a test and recover that much damage.                 |                                                              |
 | ...move up to my speed.                                      |                                                              |
 | ...give a specific equipment a specific tag for a specific amount of time. | Add additional tags<br/>Add equipment that could be used<br/>Increase the amount of time |
