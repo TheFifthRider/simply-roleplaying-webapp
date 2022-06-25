@@ -1,8 +1,8 @@
 # Advancement
 
-## Checklists and Goals
-
 At the end of every session, you earn [potential](../character/skills.md#potential) based on how much progress it feels like the characters have made in the story. While your gamemaster can absolutely decide on how much potential to award on their own (one to two points of potential per two hours of playtime is about right), roleplaying is constructing a shared narrative and unplanned progress through a character arc is just as important as advancing the plot.
+
+## Checklists and Goals
 
 A way everybody can help determine how many points of [potential](../character/skills.md#honing-your-skills) to earn at the end of a session is by setting session goals. Come up with a list of goals that start with "Gain a point of [potential](../character/skills.md#honing-your-skills) if we..."-- about one per hour you usually play. Then, at the end of each session, read each goal aloud. If the group met the goal, everyone gains a point of potential.
 
@@ -29,21 +29,38 @@ Personal goals are set by each player on their own based on whatever makes sense
 
 Early goals like these:
 
-* Gain a point of potential if you protected Wren from the brigands
-* Gain a point of potential if you take a thieves guild job
-* Gain a point of potential if you talk your way into the art show
+* [ ] Gain a point of potential if you protected Wren from the brigands
+* [ ] Gain a point of potential if you take a thieves guild job
+* [ ] Gain a point of potential if you talk your way into the art show
 
 Can become these:
 
-* Gain a point of potential if you put yourself in harms way to protect another
-* Gain a point of potential if you skimmed a little off the top for yourself
-* Gain a point of potential if you convinced someone to see it your way
+* [ ] Gain a point of potential if you put yourself in harms way to protect another
+* [ ] Gain a point of potential if you skimmed a little off the top for yourself
+* [ ] Gain a point of potential if you convinced someone to see it your way
 
 <br/>
 
-## Abilities
+## Potential
 
-Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
+**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve [attributes](../character/attributes.md), [skills, and legacies](../character/skills.md#improving-skills-and-legacies), increase your character's [health](../character/damage_and_injuries.md) and specific [ability points](../character/abilities.md#ability-points), and/or to gain new [abilities](../character/).
+
+### Spending Potential
+
+You can spend **one point of potential** to:
+
+*   Learn or level up a [skill or legacy](../character/skills.md#improving-skills-and-legacies)
+*   Increase your character's [health](../character/damage_and_injuries.md) per injury by 1
+
+You can spend **two points of potential** to:
+
+*   Level up an [attribute](../character/attributes.md), as long as it's not already at your level's attribute cap
+*   Increase one of your pools of [ability points](../character/abilities.md#ability-points) by 1
+*   Create a new pool of [ability points](../character/abilities.md#ability-points)
+
+You can spend **three points of potential** to:
+
+*   Learn a new [ability](../character/abilities.md) or improve an existing ability
 
 <br/>
 
@@ -51,20 +68,7 @@ Every **10 potential you earn** (spent or not) you increase your maximum ability
 
 Leveling up means more dice to use on tests, and more dice means more power! Usually, you'll level up at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Characters should level up about every 25 points of potential earned so players don't feel like they are bumping their heads on the ceiling when they're leveling up their skills and backgrounds.
 
-Whenever you level up:
-
-*   Increase your **dice** by 1
-*   Get 12 points to increase your [attributes](../character/attributes.md).
-
-Just like at [character creation](../getting_started/creation.md), you cannot spend more than **3** of these points on any one attribute, and must spend at least **1** on each.
-
-Then, choose **one**:
-
-* Increase your [health](../character/damage_and_injuries.md) by 6 and your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 9
-* Increase your [health](../character/damage_and_injuries.md) by 12 and your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6
-* Increase your [health](../character/damage_and_injuries.md) by 18 and your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3
-
-In addition to the power bump, leveling up also provides a space for you and your gamemaster to check-in and rework any aspects of the character that just aren't working. This includes, but is not limited to:
+In addition to the power bump of being able to roll more dice, leveling up also provides a space for you and your gamemaster to check-in and rework any aspects of the character that just aren't working. This includes, but is not limited to:
 
 * Forget any number of skills, and reclaim your spent potential
 * Rename any number of skills
@@ -74,31 +78,5 @@ In addition to the power bump, leveling up also provides a space for you and you
 * Erase any abilities you want, and reclaim your spent maximum ability points
 * Gain any number of new abilities, spending 1 maximum ability point for each
 * Improve abilities any number of times, spending 2 maximum ability points for each
-
-<br/>
-
-### Level Up Checklist
-
-**When you level up....**
-
-* [ ] Increase dice by 1
-* [ ] Get 12 points to increase your [attributes](../character/attributes.md)
-
-
-Choose **one:**
-
-* [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 9 and your maximum [damage](../character/damage_and_injuries.md) by 12
-* [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 6 and your maximum [damage](../character/damage_and_injuries.md) by 18
-* [ ] Increase your maximum [ability points](../character/abilities.md#costs-and-ability-points) by 3 and your maximum [damage](../character/damage_and_injuries.md) by 24
-
-And finally...
-
-* [ ] (Optionally) **Rework anything!**
-    - Rename any number of skills and backgrounds
-    - Erase any skills or backgrounds you want, get back the potential you spent on them
-    - Invest unspent potential in any number of skills, combine any number of d12 skills into backgrounds
-    - Erase any abilities you want, get back the maximum ability points you spent on them
-    - Spend your maximum ability points on learning or upgrading any abilities you want
-    - Do anything else you need to do!
 
 <br/>

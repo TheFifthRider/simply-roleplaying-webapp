@@ -4,15 +4,15 @@ Where attributes represent broadly a character in broad strokes, skills, legacie
 
 <br/>
 
-## Potential
+## Improving Skills and Legacies
 
-Every skill and legacy starts out at d4 and can grow to be as powerful as d12. **Potential** is a measure of your character's growth-- how much room do they have to live up to titles, given a competent teacher and time to learn. During [character creation](../getting_started/creation.md), the gamemaster will allot all of their players with a standard amount of potential to start the game with. Additional potential is earned [at the end of every session](../gameplay/advancement.md).
+Every skill and legacy starts out at d4 and can grow to be as powerful as d12. Whenever you spend some downtime doing something that improves the skill or legacy, you can spend potential to acquire a skill or legacy you did not have, writing it down as a d4 skill or legacy, respectively, or to level up an existing skill or legacy to the next largest die size.
 
 <br/>
 
 ### Developing Skills
 
-Whenever you spend [downtime](../gameplay/downtime.md) to **take some time to train** or **gain a flash of insight**, you can spend potential to either **learn** a new skill that you do not have written down on your character sheet or to **level up** a skill that you do have written down on your character sheet. When you learn a new skill, write it down as a new d4 skill. When you level up an existing skill, increase the size of the skill's die to the next largest size. 
+Whenever you spend [downtime](../gameplay/downtime.md) to **take some time to train** or **gain a flash of insight**, you can spend potential to either **learn** a new skill that you do not have written down on your character sheet or to **level up** a skill that you do have written down on your character sheet.
 
 How a character **takes some time to train** varies from individual to individual, but usually involves several hours of [downtime](../gameplay/downtime.md#training-a-skill), a trainer, and/or suitable materials to study from. A character can act as a trainer for a skill provided that it pertains to one of their backgrounds. This means that a character can train themselves in a skill once they've incorporated it into a background!
 
@@ -22,7 +22,7 @@ A character **gains a flash of insight** in the moment. You can declare you gain
 
 ### Earning Legacies
 
-Whenever you **do something memorable** or **act like your reputation**, you can spend potential to either **start** a new legacy that isn't written on your character sheet, or **level up** a legacy that you already have written down. When you start a new legacy, write it down as a new d4 legacy. When you level up an existing legacy, increase the size of the legacy's die to the next largest size.
+Whenever you **do something memorable** or **act like your reputation**, you can spend potential to either **start** a new legacy that isn't written on your character sheet, or **level up** a legacy that you already have written down.
 
 **Doing something memorable** sounds broad, and that's because it is! Doing something memorable might be joining a faction, making an enemy, or saving a town. Any time you do anything that underscores your character's values in a way that other characters can talk about it, that's something memorable.
 
