@@ -14,7 +14,7 @@ In addition, all characters have intrinsic attributes about them that make it ea
 
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/damage_and_injuries.md), then calculate your **health** by adding your Will and Brawn to 12.
+Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/health.md), then calculate your **health** by adding your Will and Brawn to 12.
 
 `Health = 12 + Brawn + Will`
 

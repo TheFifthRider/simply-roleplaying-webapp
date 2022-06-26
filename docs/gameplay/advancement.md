@@ -43,14 +43,14 @@ Can become these:
 
 ## Potential
 
-**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve [attributes](../character/attributes.md), [skills, and legacies](../character/backgrounds.md#improving-skills-and-legacies), increase your character's [health](../character/damage_and_injuries.md) and specific [ability points](../character/abilities.md#ability-points), and/or to gain new [abilities](../character/).
+**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve [attributes](../character/attributes.md), [skills, and legacies](../character/backgrounds.md#improving-skills-and-legacies), increase your character's [health](../character/health.md) and specific [ability points](../character/abilities.md#ability-points), and/or to gain new [abilities](../character/).
 
 ### Spending Potential
 
 You can spend **one point of potential** to:
 
 *   Learn or level up a [skill or legacy](../character/backgrounds.md#improving-skills-and-legacies)
-*   Increase your character's [health](../character/damage_and_injuries.md) per injury by 1
+*   Increase your character's [health](../character/health.md) per injury by 1
 
 You can spend **two points of potential** to:
 

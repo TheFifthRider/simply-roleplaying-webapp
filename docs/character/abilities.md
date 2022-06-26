@@ -16,8 +16,8 @@ Abilities tend to work best when you don't try to put restrictions on them. If y
 
 Often, a character's abilities will do things like:
 
-*   Inflict [damage](damage_and_injuries.md)
-*   Make a test to heal [damage](damage_and_injuries.md)
+*   Inflict [damage](health.md)
+*   Make a test to heal [damage](health.md)
 *   Create [bonus dice](../gameplay/advantages_and_disadvantages.md)
     *   ...which could be [special bonus dice](../gameplay/advantages_and_disadvantages.md#Special Advantages and Disadvantages)
 *   Give some [equipment](equipment.md) a specific [tag](equipment.md#the-full-list-of-tags)

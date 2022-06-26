@@ -53,7 +53,7 @@ During downtime, you can always choose to regain some potential by abandoning a 
 
 ## Recovering
 
-You can spend a period of downtime recovering to erase all of the injury boxes on their character sheet and restore your spent [ability points](../character/abilities.md#costs-and-ability-points). More details on recovering from injuries specifically can be found in [Damage and Injuries](../character/damage_and_injuries.md#Recovering).
+You can spend a period of downtime recovering to erase all of the injury boxes on their character sheet and restore your spent [ability points](../character/abilities.md#costs-and-ability-points). More details on recovering from injuries specifically can be found in [Damage and Injuries](../character/health.md#Recovering).
 
 <br/>
 

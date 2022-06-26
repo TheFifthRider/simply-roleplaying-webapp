@@ -9,9 +9,9 @@ Attacking with a weapon is a [test of ability](tests.md). The attribute for the 
 When a character makes a test of any attribute with a goal to **attack with a weapon**, if they...
 
 *   **Fail:** Their target takes no damage.
-*   **Partially succeed:** Their target [takes damage](../character/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down.
-*   **Fully succeed:** Their target [takes damage](../character/damage_and_injuries.md) equal the attacker's total for the test.
-*   **Critically Succeed:**  Their target [takes damage](../character/damage_and_injuries.md) equal to double the attacker's total for the test.
+*   **Partially succeed:** Their target [takes damage](../character/health.md) equal to half of the attacker's total for the test, rounded down.
+*   **Fully succeed:** Their target [takes damage](../character/health.md) equal the attacker's total for the test.
+*   **Critically Succeed:**  Their target [takes damage](../character/health.md) equal to double the attacker's total for the test.
 
 As an example, here's the test for attacking an armor value 15 target using a greatsword with the tags _brawn_, _melee_, _large_, _cleaving_, and _slashing_:
 
@@ -28,9 +28,9 @@ As an example, here's the test for attacking an armor value 15 target using a gr
 >  ****
 >
 >  * **On a failure:** the target takes no damage.
->  * **On a partial success:** the target [takes damage](../character/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down.
->  * **On a full success:** the target [takes damage](../character/damage_and_injuries.md) equal the attacker's total for the test.
->  * **On a critical success:** the target [takes damage](../character/damage_and_injuries.md) equal to double the attacker's total for the test.
+>  * **On a partial success:** the target [takes damage](../character/health.md) equal to half of the attacker's total for the test, rounded down.
+>  * **On a full success:** the target [takes damage](../character/health.md) equal the attacker's total for the test.
+>  * **On a critical success:** the target [takes damage](../character/health.md) equal to double the attacker's total for the test.
 
 ### Improvised Weapons
 
@@ -55,9 +55,9 @@ As an example, here's a possible test for attacking an armor value 15 target usi
 >  ****
 >
 >  * **On a failure:** the target takes no damage and the sniper rifle gets bent or broken in the scuffle and requires repairs.
->  * **On a partial success:** the target [takes damage](../character/damage_and_injuries.md) equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.
->  * **On a success:** the target [takes damage](../character/damage_and_injuries.md) equal the attacker's total for the test.
->  * **On a critical success:** the target [takes damage](../character/damage_and_injuries.md) equal to double the attacker's total for the test.
+>  * **On a partial success:** the target [takes damage](../character/health.md) equal to half of the attacker's total for the test, rounded down, and the sniper rifle jams or is otherwise unusable for a short time.
+>  * **On a success:** the target [takes damage](../character/health.md) equal the attacker's total for the test.
+>  * **On a critical success:** the target [takes damage](../character/health.md) equal to double the attacker's total for the test.
 
 <br/>
 
