@@ -18,8 +18,8 @@ Often, a character's abilities will do things like:
 
 *   Inflict [damage](health.md)
 *   Make a test to heal [damage](health.md)
-*   Create [bonus dice](../gameplay/advantages_and_disadvantages.md)
-    *   ...which could be [special bonus dice](../gameplay/advantages_and_disadvantages.md#Special Advantages and Disadvantages)
+*   Create [bonus dice](../gameplay/bonus_dice.md)
+    *   ...which could be [special bonus dice](../gameplay/bonus_dice.md#Special Advantages and Disadvantages)
 *   Give some [equipment](equipment.md) a specific [tag](equipment.md#the-full-list-of-tags)
 *   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
 *   Move the character where they want to be
@@ -87,7 +87,7 @@ As you get stronger, so should your abilities! When you upgrade your abilities, 
 
 ### Giving an Ability an Additional Effect
 
-Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [bonus](../gameplay/advantages_and_disadvantages.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
+Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [bonus](../gameplay/bonus_dice.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
 
 ### Making an Ability Stronger
 
