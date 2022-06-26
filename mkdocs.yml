@@ -7,7 +7,7 @@ nav:
         - getting_started/index.md
         - getting_started/creation.md
     - 'What makes a Character':
-        - character/character.md
+        - character/index.md
         - character/abilities.md
         - character/attributes.md
         - character/health.md
