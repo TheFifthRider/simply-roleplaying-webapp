@@ -1,6 +1,6 @@
 # Attributes
 
-Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Attributes get added to the dice rolled as a part of [tests of ability](../gameplay/tests.md). Attributes are assigned an initial value in [character creation](../getting_started/creation.md) and increase when you [level up](../gameplay/advancement.md).
+Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Attributes get added to the dice rolled as a part of [tests of ability](../gameplay/tests.md). Attributes are assigned an initial value in [character creation](../getting_started/creation.md) and you can increase them by spending [potential](../gameplay/advancement.md#potential).
 
 <br/>
 
@@ -17,6 +17,14 @@ Attributes are the measurement of a character's intrinsic ability, from how stro
 **Presence** is a measure of a character's social skills and natural charm. Characters with high Presence are often amiable, convincing, and socially adept.
 
 **Will** is a measure of a character's drive and resolve. Characters with high Will are often determined, independent, and undeterred by hardship.
+
+<br/>
+
+## Attribute Level Cap
+
+While you can increase attributes at any time by spending potential, attributes for a level 1 character cannot be increased to beyond **+3**. Whenever a character levels up, this cap increases by 3 -- so your attribute level cap can always be determined by multiplying your character's level by 3.
+
+`Attribute Cap = 3 x level`
 
 <br/>
 

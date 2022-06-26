@@ -54,19 +54,22 @@ You can spend **one point of potential** to:
 
 You can spend **two points of potential** to:
 
-*   Level up an [attribute](../character/attributes.md), as long as it's not already at your level's attribute cap
+*   Increase an [attribute](../character/attributes.md) by +1, up to the [attribute level cap](../character/attributes.md#attribute-level-cap)
 *   Increase one of your pools of [ability points](../character/abilities.md#ability-points) by 1
 *   Create a new pool of [ability points](../character/abilities.md#ability-points)
 
 You can spend **three points of potential** to:
 
-*   Learn a new [ability](../character/abilities.md) or improve an existing ability
+*   Learn a new [ability](../character/abilities.md) 
+*   Strengthen an existing ability
 
 <br/>
 
 ## Leveling Up
 
-Leveling up means more dice to use on tests, and more dice means more power! Usually, you'll level up at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Characters should level up about every 25 points of potential earned so players don't feel like they are bumping their heads on the ceiling when they're leveling up their skills and backgrounds.
+Leveling up means more dice to use on tests and more room to grow your attributes. Usually, you'll level up at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Characters should level up about every 25 points of potential earned so players don't feel like they are bumping their heads on the ceiling when they're leveling up their skills and backgrounds.
+
+### Character Check-In
 
 In addition to the power bump of being able to roll more dice, leveling up also provides a space for you and your gamemaster to check-in and rework any aspects of the character that just aren't working. This includes, but is not limited to:
 

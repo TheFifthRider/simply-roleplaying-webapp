@@ -10,7 +10,9 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 
 Your starting speed is 3m. This measures the amount of distance you can travel in a few seconds-- the length of [an action](../gameplay/action.md#moving-your-speed).
 
-In addition, all characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then determine the starting value for your attributes. You get 12 points to increase your attributes from +0-- you must spend at least 1 point on each attribute, and no more than 3 points.
+In addition, all characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then adjust your attributes until they all add up to **+12**. Make sure to adhere to the [attribute level cap](../character/attributes.md#attribute-level-cap)!
+
+_Gamemasters, if players are starting at a level higher than 1 their starting attributes should add up to 12 times their starting level._
 
 ### How much stress can you handle?
 
