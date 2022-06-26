@@ -30,7 +30,7 @@ Equipment with this tag are more effective than other equipment of the same type
 
 #### < Extranormal Power >
 
-Equipment with this tag is infused with a particular type of [extranormal power](../extras/powers.md), augmenting its functionality.
+Equipment with this tag is infused with a particular type of [extranormal power](../setting_rules/powers.md), augmenting its functionality.
 
 #### Agility
 
@@ -64,7 +64,7 @@ Equipment with this tag are small and easy to take out or hide. _Daggers_, _mini
 
 #### Focus
 
-Equipment with this tag can be used to utilize the [extranormal powers](../extras/powers.md) that this weapon is tagged with.
+Equipment with this tag can be used to utilize the [extranormal powers](../setting_rules/powers.md) that this weapon is tagged with.
 
 #### Hooking
 

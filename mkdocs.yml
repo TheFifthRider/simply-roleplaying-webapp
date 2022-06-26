@@ -23,8 +23,8 @@ nav:
         - gameplay/chases.md
         - gameplay/advancement.md
     - 'Setting Rules':
-        - extras/setting_rules.md
-        - extras/powers.md
+        - setting_rules/index.md
+        - setting_rules/powers.md
     - 'The World':
         - worlds/earth_the_forgotten_times/overview.md
         - worlds/earth_the_forgotten_times/pantheons.md

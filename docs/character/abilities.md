@@ -1,6 +1,6 @@
 # Abilities
 
-**Abilities** are the cool mechanics that show off what makes your character awesome. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their [power](../extras/powers.md) over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!
+**Abilities** are the cool mechanics that show off what makes your character awesome. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their [power](../setting_rules/powers.md) over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!
 
 This section is written assuming that players and GMs will work together to create cool abilities, but you can also decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.
 
@@ -24,7 +24,7 @@ Often, a character's abilities will do things like:
 *   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
 *   Move the character where they want to be
 *   Move someone else where the character wants them to be
-*   Do something narratively extraordinary (for instance, using [powers](../extras/powers.md))
+*   Do something narratively extraordinary (for instance, using [powers](../setting_rules/powers.md))
 
 If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
 
