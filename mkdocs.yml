@@ -4,7 +4,7 @@ nav:
     - Home: index.md
     - About: about.md
     - 'Getting Started':
-        - getting_started/dice.md
+        - getting_started/index.md
         - getting_started/creation.md
     - 'What makes a Character':
         - character/character.md
