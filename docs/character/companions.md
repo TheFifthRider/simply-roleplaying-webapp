@@ -8,9 +8,16 @@ Helper companions just have a [background](../character/backgrounds.md) that des
 
 ## Allies
 
-Allies are a bit more complicated-- they have their own pool of damage, attributes, passive attributes, equipment, and their own background. However, allies only progress when you do and cannot have their own potential. Because Allies have their own health, attributes, and equipment, they're almost a second character! Expect them to get into scrapes and have to contend with risks.
+Allies are a bit more complicated-- they have their own pool of damage, attributes, passive attributes, equipment, and their own background. However, allies only progress when you do and cannot have their own potential. Because allies have their own health, attributes, and equipment, they're almost a second character! Expect them to get into scrapes and have to contend with risks.
 
-While they may have their own pool of damage, you share injuries with any ally companions you have. Allies also cannot learn new backgrounds of their own, but they can use any background on your character sheet that references them. They also share the three actions you can perform in an action scenario, but your characters and allies can perform any actions which make sense together.
+There are also a few rules to remember when playing with allies:
 
-To make an ally, answer the [creating a character](../getting_started/creation,md) questions, but skip **What Makes you Unique** (allies share your ability points and other unique stuff) and Allies must be created with a background instead of taking the starting pool of potential. Whenever you level up, rank the companion's attributes from highest to lowest. Increase the companion's two highest attributes by +3, the second two highest by +2, and the last two attributes by +1.
+* **Allies share your injuries!** While they may have their own pool of health, you share injury boxes and their associated injuries -- and if one of you gets defeated, you all are. 
+* **Allies share your backgrounds!** Allies cannot learn backgrounds of their own, but they can use any background on your character sheet that references them. 
+* **Allies take their turn with you!** Allies share the three actions you can perform in an action scenario, but you and your allies can perform any actions which [make sense](../getting_started/index.md#narrative-truth) (often movement) as one action.
+* **Allies get stronger when you do!** Whenever you increase one of your attributes, you can increase one of each of your allies' attributes as well!
+* **Allies get healthier when you do!** Whenever you increase your health, you increase their health.
+* **Allies can use your abilities!** As long as it [makes sense](../getting_started/index.md#narrative-truth) to do so, allies can use any of your abilities from your character sheet. You should totally make teamwork related abilities for them!
+
+To make an ally, answer the [creating a character](../getting_started/creation,md) questions, but skip **What Makes you Unique**, since allies share your ability points and other unique stuff. Allies also must be created with a background instead of taking the starting pool of potential. 
 
