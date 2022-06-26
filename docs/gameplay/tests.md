@@ -1,6 +1,6 @@
 # Tests of Ability
 
-Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/skills.md) and adding the value of an [attribute](../character/attributes.md) to meet or exceed a number that represents the difficulty of doing what they want to do.
+Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) and adding the value of an [attribute](../character/attributes.md) to meet or exceed a number that represents the difficulty of doing what they want to do.
 
 While most tests emerge fluidly from gameplay and don't require this level of detail, a fully written test would look something like this:
 

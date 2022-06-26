@@ -14,7 +14,7 @@ By their very nature, powers almost always allow their wielder to do things that
 
 ## How do Powers Work?
 
-Powers, just like anything else significant that a character does, often require a [test of ability](../gameplay/tests.md) to use. The [skills and backgrounds](../character/skills.md) required to wield them tend to describe the power; a _pyromancy_ skill allows the wielder to manipulate fire, a _telepathy_ skill allows them to speak into the minds of others, and a _gravitational manipulation_ skill allows them manipulate gravity.
+Powers, just like anything else significant that a character does, often require a [test of ability](../gameplay/tests.md) to use. The [skills and backgrounds](../character/backgrounds.md) required to wield them tend to describe the power; a _pyromancy_ skill allows the wielder to manipulate fire, a _telepathy_ skill allows them to speak into the minds of others, and a _gravitational manipulation_ skill allows them manipulate gravity.
 
 That said, just having the _pyromancy_ skill doesn't necessarily give you control over flame. Usually you'll need an ability, a piece of equipment, or some combination of both to do that.
 

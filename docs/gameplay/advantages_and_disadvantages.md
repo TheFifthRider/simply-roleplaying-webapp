@@ -1,6 +1,6 @@
 # Bonus Dice
 
-If you're fired up, tactically informed, or your teammate put you into a good position, you get access to bonus dice to do awesome stuff. Similarly, if your guard got broken, sand got kicked in your eyes, or you're pinned down by sniper fire, other people might have bonus dice against you. **Bonus dice** are a number of **dice** of the same size with a **name** that describes them. Just like with [skills and backgrounds](../character/skills.md), the name of the bonus is how you determine if it makes sense that you can take some dice from it.
+If you're fired up, tactically informed, or your teammate put you into a good position, you get access to bonus dice to do awesome stuff. Similarly, if your guard got broken, sand got kicked in your eyes, or you're pinned down by sniper fire, other people might have bonus dice against you. **Bonus dice** are a number of **dice** of the same size with a **name** that describes them. Just like with [skills and backgrounds](../character/backgrounds.md), the name of the bonus is how you determine if it makes sense that you can take some dice from it.
 
 <br/>
 

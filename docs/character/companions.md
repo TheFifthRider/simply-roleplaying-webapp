@@ -4,7 +4,7 @@ Companions are characters that adventure alongside your character-- be they a me
 
 ## Helpers
 
-Helper companions just have a [background](../character/skills.md) that describes them, which can be used like any other background on your character sheet to assist you in [tests](../gameplay/tests.md). Because helpers are just a background, they generally don't have to contend with risks from tests and are often small or can hide away somehow.
+Helper companions just have a [background](../character/backgrounds.md) that describes them, which can be used like any other background on your character sheet to assist you in [tests](../gameplay/tests.md). Because helpers are just a background, they generally don't have to contend with risks from tests and are often small or can hide away somehow.
 
 ## Allies
 

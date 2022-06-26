@@ -16,7 +16,7 @@ Health is how much [damage](damage_and_injuries.md#damage) you can take before y
 
 ## Skills, Legacies, and Backgrounds
 
-[Skills, Legacies, and Backgrounds](skills.md) are the individual pieces that make up who you are and what you've learned. [Skills](skills.md#developing-skills) describe what you know how to do-- they're anything concrete that you can get better at, given practice. [Legacies](skills.md#earning-legacies) describe your reputation-- they're your values, the factions you've allied with, and the deeds you've done. [Backgrounds](skills.md#building-a-background) describe you-- they're built from Skills and Legacies put together and summarized.
+[Skills, Legacies, and Backgrounds](backgrounds.md) are the individual pieces that make up who you are and what you've learned. [Skills](backgrounds.md#developing-skills) describe what you know how to do-- they're anything concrete that you can get better at, given practice. [Legacies](backgrounds.md#earning-legacies) describe your reputation-- they're your values, the factions you've allied with, and the deeds you've done. [Backgrounds](backgrounds.md#building-a-background) describe you-- they're built from Skills and Legacies put together and summarized.
 
 ## Abilities
 

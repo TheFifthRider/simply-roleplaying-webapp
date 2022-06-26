@@ -22,7 +22,7 @@ Once you've done that, it's time to calculate the maximum amount of damage your 
 
 ## What is your story?
 
-Think about where in the campaign world you come from, and why you are seeking out to adventure with your fellow players. Then, [read up on skills and backgrounds](../character/skills.md), then choose to either **make a background** or **start brimming with potential**.
+Think about where in the campaign world you come from, and why you are seeking out to adventure with your fellow players. Then, [read up on skills and backgrounds](../character/backgrounds.md), then choose to either **make a background** or **start brimming with potential**.
 
 If you chose to **make a background**, write a background that summarizes your character's story so far.
 

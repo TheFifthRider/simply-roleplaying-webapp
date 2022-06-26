@@ -41,13 +41,13 @@ Here's an example recipe for a sleep poison:
 
 ## Creating or Leveling Up a Background
 
-You can spend downtime to reflect on their past experiences and form backgrounds out of them or level up existing backgrounds. More details on building and leveling up a background can be found in [Building a Background (Skills and Backgrounds)](../character/skills.md#building-a-background) and [Leveling Up Backgrounds (Skills and Backgrounds)](../character/skills.md#Leveling Up Backgrounds).
+You can spend downtime to reflect on their past experiences and form backgrounds out of them or level up existing backgrounds. More details on building and leveling up a background can be found in [Building a Background (Skills and Backgrounds)](../character/backgrounds.md#building-a-background) and [Leveling Up Backgrounds (Skills and Backgrounds)](../character/backgrounds.md#Leveling Up Backgrounds).
 
 <br/>
 
 ## Abandoning a Skill or Legacy
 
-During downtime, you can always choose to regain some potential by abandoning a skill or legacy in addition to any other downtime activities. More details on reclaiming points from skills and legacies can be found in [Forgetting a Skill (Skills and Backgrounds)](../character/skills.md#abandoning-a-skill-or-legacy).
+During downtime, you can always choose to regain some potential by abandoning a skill or legacy in addition to any other downtime activities. More details on reclaiming points from skills and legacies can be found in [Forgetting a Skill (Skills and Backgrounds)](../character/backgrounds.md#abandoning-a-skill-or-legacy).
 
 <br/>
 
@@ -59,6 +59,6 @@ You can spend a period of downtime recovering to erase all of the injury boxes o
 
 ## Training a Skill
 
-Provided that you have access to training materials or a trainer, you can spend downtime to train a skill. More details on training can be found in [Training (Skills and Backgrounds)](../character/skills.md#training).
+Provided that you have access to training materials or a trainer, you can spend downtime to train a skill. More details on training can be found in [Training (Skills and Backgrounds)](../character/backgrounds.md#training).
 
 <br/>
