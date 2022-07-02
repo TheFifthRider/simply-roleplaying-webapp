@@ -54,10 +54,6 @@ Equipment with this tag is often heavy or strenuous to operate effectively. _Mau
 
 Weapons with this tag have a wedge shaped blade that is swung with a chop. _Battleaxes_, _meat cleavers_, and _war picks_ often have the Cleaving tag.
 
-#### Close-range
-
-Equipment with this tag are effective outside of arm's reach but still pretty close, usually between 1.5m and 10m away.
-
 #### Concealable
 
 Equipment with this tag are small and easy to take out or hide. _Daggers_, _miniature crossbows_, _pistols_, and _brass knuckles_ often have the Concealable tag.
@@ -86,14 +82,6 @@ Equipment with this tag is often complicated and only able to be effectively ope
 
 Equipment with this tag requires two hands to wield effectively. _Rocket launchers_, _mauls_, _longbows_, and _staves_ often have the Large tag.
 
-#### Long-range
-
-Equipment with this tag are effective a long ways away, usually over 10m away.
-
-#### Melee-range
-
-Equipment with this tag are effective within arm's reach, usually within 1.5m.
-
 #### Payload
 
 Weapons with this tag fire a heavy or explosive projectile. _Cannons_, _grenade launchers_, and _slings_ often have the Payload tag.
@@ -106,9 +94,13 @@ Weapons with this tag fire a swift shot that is deadly when placed perfectly. _C
 
 Equipment with this tag might be sentient and require reasoning with to operate effectively or otherwise somehow utilize the wielder's social aptitudes. _A high maintenance combat support robot_, _a tape recording of the maddening snores of C'thulhu_, or _an arcane book of physically manifesting insults_ might have the Presence tag.
 
+#### Range: [1, 2, 3 ...] - [1, 2, 3 ...]
+
+The distance in [spaces](../getting_started/index.md#movement) in which the equipment is effective. The first number indicates the minimum number of spaces, the second number indicates the maximum number of spaces.
+
 #### Repeating
 
-Weapons in this tag fire a number of projectiles in rapid succession, bombarding their target. _Automatic rifles_, _hwachas_, and _???_ often have the Repeating tag.
+Weapons in this tag fire a number of projectiles in rapid succession, bombarding their target. _Automatic rifles_, _hwachas_, and _pulse rifles_ often have the Repeating tag.
 
 #### Shield
 

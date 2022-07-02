@@ -8,7 +8,7 @@ Creating a character is all about dreaming up a concept, then figuring out how t
 
 ## What comes naturally to you?
 
-Your starting speed is 3m. This measures the amount of distance you can travel in a few seconds-- the length of [an action](../gameplay/action.md#moving-your-speed).
+Your starting speed is 6 [spaces](../getting_started/index.md#movement). This is how many spaces you can move with [an action](../gameplay/action.md#moving-your-speed).
 
 In addition, all characters have intrinsic attributes about them that make it easier or harder for them to do specific things. [Read up on attributes](../character/attributes.md), then adjust your attributes until they all add up to **+12**. Make sure to adhere to the [attribute level cap](../character/attributes.md#attribute-level-cap)!
 
@@ -16,7 +16,7 @@ _Gamemasters, if players are starting at a level higher than 1 their starting at
 
 ### How much stress can you handle?
 
-Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [damage](../character/health.md), then calculate your **health** by adding your Will and Brawn to 12.
+Once you've done that, it's time to calculate the maximum amount of damage your character can sustain. Read up on [health, damage, and injuries](../character/health.md), then calculate your **health** per injury by adding your Will and Brawn to 12.
 
 `Health = 12 + Brawn + Will`
 
