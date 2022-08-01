@@ -4,7 +4,7 @@ Simply Roleplaying started in 2013 at a friend's birthday party in college when 
 
 So I winged it.
 
-I used the d12, d10, d8, d6, and d4 as the way to distribute character strengths and weaknesses, decided on five categories (Agility, Brawn, Mental, Charisma, and Luck(, and had each player distribute the five dice between them. For character creation, I gave them a quick writing prompt of "You're in prison, about to be executed. What are you accused of?" to chew on while we played and we got to the business of playing the game -- starting with a jailbreak.
+I used the d12, d10, d8, d6, and d4 as the way to distribute character strengths and weaknesses, decided on five categories (Agility, Brawn, Mental, Charisma, and Luck), and had each player distribute the five dice between them. For character creation, I gave them a quick writing prompt of "You're in prison, about to be executed. What are you accused of?" to chew on while we played and we got to the business of playing the game -- starting with a jailbreak.
 
 The one-shot turned into a campaign and it became clear that the system worked for my players, but it needed to develop to handle progression and other elements that the longer-length nature of a campaign promised. As players asked me for systems to do certain things, I improvised ways it could be done. Whatever worked, stuck.
 
