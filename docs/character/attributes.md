@@ -1,6 +1,6 @@
 # Attributes
 
-Attributes are the measurement of a character's intrinsic ability, from how strong they are to how quickly they seize up situations. Attributes get added to the dice rolled as a part of [tests of ability](../gameplay/tests.md). Attributes are assigned an initial value in [character creation](../getting_started/creation.md) and you can increase them by spending [potential](../gameplay/advancement.md#potential).
+Whenever the gamemaster asks someone to make a [test](../gameplay/tests.md), they're going to tell you that it's a test of a certain attribute. Attributes are numbers that represent the broad strengths and weaknesses of a character, from how much weight they can lift to how quickly they react. When you roll dice for a [test of ability](../gameplay/tests.md), you add the associated attribute to whatever you rolled on the dice. Attributes are assigned an initial value in [character creation](../getting_started/creation.md) and you can increase them by spending [potential](../gameplay/advancement.md#potential).
 
 <br/>
 
@@ -16,13 +16,15 @@ Attributes are the measurement of a character's intrinsic ability, from how stro
 
 **Presence** is a measure of a character's social skills and natural charm. Characters with high Presence are often amiable, convincing, and socially adept.
 
-**Will** is a measure of a character's drive and resolve. Characters with high Will are often determined, independent, and undeterred by hardship.
+**Will** is a measure of a character's drive and resolve. Characters with high Will are often determined, independent, and collected in the face of hardship.
 
 <br/>
 
-## Attribute Level Cap
+## Improving Attributes
 
-While you can increase attributes at any time by spending potential, attributes for a level 1 character cannot be increased to beyond **+3**. Whenever a character levels up, this cap increases by 3 -- so your attribute level cap can always be determined by multiplying your character's level by 3.
+At the end of each session, or during a scene where it [makes sense](../getting_started/index.md#narrative-truth), you can spend two points of potential to increase one of your attributes by 1. However, if your character is level 1, you cannot increase your attributes to greater than +3. 
+
+Whenever a character levels up, this **attribute level cap** increases by 3. That means the cap is +6 at level 2, +9 at level 3, and so on.
 
 `Attribute Cap = 3 x level`
 
@@ -30,18 +32,18 @@ While you can increase attributes at any time by spending potential, attributes 
 
 ## Passive Attribute Scores
 
-Character's don't always have to roll to resist risks. Whenever a character is reflexively opposing a risk they use an attribute's **passive score** instead of rolling the dice. You can calculate your character's passive score by increasing that attribute's modifier by 6 for each of your **dice**!
+You don't always have to roll to resist risks! Whenever you are reflexively opposing a risk, your gamemaster will use one of your attribute's **passive scores** instead of asking you to roll the dice. Level 1 characters have passive attribute scores equal to that attribute plus six, and the value increases by 6 every time you level up. That means level 2 characters add 12 to their attributes to get their passive scores, level 3 characters add 18, and so on.
 
-`Passive Score = Attribute + 6 for each die`
+`Passive Score = Attribute + 6 x level`
 
-> An advisor tests their _Presence_ to manipulate their monarch by feeding them fabrications. Even though the monarch has no reason to suspect the advisor of lying, their extensive experience creates a difficulty of their passive _Presence_ score-- how likely they are to notice the social signs of mistruth.
+> An advisor tests their _Presence_ to manipulate their monarch by feeding them fabrications. Even though the monarch has no reason to suspect the advisor of lying, their experience in politics might tip them off. In this case, that experience is represented by their passive _Presence_ score.
 >
-> The monarch is a four dice character with a _Presence_ modifier of +9. Their passive _Presence_, and the difficulty of the advisor's test, is calculated as 9 + (4 x 6) = 33.
+> The monarch is a level four character with a _Presence_ of +9. Their passive _Presence_, and the difficulty of the advisor's test, is 9 + (4 x 6) = 33.
 
 <br/>
 
 > A young wizard tries to tiptoe past their sleeping master, testing their _Agility_ to silently swipe the master's fabled wand, risking getting caught red handed and getting turned into a newt _or worse_. Because the master is asleep, the difficulty of the test is the master's passive _Intuition_ score-- how likely the master's instincts are to wake them up from the noises their apprentice makes.
 >
-> The master is a three dice character with an _Intuition_ modifier of +8. Their passive intuition, and the difficulty of the Apprentice's test, is calculated as 8 + (3 x 6)  = 26.
+> The master is a level three character with an _Intuition_ of +8. Their passive intuition, and the difficulty of the Apprentice's test, is 8 + (3 x 6)  = 26.
 
 <br/>
