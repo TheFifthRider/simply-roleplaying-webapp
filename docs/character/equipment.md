@@ -18,7 +18,7 @@ Similarly, if you wish to stow items for any reason in an [action scenario](../g
 
 Equipment are the tools you wear or use to accomplish tasks-- your armor, weapons, magic staves, and lockpick set. Equipment might be protective, weaponized, or useful in some other way. **Tags** describe what's important about the equipment: how it can be used, what benefits it provides, and anything else that matters. You can only benefit from **equipment** if they're equipped.
 
-### Tags
+### Tag List
 
 Here's a suggested list of tags that you can use to describe the equipment in your game. Be sure to add more tags that are important to your setting! If you're in a dark fantasy setting hunting beasts of the night and need silvered weapons to confront them, _silver_ should be a tag. If you're in a futuristic dystopian setting and everything legally acquired is monitored through a chip, _unchipped_ should be a tag.
 
@@ -42,17 +42,9 @@ _requires: any attribute tag_
 
 Equipment with this tag are wearable defense like personal shield generators, Kevlar vests, or full plate. When worn, armor grants the wearer with **armor value** equal to **the highest passive value of the equipment's tagged attributes**. A character can only benefit from one set of armor at a time.
 
-#### Battering
-
-Weapons with this tag are blunt instruments that rely on their weight to deal damage. _Batons_, _maces_, and _war picks_ often have the Battering tag.
-
 #### Brawn
 
 Equipment with this tag is often heavy or strenuous to operate effectively. _Mauls_, _axes_, _grenade launchers_, and _shotguns_ often have the Brawn tag.
-
-#### Cleaving
-
-Weapons with this tag have a wedge shaped blade that is swung with a chop. _Battleaxes_, _meat cleavers_, and _war picks_ often have the Cleaving tag.
 
 #### Concealable
 
@@ -61,14 +53,6 @@ Equipment with this tag are small and easy to take out or hide. _Daggers_, _mini
 #### Focus
 
 Equipment with this tag can be used to utilize the [extranormal powers](../setting_rules/powers.md) that this weapon is tagged with.
-
-#### Hooking
-
-Weapons with this tag have curved blades that allow their wielder to hook onto their opponents. _Khopeshes_, _scythes_, and _sickles_ often have the Hooking tag.
-
-#### Impaling
-
-Weapons with this tag have a sharp point that is stabbed at opponents. _Bayonets_, _rapiers_, and _spears_ often have the Impaling tag.
 
 #### Intuition
 
@@ -82,14 +66,6 @@ Equipment with this tag is often complicated and only able to be effectively ope
 
 Equipment with this tag requires two hands to wield effectively. _Rocket launchers_, _mauls_, _longbows_, and _staves_ often have the Large tag.
 
-#### Payload
-
-Weapons with this tag fire a heavy or explosive projectile. _Cannons_, _grenade launchers_, and _slings_ often have the Payload tag.
-
-#### Precision
-
-Weapons with this tag fire a swift shot that is deadly when placed perfectly. _Crossbows_, _semi-automatic rifles_, and _slings_ often have the Precision tag.
-
 #### Presence
 
 Equipment with this tag might be sentient and require reasoning with to operate effectively or otherwise somehow utilize the wielder's social aptitudes. _A high maintenance combat support robot_, _a tape recording of the maddening snores of C'thulhu_, or _an arcane book of physically manifesting insults_ might have the Presence tag.
@@ -98,21 +74,9 @@ Equipment with this tag might be sentient and require reasoning with to operate 
 
 The distance in [spaces](../getting_started/index.md#movement) in which the equipment is effective. The first number indicates the minimum number of spaces, the second number indicates the maximum number of spaces.
 
-#### Repeating
-
-Weapons in this tag fire a number of projectiles in rapid succession, bombarding their target. _Automatic rifles_, _hwachas_, and _pulse rifles_ often have the Repeating tag.
-
 #### Shield
 
 Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. When carried, shields **increase the character's armor value by 5**.
-
-#### Slashing
-
-Weapons with this tag are weapons that have one or more long, sharp edges that can be used to lacerate. _Hunting knives_, _khopeshes_, and _rapiers_ often have the Slashing tag.
-
-#### Spread
-
-Weapons with this tag fire shrapnel, fire, poison, or other hazards to coat a wide area. _Cannons_, _shotguns_, and _flame-throwers_ often have the Spread tag.
 
 #### Weapon
 
