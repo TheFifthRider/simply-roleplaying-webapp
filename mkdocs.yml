@@ -25,10 +25,6 @@ nav:
     - 'Setting Rules':
         - setting_rules/index.md
         - setting_rules/powers.md
-    - 'The World':
-        - worlds/earth_the_forgotten_times/overview.md
-        - worlds/earth_the_forgotten_times/pantheons.md
-        - worlds/earth_the_forgotten_times/pangeans.md
 extra_css:
     - css/branding.css
     - css/tweaks.css
