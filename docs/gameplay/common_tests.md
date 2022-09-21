@@ -61,6 +61,36 @@ As an example, here's a possible test for attacking an armor value 15 target usi
 
 <br/>
 
+## Adding Bonus Dice
+
+Whether you're ducking behind a tree to get some cover or trying to slow down an enemy by grabbing their arm, creating a pool of bonus dice is a test of ability.
+
+What kind of dice are added to the pool depends on the quality of the bonus created. Hiding behind a rotting fence might only give you d4s, while positioning yourself behind concrete might give you d12s. Ultimately, this is a gamemaster call so feel free to ask them what quality a bonus you could create by doing something before doing it.
+
+If it makes sense, you can also perform a test to add bonus dice to a test of ability. When you do that, the size of the dice added to the pool are the same as the ones already there.
+
+When a character makes a test of any attribute with a goal to **add dice to a pool of bonus dice** or **create a pool of bonus dice**, if they...
+
+*   **Fail:** They create a bonus dice pool that to be used against them with two dice, or remove two dice from the existing pool.
+*   **Partially succeed:** They create their intended bonus dice pool with two dice, or add two dice the existing pool.
+*   **Fully succeed:** They create their intended bonus dice pool with three dice, or add three dice the existing pool.
+*   **Critically Succeed:**  They create their intended bonus dice pool with four dice, or add four dice the existing pool.
+
+<br/>
+
+## Removing Bonus Dice
+
+Breaking down walls, flanking behind the enemy's cover, and extinguishing a fire could all be ways to remove dice from a created pool of bonus dice. To do so would be a test of ability.
+
+When a character makes a test of any attribute with a goal to **remove dice from a pool of bonus dice**, if they...
+
+*   **Fail:** They add two dice to the existing pool.
+*   **Partially succeed:** They remove two dice from the existing pool
+*   **Fully succeed:** They remove three dice from the existing pool
+*   **Critically Succeed:**  They remove four dice from the existing pool
+
+</br>
+
 ## Gathering Information
 
 Sometimes the goal of a test is to find **answers to questions**. Such a goal might be researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual. In this case, the results of measure success in number of questions answered. The gamemaster may provide questions that are available to be asked, or allow any question to be asked. 
