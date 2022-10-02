@@ -1,6 +1,6 @@
 # Backgrounds and what make them
 
-Where attributes represent broadly a character in broad strokes, skills, legacies, and backgrounds are more specific. Having a d12 in Brawn means you're strong, but having a d12 in Brawn, a d8 in your _Wrestling_ skill, a d10 _Giant Wrestler_ legacy, and a background called _The Thighcrusher_ paints quite the vivid picture. **Skills** represent trained capabilites, **legacies** represent things that you've done or you're known for, and **backgrounds** represent who your character is by combining several d12 skills and/or legacies together.
+Your level represents the number of dice you can roll in total on a test, but skills, legacies, and backgrounds are where you get those dice. **Skills** are things you've trained yourself to be good at, **legacies** are accomplishments and behaviors you're known for, and **backgrounds** summarize your character by combining several skills and/or legacies together.
 
 <br/>
 
@@ -12,7 +12,7 @@ Every skill and legacy starts out at d4 and can grow to be as powerful as d12. W
 
 ### Developing Skills
 
-Whenever you spend [downtime](../gameplay/downtime.md) to **take some time to train** or **gain a flash of insight**, you can spend potential to either **learn** a new skill that you do not have written down on your character sheet or to **level up** a skill that you do have written down on your character sheet.
+Whenever you spend [downtime](../gameplay/downtime.md) to **take some time to train** or **gain a flash of insight**, you can spend potential to either **learn** a new skill that you do not have written down on your character sheet or to **level up** a skill that you do have written down.
 
 How a character **takes some time to train** varies from individual to individual, but usually involves several hours of [downtime](../gameplay/downtime.md#training-a-skill), a trainer, and/or suitable materials to study from. A character can act as a trainer for a skill provided that it pertains to one of their backgrounds. This means that a character can train themselves in a skill once they've incorporated it into a background!
 
@@ -36,7 +36,7 @@ Leveling up a skill or legacy can also be an opportunity to refine it. Whenever 
 
 > A character with the skill _Spotting Traps_ narrowly avoids the last arrow trap of a dungeon and _gains insight_, spending a point of potential to level up the skill. As they reflect on how it might be less useful back above ground, they decide to rename the skill to _Quick Reflexes_ as they level it up.
 >
-> A character with the legacy _Wanted Pickpocket_ acts like their reputation and spends a point of potential to level up the legacy by formally accepting membership to the Blackgrass Thieves' Guild. Not wanting to limit themselves to picking pockets, they change the name of the legacy to _Blackgrass  Thieves' Guild Member_.
+> A character with the legacy _Wanted Pickpocket_ acts like their reputation and spends a point of potential to level up the legacy by formally accepting membership to the Blackgrass Thieves' Guild. Not wanting to limit themselves to picking pockets, they change the name of the legacy to _Blackgrass Thieves' Guild Member_.
 >
 > A character with the skill _Research_ spends days trying to crack the secrets of an alien artifact, working with a librarian to help train them in getting better at researching. To represent both the newfound knowledge and to help them get more specific answers in the future, they decide to rename the skill to _Extraterrestrial Research_ as they level it up. 
 >
@@ -46,47 +46,43 @@ Leveling up a skill or legacy can also be an opportunity to refine it. Whenever 
 
 ### Abandoning a Skill or Legacy
 
-Sometimes a skill or legacy might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that what you wrote down no longer makes sense for them. In that case, you can always choose to **forget**. During any period of [downtime](../gameplay/downtime.md#forgetting-a-skill), you may decrease the die level of one of your skills or legacies to reclaim one point of potential. This can represent the public's waning attention to your deeds in the case of a legacy, or your character losing interest in or forgetting about that skill in preparation to learn something new.
+Sometimes a skill or legacy might not work out for your character. Maybe it was too specific, just isn't very useful in the long term, or your character has had a shift in priorities such that what you wrote down no longer makes sense for them. In that case, you can always choose to **forget**.
+
+During any period of [downtime](../gameplay/downtime.md#forgetting-a-skill) or whenever else it [makes sense](../getting_started/index.md#narrative-truth) you may decrease the die level of one of your skills or legacies to reclaim one point of potential. This can represent the public's waning attention to your deeds in the case of a legacy, or your character losing interest in or forgetting about that skill in preparation to learn something new.
 
 <br/>
 
 ## Building a Background
 
-Once a character has three related d12 skills and/or legacies, they can take a few hours of [downtime](../gameplay/downtime.md#creating-a-background) to reflect and combine them together to form a **background** that summarizes the aspect of the character that is reflected by those three skills and/or legacies. Backgrounds can be added to any test that their name implies that they would be useful for and are worth a d12 when added to a test.
+If you have at least two related d12 skills and/or legacies during [downtime](../gameplay/downtime.md#creating-a-background) or any other time that [makes sense](../getting_started/index.md#narrative-truth) you can combine them together to form a **background**. Similarly, if you have at least one d12 skill or legacy related to one of your existing backgrounds you can add it to that existing background. 
 
-> A character has a d12 in the skills _Acrobatics_ and _Lockpicking_ as well as a d12 in the legacy _Robs from the rich to feed the poor_, it would make sense for them to be able to combine them together into a background called _Robin Hood of Crookshack Row_.
+To create a background, write down a phrase that summarizes the skills and/or legacies as they relate to your character followed by the number of d12s you put into the background. Then erase the old legacies and skills -- they're part of the background now! The next time you make a new legacy or skill, you can reuse the name of one of the skills or legacies you just erased to represent additional reputations and capabilities beyond what the background describes.
 
-When a character develops a new background, the skills and legacies combined into that background are erased from their character sheet, as their new background includes those skills/legacies. If a character wishes to, they can start legacies or learn skills with the same name again. If they do, these new legacies and skills represent additional reputations and capabilities beyond what their backgrounds describe.
-
-<br/>
-
-### Leveling up Backgrounds
-
-If a character has three d12 skills and/or legacies that are related to one of their existing backgrounds, instead of creating a new background they can choose to level an existing background up. Higher leveled backgrounds can be used multiple times on a test, up to a number of times equal to their level.
-
-To level up a background, a character takes a few hours of [downtime](../gameplay/downtime.md#leveling-up-a-background) and erases the three related d12 skills and/or legacies, just like when creating a background. Then, they rename the background to represent the expertise gained and mark down the new level of the background.
-
-> A roguish character with the _Robin Hood of Crookshack Row_ background has a d12 in the legacy _Thief of Luiena's Crown_, as well as a d12 in the skills _Sneaking_ and _Traps_. These skills and legacies all are relevant to the _Robin Hood of Crookshack Row_ background so rather than add a new background they choose to level up their existing background to _Crownthief of Staedbergh (Level 2)_.
+> A character has a d12 _Acrobatics_ skill and a d12 _Robs from the rich to feed the poor_ legacy, they can combine them together into a 2d12 background called _Robin Hood of Crookshack Row_.
+>
+> The same character develops a d12 _Thief of Luiena's Crown_ legacy. Since this  is relevant to their 2d12 _Robin Hood of Crookshack Row_ background, they can add a d12 to that background and rename it, turning it into the 3d12 _Crownthief of Staedbergh_ background.
 
 <br/>
 
 ### Renaming a Background
 
-Characters change. Getting better at the stuff your backgrounds reflect can be easily shown by creating new backgrounds that represent the new skills you've learned. However, sometimes it makes sense for the name of a background to change to better reflect the character that it's representing.  A **Bloodthirsty Warlord** may become a **Repentant General**, an **Assassin for Hire** may become a **Silencer of the Court**, or a **Master Blacksmith** might become the **Silversmith of Ardent**. Sometimes the change is less story driven and more that you've come up with a better name to describe that grouping of skills. That's fine too! Backgrounds should be renamed until you're happy with them. After all, backgrounds exist to express your character.
+Whenever it [makes sense](../getting_started/index.md#narrative-truth) for the name of a background to change, you can rename it to something else.  A **Bloodthirsty Warlord** might become a **Repentant General**, an **Assassin for Hire** might become a **Silencer of the Court**, or a **Master Blacksmith** might become the **Silversmith of Ardent**. Sometimes the change is less story driven and more that you've come up with a better name to describe that grouping of skills. That's fine too! Backgrounds should be renamed until you're happy with how they express your character.
 
 <br/>
 
 ## Naming Guidelines
 
-The trickiest part about being able to create your own skills or backgrounds is coming up with a good name. You want your names to keep a balance between the general and the specific. Ideally, your skills, legacies, and backgrounds should be expressive of what you want your character to be able to do while still remaining general enough that they can come up a lot in play.
+Don't worry too much about coming up with the perfect name, it's often enough to create a good name. Skills and legacies are just the building blocks of backgrounds and backgrounds should be renamed until they feel right. 
 
-Don't worry too much about coming up with the perfect name, it's often good enough to just create a good name. Skills and legacies are just the building blocks of backgrounds and backgrounds should be renamed until they feel right.
+That said, the trickiest part about creating skills, legacies, and backgrounds is coming up with a good name for them. Ideally the naems should be expressive of what you want your character to be able to do while still remaining general enough that they can come up a lot in play.
 
 <br/>
 
 ### Naming a Skill
 
-Names for skills are fairly rigid. Skills should describe a specific thing that your character has trained in. The more general the name of a skill is, the more generic the character's expertise is considered to be. A character with a _History_ skill would be able to apply it to broad questions about the past of a town, but wouldn't likely be able to apply that knowledge to find the age of the ancient catacombs under the town like a character with an _Archeology_ skill. Conversely, a character with an _Archeology_ skill wouldn't likely be able to apply it to uncovering facts about the recent political unrest of the town.
+Skill names should focus on a specific capability that can be learned or taught with names like _Biology_, _Swordfighting_, and _Archeology_. They sometimes almost sound like the names of academic courses! If you're struggling to think of a good way to name a skill, just try filling in a blank in the sentence "I'm good at \_\_\_\_\_\_\_." with a phrase that describes the skill. Whatever you fill the blank in with is likely a great name for the skill!
+
+Since the way you level up your skills is by **taking some time to train** or **gaining a flash of inspiration**, be sure to think of how you'll  train those skills and scenes that show how your character was able to innovate on their own based on something they saw or did. _Archery_ can only be leveled up when you pick up a bow and arrow, but _Marksmanship_ could be leveled from excelling at a game of darts!
 
 <br/>
 
@@ -94,13 +90,13 @@ Names for skills are fairly rigid. Skills should describe a specific thing that 
 
 Legacy names should focus on your character's reputation and things they've done, but should also represent the developing nature of the legacy. Legacies can be a phrase describing your displayed values, a title awarded, or anything else that showcases your budding reputation. Legacies are also a great space for representing ranks in factions-- joining any faction and advancing in rank are both definitely doing something memorable, and acting in line for that faction will always be acting like your reputation.
 
- Since the way that you level up your legacies is by **doing something memorable** and **acting like your reputation**, make sure to think about how you'll level up your legacy as you write it down! _Robbed a noble_ can likely only be leveled up whenever you rob someone or talk about how you did, but _Steals from the rich to feed the poor_ can be leveled up in that way and whenever you perform an act of charity!
+Since the way that you level up your legacies is by **doing something memorable** and **acting like your reputation**, make sure to think about how you'll level up your legacy as you write it down! _Robbed a noble_ can likely only be leveled up whenever you rob someone or talk about how you did, but _Steals from the rich to feed the poor_ can be leveled up both by being a thief and whenever you perform an act of charity!
 
 <br/>
 
 ### Naming a Background
 
-Names for backgrounds are more freeform. A good rule of thumb is to name your background something that you might use in a sentence to describe your character. Backgrounds could be jobs like _Blacksmith_, _Hacker_, or _Guerilla Sniper_, roles like _Healer_, _Tactician_, or _Tank_, or even quick descriptions like _Born in a Port City_, _Penny Pincher_, or _Iron Will_. Really, there's not much of a definition for what a background can or can't be; if it sums up both an aspect of your character and a spectrum of skills, it's probably a good background!
+A good rule of thumb is to name your background something that you might use in a sentence to describe your character. Backgrounds could be jobs like _Blacksmith_, _Hacker_, or _Guerilla Sniper_, roles like _Healer_, _Tactician_, or _Tank_, or even quick descriptions like _Outcast of Newport City_, _Penny Pinching Accountant_, or _Iron Willed Gunslinger_. Really, there's not much of a definition for what a background can or can't be; if it sums up both an aspect of your character and the skills and legacies you put into it's probably a good background!
 
 <br/>
 
