@@ -1,8 +1,8 @@
 # Tests of Ability
 
-Whenever a character attempts to do something with a goal in mind, a risk present, and an uncertainty of whether either or both will happen, the gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) and adding the value of an [attribute](../character/attributes.md) to meet or exceed a number that represents the difficulty of doing what they want to do.
+Whenever you take a risk to try to do something your gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) and adding the value of an [attribute](../character/attributes.md) to see if the roll meets or exceeds a specific number-- the difficulty of doing what you want to do.
 
-While most tests emerge fluidly from gameplay and don't require this level of detail, a fully written test would look something like this:
+While you rarely need to fully write out a test with all of its possible outcomes, if you did it would look something like this:
 
 >  **Sell Questionable Goods to a Local Merchant**
 >
@@ -21,22 +21,17 @@ While most tests emerge fluidly from gameplay and don't require this level of de
 >  * **Fail:** the merchant gets indignant and starts making a scene. The authorities are sure to get involved immediately.
 >  * **Partially succeed:** the merchant agrees to buy the contraband, but it seems like they're not likely to want to see you again. They may tip off the authorities, but not until after you've left.
 >  * **Fully succeed:** you win them over or they don't seem to notice this time-- the merchant accepts the deal
->  * **Critically succeed:** not only does the merchant accept the deal but they happen to be a known fence in the area and look forward to working with you again
+>  * **Critically succeed:** not only does the merchant accept the deal but they happen to know a great fence in the area and look forward to working with you again
 
 <br/>
 
 ## Establishing Difficulty
 
-Most of the time, the difficulty is a static number determined by the gamemaster based on the skill required to achieve success with minimal risk. Below are a collection of difficulty rules of thumb. When creating a test, it's a good idea to start with a difficulty based on one of the rules of thumb and increase or decrease it by a few points depending on how easy or difficult the test is meant to be.
+So what is the specific number you need to beat in order to do something and how does your GM determine it? The most common case is the difficulty is a value picked by your GM based on the level level a person in their world would have to be to be able to do it with any kind of regularity, something we explore in [setting rules](../setting_rules/index.md).
 
-* **Talented but inexperienced** level 1 characters can handle tests of difficulty **0**
-* **Experienced** level 2 characters can handle tests of difficulty **10**
-* **Professionals** who are at least level 3 can handle tests of difficulty **20**
-* **Experts** who are at least level 4 can handle tests of difficulty **30**
-* **Masters** who are at least level 5 can handle tests of difficulty **40**
-* Only **Legendary** characters of level 6 and up can attempt to handle tests of difficulty **50 or higher**
+Once the GM knows what level you'd have to be do pull this sort of thing off regularly, they can transform that into a difficulty number by multiplying the level by 10, then subtracting 10. For instance, a test that a level 1 character can consistently perform is difficulty 0 and a test that a level 3 character can consistently perform is difficulty 20.
 
-Players, the difficulty rules of thumb can also help you gauge your character's proficiency. If you're regularly rolling above a 20 on a test, chances are you are on the same level as someone who performs those sorts of tests for a living. Gamemasters, if you choose to take characters higher than level 6 you should consider writing your own rules of thumb not only to help yourself consistently apply difficulties across your world, but also to help your players understand what rolling a 10 means when compared to the rest of your world's citizens.
+Of course, not all tests are created equal. If your GM feels like what you're doing is particularly easy for the level required, they might lower the difficulty further. If they feel it's a particularly hard, they might raise it. So a test for a level 3 character might be difficulty 15 if it was very easy, 20 if it was something they can handle all the time, and 25 if it's somewhat challenging.
 
 <br/>
 
