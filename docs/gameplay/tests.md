@@ -69,6 +69,10 @@ If a character only meets or exceeds the difficulty of a test, they have **parti
 
 If a character does not meet the difficulty of the test, they have **failed**-- they don't do what they set out to do and they are either going to suffer the worst possible case of the risks involved or introduce a new risk.
 
+### Offer Hard Choices when there are Multiple Risks
+
+Lots of tests may have multiple risks involved. Chasing after a bad guy through a crowded alley in an unfamiliar city might have both the risk of letting them get away and getting lost in a part of town you don't know. Gamemasters, while it's perfectly reasonable for a failure on a test to mean "all of the bad stuff that could happen, does happen" consider also offering hard choices to your players on which bad stuff might happen.
+
 <br/>
 
 ### Determining the Outcome of a Competition
