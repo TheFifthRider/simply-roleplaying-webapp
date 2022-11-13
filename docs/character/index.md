@@ -4,7 +4,7 @@ A character in Simply Roleplaying is made up of several different pieces. If you
 
 ## Level
 
-Your **level** represents, generally, how strong you are. This is the total number of dice you can roll from your skills, legacies, and backgrounds.
+Your **level** represents, generally, how strong you are. You add this to your attributes to determine the total number of dice you can roll from your skills, legacies, and backgrounds.
 
 ## Health and Injuries
 
@@ -12,7 +12,7 @@ Health is how much [damage](health.md#damage) you can take before you suffer an 
 
 ## Attributes
 
-[Attributes](attributes.md) are broad categories which represent your strengths and weaknesses-- your physical strength, ability to quickly respond, willpower, and more. Any time you make a [test of ability](../gameplay/tests.md), it'll test a specific attribute and you'll add that attribute to whatever you rolled. You also have [passive attribute scores](attributes.md#passive-attribute-scores) that you use instead of dice for when you respond reflexively to that attribute being tested.
+[Attributes](attributes.md) are broad categories which represent your strengths and weaknesses-- your physical strength, ability to quickly respond, willpower, and more. Any time you make a [test of ability](../gameplay/tests.md), it'll test a specific attribute and you'll add that attribute to your level to determine how many dice to roll. You also have [passive attribute scores](attributes.md#passive-attribute-scores) that you use instead of dice for when you respond reflexively to that attribute being tested.
 
 ## Skills, Legacies, and Backgrounds
 

@@ -1,6 +1,6 @@
 # Tests of Ability
 
-Whenever you take a risk to try to do something your gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) and adding the value of an [attribute](../character/attributes.md) to see if the roll meets or exceeds a specific number-- the difficulty of doing what you want to do.
+Whenever you take a risk to try to do something your gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) to see if the roll meets or exceeds a specific number-- the difficulty of doing what you want to do.
 
 While you rarely need to fully write out a test with all of its possible outcomes, if you did it would look something like this:
 
@@ -83,7 +83,7 @@ Determining the outcome of a competition in which there are two participants is 
 
 #### Competition Tiebreakers
 
-Sometimes, characters in a competition might tie. In cases where the gamemaster needs these ties to be broken, other aspects of the tied characters come into question. A tie can be broken by comparing the passive scores the respective attributes that the characters used for the test. If there is still a tie, that tie is resolved at the gamemaster's discretion, perhaps taking into consideration number of relevant skills/backgrounds or sources of narrative truth. 
+Sometimes, characters in a competition might tie. In cases where the gamemaster needs these ties to be broken, other aspects of the tied characters come into question. A tie can be broken by comparing the passive scores of the respective attributes that the characters used for the test. If there is still a tie, that tie is resolved at the gamemaster's discretion, perhaps taking into consideration number of relevant skills/backgrounds or sources of narrative truth. 
 
 <br/>
 

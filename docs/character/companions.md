@@ -20,7 +20,7 @@ There are also a few rules to remember when playing with allies:
 
 **Allies share their turn!** Allies share the three actions you can perform in an [action scene](../gameplay/action.md), but you and your allies can perform any actions which [make sense](../getting_started/index.md#narrative-truth) (often movement) as one action.
 
-**Allies get stronger when you do!** Whenever you spend potential to [increase one of your attributes by 1](../gameplay/advancement.md#potential), you can increase one of each of your allies' attributes by 1 as well!
+**Allies get stronger when you do!** Whenever you [level up](../gameplay/advancement.md#leveling-up), they do too -- including [increasing two of their attributes by 1](../gameplay/advancement.md#increase-your-attributes)!
 
 **Allies get healthier when you do!** Whenever you spend potential to [increase your health by 1](../gameplay/advancement.md#potential), you increase their health by 1 as well.
 

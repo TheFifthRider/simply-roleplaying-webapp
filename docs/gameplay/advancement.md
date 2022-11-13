@@ -43,23 +43,19 @@ Can become these:
 
 ## Potential
 
-**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve [attributes](../character/attributes.md), [skills, and legacies](../character/backgrounds.md#improving-skills-and-legacies), increase your character's [health](../character/health.md) and specific [ability points](../character/abilities.md#ability-points), and/or to gain new [abilities](../character/).
+**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve, [skills and legacies](../character/backgrounds.md#improving-skills-and-legacies), increase your character's [health](../character/health.md) and specific [ability points](../character/abilities.md#ability-points), and/or to gain new [abilities](../character/).
 
 ### Spending Potential
 
 You can spend **one point of potential** to:
-
 *   Learn or level up a [skill or legacy](../character/backgrounds.md#improving-skills-and-legacies)
 *   Increase your character's [health](../character/health.md) per injury by 1
 
 You can spend **two points of potential** to:
-
-*   Increase an [attribute](../character/attributes.md) by +1, up to the [attribute level cap](../character/attributes.md#attribute-level-cap)
 *   Increase one of your pools of [ability points](../character/abilities.md#ability-points) by 1
 *   Create a new pool of [ability points](../character/abilities.md#ability-points)
 
 You can spend **three points of potential** to:
-
 *   Learn a new [ability](../character/abilities.md) 
 *   Strengthen an existing ability
 
@@ -67,7 +63,12 @@ You can spend **three points of potential** to:
 
 ## Leveling Up
 
-Leveling up means more dice to use on tests and more room to grow your attributes. Usually, you'll level up at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Characters should level up about every 25 points of potential earned so players don't feel like they are bumping their heads on the ceiling when they're leveling up their skills and backgrounds.
+Leveling up means more dice to use on tests! Usually, you'll level up at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Expect to level up about every 25 points of potential earned.
+
+If you're starting to feel like you're investing in skills and backgrounds that aren't very important to your character because you can't level up the skills and backgrounds that are core to your character anymore, make sure to let your gamemaster know! That's usually a sign that you need a level up.
+
+### Increase Your Attributes
+When you level up, pick two [attributes](../character/attributes.md) and increase their level by 1. Just make sure you're not going past the [attribute level cap](../character/attributes.md#improving-attributes).
 
 ### Character Check-In
 
@@ -78,8 +79,8 @@ In addition to the power bump of being able to roll more dice, leveling up also 
 * Invest any unspent potential on any skills you want
 * Combine any number of d12 skills into backgrounds
 * Rename any backgrounds you want
-* Erase any abilities you want, and reclaim your spent maximum ability points
-* Gain any number of new abilities, spending 1 maximum ability point for each
-* Improve abilities any number of times, spending 2 maximum ability points for each
+* Erase any abilities you want, and reclaim your spent points of potential
+* Gain any number of new abilities, spending three points of potential for each
+* Improve abilities any number of times, spending three points of potential for each
 
 <br/>
