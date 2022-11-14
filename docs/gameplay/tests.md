@@ -2,6 +2,12 @@
 
 Whenever you take a risk to try to do something your gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) to see if the roll meets or exceeds a specific number-- the difficulty of doing what you want to do.
 
+## What are tests?
+Most of the time in a game, your gamemaster will just tell you to make a test of a particular attribute, you'll roll the dice and tell them the result, and they'll let you know what happens. 
+
+They might say you **failed**, **partially succeedd**, **fully succeeded**, or **critically succeeded** at the test. If you failed you didn't get what you want and you might be in trouble. If you partially succeeded you got what you wanted but only barely, probably at a price. If you fully succeeded you did exactly what you set out to do. If you critically succeeded not only did you do what you set out to do, you rocked it.
+
+## Breaking Down Tests
 While you rarely need to fully write out a test with all of its possible outcomes, if you did it would look something like this:
 
 >  **Sell Questionable Goods to a Local Merchant**
