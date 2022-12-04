@@ -1,0 +1,69 @@
+.wy-nav-content {
+  background-color: var(--branding-color);
+  position: absolute;
+}
+
+.section {
+  position: relative;
+}
+
+#splash {
+  display: flex;
+  min-height: 95vh;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+
+@media screen and (max-width: 768px) {
+  #splash {
+    min-height: 85vh;
+  }
+}
+
+.wy-nav-top a {
+  background: none;
+  width: 0px;
+  height: 0px;
+}
+
+.splash-image {
+  margin-top: 10%;
+}
+
+#splash-subtitle {
+  color: white;
+  font-family: cinzel;
+  text-align: center;
+}
+
+.wy-nav-content a:link {
+	color: white;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.wy-nav-content a:visited {
+	color: white;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.wy-nav-content a:hover {
+	color: var(--high-contract-color);
+  text-decoration: none;
+}
+
+.wy-menu-vertical a:hover {
+  background-color: var(--highlight-color);
+}
+
+.wy-nav-content a:active {
+	color: var(--high-contract-color);
+  text-decoration: none;
+}
+
+#splash-license > p > a > img {
+  height: 22px;
+  margin-left: 3px;
+}

@@ -1,0 +1,92 @@
+.wy-nav-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 72px;
+  z-index: 1;
+}
+
+.wy-nav-content-wrap {
+  left: 0;
+  transition: left 250ms;
+}
+
+.wy-nav-side {
+  transition: left 250ms;
+}
+
+.wy-nav-content-wrap.shift {
+  left: 85vw;
+  overflow-y: hidden;
+}
+
+@media screen and (max-width: 768px) {
+  .wy-grid-for-nav {
+    position: relative;
+  }
+
+  .wy-nav-content-wrap.shift {
+    position: relative;
+  }
+
+  .wy-nav-side {
+    position: fixed;
+  }
+
+  .wy-nav-side.shift {
+    width: 85vw;
+    left: 0;
+  }
+
+  .wy-side-nav-search a {
+    height: 38.5vw;
+  }
+
+  .wy-side-nav-search a:hover {
+    height: 38.5vw;
+  }
+
+  .wy-nav-content {
+    width: 100vw;
+  }
+
+  .wy-nav-content-wrap .wy-nav-content {
+    padding-top: 97px;     /* 72 px + 1.618em */
+  }
+}
+
+.wy-table-responsive table td, .wy-table-responsive table th {
+  white-space: normal;
+}
+
+.wy-table-responsive table {
+  margin-bottom: 15px !important;
+}
+
+.rst-content .section .docutils {
+  display: table;
+}
+
+.rst-content table.docutils td {
+  font-size: 100%;
+}
+
+.rst-content table.docutils thead {
+  text-align: left;
+}
+
+.rst-content .section li.task-list-item p {
+  margin-bottom: 0;
+}
+
+.rst-content .section li.task-list-item {
+  margin-left: 0;
+}
+
+.rst-content .section li.task-list-item ol {
+  margin-left: 24px;
+}
+
+.rst-content .section li.task-list-item ul {
+  margin-left: 24px;
+}

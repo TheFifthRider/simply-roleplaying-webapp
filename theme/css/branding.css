@@ -1,0 +1,258 @@
+:root {
+  --branding-color: #361F00;
+  --contrast-color: #cbb8a4;
+  --highlight-color: #695744;
+  --light-highlight-color: #96826C;
+  --high-contrast-color: white;
+  --text-color: #404040;
+  --fifteen-percent-branding: rgba(54, 31, 0, 0.15);
+}
+
+@font-face {
+    font-family: "cinzel";
+    src: url("/fonts/Cinzel-Regular.ttf") /* TTF file for CSS3 browsers */
+}
+
+.task-list-item {
+  list-style: none !important;
+}
+
+h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
+  font-family: "cinzel";
+  letter-spacing: 2px;
+}
+
+body {
+  font-family: "Verdana","Geneva",sans-serif;
+}
+
+.wy-body-for-nav {
+  background-color: var(--branding-color);
+}
+
+.wy-side-scroll {
+  padding-bottom: 12px;
+}
+
+.wy-nav-content a:link {
+	color: var(--branding-color);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.wy-nav-content a:visited {
+	color: var(--branding-color);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.wy-nav-content a:hover {
+	color: var(--high-contrast-color);
+  text-decoration: none;
+}
+
+.wy-menu-vertical a:hover {
+  background-color: var(--highlight-color);
+}
+
+.wy-nav-content a:active {
+	color: var(--high-contrast-color);
+  text-decoration: none;
+}
+
+.wy-side-nav-search {
+  background: url('/logos/SRP_Simple_2-color.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: var(--branding-color);
+}
+
+@media screen and (max-width: 768px) {
+  .wy-side-nav-search {
+    background: url('/logos/SRP_Fancy_2-colour.png');
+    background-position: 50% 25%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: var(--branding-color);
+  }
+
+  .wy-side-nav-search a {
+    height: 119px;
+  }
+
+  .wy-side-nav-search a:hover {
+    height: 119px;
+  }
+}
+
+.wy-nav-content {
+  background-color: var(--contrast-color);
+}
+
+.wy-nav-side {
+  color: var(--contrast-color);
+  background-color: var(--branding-color);
+}
+
+.wy-nav-top {
+  background-color: var(--branding-color);
+  background-image: url('/logos/SRP_Simple_2-color.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.wy-nav-top i {
+  width: 72px;
+  height: 72px;
+  font-size: 45px;
+  color: rgba(255, 0, 0, 0);
+}
+
+.wy-nav-top a {
+  display: none;
+}
+
+.wy-side-nav-search a {
+  width: auto;
+  height: 55px;
+  display: block;
+}
+
+.wy-side-nav-search a:hover {
+  width: auto;
+  height: 55px;
+  display: block;
+}
+
+.wy-side-nav-search input[type=text] {
+  border-color: var(--highlight-color);
+}
+
+.wy-menu-vertical li.current a {
+  border-right: 0px;
+}
+
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
+  background: var(--contrast-color);
+  border-right: 0px;
+}
+
+.wy-menu-vertical li.current {
+  background: var(--contrast-color);
+}
+
+.fa-home:before, .icon-home:before {
+  display: none;
+}
+
+.wy-menu-vertical li.toctree-l2.current>a {
+  background: var(--contrast-color);
+}
+
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
+  background: var(--contrast-color);
+}
+
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4>a {
+  background: var(--contrast-color);
+}
+
+.wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current>a:hover {
+  background: var(--contrast-color);
+}
+
+.wy-menu-vertical li.current a:hover {
+  background: var(--light-highlight-color);
+}
+
+.wy-menu-vertical a:active {
+  background: var(--contrast-color);
+}
+
+.wy-menu-vertical li.toctree-l2 span.toctree-expand  {
+  color: var(--text-color);
+}
+
+.wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {
+  color: var(--contrast-color);
+}
+
+.wy-menu-vertical li.on a:hover span.toctree-expand, .wy-menu-vertical li.current>a:hover span.toctree-expand {
+  color: var(--contrast-color);
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+  font-size: 90%;
+}
+
+.wy-menu-vertical li.toctree-l1.current>a {
+  border-bottom: 0px;
+  border-top: 0px;
+}
+
+code, .rst-content tt, .rst-content code {
+  border: 0;
+  background-color: var(--contrast-color);
+  color: var(--branding-color);
+  font-weight: 700;
+  padding: 15px;
+  font-size: 100%;
+}
+
+.rst-content pre code {
+  background-color: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 20px var(--fifteen-percent-branding);
+  color: var(--text-color);
+}
+
+blockquote {
+	color: var(--highlight-color);
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 15px;
+  border-left: 5px solid var(--highlight-color);
+  box-shadow: 0 0 20px var(--fifteen-percent-branding);
+}
+
+footer {
+  color: var(--highlight-color);
+}
+
+hr {
+  height: 2px;
+  border-top-color: var(--branding-color);
+}
+
+input[type="file"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focus {
+  outline: var(--branding-color);
+}
+
+.wy-side-nav-search>a:hover, .wy-side-nav-search .wy-dropdown>a:hover {
+  background: unset;
+}
+
+.rst-content table.docutils {
+  box-shadow: 0 0 20px var(--fifteen-percent-branding);
+  margin: 25px 0;
+}
+
+.rst-content tbody tr {
+  border-bottom: 1px solid var(--highlight-color);
+}
+
+.rst-content table.docutils:not(.field-list) tr:nth-child(2n-1) td {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.rst-content table.docutils thead {
+	background-color: var(--highlight-color);
+	color: var(--high-contrast-color);
+}
+
+th, td {
+  padding: 12px 15px;
+  border: 0 !important;
+}
+
+tbody tr:last-of-type {
+    border-bottom: 2px solid var(--highlight-color);
+}
