@@ -1,11 +1,17 @@
-# Tests of Ability
+# Testing Abilities
 
-Whenever you take a risk to try to do something your gamemaster will call for a test of ability to determine what happens next. A **test of ability** (or **test** for short) is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) to see if the roll meets or exceeds a specific number-- the difficulty of doing what you want to do.
+Whenever you take a risk to try to do something your gamemaster will call for a test of ability to determine what happens next. A **test** is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) to see if the roll meets or exceeds a specific number-- the difficulty of doing what you want to do, set by the level of the test.
 
 ## What are tests?
-Most of the time in a game, your gamemaster will just tell you to make a test of a particular attribute, you'll roll the dice and tell them the result, and they'll let you know what happens. 
+When you try to do something and there's drama involved with whether or not you can do what you try to do, your gamemaster will ask you to "test" the attribute that makes the most sense for the situation. 
 
-They might say you **failed**, **partially succeedd**, **fully succeeded**, or **critically succeeded** at the test. If you failed you didn't get what you want and you might be in trouble. If you partially succeeded you got what you wanted but only barely, probably at a price. If you fully succeeded you did exactly what you set out to do. If you critically succeeded not only did you do what you set out to do, you rocked it.
+When they do, you'll look at your [skills, legacies, and backgrounds](../character/backgrounds.md) and pick whichever feel appropriate to the situation. However, you can't pick more dice than your level plus the attribute you're testing.
+
+`Maximum dice on a test =  Your level + Attribute`
+
+Once you've gathered those dice, you roll them, add them together, and tell your gamemaster what the final result is. They will compare that number against the **difficulty** of the test, 
+
+They might say you fail, partially succeed, fully succeed, or critically succeed at the test. If you **fail** you didn't get what you want and you might be in trouble. If you **partially succeed** you get what you want, but with some complication. If you fully succeed you get exactly what you want. If you **critically succeed** not only do you get what you want, you get all that and more.
 
 ## Breaking Down Tests
 While you rarely need to fully write out a test with all of its possible outcomes, if you did it would look something like this:
@@ -35,7 +41,9 @@ While you rarely need to fully write out a test with all of its possible outcome
 
 So what is the specific number you need to beat in order to do something and how does your GM determine it? The most common case is the difficulty is a value picked by your GM based on the level level a person in their world would have to be to be able to do it with any kind of regularity, something we explore in [setting rules](../setting_rules/index.md).
 
-Once the GM knows what level you'd have to be do pull this sort of thing off regularly, they can transform that into a difficulty number by multiplying the level by 10, then subtracting 10. For instance, a test that a level 1 character can consistently perform is difficulty 0 and a test that a level 3 character can consistently perform is difficulty 20.
+Once the GM knows what level you'd have to be do pull this sort of thing off regularly, they can transform that into a difficulty number by multiplying the level by 5. For instance, a test that a level 1 character can consistently perform is difficulty 5 and a test that a level 3 character can consistently perform is difficulty 15.
+
+`Standard test difficulty = Test level * 5`
 
 Of course, not all tests are created equal. If your GM feels like what you're doing is particularly easy for the level required, they might lower the difficulty further. If they feel it's a particularly hard, they might raise it. So a test for a level 3 character might be difficulty 15 if it was very easy, 20 if it was something they can handle all the time, and 25 if it's somewhat challenging.
 
