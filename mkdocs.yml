@@ -44,3 +44,4 @@ copyright: >
 markdown_extensions:
     - pymdownx.tasklist:
         clickable_checkbox: true
+    - admonition: {}

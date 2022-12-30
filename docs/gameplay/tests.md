@@ -1,100 +1,48 @@
 # Testing Abilities
-
-Whenever you take a risk to try to do something your gamemaster will call for a test of ability to determine what happens next. A **test** is resolved by rolling [skill, legacy, and background dice](../character/backgrounds.md) to see if the roll meets or exceeds a specific number-- the difficulty of doing what you want to do, set by the level of the test.
-
-## What are tests?
 When you try to do something and there's drama involved with whether or not you can do what you try to do, your gamemaster will ask you to "test" the attribute that makes the most sense for the situation. 
 
 When they do, you'll look at your [skills, legacies, and backgrounds](../character/backgrounds.md) and pick whichever feel appropriate to the situation. However, you can't pick more dice than your level plus the attribute you're testing.
 
-`Maximum dice on a test =  Your level + Attribute`
+!!! note
+    Maximum dice on a test =  Your level + Attribute
 
 Once you've gathered those dice, you roll them, add them together, and tell your gamemaster what the final result is. They will compare that number against the **difficulty** of the test, 
 
-They might say you fail, partially succeed, fully succeed, or critically succeed at the test. If you **fail** you didn't get what you want and you might be in trouble. If you **partially succeed** you get what you want, but with some complication. If you fully succeed you get exactly what you want. If you **critically succeed** not only do you get what you want, you get all that and more.
+Your gamemaster will then inform you if you failed or succeeded, and to what degree you succeeded. They might say you fail, partially succeed, fully succeed, or critically succeed at the test.
+
+If you didn't meet the difficulty, you **fail**. You won't get what you want and you might be in trouble. If you beat the difficulty, you **partially succeed**. You get what you want, but with some complication. If you beat the difficulty by 10 or more, you **fully succeed**. you get exactly what you want. If you beat the difficulty by 20 or more, you **critically succeed**! Not only do you get what you want, you get all that and more.
+
+!!! note
+    | Situation | Test Result |
+    |-|-|
+    | Difficulty beats roll | Fail |
+    | Roll meets or beats Difficulty |  Partial success |
+    | Roll beats Difficulty by 10 | Full Success |
+    | Roll beats Difficulty by 20 | Critical Success |
+
+## Assisting
+
+Before you roll the dice, anybody else who can reasonably use one of their skills, legacies, or backgrounds to help you may offer their assistance by choosing the appropriate die and rolling it with you. Everybody who does so adds their roll to your own, but also either introduce a new risk to the test or somehow worsen the existing risk, making failure all the more dangerous.
+
+If the initial risk was a deadly pitfall, the assisting character could be at risk of falling in as well. If the initial risk was taking too long to researching an antidote before the poison took hold, the additional minds involved worsen that risk to accidentally making the poison more lethal.
+
 
 ## Visualizing Tests
 You don't usually need to write out a test and its outcomes, but if you if you did it would look something like this:
 
->  **Sell Questionable Goods to a Local Merchant**
+>  **Sell Questionable Goods to a Local Merchant**<br/>
 >  _Difficulty **15** Test of **Presence**_
 >  ****
->  **Goal:** Turning a profit on contraband
->  **Risk:** The merchant might be insulted or involve the authorities
+>  **Goal:** Turning a profit on contraband<br/>
+>  **Drama:** The merchant might be insulted or involve the authorities
 >  ****
 >  If they...
+>  
 >  * **Fail:** the merchant gets indignant and starts making a scene. The authorities are sure to get involved immediately.
 >  * **Partially succeed:** the merchant agrees to buy the contraband, but it seems like they're not likely to want to see you again. They may tip off the authorities, but not until after you've left.
 >  * **Fully succeed:** you win them over or they don't seem to notice this time-- the merchant accepts the deal
 >  * **Critically succeed:** not only does the merchant accept the deal but they happen to know a great fence in the area and look forward to working with you again
 
-<br/>
-
-## Picking a Difficulty
-
-So how does your GM choose the specific number that you compete against? Well, tests have levels just like characters, and the difficulty of a test starts 
-
-The most common case is the difficulty is a value picked by your GM based on the level level a person in their world would have to be to be able to do it with any kind of regularity, something we explore in [setting rules](../setting_rules/index.md).
-
-Once the GM knows what level you'd have to be do pull this sort of thing off regularly, they can transform that into a difficulty number by multiplying the level by 5. For instance, a test that a level 1 character can consistently perform is difficulty 5 and a test that a level 3 character can consistently perform is difficulty 15.
-
-`Standard test difficulty = Test level * 5`
-
-Of course, not all tests are created equal. If your GM feels like what you're doing is particularly easy for the level required, they might lower the difficulty further. If they feel it's a particularly hard, they might raise it. So a test for a level 3 character might be difficulty 15 if it was very easy, 20 if it was something they can handle all the time, and 25 if it's somewhat challenging.
-
-<br/>
-
-### Competitions
-
-When characters directly compete with each other, the gamemaster may rule that it is appropriate to resolve the test by comparing each competing character's roll against each other instead of against a static difficulty. In these **competitions**, the rolls of the other competing characters are considered the difficulty of the test.
-
-<br/>
-
-## Resolving Tests
-
-In most cases the gamemaster will determine what attribute(s) are applicable for the skill check in question and the player will offer up suggestions of skills and/or backgrounds that they have on their character sheet to add the dice associated with those skills and/or backgrounds. A character can contribute one skill or background die to a test of ability up to a maximum equal to their [level](../gameplay/advancement.md). After that, a character can take dice from any relevant [bonus dice](bonus_dice.md) and add them to their roll.
-
-<br/>
-
-### Assisting
-
-Before the dice are rolled, any character who can reasonably use one of their skills or backgrounds to help the character performing the test may offer their assistance by choosing the appropriate die and rolling it with the character attempting the test. The character attempting the test may then choose a number of dice less than or equal to their [level](../gameplay/advancement.md) to use for the test.
-
-All characters who assist in the test help the tested character reach their goal, making success more likely, but each character who assists in the test also either introduce a new risk to the test or somehow worsen the existing risk, making failure all the more dangerous. If the initial risk was a deadly pitfall, the assisting character could be at risk of falling in as well. If the initial risk was taking too long to researching an antidote before the poison took hold, the additional minds involved might result in a fatal miscommunication.
-
-<br/>
-
-## Determining the Outcome
-
-Once the attribute, backgrounds, and skills are all chosen, the dice are rolled and the gamemaster compares the total result to the difficulty of the test and describes what happens. If a character's roll meets or exceeds the difficulty of the test, they have **succeeded** and are able to do what they set out to do. If a character's roll does not meet the difficulty of the test, they have **failed** and things are about to get bad for them.
-
-While success does mean that the character has accomplished what they wanted to, how well they have succeeded determines how much any risks involved affect them. 
-
-If a character rolls 20 or more over the difficulty of a test, they have **critically succeeded**; not only did they do what they set out to do and minimize any associated risks, they also get something extra that they wanted or suffer no risks at all!
-
-If a character rolls 10 or more over the difficulty of a test, they have **fully succeeded**; they did what they set out to do and minimize any associated risks.
-
-If a character only meets or exceeds the difficulty of a test, they have **partially succeeded**; they did what they set out to do but they're going to take the brunt of the risks involved.
-
-If a character does not meet the difficulty of the test, they have **failed**-- they don't do what they set out to do and they are either going to suffer the worst possible case of the risks involved or introduce a new risk.
-
-### Offer Hard Choices when there are Multiple Risks
-
-Lots of tests may have multiple risks involved. Chasing after a bad guy through a crowded alley in an unfamiliar city might have both the risk of letting them get away and getting lost in a part of town you don't know. Gamemasters, while it's perfectly reasonable for a failure on a test to mean "all of the bad stuff that could happen, does happen" consider also offering hard choices to your players on which bad stuff might happen.
-
-<br/>
-
-### Determining the Outcome of a Competition
-
-Determining the outcome of a competition in which there are two participants is done the same way as determining the outcome in a test with a static difficulty. When more than one character is involved, characters are instead often **ranked from highest to lowest**, based on their roll. The gamemaster can then use these positions to describe the result of the competition based on the relative placement of the competitors.
-
-<br/>
-
-#### Competition Tiebreakers
-
-Sometimes, characters in a competition might tie. In cases where the gamemaster needs these ties to be broken, other aspects of the tied characters come into question. A tie can be broken by comparing the passive scores of the respective attributes that the characters used for the test. If there is still a tie, that tie is resolved at the gamemaster's discretion, perhaps taking into consideration number of relevant skills/backgrounds or sources of narrative truth. 
-
-<br/>
 
 ## Example of a Test
 
@@ -110,7 +58,32 @@ Let's bring it all together and walk through a test of ability using the **Sell 
 >
 > They roll a 10, a 5, and a 5 for a total of 20--  a spectacular roll. They have a +5 attribute modifier to their Presence, bringing the total of the roll up to 25.
 >
-> The difficulty of the test was _15_, and 25 is 10 higher than the difficulty, which makes it a _full success_. which means _you win them over or they don't seem to notice this time-- the merchant accepts the deal_. Based on the skills used, the gamemaster now has everything they need to paint a picture of how the sweating merchant responds to the smuggler's intimidation and ultimately gives in.
+> The difficulty of the test was _15_, and 25 is 10 higher than the difficulty, which makes it a _full success_. According to the test, _you win them over or they don't seem to notice this time-- the merchant accepts the deal_. Based on the skills used, the gamemaster now has everything they need to paint a picture of how the sweating merchant responds to the smuggler's intimidation and ultimately gives in.
+
+<br/>
+
+## Picking the Difficulty
+So how does your GM choose the specific number that you roll against? Just like characters, tests have levels, and the total difficulty of any test is equal to 5 times the test's level.
+
+!!! note
+    Test difficulty = Test level * 5
+
+To start with, you'll likely be facing tests at the same level as you. However, as you gather strong [equipment](../character/equipment.md) and learn powerful [abilities](../character/abilities.md), you'll start facing even more difficult tests. It's not uncommon for high level characters to be facing tests of twice their level!
+
+<br/>
+
+### Competitions
+However, not all tests have a level-- it's also perfectly valid for a test to be a roll off between the involved characters. Take an arm wrestling contest with, for example -- it would be a test of brawn, and both players would roll against each other. The outcome of the test, then, comes from comparing the rolls rather than comparing the roll to a static number.
+
+In the rare event of a tie in a competition, everybody involved in the tie will either fail or partially succeed, depending on what makes sense to your gamemaster.
+
+When you're dealing with three or more people involved in the same competition, it's probably best to abandon the idea of failing or succeeding entirely. Instead, judge how characters did by ranking them from highest to lowest roll.
+
+<br/>
+
+## Offer Hard Choices when there are Multiple Risks
+
+Lots of tests may have multiple risks involved. Chasing after a bad guy through a crowded alley in an unfamiliar city might have both the risk of letting them get away and getting lost in a part of town you don't know. Gamemasters, while it's perfectly reasonable for a failure on a test to mean "all of the bad stuff that could happen, does happen" consider also offering hard choices to your players on which bad stuff might happen when they fail or partially succeed.
 
 <br/>
 
