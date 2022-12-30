@@ -13,23 +13,16 @@ Once you've gathered those dice, you roll them, add them together, and tell your
 
 They might say you fail, partially succeed, fully succeed, or critically succeed at the test. If you **fail** you didn't get what you want and you might be in trouble. If you **partially succeed** you get what you want, but with some complication. If you fully succeed you get exactly what you want. If you **critically succeed** not only do you get what you want, you get all that and more.
 
-## Breaking Down Tests
-While you rarely need to fully write out a test with all of its possible outcomes, if you did it would look something like this:
+## Visualizing Tests
+You don't usually need to write out a test and its outcomes, but if you if you did it would look something like this:
 
 >  **Sell Questionable Goods to a Local Merchant**
->
 >  _Difficulty **15** Test of **Presence**_
->
 >  ****
->
 >  **Goal:** Turning a profit on contraband
->
 >  **Risk:** The merchant might be insulted or involve the authorities
->
 >  ****
->
 >  If they...
->
 >  * **Fail:** the merchant gets indignant and starts making a scene. The authorities are sure to get involved immediately.
 >  * **Partially succeed:** the merchant agrees to buy the contraband, but it seems like they're not likely to want to see you again. They may tip off the authorities, but not until after you've left.
 >  * **Fully succeed:** you win them over or they don't seem to notice this time-- the merchant accepts the deal
@@ -37,9 +30,11 @@ While you rarely need to fully write out a test with all of its possible outcome
 
 <br/>
 
-## Establishing Difficulty
+## Picking a Difficulty
 
-So what is the specific number you need to beat in order to do something and how does your GM determine it? The most common case is the difficulty is a value picked by your GM based on the level level a person in their world would have to be to be able to do it with any kind of regularity, something we explore in [setting rules](../setting_rules/index.md).
+So how does your GM choose the specific number that you compete against? Well, tests have levels just like characters, and the difficulty of a test starts 
+
+The most common case is the difficulty is a value picked by your GM based on the level level a person in their world would have to be to be able to do it with any kind of regularity, something we explore in [setting rules](../setting_rules/index.md).
 
 Once the GM knows what level you'd have to be do pull this sort of thing off regularly, they can transform that into a difficulty number by multiplying the level by 5. For instance, a test that a level 1 character can consistently perform is difficulty 5 and a test that a level 3 character can consistently perform is difficulty 15.
 
