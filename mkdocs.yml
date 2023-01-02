@@ -22,6 +22,8 @@ nav:
         - gameplay/action.md
         - gameplay/chases.md
         - gameplay/advancement.md
+    - 'Running the Game':
+        - running_the_game/creating_tests.md
     - 'Setting Rules':
         - setting_rules/index.md
         - setting_rules/powers.md
