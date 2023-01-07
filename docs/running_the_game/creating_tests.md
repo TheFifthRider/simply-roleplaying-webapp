@@ -2,12 +2,23 @@
 I'm assuming you've already read the players rules on [tests](../gameplay/tests.md) -- if you haven't, I'd start there and then come back here and we can break down how to make them.
 
 ## Picking the Difficulty
-So how do yo uchoose the specific number that your players roll against? Just like characters, tests have levels, and the total difficulty of any test is equal to 5 times the test's level.
+So how do you choose the specific number that your players roll against? Check out the table below to see a rough mapping from a character's attribute level to the difficulty of a test that will challenge them.
 
-!!! note
-    Test difficulty = Test level * 5
+   | Character level | Test Difficulty |
+   | --------------- | --------------- | 
+   | 1               | 5               | 
+   | 4               | 25              | 
+   | 7               | 45              | 
+   | 10              | 65              | 
+   | 13              | 85              | 
+   | 15              | 100             | 
+   | 17              | 110             | 
+   | 20              | 130             | 
+   
 
-To start with, your players will likely be facing tests at the same level as they are. However, as they gather strong [equipment](../character/equipment.md) and learn powerful [abilities](../character/abilities.md), they'll start facing even more difficult tests. It's not uncommon for high level characters to be facing tests of twice their level!
+This is a good rule of thumb for your players power. However, you may notice that this table goes up to 20-- what the heck? Aren't players only supposed to go up to level 10, and their attributes up to +5? How could they possibly reach Level 20?
+
+The thing about this table is it's not going to be totally accurate to your party. It's a good rule of thumb, but as your players gather strong [equipment](../character/equipment.md) and learn powerful [abilities](../character/abilities.md), they'll start rolling even higher than you might expect! Once they start doing so consistently, it's probably best to start keeping track of the level that your characters roll like in addition to the level they have on their character sheet, just so you know for planning purposes. 
 
 <br/>
 
