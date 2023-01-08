@@ -82,7 +82,7 @@ Equipment with this tag are carriable defense, like bucklers, directional forcef
 
 _requires: Any attribute tag AND any range tag_
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to [attack](common_tests.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
+Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to [attack](../gameplay/common_tests.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
 
 #### Will
 
