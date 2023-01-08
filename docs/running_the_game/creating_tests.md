@@ -2,9 +2,11 @@
 I'm assuming you've already read the players rules on [tests](../gameplay/tests.md) -- if you haven't, I'd start there and then come back here and we can break down how to make them.
 
 ## Picking the Difficulty
-So how do you choose the specific number that your players roll against? Check out the table below to see a rough mapping from a character's attribute level to the difficulty of a test that will challenge them.
+So how do you choose the specific number that your players roll against? First of all, you have to know what attribute you're testing, and what the player's level is in that attribute. Your players should have that on their character sheet, but if they don't you can just add their attribute modifier to their character level and that'll give you 
 
-   | Character level | Test Difficulty |
+Check out the table below to see a rough mapping from an attribute's level to the difficulty of a test that will challenge it.
+
+   | Attribute level | Test Difficulty |
    | --------------- | --------------- | 
    | 1               | 5               | 
    | 4               | 25              | 
@@ -34,6 +36,16 @@ When you're dealing with three or more people involved in the same competition, 
 ## Offer Hard Choices when there are Multiple Risks
 
 Lots of tests may have multiple risks involved. Chasing after a bad guy through a crowded alley in an unfamiliar city might have both the risk of letting them get away and getting lost in a part of town you don't know. While it's perfectly reasonable for a failure on a test to mean "all of the bad stuff that could happen, does happen" consider also offering hard choices to your players on which bad stuff might happen when they fail or partially succeed.
+
+<br/>
+
+## Progress Meters
+
+If your players are trying to do something and you just don't think they can do something like that in just one test, you can instead pick a target number and create a **progress meter** to track the effort spent. 
+
+A progress meter starts at 0 and ends at whatever target number you set it at. Whenever your players roll on tests that contribute to the goal of the progress meter, add their roll to the progress meter to fill it up! Once the progress meter hits the number you targetted, the goal is accomplished!
+
+Optionally, you can also have additional "stretch goals" at further target numbers if your players want to keep going.
 
 <br/>
 
