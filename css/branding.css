@@ -6,6 +6,12 @@
   --high-contrast-color: white;
   --text-color: #404040;
   --fifteen-percent-branding: rgba(54, 31, 0, 0.15);
+  --red: #D64045;
+  --yellow: #FFEE88;
+  --green: #0CCE6B;
+  --cyan: #05B2DC;
+  --blue: #304C89;
+  --magenta: #8A4FFF;
 }
 
 @font-face {
@@ -255,4 +261,15 @@ th, td {
 
 tbody tr:last-of-type {
     border-bottom: 2px solid var(--highlight-color);
+}
+
+.admonition, .note {
+    color: var(--highlight-color);
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    padding: 15px;
+    box-shadow: 0 0 20px var(--fifteen-percent-branding);
+}
+
+.rst-content .note .admonition-title {
+    background: var(--cyan);
 }
