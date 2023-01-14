@@ -22,14 +22,12 @@ If you attack with an object not intended to be a weapon or with a weapon in a w
 
 ## Stacking dice for or against someone
 
-When you make a test of any attribute to **stack dice for or against a character**, if you...
+When you make a test of any attribute to **stack dice for or against someone**, if you...
 
 *   **Fail:** Stack two dice against yourself, or remove two dice from the existing stack
 *   **Partially succeed:** Stack two dice on the new or existing stack
 *   **Fully succeed:** Stack three dice on the new or existing stack
 *   **Critically Succeed:**  Stack four dice on the new or existing stack
-
-What size of dice are added to the pool depends on the quality of the bonus created. Hiding behind a rotting fence might only give you d4s, while positioning yourself behind concrete might give you d12s. Ultimately, this is a gamemaster call so feel free to ask them what quality a bonus you could create by doing something before doing it.
 
 <br/>
 

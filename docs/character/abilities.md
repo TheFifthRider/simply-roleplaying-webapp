@@ -18,8 +18,8 @@ Often, a character's abilities will do things like:
 
 *   Inflict [damage](health.md)
 *   Make a test to heal [damage](health.md)
-*   Create [bonus dice](../gameplay/bonus_dice.md)
-    *   ...which could be [special bonus dice](../gameplay/bonus_dice.md#Special Advantages and Disadvantages)
+*   Create [dice stacks](stacks.md)
+    *   ...which could be [special stacks](../gameplay/stacks.md#special-stacks)
 *   Give some [equipment](equipment.md) a specific [tag](equipment.md#the-full-list-of-tags)
 *   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
 *   Move the character where they want to be
@@ -87,7 +87,7 @@ As you get stronger, so should your abilities! When you upgrade your abilities, 
 
 ### Giving an Ability an Additional Effect
 
-Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [bonus](../gameplay/bonus_dice.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
+Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [stack](stacks.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
 
 ### Making an Ability Stronger
 
@@ -97,9 +97,9 @@ If you want an ability to do what it already does, but better, you can amplify i
 
 ## Abilities Growing with Level
 
-When making an ability, you may not want all aspects of the ability to be improved by a player choosing to **improve an ability**-- increasing the difficulties for tests, the size of bonus dice, or the **+X** tag on ability-created equipment aren't things that necessarily feel rewarding to level up. Improving an ability should always feel like an improvement, it should never feel like keeping up.
+When making an ability, you may not want all aspects of the ability to be improved by a player choosing to **improve an ability**-- increasing the difficulties for tests, the size of stacked dice, or the **+X** tag on ability-created equipment aren't things that necessarily feel rewarding to level up. Improving an ability should always feel like an improvement, it should never feel like keeping up.
 
-To that end, certain aspects of abilities should increase automatically as a character levels up. Bonus dice granted by an ability, for example, might start as d4s at level 1 and increase every two levels until level 8, when they become d12s. Test difficulties might increase by 10 every level. Here are some suggestions:
+To that end, certain aspects of abilities should increase automatically as a character levels up. Dice stacked by an ability, for example, might start as d4s at level 1 and increase every two levels until level 8, when they become d12s. Test difficulties might increase by 10 every level. Here are some suggestions:
 
 | Level | Die  | Equipment Quality | Test difficulty |
 | ---------- | ---- | ----------------- | ------- |
@@ -124,20 +124,20 @@ All right, we've spent enough time talking about how they work. Let's make some 
 
 ### Tinkering Inventor
 
-What if our character was a _Tinkering Inventor_? Someone who can always make the right tools for the job. Their abilities could be the inventions they create, powered by the **scrap** that the Inventor uses to make them. One ability could be **Springloaded Boots**-- a cobbled together contraption that allows the wearer to leap further and run faster... until it breaks. That's pretty easy to represent as bonus dice that the Inventor puts together over some downtime.
+What if our character was a _Tinkering Inventor_? Someone who can always make the right tools for the job. Their abilities could be the inventions they create, powered by the **scrap** that the Inventor uses to make them. One ability could be **Springloaded Boots**-- a cobbled together contraption that allows the wearer to leap further and run faster... until it breaks. That's pretty easy to represent as stacks of dice that the Inventor puts together over some downtime.
 
 Ability points: **Scrap**
 Ability: **Springloaded Boots**
 
 | Requirements                                     | Effect                                                     |
 | ------------------------------------------------ | ---------------------------------------------------------- |
-| By spending 1 scrap over some downtime, I can... | ...give 1 target 4d4 bonus dice called Springloaded Boots. |
+| By spending 1 scrap over some downtime, I can... | ...stack 4d4 Springloaded Boots in somebody's favor. |
 
-And upgrading it would probably mean making the boots last longer and be more durable, so we can just increase the number of bonus dice.
+And upgrading it would probably mean making the boots last longer and be more durable, so we can just increase the number of dice stacked.
 
 | Requirements                                     | Effect                                                       |
 | :----------------------------------------------- | ------------------------------------------------------------ |
-| By spending 1 scrap over some downtime, I can... | ...give 1 target **8**d4 bonus dice called Springloaded Boots. |
+| By spending 1 scrap over some downtime, I can... | ...stack 8d4 Springloaded Boots in somebody's favor. |
 
 <br/>
 
@@ -152,11 +152,11 @@ Ability: **Health Potion**
 | -------------------------------------------------- | -------------------------------------------- |
 | By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach. |
 
-We could then upgrade this potion to give it a secondary effect-- perhaps bonus dice for being invigorated?
+We could then upgrade this potion to give it a secondary effect-- perhaps a stack of dice for being invigorated?
 
 | Requirements                                       | Effect                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------ |
-| By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach and give them 2d4 bonus dice called _Invigorated_. |
+| By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach and stack 2d4 Invigorated in their favor. |
 
 <br/>
 
@@ -190,11 +190,11 @@ Ability: **There's a Wiki for That**
 | ------------------------------------------------------------ | ------------------------------- |
 | By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll. |
 
-Upgrading this ability might allow the Savant to utilize some tidbits they picked up when researching as bonus dice.
+Upgrading this ability might allow the Savant to utilize some tidbits they picked up when researching as a stack of dice.
 
 | Requirements                                                 | Effect                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and give myself 4d4 bonus dice named after what I researched. |
+| By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and stack 4d4 in my favor named after what I researched. |
 
 <br/>
 
@@ -231,44 +231,44 @@ Let's start with the ability **Berserking**
 
 A good starting point, but let's see if we can make it more interesting.
 
-The next chance we get to improve abilities, we choose to **make the ability stronger**. We can't increase the number of dice that we have, but we can change the dice into an **bonus dice** that can be used more than once. Since bonus dice are more broadly useful than just attacks, let's also change the trigger to an action.
+The next chance we get to improve abilities, we choose to **make the ability stronger**. We can't increase the number of dice that we have, but we can change the dice into a stack that can be used more than once. Since stacks are more broadly useful than just attacks, let's also change the trigger to an action.
 
 #### Berserking II
 
 | Requirements                                           | Effect                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of fury, I can use an action to... | ...create 2d4 bonus dice named **Berserking** for the scene. |
+| By spending a point of fury, I can use an action to... | ...stack **2d4 Berserking** in my favor for the scene. |
 
-Already this is looking jucier. Now, not only do we get a 1d4 bonus to attacks, but we can also spend the dice from the bonus dice for breaking down doors, resisting mind control, and all kinds of other stuff that having **Berserking** bonus dice might help with.
+Already this is looking jucier. Now, not only do we get a 1d4 bonus to attacks, but we can also spend the dice from the stack for breaking down doors, resisting mind control, and all kinds of other stuff that having a **Berserking** stack might help with.
 
-Where do we go from here? Well, a simple route would just be to increase the number of dice that we have on the Berserking bonus dice to get more Berserking Time, but what if we made them special bonus dice? We'd need our gamemaster's approval and their help making some balanced tweaks, but with their help we could come up with something like...
+Where do we go from here? Well, a simple route would just be to increase the number of dice that we have on the Berserking stack to get more Berserking Time, but what if we made it a special stack? We'd need our gamemaster's approval and their help making some balanced tweaks, but with their help we could come up with something like...
 
 #### Berserking III
 
 | Requirements                                           | Effect                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of fury, I can use an action to... | ...create 1d4 special bonus dice named **Berserking** for the scene. |
+| By spending a point of fury, I can use an action to... | ...stack **1d4 Berserking** in my favor for the scene with the following rules:  |
 
 > **Berserking**
 >
-> When you **make an attack** add 1d4 to these bonus dice.
-> The first time you **take damage** each turn, add 1d4 to these bonus dice.
-> If you end your turn without spending one of these bonus dice, they are all lost.
+> When you **make an attack**, stack another die.
+> The first time you **take damage** each turn, stack another die.
+> If you end your turn without removing a die from the stack, they are all lost.
 
-This is what our gamemaster helped us come up with. They're special bonus dice that feeds themselves the more that we attack and take damage, but have the downside of needing to be used at least once on each of our turns or they go away. Now we're really getting somewhere! 
+This is what our gamemaster helped us come up with. They're a special stack that feeds themselves the more that we attack and take damage, but have the downside of needing to be used at least once on each of our turns or they go away. Now we're really getting somewhere! 
 
-But... what if we could make it _even better?_ Our gamemaster has an idea for that-- they say that if we want to, we can upgrade the ability again to remove the restriction that causes us to lose the bonus dice.
+But... what if we could make it _even better?_ Our gamemaster has an idea for that-- they say that if we want to, we can upgrade the ability again to remove the restriction that causes us to lose the stack.
 
 #### Berserking IV
 
 | Requirements                                           | Effect                                                       |
 | ------------------------------------------------------ | ------------------------------------------------------------ |
-| By spending a point of fury, I can use an action to... | ...create 1d4 special bonus dice named **Berserking** for the scene. |
+| By spending a point of fury, I can use an action to... | ...stack **1d4 Berserking** in my favor for the scene with the following rules: |
 
 > **Berserking**
 >
-> When you **make an attack** add 1d4 to these bonus dice.
-> The first time you **take damage** each turn, add 1d4 to these bonus dice.
+> When you **make an attack**, stack another die.
+> The first time you **take damage** each turn, stack another die.
 
 Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get powerful  these dice that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!
 
