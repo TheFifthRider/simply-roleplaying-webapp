@@ -1,45 +1,51 @@
-# Bonus Dice
+# Stacks of Dice
 
-If you're fired up, tactically informed, or your teammate put you into a good position, you can draw on those benefits to gain bonus dice. Similarly, if your guard got broken, sand got kicked in your eyes, or you're pinned down by sniper fire, other people might have bonus dice against you. **Bonus dice** are a pool of **dice** of the same size with a **name** that describes them. Just like with [skills and backgrounds](../character/backgrounds.md), the name of the bonus is how you determine if it makes sense that you can take some dice from it.
+**Dice stacks** are a stack of **dice** of the same size with a **name** that describes them. Dice are either **stacked in your favor**, which means you can roll them to improve your rolls or defenses, or they are **stacked against you**, which means other people can use them to improve their rolls against you. Just like with [skills and backgrounds](../character/backgrounds.md), the name of the stack is how you determine if it makes sense that you can take some dice from it.
 
 <br/>
 
-## How do they get created?
+## How do you stack dice?
 
-Bonus dice can be created to represent any situation in which a character either has the upper hand or is vulnerable; especially to represent the hazards or tactical benefits of the environment. In game, the bonus dice are often created by an action that a character might perform-- ducking behind cover, striking someone with a poisoned weapon, or wading into a swamp. In addition, [abilities](../character/abilities.md) or [equipment](../character/equipment.md) may specify that they create pools of bonus dice.
+You can stack dice by making a test with the goal of . Your GM might also stack dice when it [makes sense](../getting_started/index.md#narrative-truth); automatically stacking dice for somebody when they start an action scene with the upper hand, or against somebody when they wade into a sucking bog. And of course, things that come with their own rules like [abilities](../character/abilities.md) or [equipment](../character/equipment.md) may stack dice for or against people.
 
 <br/>
 
 ## How do you use them?
 
-Bonus dice are what they sound like-- extra dice that you can roll on top of the normal amount you'd roll [whenever you roll for a test](tests.md#Resolving-Tests). You can take dice from a bonus dice pool whenever it makes sense that the bonus is working in your favor! There's no limit to the number of bonus dice that you can benefit from, which means you can use bonus dice to do things that otherwise would be impossible.
+When you take dice off of a stack, you can either roll them to improve your roll for a [test](tests.md), or you can roll them to increase the difficulty of a test for somebody else. There's no limit to the number of dice that you can take from these stacks, as long as it [makes sense](../getting_started/index.md#narrative-truth) that the stack would help you out on your test or make the other person's test more difficult.
 
 <br/>
 
 ## How long do they last?
 
-When the last die is taken from a pool of bonus dice, it disappears. The character afflicted by the disadvantage imposed on them has either recovered from it or figured out how to deal with it. The tactical advantage acquired is no longer applicable or just doesn't provide the benefits it once did.
+When the last die is taken from a stack, the stack is gone. If you had dice stacked against you, you have either recovered from the disadvantageous situation or figured out how to deal with it. If you had dice stacked in your favor, your tactical advantage might be no longer applicable or might simply no longer provide the benefits it once did.
 
-However, bonus dice should also go away whenever it makes sense that they should. If somebody does something to try to get rid of your bonus dice their action takes dice away from it. If something happened to make the bonus no longer applicable -- say the person who was pinning you down with suppressing fire getting taken out -- that's also a reason for the bonus dice pool to go away.
+Your GM may also clear stacks whenever they no longer [make sense](../getting_started/index.md#narrative-truth). Being pinned down by covering fire only makes sense for as long as there's somebody out there actively raining down bullets on you-- if they get taken out or have to focus their attention elsewhere, that stack should go away.
 
 <br/>
 
 ## Examples
 
-**2d6** bonus dice called **Inspired by Bravery** could be used up to twice by those inspired.
+**2d6 Inspirational Bravery** is stacked in favor of the inspired and can be used whenever they could benefit from steeling their will.
 
-**4d10** bonus dice on a character called **Seeing Shadows** could be used up to four times by anyone who wants to use a character's hallucinations against them.
+**4d10 Seeing Shadows** is stacked against the afflicted and could be used by anyone who wants to use a character's hallucinations against them.
 
-**3d12** bonus dice called **Cover behind the Parapets** could be used up to three times by anyone who could avoid danger behind the stone fortifications.
+**3d12 Cover behind the Parapets** is stacked in favor of anyone behind the stone fortifications and could be used to defend against arrows and other dangers.
 
-**6d4** bonus dice on a character called **Waist Deep in Sewage** could be used up to six times by monsters lurking under the water or a sniper taking advantage of the character's slowed movements.
+**6d4 Waist Deep in Sewage** is stacked against the hapless wader, and could be used by monsters lurking under the water or a sniper taking advantage of the character's slowed movements.
 
 <br/>
 
-## Special Bonus Dice
+## Special Stacks
 
-All bonus dice can be used as described above, but they can also be customized along the same lines as [abilities](../character/abilities.md). Being _On Fire_ could absolutely mean a pool of dice that people can draw from to take advantage of, but we can also represent the damage of the flames.  Perhaps at the start of their turn, or whenever the GM feels is appropriate if you're not in an action scene, the burning character might need to remove one of the bonus dice from the pool and take damage equal to a roll of that die.
+Stacks, especially stacks created by [abilities](../character/abilities.md) or [equipment](../character/equipment.md), can also have special rules associated with them. Here are some examples:
 
-There are no hard and fast rules on customizing bonus dice, but a good rule of thumb for gamemasters is not to give every set of bonus dice special rules. Aside from the complexity it adds, customizing bonus dice make them feel special-- They give flair to specialized equipment (such as magic items, incendiary devices, or poisons) and powerful character [abilities](../character/abilities.md). If you spread that around too much, it'll start to feel like that's how all bonus dice should work.
+**4d6 On Fire**: At the start of your turn, remove a die from the stack and roll it to see how much damage you take from the flames.
+
+**3d12 Trapped by Rocks**: You can't move until all the dice have been removed from this stack.
+
+**1d10 Berserker's Rage**: As long as this stack is around, add another die to the stack whenever you take damage.
+
+There are no hard and fast rules on making special stacks, but most stacks probably shouldn't be special. Not only would making lots of stacks special mean lots of rules that everybody needs to remember, special stacks used in moderation give flair to specialized equipment (such as magic items, incendiary devices, or poisons) and powerful character [abilities](../character/abilities.md) that wouldn't feel as awesome if being a special stack were more common.
 
 <br/>
