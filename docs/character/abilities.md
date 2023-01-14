@@ -18,7 +18,7 @@ Often, a character's abilities will do things like:
 
 *   Inflict [damage](health.md)
 *   Make a test to heal [damage](health.md)
-*   Create [dice stacks](stacks.md)
+*   Create [dice stacks](../gameplay/stacks.md)
     *   ...which could be [special stacks](../gameplay/stacks.md#special-stacks)
 *   Give some [equipment](equipment.md) a specific [tag](equipment.md#the-full-list-of-tags)
 *   Allow someone to do something as if they had equipment with a specific [tag](equipment.md#the-full-list-of-tags)
@@ -87,7 +87,7 @@ As you get stronger, so should your abilities! When you upgrade your abilities, 
 
 ### Giving an Ability an Additional Effect
 
-Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [stack](stacks.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
+Sometimes you just want an ability to do more. If an ability gave you an extra **d6** when gathering information about a monster, giving it an extra effect might allow you to create a **1d6** [stack](../gameplay/stacks.md) named _I know_ [monster name]_'s strengths and weaknesses_ as well. If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of _presence_ to heal the wielder too!
 
 ### Making an Ability Stronger
 
