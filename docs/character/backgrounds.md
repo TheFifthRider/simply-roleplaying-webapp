@@ -1,32 +1,14 @@
-# Backgrounds and what make them
+# Backgrounds, Skills, and Legacies
 
-Your level represents the number of dice you can roll in total on a test, but skills, legacies, and backgrounds are where you get those dice. **Skills** are things you've trained yourself to be good at, **legacies** are accomplishments and behaviors you're known for, and **backgrounds** summarize your character by combining several skills and/or legacies together.
-
-<br/>
-
-## Improving Skills and Legacies
-
-Every skill and legacy starts out at d4 and can grow to be as powerful as d12. Whenever you spend some downtime doing something that improves the skill or legacy, you can spend potential to acquire a skill or legacy you did not have, writing it down as a d4 skill or legacy, respectively, or to level up an existing skill or legacy to the next largest die size.
+Your level represents the number of dice you can roll in total on a test, but backgrounds, skills, and legacies are where you get those dice. **Skills** are things you've trained yourself to be good at, **legacies** are accomplishments and behaviors you're known for, and **backgrounds** summarize your character by combining several skills and legacies together.
 
 <br/>
 
-### Developing Skills
+## Skills and Legacies
 
-Whenever you spend [downtime](../gameplay/downtime.md) to **take some time to train** or **gain a flash of insight**, you can spend potential to either **learn** a new skill that you do not have written down on your character sheet or to **level up** a skill that you do have written down.
+Skills and legacies are dice that you will eventually collect into backgrounds. They start as d4s and can grow to be as powerful as d12. **Before you roll**, if you are doing something related to a background you either have or want to have, you can spend potential to write it down or level it up to the next largest die size. You can also level up the die whenever you do something and it [makes sense](../getting_started/index.md#narrative-truth) that you'd level up or gain a skill or legacy as a result.
 
-How a character **takes some time to train** varies from individual to individual, but usually involves several hours of [downtime](../gameplay/downtime.md#training-a-skill), a trainer, and/or suitable materials to study from. A character can act as a trainer for a skill provided that it pertains to one of their backgrounds. This means that a character can train themselves in a skill once they've incorporated it into a background!
-
-A character **gains a flash of insight** in the moment. You can declare you gain insight right before making a test of ability, right after, or even by watching someone else do something awesome. Whenever it makes sense, a player may declare that their character has **gained insight** in either a skill that was used or in a skill that could have been used in the situation.
-
-<br/>
-
-### Earning Legacies
-
-Whenever you **do something memorable** or **act like your reputation**, you can spend potential to either **start** a new legacy that isn't written on your character sheet, or **level up** a legacy that you already have written down.
-
-**Doing something memorable** sounds broad, and that's because it is! Doing something memorable might be joining a faction, making an enemy, or saving a town. Any time you do anything that underscores your character's values in a way that other characters can talk about it, that's something memorable.
-
-**Acting like your reputation** is exactly what it sounds like. Whenever you do anything that your character is known to do, even if you haven't written it down on your character sheet yet, that's acting like your reputation.
+It doesn't really matter whether a die is a skill or a legacy, but whether it's something that you're good at or a reputation that you're known for can be helpful in determining what makes sense for how to level it up. For example, it makes sense for a player to be able to level up or gain a new skill when they _spend some time training_ or _gain a flash of insight_ from seeing something cool that they or somebody else did. Separately, it makes sense that a player could level up or gain a new legacy whenever they _do something memorable_ or _act like their reputation_.
 
 <br/>
 
