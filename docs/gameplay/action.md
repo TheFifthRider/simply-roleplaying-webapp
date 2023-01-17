@@ -21,7 +21,7 @@ If you have an [ability](../character/abilities.md) that lets you do it you can 
 
 ### Who do I pass to?
 
-At the end of your turn, you're going to be faced with a choice -- who do you want to pass to? Sometimes the answer to this is just "who does it make sense to pass to"? If you're having a tense 1-on-1 duel with an enemy, you might want to make your move and then pass to them to keep the back-and-forth going. Sometimes the answer is teamwork! Maybe you set up a teammate for success by creating [bonus_dice](../gameplay/bonus_dice.md) for them, or they let you know they have a great follow up for whatever you're doing.
+At the end of your turn, you're going to be faced with a choice -- who do you want to pass to? Sometimes the answer to this is just "who does it make sense to pass to"? If you're having a tense 1-on-1 duel with an enemy, you might want to make your move and then pass to them to keep the back-and-forth going. Sometimes the answer is teamwork! Maybe you set up a teammate for success by creating [stacks](../gameplay/stacks.md) for them, or they let you know they have a great follow up for whatever you're doing.
 
 Passing to an enemy seems bad on its face, but actually has some strong tactical value. By passing to an enemy, you get to see what they'll do during the round and be more able to react to it. In addition, sometimes passing to an  enemy can secure your team ending the round. Used cleverly, this can allow some key characters the opportunity to take two turns in a row-- one at the end of the round, and one at the start of the next round.
 
