@@ -8,9 +8,15 @@ In Simply Roleplaying, the four sided die (1d4), six sided die (1d6), eight side
 
 Generally, dice size is used to compare dice. A d10 is bigger than a d8 and a d4 is smaller than a d6. Sometimes in Simply Roleplaying a rule will refer to "the next biggest"  or "the next smallest" size of a die. In that case, just remember that unless the rule says otherwise, dice can only be 1d4, 1d6, 1d8, 1d10, or 1d12-- there is no die bigger than 1d12 or smaller than 1d4.
 
-## Movement
+## Scenes and Distances
 
-Unlike other popular roleplaying games, Simply Roleplaying does not define strict rules for how many feet a character can move in a handful of seconds. Instead, Simply Roleplaying defines distances in "spaces," which could be a 70px square on your favorite Virtual TableTop, one-inch hex on your dining room table, inches on a measuring tape, or whatever else you want to use to represent spaces. The important thing is that they're all a relative gauge of distance to each other. Feel free to come up with your own measurement for how big a space is in the game -- popular fantasy roleplaying games suggest that a space is usually about 5 ft / 1.5 m.
+There are a couple of key words that Simply Roleplaying uses to define locations and distances.
+
+An **area** refers to the background of your immediate surroundings. If your senses could pick it up (birds chirping, insects buzzing, the smell of manure) it's in the same area as you.
+
+The **scene** describes the current drama or action. If you're a part of or can get to the action when it happens, you're in the same scene. When that drama or action ends, the scene does too.
+
+A **space** is a relative unit of measurement in a scene. Something happening within 1 space is close enough for you to interact with without moving. Something 10 spaces away is a distance away that you could reach by hurrying. 100 spaces is so far that it's probably as big as a scene could get.
 
 ## Narrative Truth
 
