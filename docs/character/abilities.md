@@ -1,8 +1,96 @@
 # Abilities
 
-**Abilities** are the cool mechanics that show off what makes your character awesome. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the [weapon](equipment.md#weapon) tag, their [power](../setting_rules/powers.md) over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!
+**Abilities** are your special moves. They're your magic spells, martial art forms, animal transformations, or any other cool mechanic that's specific to your character. And best of all? You decide how they work.
 
-This section is written assuming that players and GMs will work together to create cool abilities, but you can also decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.
+## Templates
+
+### Signature Moves
+Upgrade a d12 into a d20 before you roll!
+
+Upgrade suggestions:
+* Increase the number of d12s that you can upgrade into a d20!
+
+> **Mechanisms are my Forte**
+> By spending 1 point of _never unprepared_ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
+
+### Buff an Ally
+[Stack](../gameplay/stacks.md) two dice in favor of your ally.
+
+Stack d4s at level 1, d6s at level 3, d8s at level 5, d10s at level 7 and d12s at level 9+!
+
+Upgrade suggestions:
+* Add an effect that benefits your ally for as long as they have the stack!
+* Increase the number of dice stacked
+
+> **Amythest Ward**
+> By spending 1 _magical gem_, erect a shimmering purple barrier around an ally within short range. Stack 2d4 _Amythest Ward_ in their favor.
+
+### Inflict an Enemy with a Debuff
+Test a specific attribute against an enemy's passive attribute to [stack](../gameplay/stacks.md) dice against them.
+
+Stack 2 on a partial success, 3 on a full success, and 4 on a critical success!
+
+Stack d4s at level 1, d6s at level 3, d8s at level 5, d10s at level 7 and d12s at level 9+!
+
+Upgrade suggestions:
+* Add an effect that hinders your enemy for as long as they have the stack!
+* Increase the number of dice stacked
+
+> **Flashbang Grenade**
+> By spending 1 _ammunition_, fire a flashbang from your right shoulder cannon at a target within short-range. Test your intuition against their passive agility to stack 2/3/4d4 _Blinded_ dice against them.
+
+### Make a Special Attack
+Perform an [attack](../gameplay/common_tests.md#attacking-with-a-weapon), but make it as if you had a weapon with a specific [tag](../character/equipment.md#tag-list), or give it a specific effect!
+
+Upgrade suggestions:
+* Increase the level at which you make the attack
+* Give the attack a (or another) tag
+
+> **Fireball**
+> As an action by spending 1 _mp_, make an attack against a target within long range, and all targets within short range of them.
+
+### Heal Somebody
+Test a specific attribute, then heal damage from someone equal to what you rolled.  If you roll higher than their total HP, unmark one of their marked injury boxes.
+
+Upgrade suggestions:
+ * Increase the level at which you heal
+
+> **Medic Matrix**
+> As an action by spending 1 *nyanobot*, test your knowledge to heal that much damage from someone within short range. If you rolled higher than their total HP, unmark one of their marked injury boxes.
+
+### Automatic Equipment
+Give yourself equipment for the scene, or treat parts of yourself as if they were equipment.
+
+Equipment becomes +1 at level 2, +2 at level 3, up to +9 at level 10.
+
+Upgrade suggestions:
+* Give your equipment additional tags
+
+> **Rockin' Abs**
+> As a reaction, you can spend 1 _muscle point_ to treat your 6 pack as if it was equipment with the _brawn_ and _armor_ tags for the scene.
+
+Temporarily give yourself equipment, use equipment you have at a different level, or give equipment a specific tag.
+
+### Special Movement
+Move to where you want to be ❔ 
+
+Upgrade suggestions:
+* Increase the range for your movement ❔
+
+> **Vault**
+> As an action, by spending 1 _stamina_, leap to any space within ten spaces.
+
+### Move an Enemy
+Test a specific attribute against an enemy's passive attribute to move them where you want them!
+
+Upgrade suggestions:
+* Increase the range for your grapple ❔
+
+> **Grapple Gun**
+> As an action, fire your grappling hook arm at an enemy within long range to pull them in closer. Test your brawn against their passive agility and pull them....
+> **Partial Success:** in a straight line until they're within short range
+> **Full Success:** in a straight line until they're within close range
+> **Critical Success:** to any space within close range of you
 
 <br/>
 
