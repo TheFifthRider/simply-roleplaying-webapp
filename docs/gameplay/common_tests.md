@@ -2,23 +2,33 @@
 
 While it's true that your gamemaster will create [tests](tests.md) to fit the situation, here are some that you might perform often and their usual results. Of course, there may be extra risks or slightly different goals depending on the situation, but these should cover your bases! Consider these as "here's what I can do" in any given situation.
 
-## Attacking with a weapon
+## Attacking a Target that Takes the Hit
 
 Attacking with a [weapon](../character/equipment.md) is a [test](tests.md) of one of the attributes that the weapon is tagged with against a difficulty of the [armor value](../character/equipment.md) of a target within the range [tagged](../character/equipment.md) on the weapon.
 
-When you make a test of any attribute with a goal to **attack with a weapon**, if they...
+If you attack with something that doesn't have the weapon tag or with a weapon in a way that it's not intended to be used, your GM may say there is an [additional risk](tests.md#risk-guidelines) of **the weapon might be damaged, destroyed, or otherwise lost** and/or **some tags on the weapon do not apply**.
 
-*   **Fail:** Their target takes no damage.
-*   **Partially succeed:** Their target [takes damage](../character/health.md) equal to half of the attacker's total for the test, rounded down.
-*   **Fully succeed:** Their target [takes damage](../character/health.md) equal the attacker's total for the test.
-*   **Critically Succeed:**  Their target [takes damage](../character/health.md) equal to double the attacker's total for the test.
+When you make a test of any attribute with a goal to **attack with a weapon**, if you...
 
-### Improvised weapons
-
-If you attack with an object not intended to be a weapon or with a weapon in a way that it's not intended to be used, your GM may say there is an [additional risk](tests.md#risk-guidelines) of **the weapon might be damaged, destroyed, or otherwise lost**. In addition, your GM may say **some tags on the weapon do not apply**, depending on what makes sense. A high quality rifle isn't necessarily a good bludgeon.
+*   **Fail:** Your target takes half damage.
+*   **Partially succeed:** Your target [takes damage](../character/health.md) equal to your roll.
+*   **Fully succeed:** Your target [takes damage](../character/health.md) equal to your roll.
+*   **Critically Succeed:**  Your target [takes damage](../character/health.md) equal to twice your roll. 
 
 <br/>
 
+## Defending against an Attack
+
+If somebody attacks you, you can try to defend against the attack and turn it into a contest of their attack roll and whatever attribute you're defending with. If you...
+
+* **Fail and they critically succeed:** You take double damage and stack 2d8 against you with a name reflecting your failed defense.
+* **Fail and they fully succeed:** You take the full damage of their roll and stack 1d8 against you with a name reflecting your failed defense.
+* **Fail and they partially succeed:** You take the full damage of their roll.
+* **Partially succeed:**  You take half damage.
+* **Fully succeed:** You take no damage and stack 1d8 against them with a name reflecting your successful defense.
+* **Critically succeed:** You take no damage and stack 2d8 against them with a name reflecting your successful defense.
+
+<br/>
 
 ## Stacking dice for or against someone
 

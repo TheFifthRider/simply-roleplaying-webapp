@@ -6,9 +6,7 @@ When they do, you'll look at your [skills, legacies, and backgrounds](../charact
 !!! note
     Maximum dice on a test =  Your level + Attribute
 
-Once you've gathered those dice, you roll them, add them together, and tell your gamemaster what the final result is. They will compare that number against the **difficulty** of the test, 
-
-Your gamemaster will then inform you if you failed or succeeded, and to what degree you succeeded. They might say you fail, partially succeed, fully succeed, or critically succeed at the test.
+Once you've gathered those dice, you roll them, add them together, and tell your gamemaster what the final result is. They will compare that number against the **difficulty** of the test and let you know if you failed or succeeded, and to what degree you succeeded. They might say you fail, partially succeed, fully succeed, or critically succeed at the test.
 
 If you didn't meet the difficulty, you **fail**. You won't get what you want and you might be in trouble. If you beat the difficulty, you **partially succeed**. You get what you want, but with some complication. If you beat the difficulty by 10 or more, you **fully succeed**. you get exactly what you want. If you beat the difficulty by 20 or more, you **critically succeed**! Not only do you get what you want, you get all that and more.
 
