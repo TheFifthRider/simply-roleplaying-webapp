@@ -2,15 +2,17 @@
 
 While it's true that your gamemaster will create [tests](tests.md) to fit the situation, here are some that you might perform often and their usual results. Of course, there may be extra risks or slightly different goals depending on the situation, but these should cover your bases! Consider these as "here's what I can do" in any given situation.
 
-## Attacking a Target that Takes the Hit
+<br/>
 
-Attacking with a [weapon](../character/equipment.md) is a [test](tests.md) of one of the attributes that the weapon is tagged with against a difficulty of the [armor value](../character/equipment.md) of a target within the range [tagged](../character/equipment.md) on the weapon.
+## Attacking a Target
+
+Attacking with a [weapon](../character/equipment.md) is a [test](tests.md) of one of the attributes that the weapon is tagged with, usually against the roll of somebody who is defending against you! If your target cannot or does not defend, the difficulty is their passive brawn score. If your target isn't a character and doesn't have a passive brawn score, you're actually probably [progressing a complicated goal](#progressing-a-complicated-goal).
 
 If you attack with something that doesn't have the weapon tag or with a weapon in a way that it's not intended to be used, your GM may say there is an [additional risk](tests.md#risk-guidelines) of **the weapon might be damaged, destroyed, or otherwise lost** and/or **some tags on the weapon do not apply**.
 
 When you make a test of any attribute with a goal to **attack with a weapon**, if you...
 
-*   **Fail:** Your target takes half damage.
+*   **Fail:** Your target either takes no damage at all or half damage, depending on how well the defender rolled.
 *   **Partially succeed:** Your target [takes damage](../character/health.md) equal to your roll.
 *   **Fully succeed:** Your target [takes damage](../character/health.md) equal to your roll.
 *   **Critically Succeed:**  Your target [takes damage](../character/health.md) equal to twice your roll. 
@@ -21,12 +23,10 @@ When you make a test of any attribute with a goal to **attack with a weapon**, i
 
 If somebody attacks you, you can try to defend against the attack and turn it into a contest of their attack roll and whatever attribute you're defending with. If you...
 
-* **Fail and they critically succeed:** You take double damage and stack 2d8 against you with a name reflecting your failed defense.
-* **Fail and they fully succeed:** You take the full damage of their roll and stack 1d8 against you with a name reflecting your failed defense.
-* **Fail and they partially succeed:** You take the full damage of their roll.
-* **Partially succeed:**  You take half damage.
-* **Fully succeed:** You take no damage and stack 1d8 against them with a name reflecting your successful defense.
-* **Critically succeed:** You take no damage and stack 2d8 against them with a name reflecting your successful defense.
+* **Fail:** You take damage equal to the attacker's roll, or equal to double the attacker's roll depending on how well they rolled.
+* **Partially succeed:**  You take half of the attacker's roll as [damage](../character/health.md).
+* **Fully succeed:** You take half of what the attacker rolled as [damage](../character/health.md).
+* **Critically succeed:** You take no damage.
 
 <br/>
 
