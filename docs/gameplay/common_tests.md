@@ -6,9 +6,7 @@ While it's true that your gamemaster will create [tests](tests.md) to fit the si
 
 ## Attacking a Target
 
-Attacking with a [weapon](../character/equipment.md) is a [test](tests.md) of one of the attributes that the weapon is tagged with, usually against the roll of somebody who is defending against you! If your target cannot or does not defend, the difficulty is their passive brawn score. If your target isn't a character and doesn't have a passive brawn score, you're actually probably [progressing a complicated goal](#progressing-a-complicated-goal).
-
-If you attack with something that doesn't have the weapon tag or with a weapon in a way that it's not intended to be used, your GM may say there is an [additional risk](tests.md#risk-guidelines) of **the weapon might be damaged, destroyed, or otherwise lost** and/or **some tags on the weapon do not apply**.
+Attacking is a [test](tests.md) of whatever attribute makes sense for the attack, usually against the roll of somebody who is defending against you! If your target cannot or does not defend, the difficulty is their passive brawn. If your target isn't a character and doesn't have passive brawn, you're actually probably [progressing a complicated goal](#progressing-a-complicated-goal).
 
 When you make a test of any attribute with a goal to **attack with a weapon**, if you...
 
@@ -21,7 +19,7 @@ When you make a test of any attribute with a goal to **attack with a weapon**, i
 
 ## Defending against an Attack
 
-If somebody attacks you, you can try to defend against the attack and turn it into a contest of their attack roll and whatever attribute you're defending with. If you...
+If somebody attacks you, you can try to defend against the attack and turn it into a contest of their attack roll and whatever attribute you're defending with. You can also defend against an attack targeted at someone else as long as it [makes sense](../getting_started/index.md#narrative-truth), but you will take any damage they would have taken. If you...
 
 * **Fail:** You take damage equal to the attacker's roll, or equal to double the attacker's roll depending on how well they rolled.
 * **Partially succeed:**  You take half of the attacker's roll as [damage](../character/health.md).

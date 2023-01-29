@@ -18,6 +18,10 @@ Similarly, if you wish to stow items for any reason in an [action scene](../game
 
 Equipment are the tools you wear or use to accomplish tasks-- your armor, weapons, magic staves, and lockpick set. Equipment might be protective, weaponized, or useful in some other way. **Tags** describe what's important about the equipment: how it can be used, what benefits it provides, and anything else that matters. You can only benefit from **equipment** if they're equipped.
 
+### Using Equipment Improperly
+
+If you attack with something that doesn't have the weapon tag, defend with something that doesn't have the shield tag, or do something else to use equipment in a way that it's not intended to be used, your GM may say there is an [additional risk](tests.md#risk-guidelines) of **the equipment might be damaged, destroyed, or otherwise lost** and/or **some tags on the equipment do not apply**. A +5 sword might be very good at attacking, but there's no guarantee that it'd be equally as good at blocking.
+
 ### Tag List
 
 Here's a suggested list of tags that you can use to describe the equipment in your game. Be sure to add more tags that are important to your setting! If you're in a dark fantasy setting hunting beasts of the night and need silvered weapons to confront them, _silver_ should be a tag. If you're in a futuristic dystopian setting and everything legally acquired is monitored through a chip, _unchipped_ should be a tag.
@@ -26,7 +30,7 @@ As a general rule of thumb, **tag things when they need to be tagged**. An iron 
 
 #### +1, +2, +3, ...
 
-Equipment with this tag are more effective than other equipment of the same type due to exemplary craftsmanship, materials, and/or renown. Add the tagged number to any test of ability you make with this equipment. If the equipment's tags grant a bonus or number (such as Armor Value) separate from tests of abilities, add the tagged amount.
+Equipment with this tag are more effective than other equipment of the same type due to exemplary craftsmanship, materials, and/or renown. Add the tagged number to any test you make with this equipment. If the equipment's tags grant the wearer a passive value (such as armor HP), add the tagged amount.
 
 #### < Extranormal Power >
 
@@ -40,7 +44,7 @@ Equipment with this tag make is often light, compact, or relies on manual precis
 
 _requires: any attribute tag_
 
-Equipment with this tag are wearable defense like personal shield generators, Kevlar vests, or full plate. When worn, armor grants the wearer with **armor value** equal to **the highest passive value of the equipment's tagged attributes**. A character can only benefit from one set of armor at a time.
+Equipment with this tag are wearable defense like personal shield generators, Kevlar vests, or full plate. When worn, armor grants the wearer with additional **armor hp** equal to **the highest passive value of the equipment's tagged attributes**. A character can only benefit from one set of armor at a time.
 
 #### Brawn
 
@@ -70,19 +74,21 @@ Equipment with this tag requires two hands to wield effectively. _Rocket launche
 
 Equipment with this tag might be sentient and require reasoning with to operate effectively or otherwise somehow utilize the wielder's social aptitudes. _A high maintenance combat support robot_, _a tape recording of the maddening snores of C'thulhu_, or _an arcane book of physically manifesting insults_ might have the Presence tag.
 
-#### Range: [1, 2, 3 ...] - [1, 2, 3 ...]
+#### [Close, Short, Medium, Long] Range
 
-The distance in [spaces](../getting_started/index.md#movement) in which the equipment is effective. The first number indicates the minimum number of spaces, the second number indicates the maximum number of spaces.
+The [distance](../getting_started/index.md#ranges-and-spaces) at which the equipment is able to be effectively used. Primarily used for weapons, but also useful for things like grappling hooks and ladders to represent their reach. Equipment can have many range tags -- if a piece of equipment isn't tagged with a specific range, it's not useful at that distance.
 
 #### Shield
 
-Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. When carried, shields **increase the character's armor value by 5**.
+_requires: At least one attribute tag_
+
+Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../common_tests.md#defending-against-an-attack) with the tagged attribute.
 
 #### Weapon
 
-_requires: Any attribute tag AND any range tag_
+_requires: At least one attribute tag AND at least one range tag_
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. When carried, weapons grant characters the ability to [attack](../gameplay/common_tests.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
+Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [attack](../gameplay/common_tests.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
 
 #### Will
 

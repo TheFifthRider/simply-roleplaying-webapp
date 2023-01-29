@@ -50,13 +50,14 @@ Upgrade suggestions:
 > As an action by spending 1 _mp_, make an attack against a target within long range, and all targets within short range of them.
 
 ### Heal Somebody
-Test a specific attribute, then heal damage from someone equal to what you rolled.  If you roll higher than their total HP, unmark one of their marked injury boxes.
+Test a specific attribute, then heal damage from someone [close](../getting_started/index.md#range-and-spaces) equal to what you rolled.  If you roll higher than their total HP, unmark one of their marked injury boxes.
 
 Upgrade suggestions:
  * Increase the level at which you heal
+ * Increase the [range](../getting_started/index.md#range-and-spaces) at which you can heal
 
 > **Medic Matrix**
-> As an action by spending 1 *nyanobot*, test your knowledge to heal that much damage from someone within short range. If you rolled higher than their total HP, unmark one of their marked injury boxes.
+> As an action by spending 1 *nyanobot*, test your knowledge to heal that much damage from someone close. If you rolled higher than their total HP, unmark one of their marked injury boxes.
 
 ### Automatic Equipment
 Give yourself equipment for the scene, or treat parts of yourself as if they were equipment.
