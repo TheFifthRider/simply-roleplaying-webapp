@@ -39,7 +39,7 @@ Upgrade suggestions:
 > **Flashbang Grenade**
 > By spending 1 _ammunition_, fire a flashbang from your right shoulder cannon at a target within short-range. Test your intuition against their passive agility to stack 2/3/4d4 _Blinded_ dice against them.
 
-### Make a Special Attack
+## Special Attack
 Perform an [attack](../gameplay/common_tests.md#attacking-with-a-weapon), but make it as if you had a weapon with a specific [tag](../character/equipment.md#tag-list), or give it a specific effect!
 
 Upgrade suggestions:
@@ -48,6 +48,16 @@ Upgrade suggestions:
 
 > **Fireball**
 > As an action by spending 1 _mp_, make an attack against a target within long range, and all targets within short range of them.
+
+## Special Defense
+[Defend](../gameplay/common_tests.md#defending-against-an-attack) against an attack, but make it as if you had a shield with a specific [tag](../character/equipment), or give it a specific effect!
+
+Upgrade suggestions:
+* Increase the level at which you defend
+* GIve the defense another tag or effect
+
+> **Dodge and Roll**
+> When you defend against an attack, you can spend 1 point of _slickness_ to move 1 space away from the person who attacked you. If you critically succeed, you can move half your speed instead.
 
 ### Heal Somebody
 Test a specific attribute, then heal damage from someone [close](../getting_started/index.md#range-and-spaces) equal to what you rolled.  If you roll higher than their total HP, unmark one of their marked injury boxes.
@@ -73,13 +83,13 @@ Upgrade suggestions:
 Temporarily give yourself equipment, use equipment you have at a different level, or give equipment a specific tag.
 
 ### Special Movement
-Move to where you want to be ❔ 
+Ignore terrain restrictions to get where you want to go.
 
 Upgrade suggestions:
 * Increase the range for your movement ❔
 
-> **Vault**
-> As an action, by spending 1 _stamina_, leap to any space within ten spaces.
+> **Skybound**
+> As an action, by spending 1 point of _heroic strength_, leap to any space within ten spaces.
 
 ### Move an Enemy
 Test a specific attribute against an enemy's passive attribute to move them where you want them!
@@ -89,8 +99,8 @@ Upgrade suggestions:
 
 > **Grapple Gun**
 > As an action, fire your grappling hook arm at an enemy within long range to pull them in closer. Test your brawn against their passive agility and pull them....
-> **Partial Success:** in a straight line until they're within short range
-> **Full Success:** in a straight line until they're within close range
+> **Partial Success:** in a straight line a short range
+> **Full Success:** in a straight line a medium range
 > **Critical Success:** to any space within close range of you
 
 <br/>
