@@ -82,33 +82,11 @@ When you make a test of any attribute to **fill a progress meter**, if you...
 
 <br/>
 
-## Making preparations
-
-While it can be rewarding to act out the players gathering information before going on a heist or gearing up before setting out on adventure, sometimes it's more fun to roll for preparation and cut to the chase. 
+## Make Preparations
 
 When a character takes some downtime and makes a test of any attribute with a goal to **prepare for a situation**, if they...
 
-*   **Fail:** They get two flashbacks, but one of them is guaranteed to go wrong.
-*   **Partially succeed:** They get two flashbacks.
-*   **Fully succeed:** They get three flashbacks.
-*   **Critically Succeed:** They get four flashbacks
-
-### What are flashbacks?
-
-When the GM describes a complication that your preparation could have resolved, you can spend one of your **flashbacks** to take the narrative back in time to describe how your preparation dealt with that problem.
-
->   An adventuring party in Victorian London is investigating an elusive murderer. In an effort to capture them, the group takes a few days to take in the crime scene and prepare.
->
->   Later, the group finds themselves deep in the sewers chasing after their quarry. In an effort to catch up to them, the mastermind of the group **flashes back** to purchasing a sewer map from a descendant of one of the original architects. The player marks off the cost of the map and uses it to corner the suspect and force a confrontation.
-
-Not every preparation is guaranteed to succeed, however. The GM is well within their rights to ask you to make a test of ability to see how well your preparation holds up, or even if things go well for you.
-
->   An adventuring party plans to steal from a high security vault. They take a few days to case the joint.
->
->   Later, the group is deep within the compound when they discover an impenetrable web of security lasers. The hacker **flashes back** to making preparations to temporarily disable the security. The GM asks them to roll to see if they're able to bypass the vault's security-- and for how long. The hacker manages a partial success-- long enough to get them in to grab what they needed, but not long enough to keep them from tripping the lasers on their way back out the door!
-
-### No rewriting history
-
-It's important to note that flashbacks **cannot** rewrite history. If a guard sounded the alarm, no amount of flashing back to bribing them will undo that the alarm has been pressed. However, if the GM describes the alarm being pressed but hasn't yet described the flashing lights, it's totally valid for someone with tech savviness to cut in with a flashback to disabling the alarm system before the party made their way in.
-
-That said, don't be a jerk about this rule. The goal is to encourage a flow to the improvisational "yes, and..." of playing a roleplaying game, not to make every dramatic encounter a race to using a flashback before the GM finishes describing a new threat. GMs, give spaces for players to offer up flashbacks and prompt your players if you think they may have forgotten. Players, trust that your GM will offer you these opportunities and don't interrupt them in an unwelcome fashion.
+*   **Fail:** They stack two flashback dice, but one of them is guaranteed to go wrong.
+*   **Partially succeed:** They stack two flashback dice.
+*   **Fully succeed:** They stack three flashback dice.
+*   **Critically Succeed:** They stack four flashback dice.

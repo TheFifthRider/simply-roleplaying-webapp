@@ -20,7 +20,7 @@ Equipment are the tools you wear or use to accomplish tasks-- your armor, weapon
 
 ### Using Equipment Improperly
 
-If you attack with something that doesn't have the weapon tag, defend with something that doesn't have the shield tag, or do something else to use equipment in a way that it's not intended to be used, your GM may say there is an [additional risk](tests.md#risk-guidelines) of **the equipment might be damaged, destroyed, or otherwise lost** and/or **some tags on the equipment do not apply**. A +5 sword might be very good at attacking, but there's no guarantee that it'd be equally as good at blocking.
+If you attack with something that doesn't have the weapon tag, defend with something that doesn't have the shield tag, or do something else to use equipment in a way that it's not intended to be used, your GM may say there is an [additional risk](../gameplay/tests.md#risk-guidelines) of **the equipment might be damaged, destroyed, or otherwise lost** and/or **some tags on the equipment do not apply**. A +5 sword might be very good at attacking, but there's no guarantee that it'd be equally as good at blocking.
 
 ### Tag List
 
@@ -82,7 +82,7 @@ The [distance](../getting_started/index.md#ranges-and-spaces) at which the equip
 
 _requires: At least one attribute tag_
 
-Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../common_tests.md#defending-against-an-attack) with the tagged attribute.
+Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../gameplay/common_tests.md#defending-against-an-attack) with the tagged attribute.
 
 #### Weapon
 

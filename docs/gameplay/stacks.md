@@ -43,19 +43,3 @@ Dice stacked against you can always be resisted. If you're **3d6 Tripped Up**, y
 **3d12 Cover behind the Parapets** is stacked in favor of anyone behind the stone fortifications and could be used to defend against arrows and other dangers.
 
 **6d4 Waist Deep in Sewage** is stacked against the hapless wader, and could be used by monsters lurking under the water or a sniper taking advantage of the character's slowed movements.
-
-<br/>
-
-## Special Stacks
-
-Stacks, especially stacks created by [abilities](../character/abilities.md) or [equipment](../character/equipment.md), can also have special rules associated with them. Here are some examples:
-
-**4d6 On Fire**: At the start of your turn, remove a die from the stack and roll it to see how much damage you take from the flames.
-
-**3d12 Trapped by Rocks**: You can't move until all the dice have been removed from this stack.
-
-**1d10 Berserker's Rage**: As long as this stack is around, add another die to the stack whenever you take damage.
-
-There are no hard and fast rules on making special stacks, but most stacks probably shouldn't be special. Not only would making lots of stacks special mean lots of rules that everybody needs to remember, special stacks used in moderation give flair to specialized equipment (such as magic items, incendiary devices, or poisons) and powerful character [abilities](../character/abilities.md) that wouldn't feel as awesome if being a special stack were more common.
-
-<br/>
