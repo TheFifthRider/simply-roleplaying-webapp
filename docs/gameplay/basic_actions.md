@@ -4,7 +4,7 @@ Everybody can perform basic actions, but how they do them may look different dep
 
 <br/>
 
-## ⚔Attack
+## ⚔ Attack
 
 Attacking is a [test](tests.md) of whatever attribute makes sense for the attack, usually against the roll of somebody who is defending against you! If your target cannot or does not defend, the difficulty is their passive brawn. If your target isn't a character and doesn't have passive brawn, you're actually probably [making progress](#make-progress).
 
@@ -30,7 +30,7 @@ When you make a test to **defend against an attack**, If you...
 
 <br/>
 
-## 🔍Get Answers
+## 🔍 Get Answers
 
 If you're trying to **answers to questions**, whether it's by researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual, make a [test](../gameplay/tests.md) of the appropriate attribute and then ask the GM some questions.
 
@@ -49,7 +49,7 @@ Questions cannot be wasted. If the answer to a question was already stated, it d
 
 <br/>
 
-## 🧱Help / Hinder
+## 🧱 Help / Hinder
 
 If you want to help somebody out, get yourself into a better position, or hinder an enemy, you can do that by rolling and stacking or unstacking dice based on the result.
 
@@ -70,7 +70,7 @@ The dice you stack depends on what level you are:
 
 <br/>
 
-## ⚙Make Progress
+## ⚙ Make Progress
 
 If you're trying to do something and you can't do it in just one test, your GM may say that the goal of your test is to fill a [progress meter](../running_the_game/creating_tests.md#progress-meters) in how close the task is to being done!
 
