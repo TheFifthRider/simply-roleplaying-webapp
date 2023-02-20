@@ -54,12 +54,14 @@ Questions cannot be wasted. If the answer to a question was already stated, it d
 If you want to help somebody out, get yourself into a better position, or hinder an enemy, you can do that by rolling and stacking or unstacking dice based on the result.
 
 When you make a test to **help or hinder someone**, for every **10** in the total you rolled you may:
+
 * Stack a die or in their favor
 * Remove a die stacked against them
 * Stack a die against them
 * Remove a die stacked in their favor
 
 The dice you stack depends on what level you are:
+
 * **Level 1-2**: Stack d4s
 * **Level 3-4**: Stack d6s
 * **Level 5-6**: Stack d8s
@@ -81,6 +83,7 @@ When you make a test to **fill a progress meter**, fill it by the amount that yo
 When a character takes some downtime and makes a test of any attribute with a goal to **prepare for a situation**, stack a flashback die. Then, for every **20** in the total you rolledl, you may stack another flashback die.
 
 The dice you stack depends on what level you are:
+
 * **Level 1-2**: Stack d4s
 * **Level 3-4**: Stack d6s
 * **Level 5-6**: Stack d8s
@@ -92,12 +95,14 @@ The dice you stack depends on what level you are:
 ## 💬 Sway Someone
 
 When you make a test to **sway an NPC** to do something, if you...
+
 * **Fail:** They aren't convinced, and their opinion of you might suffer if you ask them again.
 * **Partially succeed:** If they can, they'll do specifically what you asked them to. If they can't, they'll tell you what, if anything, they need in order to do it.
 * **Fully succeed:** If they can, they'll do what you need them to. If they can't, they'll tell you what, if anything, they need in order to do it.
 * **Critically succeed:**  If they can, they'll go above and beyond to help out. If they can't, they'll tell you what, if anything, they need in order to do it.
 
 When you make a test to **sway another PC** to do something, if you...
+
 * **Fail:** They earn a point of Potential if they do the opposite of what you wanted.
 * **Succeed:** They earn a point of Potential if they do what you wanted.
 
