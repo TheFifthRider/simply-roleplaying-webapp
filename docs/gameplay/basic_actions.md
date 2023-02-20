@@ -80,7 +80,7 @@ When you make a test to **fill a progress meter**, fill it by the amount that yo
 
 ## 🕓 Prepare
 
-When a character takes some downtime and makes a test of any attribute with a goal to **prepare for a situation**, stack a flashback die. Then, for every **20** in the total you rolledl, you may stack another flashback die.
+When a character takes some downtime and makes a test of any attribute with a goal to **prepare for a situation**, stack a flashback die. Then, for every **20** in the total you rolled, you may stack another flashback die.
 
 The dice you stack depends on what level you are:
 
