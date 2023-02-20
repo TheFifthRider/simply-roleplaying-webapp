@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../../img/favicon.ico">
-  <title>Abilities - Simply Roleplaying</title>
+  <title>Alchemy - Simply Roleplaying</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
 <link rel="stylesheet" href="../../css/theme.css" />
@@ -21,8 +21,8 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Abilities";
-    var mkdocs_page_input_path = "character\\abilites-take-2.md";
+    var mkdocs_page_name = "Alchemy";
+    var mkdocs_page_input_path = "setting_rules\\alchemy.md";
     var mkdocs_page_url = null;
   </script>
   
@@ -64,30 +64,32 @@
                 </ul>
                 <p class="caption"><span class="caption-text">What makes a Character</span></p>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../">What Makes Up a Character?</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/">What Makes Up a Character?</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../abilities/">Abilities</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/abilities/">Abilities</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../attributes/">Attributes</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/attributes/">Attributes</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../health/">Damage and Injuries</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/health/">Damage and Injuries</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../backgrounds/">Backgrounds, Skills, and Legacies</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/backgrounds/">Backgrounds, Skills, and Legacies</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../equipment/">Items and Inventory</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/equipment/">Items and Inventory</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../companions/">Companions</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../character/companions/">Companions</a>
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Playing the Game</span></p>
                 <ul>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/tests/">Testing Abilities</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/common_tests/">Basic Tests</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/basic_actions/">Basic Actions</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/downtime/">Downtime</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/stacks/">Dice Stacks</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/special_stacks/">Special Stacks</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/action/">Action Scenes</a>
                     </li>
@@ -102,10 +104,16 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Setting Rules</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../../setting_rules/">Setting Rules</a>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../">Setting Rules</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../setting_rules/powers/">Powers</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../powers/">Powers</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Alchemy</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#alchemy-tags">Alchemy Tags</a>
+    </li>
+    </ul>
                     </li>
                 </ul>
       </div>
@@ -129,8 +137,12 @@
     <li><a href="../..">Simply Roleplaying</a> &raquo;</li>
     
       
+        
+          <li>Setting Rules &raquo;</li>
+        
+      
     
-    <li>Abilities</li>
+    <li>Alchemy</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -141,13 +153,50 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="abilities">Abilities</h1>
-<p>Abilities are the special rules that make your character feel unique. You get to make up what they are and what they do. Maybe your character's fists are treated like weapons, or your character is so inspiring they give bonus dice to other players. Your imagination is the limit!</p>
-<p>Usually your abilities are powered by points.</p>
+                <h1 id="alchemy">Alchemy</h1>
+<p>Sometimes, you will find materials tagged with alchemy tags that can be brewed together to create effects. With a few hours of downtime, you may combine 1-3 materials with alchemy tags to create a potion (or poison) with an effect improvised based on their tags.</p>
+<p>When you , test your alchemical knowledge to craft the potion or poison against a difficulty based on strong the created effect would be, or against your <strong>passive knowledge</strong> if the effect would scale on your level (eg: poisons-- the difficulty to resist naturally scales on your level)</p>
+<blockquote>
+<p><strong>Crafting a Potion or Poison</strong><br/>
+ <em>Difficulty <strong>?</strong> Test of <strong>Knowledge</strong></em></p>
+<hr />
+<p><strong>Goal:</strong> Crafting doses of a potion or poison<br/>
+ <strong>Drama:</strong> The potions are not exactly what you want or have side effects</p>
+<hr />
+<p>If you...</p>
+<ul>
+<li><strong>Fail:</strong> create two doses, but put an asterisk next to them. Your GM may say they have a strange side effect when used.</li>
+<li><strong>Partially succeed:</strong> create two doses with no complications.</li>
+<li><strong>Fully succeed:</strong> create three doses with no complications.</li>
+<li><strong>Critically succeed:</strong> create four doses with no complications.</li>
+</ul>
+</blockquote>
+<h2 id="alchemy-tags">Alchemy Tags</h2>
+<p>Alchemy tags, just like other tags, can be applied to things when they are relevant. You can spend some downtime to research alchemy tags of ingredients that don't obviously have alchemy tags. </p>
+<p>In general, alchemy tags represent the properties that can be derived from the object. They can be as literal as tagging some wool as "fluffy", or as poetic as tagging cold iron with "lunafaction." Here are a list of a few alchemy tags to get you started:</p>
+<ul>
+<li>A classical element (fire, earth, water, air)</li>
+<li>Life</li>
+<li>Death</li>
+<li>Comfort</li>
+<li>Ethereal</li>
+<li>Magical</li>
+<li>Social</li>
+<li>Contention</li>
+<li>Attraction</li>
+<li>Relaxation</li>
+</ul>
               
             </div>
           </div>
 <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+      
+        <a href="../powers/" class="btn btn-neutral" title="Powers"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
   
 
   <hr/>
@@ -179,6 +228,8 @@
           <a href="https://github.com/TheFifthRider/simply-roleplaying-webapp/" class="fa fa-github" style="color: #fcfcfc"> GitHub</a>
         </span>
     
+    
+      <span><a href="../powers/" style="color: #fcfcfc">&laquo; Previous</a></span>
     
     
   </span>

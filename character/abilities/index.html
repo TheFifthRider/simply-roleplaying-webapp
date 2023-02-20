@@ -68,6 +68,30 @@
                     </li>
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Abilities</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#templates">Templates</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#signature-moves">Signature Moves</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#buff-an-ally">Buff an Ally</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#inflict-an-enemy-with-a-debuff">Inflict an Enemy with a Debuff</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#special-attack">Special Attack</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#special-defense">Special Defense</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#heal-somebody">Heal Somebody</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#automatic-equipment">Automatic Equipment</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#special-movement">Special Movement</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#move-an-enemy">Move an Enemy</a>
+    </li>
+        </ul>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#what-do-abilities-do">What do Abilities do?</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#ok-but-what-do-they-usually-do">Ok, but what do they usually do?</a>
@@ -145,11 +169,13 @@
                 <ul>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/tests/">Testing Abilities</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/common_tests/">Basic Tests</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/basic_actions/">Basic Actions</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/downtime/">Downtime</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/stacks/">Dice Stacks</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/special_stacks/">Special Stacks</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/action/">Action Scenes</a>
                     </li>
@@ -168,6 +194,8 @@
                     <li class="toctree-l1"><a class="reference internal" href="../../setting_rules/">Setting Rules</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../setting_rules/powers/">Powers</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../setting_rules/alchemy/">Alchemy</a>
                     </li>
                 </ul>
       </div>
@@ -208,8 +236,93 @@
             <div class="section">
               
                 <h1 id="abilities">Abilities</h1>
-<p><strong>Abilities</strong> are the cool mechanics that show off what makes your character awesome. Maybe their extensive martial arts training allows them to use their fists as though they were equipment with the <a href="../equipment/#weapon">weapon</a> tag, their <a href="../../setting_rules/powers/">power</a> over gravity allows them to temporarily lift massive objects, or they are just inhumanly good at remembering details!</p>
-<p>This section is written assuming that players and GMs will work together to create cool abilities, but you can also decide to create and curate a list of abilities that characters are able to choose from and that's a fine way to play too! That's the way most TTRPGs work, after all.</p>
+<p><strong>Abilities</strong> are your special moves. They're your magic spells, martial art forms, animal transformations, or any other cool mechanic that's specific to your character. And best of all? You decide how they work.</p>
+<h2 id="templates">Templates</h2>
+<h3 id="signature-moves">Signature Moves</h3>
+<p>Upgrade a d12 into a d20 before you roll!</p>
+<p>Upgrade suggestions:
+* Increase the number of d12s that you can upgrade into a d20!</p>
+<blockquote>
+<p><strong>Mechanisms are my Forte</strong>
+By spending 1 point of <em>never unprepared</em> before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.</p>
+</blockquote>
+<h3 id="buff-an-ally">Buff an Ally</h3>
+<p><a href="../../gameplay/stacks/">Stack</a> two dice in favor of your ally.</p>
+<p>Stack d4s at level 1, d6s at level 3, d8s at level 5, d10s at level 7 and d12s at level 9+!</p>
+<p>Upgrade suggestions:
+* Add an effect that benefits your ally for as long as they have the stack!
+* Increase the number of dice stacked</p>
+<blockquote>
+<p><strong>Amythest Ward</strong>
+By spending 1 <em>magical gem</em>, erect a shimmering purple barrier around an ally within short range. Stack 2d4 <em>Amythest Ward</em> in their favor.</p>
+</blockquote>
+<h3 id="inflict-an-enemy-with-a-debuff">Inflict an Enemy with a Debuff</h3>
+<p>Test a specific attribute against an enemy's passive attribute to <a href="../../gameplay/stacks/">stack</a> dice against them.</p>
+<p>Stack 2 on a partial success, 3 on a full success, and 4 on a critical success!</p>
+<p>Stack d4s at level 1, d6s at level 3, d8s at level 5, d10s at level 7 and d12s at level 9+!</p>
+<p>Upgrade suggestions:
+* Add an effect that hinders your enemy for as long as they have the stack!
+* Increase the number of dice stacked</p>
+<blockquote>
+<p><strong>Flashbang Grenade</strong>
+By spending 1 <em>ammunition</em>, fire a flashbang from your right shoulder cannon at a target within short-range. Test your intuition against their passive agility to stack 2/3/4d4 <em>Blinded</em> dice against them.</p>
+</blockquote>
+<h2 id="special-attack">Special Attack</h2>
+<p>Perform an <a href="../../gameplay/basic_actions/#attacking-with-a-weapon">attack</a>, but make it as if you had a weapon with a specific <a href="../equipment/#tag-list">tag</a>, or give it a specific effect!</p>
+<p>Upgrade suggestions:
+* Increase the level at which you make the attack
+* Give the attack a (or another) tag</p>
+<blockquote>
+<p><strong>Fireball</strong>
+As an action by spending 1 <em>mp</em>, make an attack against a target within long range, and all targets within short range of them.</p>
+</blockquote>
+<h2 id="special-defense">Special Defense</h2>
+<p><a href="../../gameplay/basic_actions/#defending-against-an-attack">Defend</a> against an attack, but make it as if you had a shield with a specific <a href="../character/equipment">tag</a>, or give it a specific effect!</p>
+<p>Upgrade suggestions:
+* Increase the level at which you defend
+* GIve the defense another tag or effect</p>
+<blockquote>
+<p><strong>Dodge and Roll</strong>
+When you defend against an attack, you can spend 1 point of <em>slickness</em> to move 1 space away from the person who attacked you. If you critically succeed, you can move half your speed instead.</p>
+</blockquote>
+<h3 id="heal-somebody">Heal Somebody</h3>
+<p>Test a specific attribute, then heal damage from someone <a href="../../getting_started/#range-and-spaces">close</a> equal to what you rolled.  If you roll higher than their total HP, unmark one of their marked injury boxes.</p>
+<p>Upgrade suggestions:
+ * Increase the level at which you heal
+ * Increase the <a href="../../getting_started/#range-and-spaces">range</a> at which you can heal</p>
+<blockquote>
+<p><strong>Medic Matrix</strong>
+As an action by spending 1 <em>nyanobot</em>, test your knowledge to heal that much damage from someone close. If you rolled higher than their total HP, unmark one of their marked injury boxes.</p>
+</blockquote>
+<h3 id="automatic-equipment">Automatic Equipment</h3>
+<p>Give yourself equipment for the scene, or treat parts of yourself as if they were equipment.</p>
+<p>Equipment becomes +1 at level 2, +2 at level 3, up to +9 at level 10.</p>
+<p>Upgrade suggestions:
+* Give your equipment additional tags</p>
+<blockquote>
+<p><strong>Rockin' Abs</strong>
+As a reaction, you can spend 1 <em>muscle point</em> to treat your 6 pack as if it was equipment with the <em>brawn</em> and <em>armor</em> tags for the scene.</p>
+</blockquote>
+<p>Temporarily give yourself equipment, use equipment you have at a different level, or give equipment a specific tag.</p>
+<h3 id="special-movement">Special Movement</h3>
+<p>Ignore terrain restrictions to get where you want to go.</p>
+<p>Upgrade suggestions:
+* Increase the range for your movement ❔</p>
+<blockquote>
+<p><strong>Skybound</strong>
+As an action, by spending 1 point of <em>heroic strength</em>, leap to any space within ten spaces.</p>
+</blockquote>
+<h3 id="move-an-enemy">Move an Enemy</h3>
+<p>Test a specific attribute against an enemy's passive attribute to move them where you want them!</p>
+<p>Upgrade suggestions:
+* Increase the range for your grapple ❔</p>
+<blockquote>
+<p><strong>Grapple Gun</strong>
+As an action, fire your grappling hook arm at an enemy within long range to pull them in closer. Test your brawn against their passive agility and pull them....
+<strong>Partial Success:</strong> in a straight line a short range
+<strong>Full Success:</strong> in a straight line a medium range
+<strong>Critical Success:</strong> to any space within close range of you</p>
+</blockquote>
 <p><br/></p>
 <h2 id="what-do-abilities-do">What do Abilities do?</h2>
 <p>Abilities do whatever you want them to! Well, as long as your table is cool with it anyway.</p>
