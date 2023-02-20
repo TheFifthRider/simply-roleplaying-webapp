@@ -14,7 +14,7 @@ There are no hard and fast rules on making special stacks, but most stacks proba
 
 ## Flashback Stacks
 
-Flashback stacks are a special stack built into the game that are created when you [make preparations](../gameplay/common_tests.md#make-preparations). In addition to using the dice on any roll that it makes sense some extra preparation beforehand could have benefited, flashback dice have the special ability to allow you to step back in time.
+Flashback stacks are a special stack built into the game that are created when you [make preparations](basic_actions.md#make-preparations). In addition to using the dice on any roll that it makes sense some extra preparation beforehand could have benefited, flashback dice have the special ability to allow you to step back in time.
 
 When your GM describes a complication that your preparation could have resolved, you can spend one of your flashback dice to take the narrative back in time to describe how your preparation dealt with that problem.
 

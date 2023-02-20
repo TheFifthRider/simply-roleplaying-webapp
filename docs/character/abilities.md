@@ -40,7 +40,7 @@ Upgrade suggestions:
 > By spending 1 _ammunition_, fire a flashbang from your right shoulder cannon at a target within short-range. Test your intuition against their passive agility to stack 2/3/4d4 _Blinded_ dice against them.
 
 ## Special Attack
-Perform an [attack](../gameplay/common_tests.md#attacking-with-a-weapon), but make it as if you had a weapon with a specific [tag](../character/equipment.md#tag-list), or give it a specific effect!
+Perform an [attack](../gameplay/basic_actions.md#attacking-with-a-weapon), but make it as if you had a weapon with a specific [tag](../character/equipment.md#tag-list), or give it a specific effect!
 
 Upgrade suggestions:
 * Increase the level at which you make the attack
@@ -50,7 +50,7 @@ Upgrade suggestions:
 > As an action by spending 1 _mp_, make an attack against a target within long range, and all targets within short range of them.
 
 ## Special Defense
-[Defend](../gameplay/common_tests.md#defending-against-an-attack) against an attack, but make it as if you had a shield with a specific [tag](../character/equipment), or give it a specific effect!
+[Defend](../gameplay/basic_actions.md#defending-against-an-attack) against an attack, but make it as if you had a shield with a specific [tag](../character/equipment), or give it a specific effect!
 
 Upgrade suggestions:
 * Increase the level at which you defend

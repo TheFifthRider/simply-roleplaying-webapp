@@ -16,7 +16,7 @@ nav:
         - character/companions.md
     - 'Playing the Game':
         - gameplay/tests.md
-        - gameplay/common_tests.md
+        - gameplay/basic_actions.md
         - gameplay/downtime.md
         - gameplay/stacks.md
         - gameplay/special_stacks.md
@@ -28,6 +28,7 @@ nav:
     - 'Setting Rules':
         - setting_rules/index.md
         - setting_rules/powers.md
+        - setting_rules/alchemy.md
 extra_css:
     - css/branding.css
     - css/tweaks.css

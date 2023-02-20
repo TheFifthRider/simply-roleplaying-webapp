@@ -6,7 +6,7 @@
 
 ## How do you stack dice?
 
-Whenever you try to create an advantage or disadvantage for yourself or someone else, you can make a test with the goal of [stacking dice for or against someone](../gameplay/common_tests.md#stacking-dice-for-or-against-someone). You might duck behind cover to be **2d8 Protected by Barricade**, read up on a monster you're hunting to gain **4d6 Knowledge of Cockatrice Weaknesses**, or appeal to the room with a suave remark to get **3d10 Favor of the Crowd**. You can also stack dice by using [abilities](../character/abilities.md) or [equipment](../character/equipment.md) that say they stack dice for or against people.
+Whenever you try to create an advantage or disadvantage for yourself or someone else, you can make a test with the goal of [stacking dice for or against someone](basic_actions.md#stacking-dice-for-or-against-someone). You might duck behind cover to be **2d8 Protected by Barricade**, read up on a monster you're hunting to gain **4d6 Knowledge of Cockatrice Weaknesses**, or appeal to the room with a suave remark to get **3d10 Favor of the Crowd**. You can also stack dice by using [abilities](../character/abilities.md) or [equipment](../character/equipment.md) that say they stack dice for or against people.
 
 What size of dice are stacked depends on the quality of the advantage or disadvantage created. Hiding behind a rotting fence might only give you d4s, while positioning yourself behind concrete might give you d12s. Ultimately, this is a gamemaster call so if you're thinking about stacking dice, feel free to ask them what size of dice you'd be stacking before you try to do it.
 
@@ -30,7 +30,7 @@ Your GM may also clear stacks whenever they no longer [make sense](../getting_st
 
 ## How do I get rid of dice stacked against me?
 
-Dice stacked against you can always be resisted. If you're **3d6 Tripped Up**, you can make a test to regain your footing. If you're **1d12 Scared to Death** you can make a test to steel yourself. When you do whatever makes sense to resist the dice stacked against you, you can make a test to [remove dice from a stack](../gameplay/common_tests.md#unstacking-dice).
+Dice stacked against you can always be resisted. If you're **3d6 Tripped Up**, you can make a test to regain your footing. If you're **1d12 Scared to Death** you can make a test to steel yourself. When you do whatever makes sense to resist the dice stacked against you, you can make a test to [remove dice from a stack](basic_actions.md#unstacking-dice).
 
 <br/>
 

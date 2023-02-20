@@ -82,13 +82,13 @@ The [distance](../getting_started/index.md#ranges-and-spaces) at which the equip
 
 _requires: At least one attribute tag_
 
-Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../gameplay/common_tests.md#defending-against-an-attack) with the tagged attribute.
+Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../gameplay/basic_actions.md#defending-against-an-attack) with the tagged attribute.
 
 #### Weapon
 
 _requires: At least one attribute tag AND at least one range tag_
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [attack](../gameplay/common_tests.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
+Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [attack](../gameplay/basic_actions.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
 
 #### Will
 
