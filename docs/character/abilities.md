@@ -2,62 +2,54 @@
 
 **Abilities** are your special moves. They're your magic spells, martial art forms, animal transformations, or any other cool mechanic that's specific to your character. And best of all? You decide how they work.
 
-## Templates
+## Improve Basic Actions
 
-### Signature Moves
-Upgrade a d12 into a d20 before you roll!
+One of the easiest ways to create an ability is to power up a [basic action](../gameplay/basic_actions.md) into something more advanced. For instance...
 
-Upgrade suggestions:
-* Increase the number of d12s that you can upgrade into a d20!
 
-> **Mechanisms are my Forte**
-> By spending 1 point of _never unprepared_ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
-
-### Buff an Ally
-[Stack](../gameplay/stacks.md) two dice in favor of your ally.
-
-Stack d4s at level 1, d6s at level 3, d8s at level 5, d10s at level 7 and d12s at level 9+!
-
-Upgrade suggestions:
-* Add an effect that benefits your ally for as long as they have the stack!
-* Increase the number of dice stacked
-
-> **Amythest Ward**
-> By spending 1 _magical gem_, erect a shimmering purple barrier around an ally within short range. Stack 2d4 _Amythest Ward_ in their favor.
-
-### Inflict an Enemy with a Debuff
-Test a specific attribute against an enemy's passive attribute to [stack](../gameplay/stacks.md) dice against them.
-
-Stack 2 on a partial success, 3 on a full success, and 4 on a critical success!
-
-Stack d4s at level 1, d6s at level 3, d8s at level 5, d10s at level 7 and d12s at level 9+!
-
-Upgrade suggestions:
-* Add an effect that hinders your enemy for as long as they have the stack!
-* Increase the number of dice stacked
-
-> **Flashbang Grenade**
-> By spending 1 _ammunition_, fire a flashbang from your right shoulder cannon at a target within short-range. Test your intuition against their passive agility to stack 2/3/4d4 _Blinded_ dice against them.
-
-## Special Attack
-Perform an [attack](../gameplay/basic_actions.md#attacking-with-a-weapon), but make it as if you had a weapon with a specific [tag](../character/equipment.md#tag-list), or give it a specific effect!
-
-Upgrade suggestions:
-* Increase the level at which you make the attack
-* Give the attack a (or another) tag
+### Special Attack
 
 > **Fireball**
 > As an action by spending 1 _mp_, make an attack against a target within long range, and all targets within short range of them.
 
-## Special Defense
-[Defend](../gameplay/basic_actions.md#defending-against-an-attack) against an attack, but make it as if you had a shield with a specific [tag](../character/equipment), or give it a specific effect!
-
-Upgrade suggestions:
-* Increase the level at which you defend
-* GIve the defense another tag or effect
+### Special Defend
 
 > **Dodge and Roll**
 > When you defend against an attack, you can spend 1 point of _slickness_ to move 1 space away from the person who attacked you. If you critically succeed, you can move half your speed instead.
+
+### Special Get Answers
+
+> **The Dead Speak to Me**
+> You can spend 1 _runed bone_ to roll Presence and Get Answers by speaking with the spirits of the recently departed as long as you have a remnant of them or something they cared about.
+
+### Special Help
+
+> **Amythest Ward**
+> By spending 1 _magical gem_, you can roll Knowledge to Help yourself or any ally within short range by erecting a shimmering purple barrier that wards off attacks. 
+
+### Special Hinder
+
+>**Flashbang Grenade**
+>By spending 1 _ammunition_, you can roll Intuition to Hinder a target within short range by firing a flashbang from your shoulder cannon.
+
+### Special Make Progress (On Something Big)
+
+>**Words of Inspiration**
+>By spending 1 point of _ridiculous charisma_ you can roll Presence to Make Progress on something you wouldn't normally be able to help with by inspiring someone else who is doing it.
+
+### Special Prepare
+
+>**Ready for Anything**
+>By spending 1 _scrappiness_, you can roll Intuition in the minutes before a fight to Prepare for a battle with an enemy, flashing back to any tricks you may have hidden up your sleeve.
+
+### Special Test
+
+> **Mechanisms are My Forte**
+> By spending 1 point of _never unprepared_ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
+
+## New Actions
+
+Another way to create abilities is to make entirely new actions!
 
 ### Heal Somebody
 Test a specific attribute, then heal damage from someone [close](../getting_started/index.md#range-and-spaces) equal to what you rolled.  If you roll higher than their total HP, unmark one of their marked injury boxes.

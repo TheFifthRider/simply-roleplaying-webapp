@@ -32,7 +32,7 @@ When you make a test to **defend against an attack**, If you...
 
 ## 🔍 Get Answers
 
-If you're trying to **answers to questions**, whether it's by researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual, make a [test](../gameplay/tests.md) of the appropriate attribute and then ask the GM some questions.
+If you're trying to **answers to questions**, whether it's by researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual, make a [test](../gameplay/tests.md) of the appropriate attribute and then ask the GM (or the other player, if you're targeting a PC) some questions.
 
 When you make a test to **find answers to questions**, if you...
 
@@ -70,7 +70,7 @@ The dice you stack depends on what level you are:
 
 <br/>
 
-## ⚙ Make Progress
+## ⚙ Make Progress (On Something Big)
 
 If you're trying to do something and you can't do it in just one test, your GM may say that the goal of your test is to fill a [progress meter](../running_the_game/creating_tests.md#progress-meters) in how close the task is to being done!
 
