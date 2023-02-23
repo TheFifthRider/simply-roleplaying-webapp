@@ -92,22 +92,6 @@ The dice you stack depends on what level you are:
 
 <br/>
 
-## 💬 Sway Someone
-
-When you make a test to **sway an NPC** to do something, if you...
-
-* **Fail:** They aren't convinced, and their opinion of you might suffer if you ask them again.
-* **Partially succeed:** If they can, they'll do specifically what you asked them to. If they can't, they'll tell you what, if anything, they need in order to do it.
-* **Fully succeed:** If they can, they'll do what you need them to. If they can't, they'll tell you what, if anything, they need in order to do it.
-* **Critically succeed:**  If they can, they'll go above and beyond to help out. If they can't, they'll tell you what, if anything, they need in order to do it.
-
-When you make a test to **sway another PC** to do something, if you...
-
-* **Fail:** They earn a point of Potential if they do the opposite of what you wanted.
-* **Succeed:** They earn a point of Potential if they do what you wanted.
-
-<br/>
-
 ## 🃏 Test an Attribute
 
 When you make a test and none of the other basic moves make sense, if you...
