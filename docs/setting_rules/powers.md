@@ -4,13 +4,9 @@ Magic is a common tool in high fantasy, superhero fiction, and science fiction--
 
 Here's a way you can achieve powers in Simply Roleplaying using appropriately named Skills/Backgrounds, Abilities, and Equipment.
 
-<br/>
-
 ## What can Powers Do?
 
 By their very nature, powers almost always allow their wielder to do things that would otherwise be impossible. Creating flame from nothing, communicating over vast distances, or teleportation are all things that are typically accomplishable with the right powers.
-
-<br/>
 
 ## How do Powers Work?
 
@@ -39,8 +35,6 @@ Focuses also have an attribute tag to determine which attribute you use to exert
 ### Naming Powers and their Skills
 
 Unless your setting encourages particularly broad skills, your gamemaster may want you to avoid more ambiguously named skills like _magic_ or _super-powers_ and instead focus on specifics. A good rule of thumb is to think of a particular thing to have power over and use that as the description of the skill. Your gamemaster should be able to help you figure out what a good skill would be to represent the power you want in their setting.
-
-<br/>
 
 ## Further Limiting Powers
 
@@ -71,8 +65,6 @@ Here's an example of implementing a risk of exhaustion into a strenuous use of p
 >   * **Fully succeed:** you coax life to grow faster than it normally would, growing the sapling to a mighty oak. Take **5** damage from the toll of your magic.
 >   * **Critically succeed:** the tree grows at your will without costing you anything at all
 
-<br/>
-
 ## Example Powers
 
 Some powers that a character might use their **Knowledge** for are:
@@ -95,5 +87,3 @@ Some covenants and divinities that a character might use their **Will** to manif
 * **Bloodfrost**, the art of the Thorns of the Red Ringed Rose that can only be conjured by inflicting suffering upon oneself
 * **Floras**, the anima of a grove of trees with healing fruits
 * **Pureum**, the Hexadivinite lady of the purple robe, whose chaotic nature can be used to dispel magic
-
-<br/>

@@ -6,15 +6,11 @@ Your **health** is the maximum amount of damage you can take before sustaining a
 
 Whenever you suffer damage from an attack or risk, subtract that damage from your health. If it'd reach or go below 0, take an injury and then reset your health to its maximum value.
 
-<br/>
-
 ## Injuries
 
 **Injuries** are lasting physical or mental consequence that bring you closer to defeat. Whenever you suffer an injury: reset your health, mark an injury box, and if the line next to it is blank, write a brief description of the injury.
 
 While the gamemaster ultimately has final say over what the injury is, any player can offer a suggestion for what kind of an injury a character may have taken. Some examples of injuries are a _fractured wrist_ from blocking a crushing mace blow, _exhaustion_ following an inventing all-nighter, or a _shoulder bite to the bone_ from a rat of unusual size.
-
-<br/>
 
 ### Defeat
 
@@ -23,8 +19,6 @@ If you suffer an injury when all of your injury boxes are marked, you are **defe
 #### Defeat and What Bad Stuff is Ok
 
 In many TTRPGs, defeat can have mortal consequences. This can make for a tense and exciting story, but it's good to check in to make sure everyone wants to accept those stakes. Before you begin to play, talk with your table to come to a consensus for what defeat should and shouldn't mean at your table. It's ok for defeat to mean different things depending on the player, as long as everyone is comfortable with the types of defeat depicted.
-
-<br/>
 
 ## Healing
 
@@ -36,4 +30,3 @@ Whenever you spend [some downtime](../gameplay/downtime.md#recovering) resting, 
 
 Whenever you unmark an injury box, think about what happened to make that injury no longer something you need to worry about. If the treatment was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around or rename it to reflect the healing process. Recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury. If you need to check that injury box again, it means those wounds reopened.
 
-<br/>

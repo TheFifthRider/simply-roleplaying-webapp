@@ -4,8 +4,6 @@
 
 A footrace across the room may be over in a matter of seconds, a car chase across the interstate may take hours, and chasing across countries might even take days. Whatever the scope of the chase, each participant in a chase has a **position** that is described by their distance from the goal in spaces.
 
-<br/>
-
 ## Acting in a Chase
 
 There are a few special tests you might perform if you're part of a chase; you can **perform a stunt** to take a risk to get closer faster, you can **create an obstacle** to slow down other participants, and you can **create a shortcut** to speed up other participants.
@@ -22,8 +20,6 @@ If you make a test with the intention of _doing something risky to get to the go
 *   **Partially succeed,** you narrowly pull it off! For each action spent on the stunt, move your speed towards the goal. Then move your speed towards the goal once more for free.
 *   **Fully succeeds,** you pull off your stunt and catapult yourself forward. For each action spent on the stunt, move twice your speed towards the goal.
 *   **Critically succeeds,** your stunt is wildly successful. For each action spent on the stunt, move twice your speed towards the goal. Then move twice your speed towards the goal once more for free.
-
-<br/>
 
 ### Creating an Obstacle or Shortcut
 
@@ -49,13 +45,9 @@ If you make a test with the intent of _making it easier for somebody to get to t
 *   **Fully succeed,** everything played out in exactly the way you hoped you would. All affected participants are moved five spaces towards from the goal for each action spent on the shortcut.
 *   **Critically succeed,** your shortcut was particularly good at making it easier to get to the goal. All affected participants are moved five spaces towards the goal for each action spent on the obstacle. Then they are moved a further five spaces towards the goal.
 
-<br/>
-
 ## Shaking Pursuit
 
 If you find yourself in a chase where you're attempting to shake your pursuers, your position is the goal of the chase. Any actions you take that would move you towards the goal instead move all of your pursuers that many spaces away. The chase ends when it makes sense to, usually after you've put a certain amount of spaces between yourself and your pursuers.
-
-<br/>
 
 ## Teams
 

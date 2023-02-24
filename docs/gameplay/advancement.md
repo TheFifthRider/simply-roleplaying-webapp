@@ -10,16 +10,12 @@ Session goals can be as specific as "Gain a point of potential if we defeat the 
 
 Here are some end-of-session goals that should work for most campaigns assuming a four hour session.
 
-<br/>
-
 **At the end of a session:**
 
 * [ ] Gain a point of [potential](../character/backgrounds.md#honing-your-skills) if we come up with a witty title to remember this session by
 * [ ] Gain a point of [potential](../character/backgrounds.md#honing-your-skills) if we accomplished something new and important
 * [ ] Gain a point of [potential](../character/backgrounds.md#honing-your-skills) if we learned something important about the world, or if something important changed
 * [ ] Gain a point of [potential](../character/backgrounds.md#honing-your-skills) if we learned something important about a player character, or if something important changed
-
-<br/>
 
 ### Personal Goals
 
@@ -39,8 +35,6 @@ Can become these:
 * [ ] Gain a point of potential if you skimmed a little off the top for yourself
 * [ ] Gain a point of potential if you convinced someone to see it your way
 
-<br/>
-
 ## Potential
 
 **Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve, [skills and legacies](../character/backgrounds.md#improving-skills-and-legacies), increase your character's [health](../character/health.md) and specific [ability points](../character/abilities.md#ability-points), and/or to gain new [abilities](../character/).
@@ -58,8 +52,6 @@ You can spend **two points of potential** to:
 You can spend **three points of potential** to:
 *   Learn a new [ability](../character/abilities.md) 
 *   Strengthen an existing ability
-
-<br/>
 
 ## Leveling Up
 
@@ -82,5 +74,3 @@ In addition to the power bump of being able to roll more dice, leveling up also 
 * Erase any abilities you want, and reclaim your spent points of potential
 * Gain any number of new abilities, spending three points of potential for each
 * Improve abilities any number of times, spending three points of potential for each
-
-<br/>

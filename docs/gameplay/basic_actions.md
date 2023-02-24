@@ -2,9 +2,7 @@
 
 Everybody can perform basic actions, but how they do them may look different depending on what way [makes sense](../getting_started/#narrative-truth) for the character!
 
-<br/>
-
-## ⚔ Attack
+## <i class="ra ra-crossed-swords"></i> Attack
 
 Attacking is a [test](tests.md) of whatever attribute makes sense for the attack, usually against the roll of somebody who is defending against you! If your target cannot or does not defend, the difficulty is their passive brawn. If your target isn't a character and doesn't have passive brawn, you're actually probably [making progress](#make-progress).
 
@@ -15,9 +13,7 @@ When you make a test to **attack someone**, if you...
 *   **Fully succeed:** Your target [takes damage](../character/health.md) equal to your roll.
 *   **Critically Succeed:**  Your target [takes damage](../character/health.md) equal to twice your roll. 
 
-<br/>
-
-## 🛡 Defend
+## <i class="fa-solid fa-shield"></i> Defend
 
 If somebody attacks you, you can try to defend against the attack and turn it into a contest of their attack roll and whatever attribute you're defending with. You can also defend against an attack targeted at someone else as long as it [makes sense](../getting_started/index.md#narrative-truth), but you will take any damage they would have taken. 
 
@@ -28,9 +24,7 @@ When you make a test to **defend against an attack**, If you...
 * **Fully succeed:** You take half of what the attacker rolled as [damage](../character/health.md).
 * **Critically succeed:** You take no damage.
 
-<br/>
-
-## 🔍 Get Answers
+## <i class="fa-solid fa-magnifying-glass"></i> Get Answers
 
 If you're trying to **answers to questions**, whether it's by researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual, make a [test](../gameplay/tests.md) of the appropriate attribute and then ask the GM (or the other player, if you're targeting a PC) some questions.
 
@@ -47,9 +41,7 @@ The answers to the questions should both make sense and should be as complete as
 
 Questions cannot be wasted. If the answer to a question was already stated, it doesn't count. If the answer to a question would not normally require a test to uncover, it doesn't count. If a question is not answerable by the information available in the context of the test, it doesn't count and the person asked the question should explain why it is not answerable and how to make it answerable, if possible.
 
-<br/>
-
-## 🧱 Help / Hinder
+## <i class="fa-solid fa-cubes-stacked"></i> Help / Hinder
 
 If you want to help somebody out, get yourself into a better position, or hinder an enemy, you can do that by rolling and stacking or unstacking dice based on the result.
 
@@ -68,17 +60,13 @@ The dice you stack depends on what level you are:
 * **Level 7-8**: Stack d10s
 * **Level 9+:** Stack d12s
 
-<br/>
-
-## ⚙ Make Progress (On Something Big)
+## <i class="fa-solid fa-gears"></i> Make Progress (On Something Big)
 
 If you're trying to do something and you can't do it in just one test, your GM may say that the goal of your test is to fill a [progress meter](../running_the_game/creating_tests.md#progress-meters) in how close the task is to being done!
 
 When you make a test to **fill a progress meter**, fill it by the amount that you rolled!
 
-<br/>
-
-## 🕓 Prepare
+## <i class="fa-solid fa-clock"></i> Prepare
 
 When a character takes some downtime and makes a test of any attribute with a goal to **prepare for a situation**, stack a flashback die. Then, for every **20** in the total you rolled, you may stack another flashback die.
 
@@ -90,9 +78,7 @@ The dice you stack depends on what level you are:
 * **Level 7-8**: Stack d10s
 * **Level 9+:** Stack d12s
 
-<br/>
-
-## 🃏 Test an Attribute
+## <i class="ra ra-diamonds-card"></i> Test an Attribute
 
 When you make a test and none of the other basic moves make sense, if you...
 

@@ -1,8 +1,6 @@
 # Action Scenes
 When the dragon stirs or the guards raise the alarm, it really matters when you can do what. **Action scenes** are exactly what they sound like -- fast paced moments that you might see in an action movie or video game. While in movies or video games, action scenes are often fast paced and happen in real time, Action scenes are turn based to allow players their space to contribute to the narrative. There are some things that are broadly applicable to all kinds of action scenes, but sometimes you may want to slightly tweak those rules to better convey the feeling of different types of scenes -- a battle will feel differently from a chase, for instance.
 
-<br/>
-
 ## Who Goes When
 
 Since they're usually taking place in a short duration of time, everyone and everything that impacts the action takes their time in the spotlight by taking **turns** over the course of one 10 second **round**. Of course, it's possible that the length of a round may vary depending on what kind of action scene you're in -- a race around the world, for instance, might instead have rounds that take place over days or even weeks.
@@ -33,8 +31,6 @@ If the boss is outnumbered and you want to make them stronger, give the boss a f
 
 If the players are outnumbered by low-level mooks but you don't want the strength in numbers to feel too overwhelming, try marking a group of them as a squad! Squads are simply a set of characters that will always pass their action to another character in their "squad" until none are available. This helps your players (and you!) so the turn can be passed to "the bandits" instead of needing to specify which specific bandit they're referring to.
 
-<br/>
-
 ## Actions
 
 When it's your turn, you can take **up to 3 actions**. One **action** on its own measures something quick like making an attack, hiding behind a pillar, or triggering a mechanism. Multiple actions can be used, even across turns or rounds, to do time consuming or difficult things like pushing over a statue, disarming the security measures on a door, or reloading a siege weapon.
@@ -45,16 +41,10 @@ If it makes sense characters can contribute their actions towards an effort in p
 
 Every character (and some objects) have a **speed**, measured in spaces. When a character uses their action to move, they can move a distance up to their speed. This movement might be sprinting, running and leaping, swimming, riding a horse, or driving a car. Your GM may say that some spaces take up extra spaces of movement if the terrain is difficult to traverse or if there's some other reason you might need to slow down when moving through it.
 
-<br/>
-
 ## Defining Scene-Specific Actions: Chases
 
 Sometimes it can be helpful to define specific actions that can be taken in an action scene. Chases, for instance, are a special kind of action scene that capture the fast back-and-forth between participants as they race towards the goal. Because distance towards the goal is the primary focus, there are several special actions that deal primarily with that [detailed here](chases.md).
 
-<br/>
-
 ## Freeform Action Scene
 
 The tide of lava rises, the rope bridges' tenuous connections begin to sever, the toxic gas flows under the door and across the room-- there are many times when observing strict rules for an action scene would get in the way of the drama of the scene. A **freeform action scene** is any action scene that uses some, but not all, rules that are normally a part of an action scene. There may or may not be any defined actions or even an established turn order. This allows each character the freedom to act as would make sense to the scene.
-
-<br/>

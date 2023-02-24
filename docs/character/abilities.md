@@ -10,41 +10,49 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 ### Special Attack
 
 > **Fireball**
+> 
 > As an action by spending 1 _mp_, make an attack against a target within long range, and all targets within short range of them.
 
 ### Special Defend
 
 > **Dodge and Roll**
+> 
 > When you defend against an attack, you can spend 1 point of _slickness_ to move 1 space away from the person who attacked you. If you critically succeed, you can move half your speed instead.
 
 ### Special Get Answers
 
 > **The Dead Speak to Me**
+> 
 > You can spend 1 _runed bone_ to roll Presence and Get Answers by speaking with the spirits of the recently departed as long as you have a remnant of them or something they cared about.
 
 ### Special Help
 
 > **Amythest Ward**
+> 
 > By spending 1 _magical gem_, you can roll Knowledge to Help yourself or any ally within short range by erecting a shimmering purple barrier that wards off attacks. 
 
 ### Special Hinder
 
 >**Flashbang Grenade**
+>
 >By spending 1 _ammunition_, you can roll Intuition to Hinder a target within short range by firing a flashbang from your shoulder cannon.
 
 ### Special Make Progress (On Something Big)
 
 >**Words of Inspiration**
+>
 >By spending 1 point of _ridiculous charisma_ you can roll Presence to Make Progress on something you wouldn't normally be able to help with by inspiring someone else who is doing it.
 
 ### Special Prepare
 
 >**Ready for Anything**
+>
 >By spending 1 _scrappiness_, you can roll Intuition in the minutes before a fight to Prepare for a battle with an enemy, flashing back to any tricks you may have hidden up your sleeve.
 
 ### Special Test
 
 > **Mechanisms are My Forte**
+> 
 > By spending 1 point of _never unprepared_ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
 
 ## New Actions
@@ -95,8 +103,6 @@ Upgrade suggestions:
 > **Full Success:** in a straight line a medium range
 > **Critical Success:** to any space within close range of you
 
-<br/>
-
 ## What do Abilities do?
 
 Abilities do whatever you want them to! Well, as long as your table is cool with it anyway.
@@ -119,8 +125,6 @@ Often, a character's abilities will do things like:
 
 If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
 
-<br/>
-
 ## Requirements
 
 Every ability has **requirements** that must be met for you to be able to use it. The more requirements an ability has, or the more costly the requirements, the more powerful the ability should be. Often, requirements will be things like:
@@ -137,8 +141,6 @@ You can make an ability more flexible by making it stronger if more requirements
 
 >   **Craft a Disguise**
 >   If you've spent at least one period of downtime every day for the last seven days observing a character, you can disguise yourself as that character. You automatically pass as them visually and at a distance.<br/>_If you've spent at least two periods of downtime each day observing them,_ you better understand their mannerisms. You automatically pass as them when interacting with all but their closest friends.
-
-<br/>
 
 ## Ability Points
 
@@ -158,8 +160,6 @@ If you're feeling particularly creative, you may want your abilities to be power
 
 If you choose to do so, keep in mind the capability of characters with ability point pools. A character with a deck of cards that do different things likely shouldn't start with more than two cards, and should gain additional cards or improve existing cards in a way similar to how a character with ability points would gain additional points in their pool and improve their existing abilities.
 
-<br/>
-
 ## Gaining Ability Points and Creating Abilities
 
 Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
@@ -169,8 +169,6 @@ Any number of times between sessions you can reduce your maximum ability points 
 Similarly, between sessions you can remove abilities from your character sheet if you feel like they don't belong-- whether you just don't like how they work or if you feel like they don't make sense to your character anymore. If you do, make sure you increase your maximum ability points to compensate for the points you spent to earn that ability.
 
 If you made up new abilities or improvements, it's a good idea to make sure you take some time to talk them over with your table and/or your GM before you introduce them.
-
-<br/>
 
 ## Upgrading Abilities
 
@@ -183,8 +181,6 @@ Sometimes you just want an ability to do more. If an ability gave you an extra *
 ### Making an Ability Stronger
 
 If you want an ability to do what it already does, but better, you can amplify its effects. If an ability would push a target away from you, a stronger version of the ability might be able to push everyone within a _close range_ of you away instead. If an ability would grant you an extra _d4_ when wielding weapons tagged with _cleaving_, a strengthened version of the ability might give you an extra _d4_ with _cleaving_ or _hooking_-tagged _weapons_. Stronger abilities typically increase the number of targets, the duration of effects, or broaden the situations in which an ability might apply.
-
-<br/>
 
 ## Abilities Growing with Level
 
@@ -207,8 +203,6 @@ To that end, certain aspects of abilities should increase automatically as a cha
 
 You can also tie effects to things that are automatically improved every level like health, passive ability scores, and total dice.
 
-<br/>
-
 ## Let's Make Some Abilities
 
 All right, we've spent enough time talking about how they work. Let's make some ability points and an ability to use them.
@@ -230,8 +224,6 @@ And upgrading it would probably mean making the boots last longer and be more du
 | :----------------------------------------------- | ------------------------------------------------------------ |
 | By spending 1 scrap over some downtime, I can... | ...stack 8d4 Springloaded Boots in somebody's favor. |
 
-<br/>
-
 ### Alchemist
 
 What if our character was an _Alchemist_ who produced poisons and potions? Their abilities could be the various potions effects they know how to make, powered by the **concoctions** that the Alchemist brews when the party rests. One ability could be a **Health Potion** that heals a bit of damage.
@@ -248,8 +240,6 @@ We could then upgrade this potion to give it a secondary effect-- perhaps a stac
 | Requirements                                       | Effect                                                       |
 | -------------------------------------------------- | ------------------------------------------------------------ |
 | By spending 1 concoction I can use an action to... | ...heal 10 damage from 1 target I can reach and stack 2d4 Invigorated in their favor. |
-
-<br/>
 
 ### Unassuming Assassin
 
@@ -268,8 +258,6 @@ Upgrading this ability might allow us to add another tag, maybe the _concealable
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | By spending an assassin's mark when I'm hidden from my target I can... | ...make attacks as though my weapons had the **intuition** and **concealable** tags until the end of my turn. |
 
-<br/>
-
 ### Internet Savant
 
 What if our character was an _Internet Savant_ who mastered the art of utilizing the collective human knowledge present on the web? Their abilities could be powered by their **cellular data**. A core ability of theirs could be **There's a Wiki for That**, because of course there is.
@@ -287,8 +275,6 @@ Upgrading this ability might allow the Savant to utilize some tidbits they picke
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | By spending a point of cellular data when I spend some downtime to research information I can... | ...add an extra 1d4 to my roll and stack 4d4 in my favor named after what I researched. |
 
-<br/>
-
 ### Street Brawler
 
 What if our character was a _Street Brawler_ who was used to using anything at their disposal in a scrap? Their abilities could be powered by their **reputation** as a fighter. An ability of theirs could be **Everything's a Weapon in My Hands**, letting them improvise weapons from whatever they can grab.
@@ -305,8 +291,6 @@ Upgrading this ability could make those weapons more lethal by giving them an ex
 | Requirements                                                 | Effect                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | By spending a point of reputation when I'm using equipment without the **weapon** tag... | ...I can give it the **weapon** tag for the scene. It also gets the **+1** tag if it isn't already tagged with a bigger **+X** tag. _(The GM will give it an attribute tag if it doesn't already have one)_ |
-
-<br/>
 
 ## Improving an Ability Throughout a Campaign
 
@@ -363,8 +347,6 @@ But... what if we could make it _even better?_ Our gamemaster has an idea for th
 
 Wow. We are now three improvements deep into this ability and it feels pretty powerful indeed. By spending just one of our resources, we get powerful  these dice that we can feed off of making attacks and taking damage, like a true berserker might. If we play our cards right, we'll be adding dice front, left, and center all battle long!
 
-<br/>
-
 ## Keeping it All "Balanced"
 
 Gamemasters, as you've been reading through this section you're probably wondering if there's some kind of behind-the-scenes mechanic for making a balanced ability. The short answer is: there isn't.
@@ -372,5 +354,3 @@ Gamemasters, as you've been reading through this section you're probably wonderi
 The longer answer is there isn't, but not for a lack of trying. I spent quite some time working out various systems for point-buying your way to "balanced" abilities, but at the end of the day they all ended up being unbalanced in one way or another. After all, if you have an ability that gives you an extra d8 when you attack an undead enemy, how useful that ability is depends entirely on how often the GM pits you against undead enemies. If you have an ability to fly, how useful that ability is depends on how often you need to and couldn't otherwise.
 
 Rather than try to balance abilities from the get-go, I'd encourage balancing abilities _as you go_. If an ability feels too strong? Give it an extra requirement, or make one of its requirements more costly! If an ability feels too weak? Give it an extra effect or strengthen one of its existing effects without requiring the character to upgrade it.
-
-<br/>

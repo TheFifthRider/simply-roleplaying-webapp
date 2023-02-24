@@ -10,8 +10,6 @@ Stacks, especially stacks created by [abilities](../character/abilities.md) or [
 
 There are no hard and fast rules on making special stacks, but most stacks probably shouldn't be special. Not only would making lots of stacks special mean lots of rules that everybody needs to remember, special stacks used in moderation give flair to specialized equipment (such as magic items, incendiary devices, or poisons) and powerful character [abilities](../character/abilities.md) that wouldn't feel as awesome if being a special stack were more common.
 
-<br/>
-
 ## Flashback Stacks
 
 Flashback stacks are a special stack built into the game that are created when you [make preparations](basic_actions.md#make-preparations). In addition to using the dice on any roll that it makes sense some extra preparation beforehand could have benefited, flashback dice have the special ability to allow you to step back in time.
