@@ -9,49 +9,49 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 
 ### Special Attack
 
-> **Fireball**
+> <i class="ra ra-crossed-swords"></i> **Fireball**
 > 
 > As an action by spending 1 _mp_, make an attack against a target within long range, and all targets within short range of them.
 
 ### Special Defend
 
-> **Dodge and Roll**
+> <i class="fa-solid fa-shield"></i> **Dodge and Roll**
 > 
 > When you defend against an attack, you can spend 1 point of _slickness_ to move 1 space away from the person who attacked you. If you critically succeed, you can move half your speed instead.
 
 ### Special Get Answers
 
-> **The Dead Speak to Me**
+> <i class="fa-solid fa-magnifying-glass"></i> **The Dead Speak to Me**
 > 
 > You can spend 1 _runed bone_ to roll Presence and Get Answers by speaking with the spirits of the recently departed as long as you have a remnant of them or something they cared about.
 
 ### Special Help
 
-> **Amythest Ward**
+> <i class="fa-solid fa-cubes-stacked"></i> **Amythest Ward**
 > 
 > By spending 1 _magical gem_, you can roll Knowledge to Help yourself or any ally within short range by erecting a shimmering purple barrier that wards off attacks. 
 
 ### Special Hinder
 
->**Flashbang Grenade**
+><i class="fa-solid fa-cubes-stacked"></i> **Flashbang Grenade**
 >
 >By spending 1 _ammunition_, you can roll Intuition to Hinder a target within short range by firing a flashbang from your shoulder cannon.
 
 ### Special Make Progress (On Something Big)
 
->**Words of Inspiration**
+><i class="fa-solid fa-gears"></i> **Words of Inspiration**
 >
 >By spending 1 point of _ridiculous charisma_ you can roll Presence to Make Progress on something you wouldn't normally be able to help with by inspiring someone else who is doing it.
 
 ### Special Prepare
 
->**Ready for Anything**
+><i class="fa-solid fa-clock"></i> **Ready for Anything**
 >
 >By spending 1 _scrappiness_, you can roll Intuition in the minutes before a fight to Prepare for a battle with an enemy, flashing back to any tricks you may have hidden up your sleeve.
 
 ### Special Test
 
-> **Mechanisms are My Forte**
+> <i class="ra ra-diamonds-card"></i> **Mechanisms are My Forte**
 > 
 > By spending 1 point of _never unprepared_ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
 
