@@ -66,6 +66,11 @@ If you're trying to do something and you can't do it in just one test, your GM m
 
 When you make a test to **fill a progress meter**, fill it by the amount that you rolled!
 
+## <i class="fa-solid fa-person-walking"></i> Move
+
+Move a short distrance to get where you need to go. You may need to [test an attribute](#test-an-attribute) to get there if it's hard or dangerous to get to.
+
+
 ## <i class="fa-solid fa-clock"></i> Prepare
 
 When a character takes some downtime and makes a test of any attribute with a goal to **prepare for a situation**, stack a flashback die. Then, for every **20** in the total you rolled, you may stack another flashback die.

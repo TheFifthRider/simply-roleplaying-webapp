@@ -277,3 +277,34 @@ tbody tr:last-of-type {
 .rst-content .note .admonition-title {
     background: var(--cyan);
 }
+
+.arrow-block::after {
+  color: rgba(255, 255, 255, 0.2);
+  border-top: 30px solid;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  display: inline-block;
+  content: '';
+  position: absolute;
+  right: -35.5px;
+  top: 40px;
+}
+
+.arrow-block {
+  background-color: rgba(255, 255, 255, 0.2);
+  height: 40px;
+  line-height: 60px;
+  display: inline-block;
+  position: relative;
+  margin-bottom: 50px;
+  margin-left: 40%;
+}
+
+.arrow-block-text {
+  color: var(--highlight-color);
+  font-weight: bold;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: Cinzel;
+  font-size: 24px;
+}
