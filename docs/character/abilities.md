@@ -88,6 +88,8 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 
 Another way to create abilities is to make entirely new actions! Abilities can do whatever you want them to! Well, as long as your table is cool with it anyway.
 
+If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** (likely based on your roll or one of your passive attributes) and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
+
 #### Heal Somebody
 
 Test a specific attribute, then heal damage from someone [close](../getting_started/index.md#range-and-spaces) equal to what you rolled.  If you roll higher than their total HP, unmark one of their marked injury boxes.
