@@ -33,11 +33,11 @@ When you're dealing with three or more people involved in the same competition, 
 
 Lots of tests may have multiple risks involved. Chasing after a bad guy through a crowded alley in an unfamiliar city might have both the risk of letting them get away and getting lost in a part of town you don't know. While it's perfectly reasonable for a failure on a test to mean "all of the bad stuff that could happen, does happen" consider also offering hard choices to your players on which bad stuff might happen when they fail or partially succeed.
 
-## Progress Meters
+## Progress Bar
 
-If your players are trying to do something and you just don't think they can do something like that in just one test, you can instead pick a target number and create a **progress meter** to track the effort spent. 
+If your players are trying to do something and you just don't think they can do something like that in just one test, you can instead pick a target number and create a **progress bar** to track the effort spent. 
 
-A progress meter starts at 0 and ends at whatever target number you set it at. Whenever your players roll on tests that contribute to the goal of the progress meter, add their roll to the progress meter to fill it up! Once the progress meter hits the number you targetted, the goal is accomplished!
+A progress bar starts at 0 and ends at whatever target number you set it at. Whenever your players roll on tests that contribute to the goal of the progress bar, add their roll to the progress meter to fill it up! Once the progress bar hits the number you targetted, the goal is accomplished!
 
 Optionally, you can also have additional "stretch goals" at further target numbers if your players want to keep going.
 
