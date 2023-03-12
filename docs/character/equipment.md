@@ -32,10 +32,6 @@ As a general rule of thumb, **tag things when they need to be tagged**. An iron 
 
 Equipment with this tag are more effective than other equipment of the same type due to exemplary craftsmanship, materials, and/or renown. Add the tagged number to any test you make with this equipment. If the equipment's tags grant the wearer a passive value (such as armor HP), add the tagged amount.
 
-#### < Extranormal Power >
-
-Equipment with this tag is infused with a particular type of [extranormal power](../setting_rules/powers.md), augmenting its functionality.
-
 #### Agility
 
 Equipment with this tag make is often light, compact, or relies on manual precision to operate effectively. _Bows_, _scimitars_, _sniper rifles_, and _pistols_ often have the Agility tag.
@@ -56,11 +52,13 @@ Equipment with this tag are small and easy to take out or hide. _Daggers_, _mini
 
 #### Focus
 
-Equipment with this tag can be used to utilize the [extranormal powers](../setting_rules/powers.md) that this weapon is tagged with.
+_requires: a tag like_ Pyromancy _or_ Telekinesis _that indicates what kinds of abilities it's for_
+
+Equipment with this tag is a tool that helps you with your _abilities_, like a wand for a wizard or a nyanobot array for a genetically engineered cat doctor. Pairs well with the +X tag to give you +X on tests you make with that ability.
 
 #### Intuition
 
-Equipment with this tag is often foreign or complicated in inconsistent ways, requiring keen adaptability to operate effectively. _Alien technology_ and _mental magic catalysts_ often have the Intuition tag.
+Equipment with this tag is often foreign or complicated in inconsistent ways, requiring keen adaptability to operate effectively. _Alien technology_ and _mental magic focuses_ often have the Intuition tag.
 
 #### Knowledge
 

@@ -82,7 +82,7 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 
 > <i class="ra ra-diamonds-card"></i> **Mechanisms are My Forte**
 > 
-> By spending 1 point of __ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
+> By spending 1 _sprocket_ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
 
 ### New Actions
 
@@ -112,7 +112,7 @@ Give yourself equipment for the scene, or treat parts of yourself as if they wer
 
 > <i class="ra ra-anvil"></i> **Rockin' Abs**
 > 
-> As a reaction, you can spend 1 _muscle point_ to treat your 6 pack as if it was equipment with the _brawn_ and _armor_ tags for the scene.
+> Once per rest as a reaction, you can spend 1 _muscle point_ to treat your 6 pack as if it was equipment with the _brawn_ and _armor_ tags for the scene.
 
 ## Upgrading Abilities
 
