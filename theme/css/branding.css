@@ -12,6 +12,8 @@
   --cyan: #05B2DC;
   --blue: #304C89;
   --magenta: #8A4FFF;
+  --note: #037591;
+  --example: #76639d;
 }
 
 @font-face {
@@ -275,7 +277,11 @@ tbody tr:last-of-type {
 }
 
 .rst-content .note .admonition-title {
-    background: var(--cyan);
+    background: var(--note);
+}
+
+.rst-content .example .admonition-title {
+    background: var(--example);
 }
 
 .arrow-block::after {
