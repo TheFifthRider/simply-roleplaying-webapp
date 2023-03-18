@@ -1,4 +1,4 @@
-# Tests
+# Every Roll is a Test
 When you try to do something and there's drama involved with whether or not you can do what you try to do, your gamemaster will ask you to "test" the attribute that makes the most sense for the situation. 
 
 When they do, you'll look at your [skills, legacies, and backgrounds](../character/backgrounds.md) and pick whichever feel appropriate to the situation. However, you can't pick more dice than your level plus the attribute you're testing.

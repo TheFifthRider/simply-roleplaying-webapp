@@ -1,4 +1,4 @@
-# Items and Inventory
+# Items and Tags
 
 Your **items** are your stuff. They go in your **inventory**. Playing cards, bundles of rope, your trusty blade-- it might be equipment with tags to describe its use, or it might simply be a flavorful item that may or may not have specifically codified effects.
 
@@ -14,19 +14,21 @@ When you're in an [action scene](../gameplay/action.md) you can use anything you
 
 Similarly, if you wish to stow items for any reason in an [action scene](../gameplay/action.md) you can take **at least one action** to unequip them into your inventory. Just like with equipping, if it's something cumbersome or something that requires disassembly before storage your GM may say you must use multiple actions for this.
 
-## Equipment
+## Tagged Items
 
-Equipment are the tools you wear or use to accomplish tasks-- your armor, weapons, magic staves, and lockpick set. Equipment might be protective, weaponized, or useful in some other way. **Tags** describe what's important about the equipment: how it can be used, what benefits it provides, and anything else that matters. You can only benefit from **equipment** if they're equipped.
+**Tags** describe what's important about an item: how it can be used, what benefits it provides, and anything else that matters. You can only benefit from an item's tags if it's equipped.
 
-### Using Equipment Improperly
+Not every item has tags or needs them. If it's obvious how an item is used, it probably doesn't need a tag or, if it does, you can tag it in the moment. Sometimes items don't need tags until they're used in a specific way that you want to remember. In short, **tag things when they need to be tagged.**
 
-If you attack with something that doesn't have the weapon tag, defend with something that doesn't have the shield tag, or do something else to use equipment in a way that it's not intended to be used, your GM may say there is an [additional risk](../gameplay/tests.md#risk-guidelines) of **the equipment might be damaged, destroyed, or otherwise lost** and/or **some tags on the equipment do not apply**. A +5 sword might be very good at attacking, but there's no guarantee that it'd be equally as good at blocking.
+This is especially true for narratively important tags. An iron sword doesn't need to be tagged with _iron_ when an adventurer picks it up, but as soon as they face something vulnerable to the metal, it should be.
+
+!!! error "Using Items Improperly"
+	If you attack with something that doesn't have the weapon tag, defend with something that doesn't have the shield tag, or do something else to use an item in a way that it's not intended to be used, your GM may say there is an [additional risk](../gameplay/tests.md#risk-guidelines) that **the item might be damaged, destroyed, or otherwise lost** and/or **some tags on the item do not apply**. A +5 sword might be very good at attacking, but there's no guarantee that it'd be equally as good at blocking.
 
 ### Tag List
 
 Here's a suggested list of tags that you can use to describe the equipment in your game. Be sure to add more tags that are important to your setting! If you're in a dark fantasy setting hunting beasts of the night and need silvered weapons to confront them, _silver_ should be a tag. If you're in a futuristic dystopian setting and everything legally acquired is monitored through a chip, _unchipped_ should be a tag.
 
-As a general rule of thumb, **tag things when they need to be tagged**. An iron sword doesn't need to be tagged with _iron_ when an adventurer picks it up, but the instant they start a plot thread of investigating something that's vulnerable to cold iron, it should be.
 
 #### +1, +2, +3, ...
 
