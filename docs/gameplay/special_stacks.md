@@ -1,6 +1,6 @@
 # Special Stacks
 
-Stacks, especially stacks created by [abilities](../character/abilities.md) or [equipment](../character/equipment.md), can also have special rules associated with them. Here are some examples:
+Stacks, especially stacks created by [abilities](../character/abilities.md) or [items](../character/equipment.md), can also have special rules associated with them. Here are some examples:
 
 **4d6 On Fire**: At the start of your turn, remove a die from the stack and roll it to see how much damage you take from the flames.
 
@@ -8,7 +8,7 @@ Stacks, especially stacks created by [abilities](../character/abilities.md) or [
 
 **1d10 Berserker's Rage**: As long as this stack is around, add another die to the stack whenever you take damage.
 
-There are no hard and fast rules on making special stacks, but most stacks probably shouldn't be special. Not only would making lots of stacks special mean lots of rules that everybody needs to remember, special stacks used in moderation give flair to specialized equipment (such as magic items, incendiary devices, or poisons) and powerful character [abilities](../character/abilities.md) that wouldn't feel as awesome if being a special stack were more common.
+There are no hard and fast rules on making special stacks, but most stacks probably shouldn't be special. Not only would making lots of stacks special mean lots of rules that everybody needs to remember, special stacks used in moderation give flair to specialized items (such as magical equipment, incendiary devices, or poisons) and powerful character [abilities](../character/abilities.md) that wouldn't feel as awesome if being a special stack were more common.
 
 ## Flashback Stacks
 

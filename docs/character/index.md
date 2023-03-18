@@ -24,7 +24,7 @@ Health is how much [damage](health.md#damage) you can take before you suffer an 
 
 ## Inventory
 
-Your [inventory](equipment.md) is filled with all the stuff you own. Anything you can use to accomplish a task is usually a piece of [equipment](equipment.md#equipment) and has [tags](equipment.md#tags) that describe its properties. Items in your inventory are either equipped or not-- equipped items are usually visible and easy to get to, unequipped items are stored away somewhere on your person.
+Your [inventory](equipment.md) is filled with all the stuff you own. Anything you can use to accomplish a task usually has [tags](equipment.md#tags) that describe its properties. Items in your inventory are either equipped or not-- equipped items are usually visible and easy to get to, unequipped items are stored away somewhere on your person.
 
 ## Companions
 

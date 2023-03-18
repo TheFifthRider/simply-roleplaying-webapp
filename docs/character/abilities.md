@@ -106,13 +106,13 @@ Test a specific attribute against an enemy's passive attributes, then move them 
 > 
 > As an action, fire your grappling hook arm at an enemy within long range to pull them in closer. Test your brawn against their passive brawn or agility. If you succeed, pull them a short distance toward you.
 
-#### Automatic Equipment
+#### Tag Something
 
-Give yourself equipment for the scene, or treat parts of yourself as if they were equipment. Equipment automatically becomes +1 at level 2, +2 at level 3, up to +9 at level 10.
+Give yourself a tagged item for the scene, or tag parts of yourself as if they were an item. Automatically add the +1 tag at level 2, +2 at level 3, and so on up to +9 at level 10.
 
 > <i class="ra ra-anvil"></i> **Rockin' Abs**
 > 
-> Once per rest as a reaction, you can spend 1 _muscle point_ to treat your 6 pack as if it was equipment with the _brawn_ and _armor_ tags for the scene.
+> Once per rest as a reaction, you can spend 1 _muscle point_ to treat your 6 pack as if it was an item with the _brawn_ and _armor_ tags for the scene.
 
 ## Upgrading Abilities
 
@@ -146,7 +146,7 @@ You can also combine already upgraded abilities, or actions you have that nobody
 > 
 > As two actions, by spending 1 _faith_ I can roll Will to heal somebody by the amount I rolled. In addition, give something equipped to them the _+5_, _blessed_, _will_, and _weapon_ tags.
 
-If an ability allowed you to give equipment the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of Presence to heal the wielder too!
+If an ability allowed you to give an item the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of Presence to heal the wielder too!
 
 ### Making an Action Stronger
 

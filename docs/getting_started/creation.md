@@ -25,7 +25,7 @@ Think about what possessions your character might have and write them down. This
 
 Consider writing down a sentimental object such as a an old, handwritten journal or a locket carrying an irreplaceable lock of grey hair. Even mundane objects, from bedrolls to mp3 players, can speak a lot about the character that carries them in their day-to-day and where they come from. 
 
-Once you've finished figuring out what you've got, read up on [equipment](../character/equipment.md) and add equipment tags to anything that would benefit from having them. Be sure to talk to your gamemaster about the equipment and tags you've chosen. If your campaign is going to be combat focused, it's probably a good idea to have something with the Weapon tag.
+Once you've finished figuring out what you've got, read up on [items](../character/equipment.md) and add tags to anything that would benefit from having them. Be sure to talk to your gamemaster about the items and tags you've chosen. If your campaign is going to be combat focused, it's probably a good idea to have something with the Weapon tag.
 
 !!! example "Example: Cavern Explorer"
 	A cavern explorer might have a bedroll, tent, backpack, mess kit, pack of torches, medical supplies, and a grappling hook (close-range).

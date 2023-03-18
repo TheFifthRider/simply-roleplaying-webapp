@@ -4,7 +4,7 @@ Your level represents the number of dice you can roll in total on a test, but ba
 
 ## Skills and Legacies
 
-Skills and legacies are dice that you will eventually collect into backgrounds. They start as d4s and can grow to be as powerful as d12. **Before you roll**, if you are doing something related to a background you either have or want to have, you can spend potential to write it down or level it up to the next largest die size. You can also level up the die whenever you do something and it [makes sense](../getting_started/index.md#narrative-truth) that you'd level up or gain a skill or legacy as a result.
+Skills and legacies are dice that you will eventually collect into backgrounds. They start as d4s and can grow to be as powerful as d12. **Before you roll**, if you are doing something related to a background you either have or want to have, you can spend potential to write it down or level it up to the next largest die size, to a maximum of d12. You can also level up the die whenever you do something and it [makes sense](../getting_started/index.md#narrative-truth) that you'd level up or gain a skill or legacy as a result.
 
 It doesn't really matter whether a die is a skill or a legacy, but whether it's something that you're good at or a reputation that you're known for can be helpful in determining what makes sense for how to level it up. For example, it makes sense for a player to be able to level up or gain a new skill when they _spend some time training_ or _gain a flash of insight_ from seeing something cool that they or somebody else did. Separately, it makes sense that a player could level up or gain a new legacy whenever they _do something memorable_ or _act like their reputation_.
 

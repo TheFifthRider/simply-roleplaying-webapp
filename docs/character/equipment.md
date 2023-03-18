@@ -1,6 +1,6 @@
 # Items and Tags
 
-Your **items** are your stuff. They go in your **inventory**. Playing cards, bundles of rope, your trusty blade-- it might be equipment with tags to describe its use, or it might simply be a flavorful item that may or may not have specifically codified effects.
+Your **items** are your stuff. They go in your **inventory**. Playing cards, bundles of rope, your trusty blade-- it might have tags to describe its use, or it might simply be a flavorful item that may or may not have specifically codified effects.
 
 ## How much can your inventory hold?
 
@@ -27,69 +27,69 @@ This is especially true for narratively important tags. An iron sword doesn't ne
 
 ### Tag List
 
-Here's a suggested list of tags that you can use to describe the equipment in your game. Be sure to add more tags that are important to your setting! If you're in a dark fantasy setting hunting beasts of the night and need silvered weapons to confront them, _silver_ should be a tag. If you're in a futuristic dystopian setting and everything legally acquired is monitored through a chip, _unchipped_ should be a tag.
+Here's a suggested list of tags that you can use to describe the items in your game. Be sure to add more tags that are important to your setting! If you're in a dark fantasy setting hunting beasts of the night and need silvered weapons to confront them, _silver_ should be a tag. If you're in a futuristic dystopian setting and everything legally acquired is monitored through a chip, _unchipped_ should be a tag.
 
 
 #### +1, +2, +3, ...
 
-Equipment with this tag are more effective than other equipment of the same type due to exemplary craftsmanship, materials, and/or renown. Add the tagged number to any test you make with this equipment. If the equipment's tags grant the wearer a passive value (such as armor HP), add the tagged amount.
+Items with this tag are more effective than other items of the same type due to exemplary craftsmanship, materials, and/or renown. Add the tagged number to any test you make with this item. If the item's tags grant the wearer a passive value (such as armor HP), add the tagged amount.
 
 #### Agility
 
-Equipment with this tag make is often light, compact, or relies on manual precision to operate effectively. _Bows_, _scimitars_, _sniper rifles_, and _pistols_ often have the Agility tag.
+Items with this tag are often light, compact, or rely on manual precision to operate effectively. _Bows_, _scimitars_, _sniper rifles_, and _pistols_ often have the Agility tag.
 
 #### Armor
 
 _requires: any attribute tag_
 
-Equipment with this tag are wearable defense like personal shield generators, Kevlar vests, or full plate. When worn, armor grants the wearer with additional **armor hp** equal to **the highest passive value of the equipment's tagged attributes**. A character can only benefit from one set of armor at a time.
+Items with this tag are wearable defense like personal shield generators, Kevlar vests, or full plate. When worn, armor grants the wearer with additional **armor hp** equal to **the highest passive value of the item's tagged attributes**. A character can only benefit from one set of armor at a time.
 
 #### Brawn
 
-Equipment with this tag is often heavy or strenuous to operate effectively. _Mauls_, _axes_, _grenade launchers_, and _shotguns_ often have the Brawn tag.
+Items with this tag is often heavy or strenuous to operate effectively. _Mauls_, _axes_, _grenade launchers_, and _shotguns_ often have the Brawn tag.
 
 #### Concealable
 
-Equipment with this tag are small and easy to take out or hide. _Daggers_, _miniature crossbows_, _pistols_, and _brass knuckles_ often have the Concealable tag.
+Items with this tag are small and easy to take out or hide. _Daggers_, _miniature crossbows_, _pistols_, and _brass knuckles_ often have the Concealable tag.
 
 #### Focus
 
 _requires: a tag like_ Pyromancy _or_ Telekinesis _that indicates what kinds of abilities it's for_
 
-Equipment with this tag is a tool that helps you with your _abilities_, like a wand for a wizard or a nyanobot array for a genetically engineered cat doctor. Pairs well with the +X tag to give you +X on tests you make with that ability.
+An item with this tag is a tool that helps you with your _abilities_, like a wand for a wizard or a nyanobot array for a genetically engineered cat doctor. Pairs well with the +X tag to give you +X on tests you make with that ability.
 
 #### Intuition
 
-Equipment with this tag is often foreign or complicated in inconsistent ways, requiring keen adaptability to operate effectively. _Alien technology_ and _mental magic focuses_ often have the Intuition tag.
+Items with this tag are often foreign or complicated in inconsistent ways, requiring keen adaptability to operate effectively. _Alien technology_ and _mental magic focuses_ often have the Intuition tag.
 
 #### Knowledge
 
-Equipment with this tag is often complicated and only able to be effectively operated by someone thoroughly trained in how it works. _Mad science gadgets_, _ancient rituals_, and _physical magic catalysts_ often have the Knowledge tag.
+Items with this tag are often complicated and only able to be effectively operated by someone thoroughly trained in how it works. _Mad science gadgets_, _ancient rituals_, and _physical magic catalysts_ often have the Knowledge tag.
 
 #### Large
 
-Equipment with this tag requires two hands to wield effectively. _Rocket launchers_, _mauls_, _longbows_, and _staves_ often have the Large tag.
+Items with this tag require two hands to wield effectively. _Rocket launchers_, _mauls_, _longbows_, and _staves_ often have the Large tag.
 
 #### Presence
 
-Equipment with this tag might be sentient and require reasoning with to operate effectively or otherwise somehow utilize the wielder's social aptitudes. _A high maintenance combat support robot_, _a tape recording of the maddening snores of C'thulhu_, or _an arcane book of physically manifesting insults_ might have the Presence tag.
+Items with this tag might be sentient and require reasoning with to operate effectively or otherwise somehow utilize the wielder's social aptitudes. _A high maintenance combat support robot_, _a tape recording of the maddening snores of C'thulhu_, or _an arcane book of physically manifesting insults_ might have the Presence tag.
 
 #### [Close, Short, Medium, Long] Range
 
-The [distance](../getting_started/index.md#ranges-and-spaces) at which the equipment is able to be effectively used. Primarily used for weapons, but also useful for things like grappling hooks and ladders to represent their reach. Equipment can have many range tags -- if a piece of equipment isn't tagged with a specific range, it's not useful at that distance.
+The [distance](../getting_started/index.md#ranges-and-spaces) at which the item is able to be effectively used. Primarily used for weapons, but also useful for things like grappling hooks and ladders to represent their reach. Items can have many range tags -- if an item isn't tagged with a specific range, it's not useful at that distance.
 
 #### Shield
 
 _requires: At least one attribute tag_
 
-Equipment with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../gameplay/basic_actions.md#defending-against-an-attack) with the tagged attribute.
+Items with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../gameplay/basic_actions.md#defending-against-an-attack) with the tagged attribute.
 
 #### Weapon
 
 _requires: At least one attribute tag AND at least one range tag_
 
-Equipment with this tag are any carried equipment used to attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [attack](../gameplay/basic_actions.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
+Items with this tag are anything used to attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [attack](../gameplay/basic_actions.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
 
 #### Will
 
-Equipment with this tag might be painful to operate or otherwise require and amplify the mental fortitude required to get them to work. _A shard of broken glass_, _a covenant magic catalyst_, and _alien biotech integrated into a human_ might have the Will tag.
+Items with this tag might be painful to operate or otherwise require and amplify the mental fortitude required to get them to work. _A shard of broken glass_, _a covenant magic catalyst_, and _alien biotech integrated into a human_ might have the Will tag.

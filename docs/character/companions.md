@@ -8,7 +8,7 @@ Helper companions just have a [background](../character/backgrounds.md) that des
 
 ## Allies
 
-Allies are a bit more complicated. Allies have their own pool of damage, attributes, passive attributes, equipment, and their own background. However, allies only progress when you do and cannot have their own potential. Because allies have their own health, attributes, and equipment, they're almost another character! Expect them to get into scrapes and have to contend with risks.
+Allies are a bit more complicated. Allies have their own pool of damage, attributes, passive attributes, items, and their own background. However, allies only progress when you do and cannot have their own potential. Because allies have their own health, attributes, and items, they're almost another character! Expect them to get into scrapes and have to contend with risks.
 
 There are also a few rules to remember when playing with allies:
 
