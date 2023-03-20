@@ -88,7 +88,7 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 
 Another way to create abilities is to make entirely new actions! Abilities can do whatever you want them to! Well, as long as your table is cool with it anyway.
 
-If an ability affects someone else, a good rule of thumb is to plan how they might make a [Test of Ability](../gameplay/tests.md) to resist the effects, setting the **Difficulty** (likely based on your roll or one of your passive attributes) and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
+If an ability affects someone else, a good rule of thumb is to plan how they might make a [test](../gameplay/tests.md) to resist the effects, setting the **Difficulty** (likely based on your roll or one of your passive attributes) and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
 
 #### Heal Somebody
 
@@ -146,7 +146,7 @@ You can also combine already upgraded abilities, or actions you have that nobody
 > 
 > As two actions, by spending 1 _faith_ I can roll Will to heal somebody by the amount I rolled. In addition, give something equipped to them the _+5_, _blessed_, _will_, and _weapon_ tags.
 
-If an ability allowed you to give an item the _blessed_ and _weapon_ tags, adding an extra effect might let you make a test of Presence to heal the wielder too!
+If an ability allowed you to give an item the _blessed_ and _weapon_ tags, adding an extra effect might let you test your Presence to heal the wielder too!
 
 ### Making an Action Stronger
 

@@ -44,9 +44,9 @@ You don't usually need to write out a test and its outcomes, but if you if you d
 
 ## Example of a Test
 
-Let's bring it all together and walk through a test of ability using the **Sell Questionable Goods to a Local Merchant** example above:
+Let's bring it all together and walk through a test using the **Sell Questionable Goods to a Local Merchant** example above:
 
-> A thief character attempts to _turn a profit on some contraband_. Since this is an action that carries the risk of _the merchant becoming upset or involving the authorities_ and some uncertainty between which of the goal and the risk will occur, the gamemaster calls for a test of ability.
+> A thief character attempts to _turn a profit on some contraband_. Since this is an action that carries the risk of _the merchant becoming upset or involving the authorities_ and some uncertainty between which of the goal and the risk will occur, the gamemaster calls for a test.
 >
 > Given the social nature of the action, the gamemaster says that convincing the merchant is going to be a test of _Presence_ and secretly marks down a difficulty of _15_, since they rule that this requires professional expertise.
 >

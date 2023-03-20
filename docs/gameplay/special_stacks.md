@@ -20,7 +20,7 @@ When your GM describes a complication that your preparation could have resolved,
 >
 >   Later, the group finds themselves deep in the sewers chasing after their quarry. In an effort to catch up to them, the mastermind of the group **flashes back** to purchasing a sewer map from a descendant of one of the original architects. The player marks off the cost of the map and uses it to corner the suspect and force a confrontation.
 
-Not every preparation is guaranteed to succeed, however. Your GM is well within their rights to ask you to make a test of ability to see how well your preparation holds up, or even if things go well for you. If they do, you can use any number of flashback dice on the roll -- including any you haven't spent yet!
+Not every preparation is guaranteed to succeed, however. Your GM is well within their rights to ask you to test an attribute to see how well your preparation holds up, or even if things go well for you. If they do, you can use any number of flashback dice on the roll -- including any you haven't spent yet!
 
 >   An adventuring party plans to steal from a high security vault. They take a few days to case the joint.
 >

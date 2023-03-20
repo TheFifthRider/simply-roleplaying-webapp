@@ -1,23 +1,14 @@
 # Alchemy
 
-Sometimes, you will find materials tagged with alchemy tags that can be brewed together to create effects. With a few hours of downtime, you may combine 1-3 materials with alchemy tags to create a potion (or poison) with an effect improvised based on their tags.
+Items can be marked with alchemy tags to indicate that you can use the brew action to combine them together into magical elixers.
 
-When you , test your alchemical knowledge to craft the potion or poison against a difficulty based on strong the created effect would be, or against your **passive knowledge** if the effect would scale on your level (eg: poisons-- the difficulty to resist naturally scales on your level)
+## <i class="ra ra-potion"></i>  Brew
 
+With a few hours of downtime and the apropriate tools, you may combine 1-3 materials with alchemy tags to create a potion or poison with an effect improvised based on their tags.
 
->  **Crafting a Potion or Poison**<br/>
->  _Difficulty **?** Test of **Knowledge**_
->  ****
->  **Goal:** Crafting doses of a potion or poison<br/>
->  **Drama:** The potions are not exactly what you want or have side effects
->  ****
->  If you...
->  
->  * **Fail:** create two doses, but put an asterisk next to them. Your GM may say they have a strange side effect when used.
->  * **Partially succeed:** create two doses with no complications.
->  * **Fully succeed:** create three doses with no complications.
->  * **Critically succeed:** create four doses with no complications.
+Brewing is just like crafting -- [making progress (on something big)](../gameplay/basic_actions.md#make-progress-on-something-big). Test your alchemical knowledge to craft the potion or poison against the potion's progress bar, which your GM will set based on how powerful the created potion or poison is. Then, you produce as many doses as progress bars you can fill with your roll. 
 
+You can create potions and poisons by only partially filling a progress bar as well. If you've filled it at least half way you can choose to complete the potion, but mark it with an asterisk and let your GM know. When you use it, tell your GM that it's marked with an asterisk -- they may say it has unexpected side effects.
 
 ## Alchemy Tags
 

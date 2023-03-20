@@ -12,9 +12,9 @@ There are a few special tests you might perform if you're part of a chase; you c
 
 ### Performing a Stunt
 
-<img height=80px width=80px src="/icons/perform_stunt.png" style="float: left; margin-right: 20px; margin-bottom: 120px;">If you want to **perform a stunt** to try to get to the goal faster, describe what you want to do to your gamemaster and together decide on how many actions it will take to attempt the stunt. Stunts are complicated, so you should have to spend at least two actions on them. Then, your gamemaster will have you make a [test of ability](tests.md) to see if you can pull it off.
+<img height=80px width=80px src="/icons/perform_stunt.png" style="float: left; margin-right: 20px; margin-bottom: 120px;">If you want to **perform a stunt** to try to get to the goal faster, describe what you want to do to your gamemaster and together decide on how many actions it will take to attempt the stunt. Stunts are complicated, so you should have to spend at least two actions on them. Then, your gamemaster will have you make a [test](tests.md) to see if you can pull it off.
 
-If you make a test with the intention of _doing something risky to get to the goal faster_ and you...
+If you test an attribute to _do something risky to get to the goal faster_ and you...
 
 *   **Fail,** the stunt goes wrong in some way. Move your speed towards the goal once.
 *   **Partially succeed,** you narrowly pull it off! For each action spent on the stunt, move your speed towards the goal. Then move your speed towards the goal once more for free.
@@ -25,11 +25,11 @@ If you make a test with the intention of _doing something risky to get to the go
 
 <img height=80px width=80px src="/icons/obstacle_shortcut.png" style="float: left; margin-right: 20px; margin-bottom: 200px;"> If you **create an obstacle** or **create a shortcut**, you can change how many spaces away from the goal other participants are. Just like stunts, creating obstacles and shortcuts are complicated and require **at least 2 actions** to be spent on them. 
 
-Like performing a stunt, figure out what you're risking and how many actions it will take to create the obstacle or shortcut. Then, also determine who the obstacle or shortcut will affect, based on what makes sense. Your gamemaster will then have you make a [test of ability](tests.md) to determine whether you create what you wanted.
+Like performing a stunt, figure out what you're risking and how many actions it will take to create the obstacle or shortcut. Then, also determine who the obstacle or shortcut will affect, based on what makes sense. Your gamemaster will then have you make a [test](tests.md) to determine whether you create what you wanted.
 
 #### Creating an Obstacle
 
-If you make a test with the intent of _making it harder for somebody to get to the goal_ and you...
+If you test an attribute to _make it harder for somebody to get to the goal_ and you...
 
 *   **Fail,** you weren't able to make it more difficult to get to the goal.
 *   **Partially succeed,** you created the obstacle, but it wasn't as good as you imagined. All affected participants are moved five spaces away from the goal to represent the obstacle's delay.
@@ -38,7 +38,7 @@ If you make a test with the intent of _making it harder for somebody to get to t
 
 #### Creating a Shortcut
 
-If you make a test with the intent of _making it easier for somebody to get to the goal_ and you...
+If you test an attribute to _make it easier for somebody to get to the goal_ and you...
 
 *   **Fail,** you weren't able to make it easier to get to the goal.
 *   **Partially succeed,** you made it easier to get to the goal, but it wasn't as good as you imagined. All affected participants are moved five spaces action towards the goal to represent the time saved by the shortcut.
@@ -51,4 +51,4 @@ If you find yourself in a chase where you're attempting to shake your pursuers, 
 
 ## Teams
 
-Whenever it makes sense, you can team up with other characters to act like one participant in a chase. You can leave a team at any point in a round before your team takes a turn, or join a team at any point in a round before you've taken your turn. While in a team, all of you share a position and can only take actions or have initiative passed to you as a team. Tests of ability performed by a team are performed by whichever member of the team [makes sense](../getting_started/index.md#narrative-truth) while the other members of the team provide [assistance](tests.md#assisting). 
+Whenever it makes sense, you can team up with other characters to act like one participant in a chase. You can leave a team at any point in a round before your team takes a turn, or join a team at any point in a round before you've taken your turn. While in a team, all of you share a position and can only take actions or have initiative passed to you as a team. Tests of attributes performed by a team are performed by whichever member of the team [makes sense](../getting_started/index.md#narrative-truth) while the other members of the team provide [assistance](tests.md#assisting). 

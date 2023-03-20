@@ -8,13 +8,15 @@ Whenever you suffer damage from an attack or risk, subtract that damage from you
 
 ## Injuries
 
-**Injuries** are lasting physical or mental consequence that bring you closer to defeat. Whenever you suffer an injury: reset your health, mark an injury box, and if the line next to it is blank, write a brief description of the injury.
+**Injuries** are lasting physical or mental consequence that bring you closer to defeat. You can suffer a total of three injuries before you are defeated, including the injury that defeats you. If you suffer an injury and you have an unmarked injury box, reset your health, mark the injury box, and if the line next to it is blank, write a brief description of the injury.
 
-While the gamemaster ultimately has final say over what the injury is, any player can offer a suggestion for what kind of an injury a character may have taken. Some examples of injuries are a _fractured wrist_ from blocking a crushing mace blow, _exhaustion_ following an inventing all-nighter, or a _shoulder bite to the bone_ from a rat of unusual size.
+Everybody can help offer suggestions for what kind of an injury a character may have taken. Some examples of injuries are a _fractured wrist_ from blocking a crushing mace blow, _exhaustion_ following an inventing all-nighter, or a _shoulder bite to the bone_ from a rat of unusual size.
 
 ### Defeat
 
-If you suffer an injury when all of your injury boxes are marked, you are **defeated**. What that means depends on the situation, but in broad strokes it means that you've succumbed to whatever dangers you were facing. Whatever happened, you're out of the action until the end of the scene and will at least need to take some downtime to recover.
+If you suffer an injury when all of your injury boxes are marked, you are **defeated**. What defeated means depends on the situation, but in broad strokes it means that you've succumbed to whatever dangers you were facing. Mark the defeated box on your character sheet and 
+
+Mark the injury box next to the word "defeated" on your character sheet and write down the injury that took you out next to it. Whatever happened, you're out of the action until the end of the scene and will at least need to take some downtime to recover from the injury that defeated you.
 
 #### Defeat and What Bad Stuff is Ok
 
@@ -22,7 +24,7 @@ In many TTRPGs, defeat can have mortal consequences. This can make for a tense a
 
 ## Healing
 
-If you take some time to rest and recover, even if it's not a full period of downtime, you restore your health to full. If you receive medical treatment for your injuries while resting like this, you can also unmark one injury box. Your gamemaster may say that you must have access to medical supplies appropriate for treating the injury and/or that whomever is healing you must make a test of knowledge to treat the injury.
+If you take some time to rest and recover, even if it's not a full period of downtime, you restore your health to full. If you receive medical treatment for your injuries while resting like this, you can also unmark one injury box. Your gamemaster may say that you must have access to medical supplies appropriate for treating the injury and/or that whomever is healing you knowledge to treat the injury.
 
 Whenever you spend [some downtime](../gameplay/downtime.md#recovering) resting, you can erase all marked injury boxes and restore your health to full.
 
