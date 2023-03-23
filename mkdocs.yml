@@ -33,6 +33,7 @@ nav:
 extra_css:
     - css/branding.css
     - css/tweaks.css
+    - css/rpg-awesome.min.css
 extra_javascript:
     - js/extra.js
     - js/hammer-2.0.8.min.js
@@ -50,3 +51,6 @@ markdown_extensions:
     - pymdownx.tasklist:
         clickable_checkbox: true
     - admonition: {}
+    - toc:
+        permalink: 
+        permalink_title: Copy link to header

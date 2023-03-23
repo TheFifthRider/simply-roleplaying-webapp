@@ -19,3 +19,9 @@ $( document ).ready($(function( e ){
     $("[data-toggle='rst-versions']").removeClass("shift")
   }
 }));
+
+document.querySelectorAll('.headerlink').forEach(item => {
+  item.addEventListener('click', event => {
+    navigator.clipboard.writeText(item.href);
+  });
+})
