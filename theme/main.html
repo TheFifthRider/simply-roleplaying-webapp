@@ -33,3 +33,11 @@
 {%- endfor %}
 {% if page.is_homepage %}<link href="css/splash.css" rel="stylesheet">{% endif %}
 {%- endblock %}
+
+{% block extrahead %}
+<meta name="site_url" content="{{ nav.homepage.url|url }}">
+<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.min.js"></script>
+<script src="https://unpkg.com/tippy.js@6/dist/tippy-bundle.umd.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/scale-subtle.css"/>
+<link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/translucent.css"/>
+{% endblock %}

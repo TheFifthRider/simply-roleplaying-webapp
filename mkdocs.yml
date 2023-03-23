@@ -34,9 +34,11 @@ extra_css:
     - css/branding.css
     - css/tweaks.css
     - css/rpg-awesome.min.css
+    - css/tippy.css
 extra_javascript:
     - js/extra.js
     - js/hammer-2.0.8.min.js
+    - js/wiki_hover.js
 theme:
     name: readthedocs
     custom_dir: theme/
