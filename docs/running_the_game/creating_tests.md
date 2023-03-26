@@ -2,7 +2,7 @@
 I'm assuming you've already read the players rules on [tests](../gameplay/tests.md) -- if you haven't, I'd start there and then come back here and we can break down how to make them.
 
 ## Picking the Difficulty
-So how do you choose the specific number that your players roll against? First of all, you have to know what attribute you're testing, and what the player's level is in that attribute. Your players should have that on their character sheet, but if they don't you can just add their attribute modifier to their character level and that'll give you 
+So how do you choose the specific number that your players roll against? First of all, you have to know what attribute you're testing, and what the player's level is in that attribute. Your players should have that on their character sheet, but if they don't you can calculate it by adding their attribute modifier to their character level.
 
 Check out the table below to see a rough mapping from an attribute's level to the difficulty of a test that will challenge it.
 
