@@ -45,3 +45,27 @@ Once you've got the hang of enemies, you can start introducing [abilities](../ch
     <i class="fa-solid fa-person-walking"></i> <i class="ra ra-crossed-swords"></i> <i class="ra ra-crossed-swords"></i> **Feral Lunge**: Move 5 spaces, then make two 6d12+5 attacks against all targets within close range. 
     
     🔂 **Ever Reassembling:** When the initiative is passed to you, if you are defeated unmark your defeated status.
+
+## Obstacles
+
+Obstacles are like enemies, but even simpler. Usually they can perform one or two basic actions, and often in response to players doing something. Unlike enemies you usually can't just hit obstacles until they are defeated, so they'll have some other condition for defeating them.
+
+!!! warning "Trapped Hallway (Level 1)"
+    **To defeat:** Pass a difficulty 5 test to spot and a difficulty 5 test to disarm the tripwire.
+    
+    <i class="ra ra-crossed-swords"></i> **The Traps Activate!:** Swinging blades attack anyone in the hallway for 2d12!
+
+Obstacles can also be almost indistinguishable from an enemy, except the party needs to do something clever to defeat them!
+
+!!! warning "The Devouring Tree (Level 6)"
+    **To defeat:** Make progress until you can force your way through the roots that block the entrance and exit. 
+    
+    60/60 Entrance
+    
+    60/60 Exit
+    
+    🔁 **Aversion to Flame:** If a character uses fire as a part of a test against the tree, they get +10 to their roll.
+    
+    <i class="fa-solid fa-cubes-stacked"></i> **Branches and Vines Entangle:** Hinder a target by _entangling_ them as if you rolled a 60. They can't move while they are _entangled_. 
+    
+    <i class="ra ra-crossed-swords"></i> **Devouring Maw:** Drag anyone who is _entangled_ a short distance towards the maw and attack them for 9d12.
