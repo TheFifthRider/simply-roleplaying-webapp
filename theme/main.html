@@ -1,5 +1,12 @@
 {% extends "base.html" %}
 
+{% block site_meta %}
+{{ super() }}
+{% if page.meta %}
+<meta name="description" content="{{ page.meta.description }}" />
+{% endif %}
+{% endblock %}
+
 {% block search_button %}
 <div role="search">
   <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">

@@ -16,14 +16,17 @@ Discuss if you met the goal. If the players and the GM agree that you have, imme
 ### Spending Potential
 
 You can spend **one point of potential** to:
+
 *   Learn or level up a [skill or legacy](../character/backgrounds.md#improving-skills-and-legacies)
 *   Increase your character's [health](../character/health.md) per injury by 1
 
 You can spend **two points of potential** to:
+
 *   Increase one of your pools of [ability points](../character/abilities.md#ability-points) by 1
 *   Create a new pool of [ability points](../character/abilities.md#ability-points)
 
 You can spend **three points of potential** to:
+
 *   Learn a new [ability](../character/abilities.md) 
 *   Strengthen an existing ability
 

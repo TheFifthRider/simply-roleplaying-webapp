@@ -23,6 +23,7 @@ This is a good rule of thumb for your players power. However, you may notice tha
 The thing about this table is it's not going to be totally accurate to your party. It's a good rule of thumb, but as your players gather strong [equipment](../character/equipment.md) and learn powerful [abilities](../character/abilities.md), they'll start rolling even higher than you might expect! Once they start doing so consistently, it's probably best to start keeping track of the level that your characters roll like in addition to the level they have on their character sheet, just so you know for planning purposes. 
 
 ### Competitions
+
 However, not all tests have a level-- it's also perfectly valid for a test to be a roll off between the involved characters. Take an arm wrestling contest with, for example -- it would be a test of brawn, and both players would roll against each other. The outcome of the test, then, comes from comparing the rolls rather than comparing the roll to a static number.
 
 In the rare event of a tie in a competition, everybody involved in the tie should either fail or partially succeed, depending on what makes sense to you.
