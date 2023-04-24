@@ -20,6 +20,7 @@
 <link rel="stylesheet" href="../../fontawesome-free-6.3.0-web/css/fontawesome.css" />
 <link rel="stylesheet" href="../../fontawesome-free-6.3.0-web/css/brands.css" />
 <link rel="stylesheet" href="../../fontawesome-free-6.3.0-web/css/solid.css" />
+<link rel="stylesheet" href="../../fontawesome-free-6.3.0-web/css/regular.css" />
 <link rel="stylesheet" href="../../css/theme.css" />
 <link rel="stylesheet" href="../../css/theme_extra.css" />
 <link rel="manifest" href="/manifest.json">
@@ -118,6 +119,8 @@
                     </li>
                     <li class="toctree-l1 current"><a class="reference internal current" href="./">Enemies and Obstacles</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#shorthand">Shorthand</a>
+    </li>
     <li class="toctree-l2"><a class="reference internal" href="#enemies">Enemies</a>
         <ul>
     <li class="toctree-l3"><a class="reference internal" href="#enemy-abilities">Enemy Abilities</a>
@@ -125,6 +128,8 @@
         </ul>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#obstacles">Obstacles</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#telegraphed-danger">Telegraphed Danger</a>
     </li>
     </ul>
                     </li>
@@ -175,6 +180,51 @@
               
                 <h1 id="enemies-and-obstacles">Enemies and Obstacles<a class="headerlink" href="#enemies-and-obstacles" title="Copy link to header"></a></h1>
 <p>Along with the responsibilities of creating tests, as a gamemaster you will likely need to create enemies and obstacles for your players to overcome. You can use the <a href="../../getting_started/creation/">character creation</a> process to create the characters your players will tangle with, but there are a number of things on a character sheet that don't really matter for a character who only shows up for a maximum of a couple of scenes.</p>
+<h2 id="shorthand">Shorthand<a class="headerlink" href="#shorthand" title="Copy link to header"></a></h2>
+<p>I like using emoji in my stat blocks to make it easier for me to read them at a glance. These are entirely optional, but the examples listed here will use them. I recommend including some kind of graphical component in your enemy and obstacle notes -- I mostly play digitally so emoji are ideal, but consistent doodles or stickers would be great for paper play!</p>
+<p>Here's a quick rundown of the symbols I use:</p>
+<table>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>What it means</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><i class="fa-solid fa-play"></i></td>
+<td>One action per symbol</td>
+</tr>
+<tr>
+<td><i class="fa-solid fa-arrow-rotate-left"></i></td>
+<td>An ability which reacts to circumstances</td>
+</tr>
+<tr>
+<td><i class="fa-solid fa-pause"></i></td>
+<td>An ability which telegraphs danger</td>
+</tr>
+<tr>
+<td><i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i></td>
+<td>A telegraphed danger</td>
+</tr>
+<tr>
+<td><i class="fa-solid fa-arrows-rotate"></i></td>
+<td>An ability that provides some kind of passive benefit</td>
+</tr>
+<tr>
+<td><i class="fa-regular fa-square-full fa-fw"></i></td>
+<td>A space in a telegraphed danger that won't be affected</td>
+</tr>
+<tr>
+<td><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span></td>
+<td>A space in a telegraphed danger that will be affected</td>
+</tr>
+<tr>
+<td><span style="color:var(--yellow);"><i class="fa-solid fa-star fa-fw"></i></span></td>
+<td>A space in a telegraphed danger that contains the character using it</td>
+</tr>
+</tbody>
+</table>
 <h2 id="enemies">Enemies<a class="headerlink" href="#enemies" title="Copy link to header"></a></h2>
 <p>Enemies are simplified characters -- you usually don't need to know their attributes, skills, legacies, or backgrounds. Instead, an enemy will rely on their level and you can just assume that they have the appropriate skills, legacies, and backgrounds to always roll a number of d12s equal to their level. To make an enemy more interesting, you can give them strengths and weaknesses in the form of different levels for different attributes or <a href="../../gameplay/basic_actions/">basic actions</a>.</p>
 <p>Enemies are usually either <strong>bosses</strong> or <strong>minions</strong>. There are many differences between the two, but one major is that <strong>bosses</strong> may take multiple <a href="../../character/health/#injuries">injuries</a> before they are defeated, but minions only get one.</p>
@@ -207,17 +257,16 @@
 <ul class="task-list">
 <li class="task-list-item"><input type="checkbox"/> Defeated: ________</li>
 </ul>
-<p><i class="ra ra-crossed-swords"></i> <i class="fa-solid fa-cubes-stacked"></i> <strong>Maw of Mort</strong>: Roll 9d12 to attack, then stack 2/3/4d12 <em>chomped</em> against your target using the same roll. They can't move while chomped.</p>
-<p><i class="ra ra-crossed-swords"></i> <strong>CHOMP</strong>: Attack a target you have <em>chomped</em> for 9d12.</p>
-<p><i class="fa-solid fa-person-walking"></i> <i class="ra ra-crossed-swords"></i> <i class="ra ra-crossed-swords"></i> <strong>Feral Lunge</strong>: Move 5 spaces, then make two 9d12+5 attacks against all targets within close range. </p>
+<p><i class="ra ra-crossed-swords"></i> <i class="fa-solid fa-cubes-stacked"></i> <strong>Maw of Mort</strong>: <i class="ra ra-crossed-swords"></i> Attack for 9d12, then <i class="fa-solid fa-cubes-stacked"></i> Hinder your target with <em>chomped</em> d12s using the same roll. They can't move while chomped.</p>
+<p><i class="fa-solid fa-person-walking"></i> <i class="ra ra-crossed-swords"></i> <i class="ra ra-crossed-swords"></i> <strong>Feral Lunge</strong>: Move 5 spaces, then make two 9d12 attacks against all targets within close range. </p>
 </div>
 <h2 id="obstacles">Obstacles<a class="headerlink" href="#obstacles" title="Copy link to header"></a></h2>
 <p>Obstacles are like enemies, but even simpler. Usually they can perform one or two basic actions, and often in response to players doing something. Unlike enemies you usually can't just hit obstacles until they are defeated, so they'll have some other condition for defeating them.</p>
 <div class="admonition warning">
 <p class="admonition-title">Trapped Hallway (Level 1)</p>
 <p><strong>To defeat:</strong> Pass a difficulty 5 test to disarm the tripwire.</p>
-<p>If the party doesn't defeat the trap, the traps can't be deactivated! Every time somebody</p>
-<p><i class="ra ra-crossed-swords"></i> <strong>The Traps Activate!:</strong> Swinging blades attack anyone in the hallway for 2d12!</p>
+<p>If the party doesn't defeat the trap, the traps can't be deactivated! After each player's turn, activate the traps!</p>
+<p><i class="ra ra-crossed-swords"></i> <strong>Activate:</strong> Swinging blades attack anyone in the hallway for 2d12!</p>
 </div>
 <p>Obstacles can also be almost indistinguishable from an enemy, except the party needs to do something clever to defeat them!</p>
 <div class="admonition warning">
@@ -225,10 +274,48 @@
 <p><strong>To defeat:</strong> You can't defeat the Devouring Tree, but you can escape it! Roots block the stairs up from where you came and the stairs down deeper into the labyrinth. You can <em>Make Progress</em> until you clear them, then escape beyond!</p>
 <p>60/60 Entrance</p>
 <p>60/60 Exit</p>
-<p>🔁 <strong>Aversion to Flame:</strong> If a character uses fire as a part of a test against the tree, they get +10 to their roll.</p>
+<p><i class="fa-solid fa-arrows-rotate"></i> <strong>Aversion to Flame:</strong> If a character uses fire as a part of a test against the tree, they get +10 to their roll.</p>
 <p><i class="fa-solid fa-cubes-stacked"></i> <strong>Branches and Vines Entangle:</strong> Hinder a target by <em>entangling</em> them as if you rolled a 60. They can't move while they are <em>entangled</em>. </p>
 <p><i class="ra ra-crossed-swords"></i> <strong>Devouring Maw:</strong> Drag anyone who is <em>entangled</em> a short distance towards the maw and attack them for 9d12.</p>
 </div>
+<h2 id="telegraphed-danger">Telegraphed Danger<a class="headerlink" href="#telegraphed-danger" title="Copy link to header"></a></h2>
+<p>If you want to create a dangerous effect that your players can react to, you can <strong>telegraph</strong> the danger by giving it its own turn after a character does something to trigger it. Maybe a countdown started and you want to give your players a blast radius to scramble away from or a boss is going to unleash a powerful attack and you want them to be able to evade.</p>
+<blockquote>
+<p><span style="color: var(--branding-color);"><i class="fa-solid fa-play"></i> <i class="fa-solid fa-play"></i> <i class="fa-solid fa-pause "></i> | <strong>Roar and Unfurl Wings</strong></span></p>
+<p>The telegraphed danger <strong>Curtain of Flames</strong> can be passed to this round.</p>
+<p><span style="color: var(--branding-color);"><i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i> | <strong>Curtain of Flames</strong></span></p>
+<p>Attack the shaded spaces below for 7d12.</p>
+<p><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>  </p>
+</blockquote>
+<p>If you want to give a boss an attack pattern, you can create telegraphed dangers that lead into more telegraphed dangers.</p>
+<blockquote>
+<p><span style="color: var(--branding-color);"><i class="fa-solid fa-play"></i> <i class="fa-solid fa-play"></i> <i class="fa-solid fa-play"></i> <i class="fa-solid fa-pause"></i> | <strong>Roar and Unfurl Wings</strong></span></p>
+<p>Create the telegraphed danger <strong>Blazing Takeoff</strong>.</p>
+<p><span style="color: var(--branding-color);"><i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i> <i class="fa-solid fa-pause"></i> | <strong>Blazing Takeoff</strong></span></p>
+<p>Lift off and ignite the ground beneath you, attacking the shaded spaces below for 7d12, then lift off ten spaces into the air. Then, target a 3x3 area to land within 10 spaces and create the telegraphed danger <strong>Meteor Slam</strong>.</p>
+<p><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>  </p>
+<p><span style="color: var(--branding-color);"><i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i> | <strong>Meteor Slam</strong></span></p>
+<p>Slam into the area targetted by <strong>Blazing Takeoff</strong>, landing there and attacking the shaded spaces and anything you land on for 7d12.</p>
+<p><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><br />
+<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i></p>
+</blockquote>
               
             </div>
           </div>
