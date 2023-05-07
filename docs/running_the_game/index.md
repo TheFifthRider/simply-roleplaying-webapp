@@ -1,34 +1,41 @@
 # Running the game
 
-Running the game is similar to playing the game, but you have additional responsibilities as the GM.
+Running the game is similar to playing the game, but with the added responsibility of preparing the story that your players will explore.
 
-## Addressing Harm
+## Preparing for Sessions
 
-Simply Roleplaying shall not be used to tell stories that inflict harm. There is room for a lot of creative freedom in the game, from the way that skills and legacies are named to the specific mechanics of how abilities work. That responsibility shall not be misused to make anyone feel uncomfortable or unsafe.
+There are many ways that you can prepare for sessions as a GM, I find I like to ask myself a series of questions to answer in as much or as little detail as I'd like to. This list was inspired by [Return of the Lazy Dungeon Master](https://shop.slyflourish.com/products/return-of-the-lazy-dungeon-master) and modified over time, but I highly recommend you check out the original book.
 
-**If any participant in the game feels uncomfortable or unsafe, the game must stop immediately. Address any harm caused and do not continue to play the game unless the harmed participant feels that the harm has been addressed.**
+* What should we talk about before the game begins?
+* Where is each player character physically and emotionally?
+* What happens that draws the players into this session?
+* What juicy scenes might happen?
+* What secrets and clues might be uncovered?
+* What rewards could the player characters learn about or earn?
+* Where might the players go?
+* Who might they run into?
+	* Make a list of 10 names with pronouns for characters your players talk to that you didn't plan for!
+* What [enemies and obstacles](../running_the_game/enemies_and_obstacles.md) might the party face?
+* What do you want to remember for next time?
 
-## TTRPG Safety Tools
+### Sets
 
-A lot of the tools I'll be sharing in this section are about using the system well -- there's some generally good advice there, but others have better explored saftey in TTRPGs. [@TTRPGSafetyKit on Twitter](https://twitter.com/TTRPGSafetyKit) has gathered many safety tools in this Google Drive: bit.ly/ttrpgsafetytoolkit, and [Script Change](https://thoughty.itch.io/script-change) is a comprehensive safety toolkit built around audio concepts.
+_Where might the players go?_ Can be answered with a list of **sets** that the players can visit, like in a movie or a play.
 
-## Communication
+Something like:
 
-Roleplaying is a collaborative art that is also a conversation. Nothing any individual at the table can bring is going to top what everyone at the table can work together to create, and you have to take turns contributing to the story you're all telling. The story also will turn out best if you're talking about something that everyone is excited about.
+> **Thundarkkroff, Throne of the Tyrant**
+>
+>A jagged black-rock mountain peak, streets that switchback across rising steps of elevation. Tall, gothic cathedral-like structures that rise up like individual spires made from dark dressed stone. Iron decorations and empty windowframes like twisted black spiderwebs. The wind is unnaturally stagnant, held still by divine favor. The air is choked with iron and fresh smoke. Ash coats fingertips as you brush anything. Deep in the mountain, an ominous thrumming protests your presence.
 
-## Check-In Sessions
+The goal of the description of the set is to capture evocative phrases that are hard to improvise. You don't need to read them all in succession to your players as soon as they set foot on the set, it's just good to weave in one or two every time you're describing a character's surroundings or actions.
 
-There may be times where things don't go smoothly in your collaboration. Perhaps the gamemaster feels exhausted with how much effort they feel like they're putting into the game and needs a break. Perhaps the players have been stuck in the same area for a long time and they're having trouble staying engaged without a change of pace.
+### NPCs
 
-These little things should have their room to breathe and their part in the conversation. It's only healthy, after all, to make sure everyone is on the same page and everyone is having fun.
+_Who might they run into?_ Can be answered with a description of an NPC.
 
-I've found tremendous value in check-in sessions in the games that I've run. Every five or ten sessions, I take a break in the action to run a half-session. We play for the first two hours of the game, then we take a few minute break and settle in to chat about anything and everything for the last two hours.
+Something like:
 
-### Rose, Bud, Thorn
+> **Kinapak, the Red Ringed Rose.** She/thou. Level 7 undying assassin, legend that guides the Thorns. Lucatiel of Mirrah.
 
-Sometimes people have things they know they want to talk about, and just giving them the space to chat about the meta game is enough. Others, it's hard to think of things and instead we do Rose, Bud, Thorn.
-
-Rose, Bud, Thorn, if you're not familiar, is an exercise where each person at the table (GMs, this means you too!) tries to recount something recent that happened that they loved (Rose), something they're looking forward to (Bud), and a struggle or challenge that they're facing in the game (Thorn). There's no pressure to have a rose, bud, and thorn -- and sometimes the absence of one of these can tell you more than the presence.
-
-## When to Ignore the Roll
-
+Simpler even than [enemies](../running_the_game/enemies_and_obstacles.md), most NPCs only need a name, pronouns, a brief description of who they are, and-- if the players are likely to roll agains them --a level. It can also be helpful to write down the name of a character from media that you can hold in your mind's eye to describe and act like the NPC.
