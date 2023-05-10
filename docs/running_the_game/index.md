@@ -1,6 +1,26 @@
 # Running the game
 
-Running the game is similar to playing the game, but with the added responsibility of preparing the story that your players will explore.
+Running the game can be intimidating. Here are some tips and tricks for preparing for your sessions and things to think about as you guide your table through their wonderful stories!
+
+## Split the Party
+
+In most TTRPGs we spend a lot of time with the party around each other, and that can make it hard for them to each develop on their own. Encourage periods of downtime where characters can venture off on their own and seek their own legacy. 
+
+One easy way to do this is to structure your game like chapters in a book or episodes in a show-- every minute of every day doesn't necessarily have to be roleplayed out, you can simply tell the players that a few weeks or a few months have passed in between sessions and ask them what they filled it with.
+
+Plan for a half session to a full session or maybe even more of little scenes that happen in between sessions. These can also be a welcome character-driven break while you prepare for the next exciting chapter of the narrative!
+
+## Turns Outside of Action Scenarios
+
+Initiative can be useful as a tool outside of action scenarios. In an action scenario, whose turn it is serves to put them in the spotlight and give them control of the scene. There's no reason why that shouldn't be also used in scenes full of roleplaying!
+
+Passing to other players can show that you're engaged in their contribution to the story, and can also help if your table finds itself with a lot of silences where it's not clear who should speak next.
+
+As always, use respect when passing around the narrative in this way. If anyone wants to decline being passed to, they can simply ask to be passed to later.
+
+## Define Power Levels for your Setting
+
+
 
 ## Preparing for Sessions
 
