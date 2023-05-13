@@ -18,10 +18,6 @@ Passing to other players can show that you're engaged in their contribution to t
 
 As always, use respect when passing around the narrative in this way. If anyone wants to decline being passed to, they can simply ask to be passed to later.
 
-## Define Power Levels for your Setting
-
-
-
 ## Preparing for Sessions
 
 There are many ways that you can prepare for sessions as a GM, I find I like to ask myself a series of questions to answer in as much or as little detail as I'd like to. This list was inspired by [Return of the Lazy Dungeon Master](https://shop.slyflourish.com/products/return-of-the-lazy-dungeon-master) and modified over time, but I highly recommend you check out the original book.
@@ -59,3 +55,10 @@ Something like:
 > **Kinapak, the Red Ringed Rose.** She/thou. Level 7 undying assassin, legend that guides the Thorns. Lucatiel of Mirrah.
 
 Simpler even than [enemies](../running_the_game/enemies_and_obstacles.md), most NPCs only need a name, pronouns, a brief description of who they are, and-- if the players are likely to roll agains them --a level. It can also be helpful to write down the name of a character from media that you can hold in your mind's eye to describe and act like the NPC.
+
+
+### NPC Levels
+
+NPCs broadly come in two varieties; those who level up along with the party and those who remain at a static level throughout the game. Generally, characters who level up alongside the heroes are good for long-running characters who grow and evolve with them in the narrative as well. Static characters, on the other hand are an excellent way to show off benchmarks for the levels of power in your game.
+
+To help build these static characters, ask yourself questions as you build the world and stick to your answers. Consider, what level is a guild master? A starfleet commander? A god? You can adjust these if you need to, of course, but the better you are about sticking to your answer, the more rewarding your players will find leveling up.
