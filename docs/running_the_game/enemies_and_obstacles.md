@@ -63,6 +63,10 @@ Enemies don't work as well with ability points as player characters because they
     
     <i class="fa-solid fa-person-walking"></i> <i class="ra ra-crossed-swords"></i> <i class="ra ra-crossed-swords"></i> **Feral Lunge**: Move 5 spaces, then make two 9d12 attacks against all targets within close range. 
 
+### Squads of enemies
+
+If the players are outnumbered by low-level enemies but you don't want the strength in numbers to feel too overwhelming, try marking a group of those enemies as a squad! Squads are simply a set of enemies that will always pass their action to another enemy in their "squad" until none are available. This helps your players (and you!) so the turn can be passed to "the bandits" instead of needing to specify which specific bandit they're referring to.
+
 ## Obstacles
 
 Obstacles are like enemies, but even simpler. Usually they can perform one or two basic actions, and often in response to players doing something. Unlike enemies you usually can't just hit obstacles until they are defeated, so they'll have some other condition for defeating them.
@@ -138,3 +142,10 @@ If you want to give a boss an attack pattern, you can create telegraphed dangers
 ><i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i>  
 ><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>  
 ><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>
+
+
+### Bosses, action economy, and telegraphed dangers
+
+As you may have already guessed, bosses and telegraphed dangers work together beautifully. Firstly because telegraphed dangers make a boss feel more dangerous, and secondly because bosses often have the initiative order stacked against them -- there's usually only one of them versus however many people are in your party! Giving the boss a telegraphed danger turns a boss's turn into two turns, and telegraphed dangers that build on other telegraphed dangers gives them even more.
+
+If the boss doesn't feel like one that would do telegraphed actions, try giving them more turns to even out the number of participants in an encounter, perhaps one per player. If giving them additional full turns feels too strong, limit what the boss can do on each turn-- maybe they only get 2 actions per turn, or on their first turn in a round they get their full 3 actions, but every other turn that round the boss has only 1 action.

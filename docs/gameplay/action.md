@@ -23,14 +23,6 @@ At the end of your turn, you're going to be faced with a choice -- who do you wa
 
 Passing to an enemy seems bad on its face, but actually has some strong tactical value. By passing to an enemy, you get to see what they'll do during the round and be more able to react to it. In addition, sometimes passing to an  enemy can secure your team ending the round. Used cleverly, this can allow some key characters the opportunity to take two turns in a row-- one at the end of the round, and one at the start of the next round.
 
-#### GM Tips: Dealing with Action Economy with Bosses and Squads
-
-As a GM, you might want to swarm the players with lots of low level mooks or pit them against one big bad boss. Since we're passing initiative around it's easy for the side with more characters to hang on to who starts the next round, which isn't always what you want!
-
-If the boss is outnumbered and you want to make them stronger, give the boss a few more turns. If that feels too strong, limit what the boss can do on each turn-- maybe they only get 2 actions per turn, or on their first turn they get their full 3 actions, but every other turn the boss has only 1 action. You can even do some cool cinematic stuff here by giving the boss an attack that hits many spaces that they spend an action on to wind up on their first turn, then spend an action to complete on one of their subsequent turns.
-
-If the players are outnumbered by low-level mooks but you don't want the strength in numbers to feel too overwhelming, try marking a group of them as a squad! Squads are simply a set of characters that will always pass their action to another character in their "squad" until none are available. This helps your players (and you!) so the turn can be passed to "the bandits" instead of needing to specify which specific bandit they're referring to.
-
 ## Actions
 
 When it's your turn, you can take **up to 3 actions**. One **action** on its own measures something quick like making an attack, hiding behind a pillar, or triggering a mechanism. Multiple actions can be used, even across turns or rounds, to do time consuming or difficult things like pushing over a statue, disarming the security measures on a door, or reloading a siege weapon.
