@@ -4,13 +4,13 @@
 
 A footrace across the room may be over in a matter of seconds, a car chase across the interstate may take hours, and chasing across countries might even take days. Whatever the scope of the chase, each participant in a chase has a **position** that is described by their distance from the goal in spaces.
 
-## Acting in a Chase
+## Acting in a chase
 
 There are a few special tests you might perform if you're part of a chase; you can **perform a stunt** to take a risk to get closer faster, you can **create an obstacle** to slow down other participants, and you can **create a shortcut** to speed up other participants.
 
 <br/>
 
-### Performing a Stunt
+### Performing a stunt
 
 <img height=80px width=80px src="/icons/perform_stunt.png" style="float: left; margin-right: 20px; margin-bottom: 120px;">If you want to **perform a stunt** to try to get to the goal faster, describe what you want to do to your gamemaster and together decide on how many actions it will take to attempt the stunt. Stunts are complicated, so you should have to spend at least two actions on them. Then, your gamemaster will have you make a [test](tests.md) to see if you can pull it off.
 
@@ -21,13 +21,13 @@ If you test an attribute to _do something risky to get to the goal faster_ and y
 *   **Fully succeeds,** you pull off your stunt and catapult yourself forward. For each action spent on the stunt, move twice your speed towards the goal.
 *   **Critically succeeds,** your stunt is wildly successful. For each action spent on the stunt, move twice your speed towards the goal. Then move twice your speed towards the goal once more for free.
 
-### Creating an Obstacle or Shortcut
+### Creating an obstacle or shortcut
 
 <img height=80px width=80px src="/icons/obstacle_shortcut.png" style="float: left; margin-right: 20px; margin-bottom: 200px;"> If you **create an obstacle** or **create a shortcut**, you can change how many spaces away from the goal other participants are. Just like stunts, creating obstacles and shortcuts are complicated and require **at least 2 actions** to be spent on them. 
 
 Like performing a stunt, figure out what you're risking and how many actions it will take to create the obstacle or shortcut. Then, also determine who the obstacle or shortcut will affect, based on what makes sense. Your gamemaster will then have you make a [test](tests.md) to determine whether you create what you wanted.
 
-#### Creating an Obstacle
+#### Creating an obstacle
 
 If you test an attribute to _make it harder for somebody to get to the goal_ and you...
 
@@ -36,7 +36,7 @@ If you test an attribute to _make it harder for somebody to get to the goal_ and
 *   **Fully succeed,** you created the obstacle in exactly the way you hoped you would. All affected participants are moved five spaces away from the goal for each action spent on the obstacle.
 *   **Critically succeed,** you created a particularly hindering obstacle. All affected participants are moved five spaces away from the goal for each action spent on the obstacle. Then they are moved a further five spaces away from the goal.
 
-#### Creating a Shortcut
+#### Creating a shortcut
 
 If you test an attribute to _make it easier for somebody to get to the goal_ and you...
 
@@ -45,7 +45,7 @@ If you test an attribute to _make it easier for somebody to get to the goal_ and
 *   **Fully succeed,** everything played out in exactly the way you hoped you would. All affected participants are moved five spaces towards from the goal for each action spent on the shortcut.
 *   **Critically succeed,** your shortcut was particularly good at making it easier to get to the goal. All affected participants are moved five spaces towards the goal for each action spent on the obstacle. Then they are moved a further five spaces towards the goal.
 
-## Shaking Pursuit
+## Shaking pursuit
 
 If you find yourself in a chase where you're attempting to shake your pursuers, your position is the goal of the chase. Any actions you take that would move you towards the goal instead move all of your pursuers that many spaces away. The chase ends when it makes sense to, usually after you've put a certain amount of spaces between yourself and your pursuers.
 

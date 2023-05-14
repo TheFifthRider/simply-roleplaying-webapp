@@ -1,4 +1,4 @@
-# Setting Rules
+# Setting rules
 
 Not every setting plays by the same rules. A campaign focused on high seas adventures might have detailed naval rules while a campaign focused on superheroes and villains might instead focus on unique powers and abilities.
 

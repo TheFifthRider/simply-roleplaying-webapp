@@ -1,4 +1,4 @@
-# Every Roll is a Test
+# Every roll is a test
 When you try to do something and there's drama involved with whether or not you can do what you try to do, your gamemaster will ask you to "test" the attribute that makes the most sense for the situation. 
 
 When they do, you'll look at your [skills, legacies, and backgrounds](../character/backgrounds.md) and pick whichever feel appropriate to the situation. However, you can't pick more dice than your level plus the attribute you're testing.
@@ -25,7 +25,7 @@ Before you roll the dice, anybody else who can reasonably use one of their skill
 If the initial risk was a deadly pitfall, the assisting character could be at risk of falling in as well. If the initial risk was taking too long to researching an antidote before the poison took hold, the additional minds involved worsen that risk to accidentally making the poison more lethal.
 
 
-## Visualizing Tests
+## Visualizing tests
 You don't usually need to write out a test and its outcomes, but if you if you did it would look something like this:
 
 >  **Sell Questionable Goods to a Local Merchant**<br/>
@@ -42,7 +42,7 @@ You don't usually need to write out a test and its outcomes, but if you if you d
 >  * **Critically succeed:** not only does the merchant accept the deal but they happen to know a great fence in the area and look forward to working with you again
 
 
-## Example of a Test
+## Example of a test
 
 Let's bring it all together and walk through a test using the **Sell Questionable Goods to a Local Merchant** example above:
 

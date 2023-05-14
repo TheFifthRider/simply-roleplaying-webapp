@@ -1,8 +1,8 @@
-# Creating Abilities
+# Creating abilities
 
 This page is going to assume you've already read all about [abilities](../character/abilities.md) -- if you haven't, I'd start there and then come back here and we can break down some more of the philosophy around creating them.
 
-## Requirements, not Restrictions
+## Requirements, not restrictions
 
 Abilities tend to work best when you don't try to put restrictions on them. If a player wants to make an ability called *Godmode* that *makes them immortal.* That should be on the table no matter how gamebreaking it appears. Protagonists with the ability to shape the world to their whim can create a compelling story. 
 
@@ -23,7 +23,7 @@ Rather than (or sometimes in addition to) costing abilty points, you can give ab
 * Taking a specific amount of time, like being required to _spend some downtime_ to create a potion
 * Fulfilling a specific narrative goal, like being required to _memorize a character's mannerisms_ to disguise yourself as them
 
-### Optional Requirements
+### Optional requirements
 
 You can make an ability more flexible by making it stronger if more requirements are met. These **optional requirements** are often things like spending extra ability points, taking additional time, or fulfilling an extra goal. For instance:
 
@@ -33,13 +33,13 @@ You can make an ability more flexible by making it stronger if more requirements
 >   _If you've spent at least two periods of downtime each day observing them,_ you better understand their mannerisms. You automatically pass as them when interacting with all but their closest friends.
 
 
-## Creating Multiple types of Ability Points
+## Creating multiple types of ability points
 
 Characters don't necessarily have one source of powers. A magical blade fighter that uses their _mana_ to use abilities related to their magic power might also have _flourishes_ that they use to perform abilities related to their sword mastery. A cyborg psychic might have both _ammunition_ for their arsenal of weapons and _psi points_. An inventor may have any number of different ability points, each representative of their different inventions.
 
 You can give your character an additional type of ability points whenever you would increase the number of ability points you have. Instead of increasing the number of ability points you have, just create a new pool of two ability points of the new type. When you can increase the number of ability points you have, you only gain that many ability points in total-- you must choose which of your types of ability points increase.
 
-## Customizing Ability Points
+## Customizing ability points
 
 If you're feeling particularly creative, you may want your abilities to be powered by something other than a pool of points. They could be powered by a pool of dice, a set of leveled slots, or a deck of cards that does something different depending on what card you draw. If you or your GM have a creative idea for how you want to power your character's abilities, go for it.
 

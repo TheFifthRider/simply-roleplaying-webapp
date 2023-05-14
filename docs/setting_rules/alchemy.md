@@ -10,7 +10,7 @@ Brewing is just like crafting -- [making progress (on something big)](../gamepla
 
 You can create potions and poisons by only partially filling a progress bar as well. If you've filled it at least half way you can choose to complete the potion, but mark it with an asterisk and let your GM know. When you use it, tell your GM that it's marked with an asterisk -- they may say it has unexpected side effects.
 
-## Alchemy Tags
+## Alchemy tags
 
 Alchemy tags, just like other tags, can be applied to things when they are relevant. You can spend some downtime to research alchemy tags of ingredients that don't obviously have alchemy tags. 
 

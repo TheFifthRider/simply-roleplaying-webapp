@@ -1,4 +1,4 @@
-# Basic Actions
+# Basic actions
 
 Everybody can perform basic actions, but how they do them may look different depending on what way [makes sense](../getting_started/#narrative-truth) for the character!
 
@@ -24,7 +24,7 @@ When you test an attribute to **defend against an attack**, If you...
 * **Fully succeed:** You take half of what the attacker rolled as [damage](../character/health.md).
 * **Critically succeed:** You take no damage.
 
-## <i class="fa-solid fa-magnifying-glass"></i> Get Answers
+## <i class="fa-solid fa-magnifying-glass"></i> Get answers
 
 If you're trying to **answers to questions**, whether it's by researching an ancient ritual, investigating a crime scene, or getting answers out of a particularly slippery individual, make a [test](../gameplay/tests.md) of the appropriate attribute and then ask the GM (or the other player, if you're targeting a PC) some questions.
 
@@ -60,7 +60,7 @@ The dice you stack depends on what level you are:
 * **Level 7-8**: Stack d10s
 * **Level 9+:** Stack d12s
 
-## <i class="fa-solid fa-gears"></i> Make Progress (On Something Big)
+## <i class="fa-solid fa-gears"></i> Make progress (on something big)
 
 If you're trying to do something and you can't do it in just one test, your GM may say that the goal of your test is to fill a [progress meter](../running_the_game/creating_tests.md#progress-meters) in how close the task is to being done!
 
@@ -82,7 +82,7 @@ The dice you stack depends on what level you are:
 * **Level 7-8**: Stack d10s
 * **Level 9+:** Stack d12s
 
-## <i class="ra ra-diamonds-card"></i> Test an Attribute
+## <i class="ra ra-diamonds-card"></i> Test an attribute
 
 When you test an attribute and none of the other basic moves make sense, if you...
 

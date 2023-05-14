@@ -26,6 +26,7 @@ nav:
     - 'Running the Game':
         - running_the_game/index.md
         - running_the_game/running_a_safe_game.md
+        - running_the_game/running_an_accessible_game.md
         - running_the_game/creating_abilities.md
         - running_the_game/creating_tests.md
         - running_the_game/enemies_and_obstacles.md

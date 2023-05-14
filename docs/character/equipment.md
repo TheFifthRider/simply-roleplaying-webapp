@@ -1,4 +1,4 @@
-# Items and Tags
+# Items and tags
 
 Your **items** are your stuff. They go in your **inventory**. Playing cards, bundles of rope, your trusty blade-- it might have tags to describe its use, or it might simply be a flavorful item that may or may not have specifically codified effects.
 
@@ -6,7 +6,7 @@ Your **items** are your stuff. They go in your **inventory**. Playing cards, bun
 
 There's not a strict limit to what you can have in your inventory-- your inventory should be able to hold everything you need, but it probably should still [make sense](../getting_started/index.md#narrative-truth). Unless your setting calls for a reason otherwise, it's generally assumed that you have a backpack, sapient pearwood luggage, or other inventory-management item with you to carry what you need. When in doubt, it's practical to not limit what can be in someone's inventory. Nobody wants to deal with explaining how exactly they're carrying twelve different swords in their backpack.
 
-## Equipped Items
+## Equipped items
 
 You can have as many things as you want to have in your inventory, but you can only benefit from what's **equipped**. Equipped items are things you're wearing, holding, have on your belt-- anything that you know exactly where it is and can grab it immediately in a pinch. Just like what's in your inventory, what you have equipped should [make sense](../getting_started/index.md#narrative-truth). Whenever you have the opportunity, often with [downtime](../gameplay/downtime.md) but it can be as flexible as your GM would like, you can equip and unequip items.
 
@@ -14,7 +14,7 @@ When you're in an [action scene](../gameplay/action.md) you can use anything you
 
 Similarly, if you wish to stow items for any reason in an [action scene](../gameplay/action.md) you can take **at least one action** to unequip them into your inventory. Just like with equipping, if it's something cumbersome or something that requires disassembly before storage your GM may say you must use multiple actions for this.
 
-## Tagged Items
+## Tagged items
 
 **Tags** describe what's important about an item: how it can be used, what benefits it provides, and anything else that matters. You can only benefit from an item's tags if it's equipped.
 
@@ -25,7 +25,7 @@ This is especially true for narratively important tags. An iron sword doesn't ne
 !!! error "Using Items Improperly"
 	If you attack with something that doesn't have the weapon tag, defend with something that doesn't have the shield tag, or do something else to use an item in a way that it's not intended to be used, your GM may say there is an [additional risk](../gameplay/tests.md#risk-guidelines) that **the item might be damaged, destroyed, or otherwise lost** and/or **some tags on the item do not apply**. A +5 sword might be very good at attacking, but there's no guarantee that it'd be equally as good at blocking.
 
-### Tag List
+### Tag list
 
 Here's a suggested list of tags that you can use to describe the items in your game. Be sure to add more tags that are important to your setting! If you're in a dark fantasy setting hunting beasts of the night and need silvered weapons to confront them, _silver_ should be a tag. If you're in a futuristic dystopian setting and everything legally acquired is monitored through a chip, _unchipped_ should be a tag.
 

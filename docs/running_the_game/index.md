@@ -2,7 +2,7 @@
 
 Running the game can be intimidating. Here are some tips and tricks for preparing for your sessions and things to think about as you guide your table through their wonderful stories!
 
-## Split the Party
+## Split the party
 
 In most TTRPGs we spend a lot of time with the party around each other, and that can make it hard for them to each develop on their own. Encourage periods of downtime where characters can venture off on their own and seek their own legacy. 
 
@@ -10,7 +10,7 @@ One easy way to do this is to structure your game like chapters in a book or epi
 
 Plan for a half session to a full session or maybe even more of little scenes that happen in between sessions. These can also be a welcome character-driven break while you prepare for the next exciting chapter of the narrative!
 
-## Turns Outside of Action Scenarios
+## Turns outside of action scenarios
 
 Initiative can be useful as a tool outside of action scenarios. In an action scenario, whose turn it is serves to put them in the spotlight and give them control of the scene. There's no reason why that shouldn't be also used in scenes full of roleplaying!
 
@@ -18,7 +18,7 @@ Passing to other players can show that you're engaged in their contribution to t
 
 As always, use respect when passing around the narrative in this way. If anyone wants to decline being passed to, they can simply ask to be passed to later.
 
-## Preparing for Sessions
+## Preparing for sessions
 
 There are many ways that you can prepare for sessions as a GM, I find I like to ask myself a series of questions to answer in as much or as little detail as I'd like to. This list was inspired by [Return of the Lazy Dungeon Master](https://shop.slyflourish.com/products/return-of-the-lazy-dungeon-master) and modified over time, but I highly recommend you check out the original book.
 

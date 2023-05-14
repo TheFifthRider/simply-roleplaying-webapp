@@ -1,4 +1,4 @@
-# Damage and Injuries
+# Damage and injuries
 
 ## Health
 
@@ -18,7 +18,7 @@ If you suffer an injury when all of your injury boxes are marked, you are **defe
 
 Mark the injury box next to the word "defeated" on your character sheet and write down the injury that took you out next to it. Whatever happened, you're out of the action until the end of the scene and will at least need to take some downtime to recover from the injury that defeated you.
 
-#### Defeat and What Bad Stuff is Ok
+#### Defeat and what bad stuff is okay
 
 In many TTRPGs, defeat can have mortal consequences. This can make for a tense and exciting story, but it's good to check in to make sure everyone wants to accept those stakes. Before you begin to play, talk with your table to come to a consensus for what defeat should and shouldn't mean at your table. It's ok for defeat to mean different things depending on the player, as long as everyone is comfortable with the types of defeat depicted.
 
@@ -28,7 +28,7 @@ If you take some time to rest and recover, even if it's not a full period of dow
 
 Whenever you spend [some downtime](../gameplay/downtime.md#recovering) resting, you can erase all marked injury boxes and restore your health to full.
 
-### Recovering from Injuries
+### Recovering from injuries
 
 Whenever you unmark an injury box, think about what happened to make that injury no longer something you need to worry about. If the treatment was enough to fully heal the injury, erase the description next to the marked injury box. Otherwise, keep it around or rename it to reflect the healing process. Recovering doesn't mean those wounds have completely healed, just that they are healed enough that they are no longer bringing your character closer to a life-threatening injury. If you need to check that injury box again, it means those wounds reopened.
 

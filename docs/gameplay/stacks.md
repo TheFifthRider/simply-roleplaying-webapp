@@ -1,4 +1,4 @@
-# Dice Stacks
+# Dice stacks
 
 **Dice stacks** are a stack of **dice** of the same size with a **name** that describes them. Dice are either **stacked in your favor**, which means you can roll them to improve your rolls or defenses, or they are **stacked against you**, which means other people can use them to improve their rolls against you. Just like with [skills and backgrounds](../character/backgrounds.md), the name of the stack is how you determine if it makes sense that you can take some dice from it.
 

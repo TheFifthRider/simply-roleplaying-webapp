@@ -2,7 +2,7 @@
 
 **Abilities** are your special moves. They're your magic spells, martial art forms, animal transformations, or any other cool mechanic that's specific to your character. And best of all? You decide how they work.
 
-## Ability Points
+## Ability points
 
 To start with, consider what powers your character's abilities. What makes them able to do the incredible things they do? An ability may cost magic gems, imbued talismans of paper, a source of energy like mana, or anything else you can come up with! 
 
@@ -10,13 +10,13 @@ Whatever you choose it to be, that is their type of **ability points**. You star
 
 You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A grenadier might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
 
-### Naming and Renaming Ability Points
+### Naming and renaming ability points
 
 If you're not sure what you want you want your ability points to be called at the start, it's okay to just call them "ability points" and come up with a name for them later. Eventually, though, you will want them to have a name beacuse it helps to make the flavor of your character come to life!
 
 Similarly, you should feel free to rename your ability points if the name you chose doesn't feel right or if it no longer makes sense.
 
-## Gaining Ability Points and Creating Abilities
+## Gaining ability points and creating abilities
 
 Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
 
@@ -26,7 +26,7 @@ Similarly, between sessions you can remove abilities from your character sheet i
 
 If you made up new abilities or improvements, it's a good idea to make sure you take some time to talk them over with your table and/or your GM before you introduce them.
 
-### Advanced Actions
+### Advanced actions
 
 One of the easiest ways to create an ability is to power up a [basic action](../gameplay/basic_actions.md) into something more advanced. Here are some examples -- the specific ability points that power them are _italicized_.
 
@@ -42,7 +42,7 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 > 
 > When you Defend against an attack, you can spend 1 _slick move_ to move 1 space away from the person who attacked you. If you critically succeed, you can move half your speed instead.
 
-#### Get Answers
+#### Get answers
 
 > <i class="fa-solid fa-magnifying-glass"></i> **The Dead Speak to Me**
 > 
@@ -60,7 +60,7 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 >
 >By spending 1 _ammunition_, you can roll Intuition to Hinder a target within short range by firing a flashbang from your shoulder cannon.
 
-#### Make Progress (On Something Big)
+#### Make progress (on something big)
 
 ><i class="fa-solid fa-gears"></i> **Words of Inspiration**
 >
@@ -68,7 +68,7 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 
 ####  Movement
 
-> <i class="fa-solid fa-person-walking"></i> **Slip past**
+> <i class="fa-solid fa-person-walking"></i> **Slip Past**
 > 
 > As an action, by spending 1 point of _cunning_, you can Move without people Reacting to your movement. 
 
@@ -84,13 +84,13 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 > 
 > By spending 1 _sprocket_ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
 
-### New Actions
+### New actions
 
 Another way to create abilities is to make entirely new actions! Abilities can do whatever you want them to! Well, as long as your table is cool with it anyway.
 
 If an ability affects someone else, a good rule of thumb is to plan how they might make a [test](../gameplay/tests.md) to resist the effects, setting the **Difficulty** (likely based on your roll or one of your passive attributes) and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
 
-#### Heal Somebody
+#### Heal somebody
 
 Test a specific attribute, then heal damage from someone [close](../getting_started/index.md#range-and-spaces) equal to what you rolled.  If you roll higher than their total HP, unmark one of their marked injury boxes.
 
@@ -98,7 +98,7 @@ Test a specific attribute, then heal damage from someone [close](../getting_star
 > 
 > As an action by spending 1 *nyanobot*, test your knowledge to heal that much damage from someone close. If you rolled higher than their total HP, unmark one of their marked injury boxes.
 
-#### Move an Enemy
+#### Move an enemy
 
 Test a specific attribute against an enemy's passive attributes, then move them if you win!
 
@@ -106,7 +106,7 @@ Test a specific attribute against an enemy's passive attributes, then move them 
 > 
 > As an action, fire your grappling hook arm at an enemy within long range to pull them in closer. Test your brawn against their passive brawn or agility. If you succeed, pull them a short distance toward you.
 
-#### Tag Something
+#### Tag something
 
 Give yourself a tagged item for the scene, or tag parts of yourself as if they were an item. Automatically add the +1 tag at level 2, +2 at level 3, and so on up to +9 at level 10.
 
@@ -114,15 +114,15 @@ Give yourself a tagged item for the scene, or tag parts of yourself as if they w
 > 
 > Once per rest as a reaction, you can spend 1 _muscle point_ to treat your 6 pack as if it was an item with the _brawn_ and _armor_ tags for the scene.
 
-## Upgrading Abilities
+## Upgrading abilities
 
 As you get stronger, so should your abilities! When you upgrade your abilities, usually you're looking to either **give them an extra effect** or **make them stronger**.
 
-### Combine Actions
+### Combine actions
 
 Sometimes you just want an ability to do more. One way to accomplish that is by combining the effects of two basic actions into one roll!
 
-> <i class="fa-solid fa-magnifying-glass"></i> **I Know The Supernatural**
+> <i class="fa-solid fa-magnifying-glass"></i> **I Know the Supernatural**
 > 
 > As an action, by spending 1 _firsthand supernatural experience_ I can roll Knowledge to **Get Answers** about a supernatural creature I can see. Before I roll, I can trade one of my d12s for a d20.
 
@@ -176,7 +176,7 @@ Another way is by adding additional tags, or increasing the magnitude of those t
 > 
 > As an action, you can spend 1 _mp_ to make an Attack with Knowledge against a target within _long range_ and all targets within _medium range_ of them.
 
-## Big Abilities
+## Big abilities
 
 Most abilities are going to be the kind you see above, but sometimes you just want to go _bigger_ to summon a meteor storm or telekinetically pull a starship down from the sky. For these sorts of abilities, talk with your GM. It's possible that what you're really trying to do is to [make progress on something big](../gameplay/basic_actions.md#make-progress-on-something-big). 
 

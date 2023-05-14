@@ -1,4 +1,4 @@
-# Enemies and Obstacles
+# Enemies and obstacles
 
 Along with the responsibilities of creating tests, as a gamemaster you will likely need to create enemies and obstacles for your players to overcome. You can use the [character creation](../getting_started/creation.md) process to create the characters your players will tangle with, but there are a number of things on a character sheet that don't really matter for a character who only shows up for a maximum of a couple of scenes.
 
@@ -47,7 +47,7 @@ Enemies are usually either **bosses** or **minions**. There are many differences
     * [ ] \_\_\_\_\_\_\_\_
     * [ ] Defeated: \_\_\_\_\_\_\_\_
 
-### Enemy Abilities
+### Enemy abilities
 
 Once you've got the hang of enemies, you can start introducing [abilities](../character/abilities.md) to your enemies to make them still more interesting. It can be tempting to go overboard, but even just one ability can make an enemy interesting to fight. Three is often the most they need, unless you're making a particularly epic boss fight.
 
@@ -89,7 +89,7 @@ Obstacles can also be almost indistinguishable from an enemy, except the party n
     
     <i class="ra ra-crossed-swords"></i> **Devouring Maw:** Drag anyone who is _entangled_ a short distance towards the maw and attack them for 9d12.
 
-## Telegraphed Danger
+## Telegraphed danger
 
 If you want to create a dangerous effect that your players can react to, you can **telegraph** the danger by giving it its own turn after a character does something to trigger it. Maybe a countdown started and you want to give your players a blast radius to scramble away from or a boss is going to unleash a powerful attack and you want them to be able to evade.
 

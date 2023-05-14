@@ -1,4 +1,4 @@
-# Creating a Character
+# Creating a character
 Creating a character is all about dreaming up a concept, then figuring out how to realize it mechanically. There is no specific order you need to follow, so feel free to skip questions that are difficult to answer, or skip to questions that are easy to answer.
 
 If you're new to roleplaying games, or if you just want to get an idea of what your character is like before you start implementing anything on the character sheet, start by writing an answer to each of the headings before you read the text under them.

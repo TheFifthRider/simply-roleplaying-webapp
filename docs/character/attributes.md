@@ -2,7 +2,7 @@
 
 Attributes represent your broad strengths and weaknesses-- from how much weight you can lift to how quickly you react. Whenever the gamemaster asks you to make a [test](../gameplay/tests.md), they're going to tell you that it's a test of a certain attribute. Add that attribute to your level to determine how many dice you're going to roll. Attributes are assigned an initial value in [character creation](../getting_started/creation.md) and you can increase them when you [level up](../gameplay/advancement.md).
 
-## The Attributes
+## The attributes
 
 **Agility** measures your physical speed and precision. If you have high Agility, you're probably dexterous, flexible, and swift.
 
@@ -16,13 +16,13 @@ Attributes represent your broad strengths and weaknesses-- from how much weight 
 
 **Will** measures your drive and resolve. If you have high Will, you're probably determined, independent, and collected in the face of hardship.
 
-## Improving Attributes
+## Improving attributes
 
 Whenever you level up, you can increase two attributes by 1, as long as you don't increase them past your attribute cap. The **attribute cap** is +1 at level 1, and increases by +1 every two levels. That means the cap is +2 at level 3, +3 at level 5, and so on.
 
 `Attribute Cap = level/2, rounded up`
 
-## Passive Attribute Scores
+## Passive attribute scores
 
 You don't always have to roll to resist risks! Whenever you are reflexively opposing a risk, your gamemaster will use one of your attribute's **passive scores** instead of asking you to roll the dice. For each attribute, your passive attribute score is equal to six times the total of your level plus that attribute -- the same as if you rolled all the dice you could for a test of that attribute and got a six for each of them!
 
