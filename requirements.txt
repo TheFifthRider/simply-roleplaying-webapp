@@ -13,7 +13,7 @@ mkdocs-callouts==1.9.0
 mkdocs-custom-tags-attributes==0.3.0
 mkdocs-meta-descriptions-plugin==2.2.0
 packaging==21.2
-pymdown-extensions==9.0
+pymdown-extensions==10.0
 pyparsing==2.4.7
 python-dateutil==2.8.2
 python-frontmatter==1.0.0
