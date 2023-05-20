@@ -30,6 +30,7 @@ nav:
         - running_the_game/creating_abilities.md
         - running_the_game/creating_tests.md
         - running_the_game/enemies_and_obstacles.md
+        - running_the_game/influence_sheets.md
     - 'Setting Rules':
         - setting_rules/index.md
         - setting_rules/alchemy.md
