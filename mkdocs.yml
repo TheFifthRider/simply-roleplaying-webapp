@@ -34,6 +34,7 @@ nav:
     - 'Setting Rules':
         - setting_rules/index.md
         - setting_rules/alchemy.md
+        - setting_rules/outfits.md
 extra_css:
     - css/branding.css
     - css/tweaks.css
