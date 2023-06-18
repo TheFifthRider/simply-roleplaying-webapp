@@ -38,7 +38,7 @@ Lots of tests may have multiple risks involved. Chasing after a bad guy through 
 
 If your players are trying to do something and you just don't think they can do something like that in just one test, you can instead pick a target number and create a **progress bar** to track the effort spent. 
 
-A progress bar starts at 0 and ends at whatever target number you set it at. Whenever your players roll on tests that contribute to the goal of the progress bar, add their roll to the progress meter to fill it up! Once the progress bar hits the number you targetted, the goal is accomplished!
+A progress bar starts at 0 and ends at whatever target number you set it at. Whenever your players roll on tests that contribute to the goal of the progress bar, add their roll to the progress bar to fill it up! Once the progress bar hits the number you targeted, the goal is accomplished!
 
 Optionally, you can also have additional "stretch goals" at further target numbers if your players want to keep going.
 

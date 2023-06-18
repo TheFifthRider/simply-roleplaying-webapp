@@ -62,9 +62,9 @@ The dice you stack depends on what level you are:
 
 ## <i class="fa-solid fa-gears"></i> Make progress (on something big)
 
-If you're trying to do something and you can't do it in just one test, your GM may say that the goal of your test is to fill a [progress meter](../running_the_game/creating_tests.md#progress-meters) in how close the task is to being done!
+If you're trying to do something and you can't do it in just one test, your GM may say that the goal of your test is to fill a [progress bar](../running_the_game/creating_tests.md#progress-bar) in how close the task is to being done!
 
-When you test an attribute to **fill a progress meter**, fill it by the amount that you rolled!
+When you test an attribute to **fill a progress bar**, fill it by the amount that you rolled!
 
 ## <i class="fa-solid fa-person-walking"></i> Move
 
