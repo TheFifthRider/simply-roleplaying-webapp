@@ -1,12 +1,12 @@
 # Chases
 
-**Chases** are action scenes best suited for when characters are competing to reach a particular **goal**. Think of a necromancer fleeing as the tide turns against his undead minions, an archeologist braving the ocean to be first to reach an ancient tomb, or an intergalactic spy dashing through the hangar towards their getaway ship fueled for takeoff. 
+**Chases** are action scenes best suited for when characters are competing to reach a particular **goal**; a necromancer fleeing as the tide turns against his undead minions, an archeologist braving the ocean to be first to reach an ancient tomb, or an intergalactic spy dashing through the hangar towards their getaway ship fueled for takeoff. 
 
 A footrace across the room may be over in a matter of seconds, a car chase across the interstate may take hours, and chasing across countries might even take days. Whatever the scope of the chase, each participant in a chase has a **position** that is described by their distance from the goal in spaces.
 
 ## Acting in a chase
 
-There are a few special tests you might perform if you're part of a chase; you can **perform a stunt** to take a risk to get closer faster, you can **create an obstacle** to slow down other participants, and you can **create a shortcut** to speed up other participants.
+There are a few special actions you can perform if you're part of a chase; you can **perform a stunt** to take a risk to get closer faster, you can **create an obstacle** to slow down other participants, and you can **create a shortcut** to speed up other participants.
 
 <br/>
 
@@ -51,4 +51,6 @@ If you find yourself in a chase where you're attempting to shake your pursuers, 
 
 ## Teams
 
-Whenever it makes sense, you can team up with other characters to act like one participant in a chase. You can leave a team at any point in a round before your team takes a turn, or join a team at any point in a round before you've taken your turn. While in a team, all of you share a position and can only take actions or have initiative passed to you as a team. Tests of attributes performed by a team are performed by whichever member of the team [makes sense](../getting_started/index.md#narrative-truth) while the other members of the team provide [assistance](tests.md#assisting). 
+Whenever it makes sense, you can team up with other characters to act like one participant in a chase. You can leave a team at any point in a round before your team takes a turn, or join a team at any point in a round before you've taken your turn.
+
+A team is treated as a single entity. They share a position and can only take actions or have initiative passed to them as a team. Tests of attributes performed by a team are performed by whichever member of the team [makes sense](../getting_started/index.md#narrative-truth) while the other members of the team provide [assistance](tests.md#assisting). 

@@ -23,15 +23,11 @@ At the end of your turn, you're going to be faced with a choice -- who do you wa
 
 Passing to an enemy seems bad on its face, but actually has some strong tactical value. By passing to an enemy, you get to see what they'll do during the round and be more able to react to it. In addition, sometimes passing to an  enemy can secure your team ending the round. Used cleverly, this can allow some key characters the opportunity to take two turns in a row-- one at the end of the round, and one at the start of the next round.
 
-## Actions
+## Action limit
 
-When it's your turn, you can take **up to 3 actions**. One **action** on its own measures something quick like making an attack, hiding behind a pillar, or triggering a mechanism. Multiple actions can be used, even across turns or rounds, to do time consuming or difficult things like pushing over a statue, disarming the security measures on a door, or reloading a siege weapon.
+When it's your turn, you can take **up to 3 actions**. If you want to do something but you don't have enough actions left on your turn, you can start it on this turn and finish it once all of the actions required to complete the goal have been spent, even if you have to split it up across turns. 
 
-If it makes sense characters can contribute their actions towards an effort in progress by another character. This would allow a group of three to push over a statue that requires 9 actions to topple in the span of a single round. If you're spending lots of actions to do a task you usually you can't just stop in the middle and then pick it up later. However, if somebody else lends a helping hand to your effort it usually makes sense that you can do something else and leave the rest to them.
-
-### Moving your speed
-
-Every character (and some objects) have a **speed**, measured in spaces. When a character uses their action to move, they can move a distance up to their speed. This movement might be sprinting, running and leaping, swimming, riding a horse, or driving a car. Your GM may say that some spaces take up extra spaces of movement if the terrain is difficult to traverse or if there's some other reason you might need to slow down when moving through it.
+If you stop in the middle and nobody spends at least an action on that goal in a round, your GM may say that your progress is lost and those actions were wasted.
 
 ## Defining scene-specific actions: chases
 
