@@ -18,9 +18,9 @@ Health is how much [damage](health.md#damage) you can take before you suffer an 
 
 [Skills, legacies, and backgrounds](backgrounds.md) are the individual pieces that make up who you are and what you've learned. [Skills](backgrounds.md#developing-skills) describe what you know how to do: anything concrete that you can get better at, given practice. [Legacies](backgrounds.md#earning-legacies) describe your reputation: your values, the factions you've allied with, and the deeds you've done. [Backgrounds](backgrounds.md#building-a-background) describe you: they're built from Skills and Legacies put together and summarized.
 
-## Abilities and Ability Points
+## Special abilities and ability points
 
-[Abilities](abilities.md) are the unique and cool things your character can do. Casting magic, building inventions, or memorizing crucial details all can go here. [Ability points](abilities.md#ability-points) are a pool of points that you can spend on doing cool ability stuff.
+[Special abilities](special_abilities.md) are the unique and cool things your character can do. Casting magic, building inventions, or memorizing crucial details all can go here. [Ability points](special_abilities.md#ability-points) are a pool of points that you can spend on doing special ability stuff.
 
 ## Inventory
 
@@ -28,5 +28,5 @@ Your [inventory](equipment.md) is filled with all the stuff you own. Anything yo
 
 ## Companions
 
-Your [companions](companions.md) are anyone else who travels with you, but doesn't need a full character sheet to represent them. A [helper](companions.md#helpers) offers you the support of their skills. An [ally](companions.md#allies) has attributes, damage, and inventory of their own, but shares your level, injuries, skills, legacies, backgrounds, and abilities.
+Your [companions](companions.md) are anyone else who travels with you, but doesn't need a full character sheet to represent them. A [helper](companions.md#helpers) offers you the support of their skills. An [ally](companions.md#allies) has attributes, damage, and inventory of their own, but shares your level, injuries, skills, legacies, backgrounds, and special abilities.
 

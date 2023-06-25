@@ -10,11 +10,11 @@ Here's a quick rundown of the symbols I use:
 
 | Symbol | What it means |
 | - | - |
-| <i class="fa-solid fa-play"></i> | One action per symbol |
-| <i class="fa-solid fa-arrow-rotate-left"></i> | An ability which reacts to circumstances |
-| <i class="fa-solid fa-pause"></i> | An ability which telegraphs danger |
+| <i class="fa-solid fa-play"></i> | A special ability which requires one action per symbol to use |
+| <i class="fa-solid fa-arrow-rotate-left"></i> | A special ability which reacts to circumstances |
+| <i class="fa-solid fa-pause"></i> | A special ability which telegraphs danger |
 | <i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i> | A telegraphed danger |
-| <i class="fa-solid fa-arrows-rotate"></i> | An ability that provides some kind of passive benefit |
+| <i class="fa-solid fa-arrows-rotate"></i> | A special ability that provides some kind of passive benefit |
 | <i class="fa-regular fa-square-full fa-fw"></i> | A space in a telegraphed danger that won't be affected |
 | <span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span> | A space in a telegraphed danger that will be affected |
 | <span style="color:var(--yellow);"><i class="fa-solid fa-star fa-fw"></i></span> | A space in a telegraphed danger that contains the character using it |
@@ -23,7 +23,7 @@ Here's a quick rundown of the symbols I use:
 
 ## Enemies
 
-Enemies are simplified characters -- you usually don't need to know their attributes, skills, legacies, or backgrounds. Instead, an enemy will rely on their level and you can just assume that they have the appropriate skills, legacies, and backgrounds to always roll a number of d12s equal to their level. To make an enemy more interesting, you can give them strengths and weaknesses in the form of different levels for different attributes or [basic actions](../gameplay/basic_actions.md).
+Enemies are simplified characters -- you usually don't need to know their attributes, skills, legacies, or backgrounds. Instead, an enemy will rely on their level and you can just assume that they have the appropriate skills, legacies, and backgrounds to always roll a number of d12s equal to their level. To make an enemy more interesting, you can give them strengths and weaknesses in the form of different levels for different attributes or [basic actions](basic_abilities.md).
 
 Enemies are usually either **bosses** or **minions**. There are many differences between the two, but one major is that **bosses** may take multiple [injuries](../character/health.md#injuries) before they are defeated, but minions only get one.
 
@@ -47,11 +47,11 @@ Enemies are usually either **bosses** or **minions**. There are many differences
     * [ ] \_\_\_\_\_\_\_\_
     * [ ] Defeated: \_\_\_\_\_\_\_\_
 
-### Enemy abilities
+### Enemy special abilities
 
-Once you've got the hang of enemies, you can start introducing [abilities](../character/abilities.md) to your enemies to make them still more interesting. It can be tempting to go overboard, but even just one ability can make an enemy interesting to fight. Three is often the most they need, unless you're making a particularly epic boss fight.
+Once you've got the hang of enemies, you can start introducing [special abilities](special_abilities.md) to your enemies to make them still more interesting. It can be tempting to go overboard, but even just one special ability can make an enemy interesting to fight. Three is often the most they need, unless you're making a particularly epic boss fight.
 
-Enemies don't work as well with ability points as player characters because they only tend to use their abilities in the scene where they antagonize a character. If you do choose to give them ability points, make sure to only give them a small number. Alternatively, consider limiting enemy abilities with [requirements](../running_the_game/creating_abilities.md#requirements), such as putting a used ability on cooldown for a certain number of turns, or only unlocking some of their abilities after they've taken a certain number of injuries.
+Enemies don't work as well with ability points as player characters because they only tend to use their special abilities in the scene where they antagonize a character. If you do choose to give them ability points, make sure to only give them a small number. Alternatively, consider limiting enemy special abilities with [requirements](../running_the_game/creating_abilities.md#requirements), such as putting a used special ability on cooldown for a certain number of turns, or only unlocking some of their special abilities after they've taken a certain number of injuries.
 
 !!! error "**Kaiserwulf** (Level 9)"
     54/54 Health 

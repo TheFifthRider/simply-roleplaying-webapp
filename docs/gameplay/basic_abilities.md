@@ -1,18 +1,10 @@
-# Actions
+# Basic abilities
 
-Whenever you do something with a goal in mind, you accomplish it with one or more **actions**. If there's drama involved (and there often is), the actions will probably also include a [test](../gameplay/tests.md) and you'll roll dice to see how the action resolves.
-
-One action on its own measures accomplishing a quick goal like throwing a punch, moving behind a pillar, or triggering a mechanism. Multiple actions in a row are how you do time consuming or difficult things like pushing over a statue, disarming the security measures on a door, or reloading a siege weapon. If a task requires multiple actions and it makes sense that many people can be working on it, each person involved can contribute actions to its success.
-
-The amount of actions it takes to do something matters most in [action scenes](../gameplay/action.md), but otherwise can be useful for comparing the length of tasks. For reference, it takes about 10 seconds for a single person to do three actions worth of tasks.
-
-## Basic actions
-
-Basic actions are a set of simple goals that usually take one action to perform. Everyone interacts with the world around them with basic actions, but how they perform basic actions may look different depending on what way [makes sense](../getting_started/#narrative-truth) for the character.
+Abilities are the way you overcome challenges and obstacles that the GM sets before you. Basic abilities are abilities available to everyone, but how everyone performs them changes based on what [makes sense](../getting_started/index.md#narrative-truth). A magician might **Get answers** by peering into the past, where your average high schooler might **Get answers** by doing a search on their cell phone.
 
 ### <i class="ra ra-crossed-swords"></i> Attack
 
-Attacking is a [test](tests.md) of whatever attribute makes sense for the attack, usually against the roll of somebody who is defending against you! If your target cannot or does not defend, the difficulty is their passive brawn. If your target isn't a character and doesn't have passive brawn, you're actually probably [making progress](#make-progress).
+When you **attack** someone else, you make a [test](tests.md) of whatever attribute makes sense for the attack, usually against the roll of somebody who is defending against you! If your target cannot or does not defend, the difficulty is their passive brawn. If your target isn't a character and doesn't have passive brawn, you're actually probably [making progress](#make-progress).
 
 When you test an attribute to **attack someone**, if you...
 
@@ -23,7 +15,7 @@ When you test an attribute to **attack someone**, if you...
 
 ### <i class="fa-solid fa-shield"></i> Defend
 
-If somebody attacks you, you can try to defend against the attack and turn it into a contest of their attack roll and whatever attribute you're defending with. You can also defend against an attack targeted at someone else as long as it [makes sense](../getting_started/index.md#narrative-truth), but you will take any damage they would have taken. 
+If somebody attacks you, you can try to **defend** against the attack and turn it into a contest of their attack roll and whatever attribute you're defending with. You can also defend against an attack targeted at someone else as long as it [makes sense](../getting_started/index.md#narrative-truth), but you will take any damage they would have taken. 
 
 When you test an attribute to **defend against an attack**, If you...
 
@@ -49,14 +41,31 @@ The answers to the questions should both make sense and should be as complete as
 
 Questions cannot be wasted. If the answer to a question was already stated, it doesn't count. If the answer to a question would not normally require a test to uncover, it doesn't count. If a question is not answerable by the information available in the context of the test, it doesn't count and the person asked the question should explain why it is not answerable and how to make it answerable, if possible.
 
-### <i class="fa-solid fa-cubes-stacked"></i> Help / Hinder
+### <i class="fa-solid fa-cubes-stacked"></i> Help
 
-If you want to help somebody out, get yourself into a better position, or hinder an enemy, you can do that by rolling and stacking or unstacking dice based on the result.
+If you want to **help** somebody out or get yourself into a better position (**helping** yourself), you can do that by testing an attribute and stacking dice in their favor or removing dice stacked against them based on the result.
 
-When you test an attribute to **help or hinder someone**, for every **10** in the total you rolled you may:
+When you test an attribute to **help someone**, for every **10** in the total you rolled you may:
 
-* Stack a die or in their favor
+* Stack a die in their favor
 * Remove a die stacked against them
+
+The dice you stack depends on what level you are:
+
+* **Level 1-2**: Stack d4s
+* **Level 3-4**: Stack d6s
+* **Level 5-6**: Stack d8s
+* **Level 7-8**: Stack d10s
+* **Level 9+:** Stack d12s
+
+You may always unstack a die, no matter what size it is.
+
+### <i class="fa-solid fa-cubes-stacked"></i> Hinder
+
+Sabotaging someone's help, or putting them in a worse position is hindering them. Hindering works similarly to helping-- test an attribute, then stack dice in against your target or removing dice stacked in their favor based on the result.
+
+When you test an attribute to **hinder someone**, for every **10** in the total you rolled you may:
+
 * Stack a die against them
 * Remove a die stacked in their favor
 
@@ -67,6 +76,9 @@ The dice you stack depends on what level you are:
 * **Level 5-6**: Stack d8s
 * **Level 7-8**: Stack d10s
 * **Level 9+:** Stack d12s
+
+You may always unstack a die, no matter what size it is.
+
 
 ### <i class="fa-solid fa-gears"></i> Make progress (on something big)
 
@@ -92,9 +104,9 @@ The dice you stack depends on what level you are:
 
 ### <i class="ra ra-diamonds-card"></i> Anything else!
 
-When you do something and none of the other basic moves make sense, this is what you're doing!
+Basic abilities don't cover everything your character can do. If you try to do something and you don't have an ability that represents it, but it still [makes sense](../getting_started/index.md#narrative-truth) for you to be able do it, you can do it!
 
-If there's drama involved, your GM may have you [test an attribute](../gameplay/tests.md). If they say you...
+If there's drama involved, your GM may have you [test an attribute](../gameplay/tests.md).  If they do, and they say you...
 
 * **Fail:** You don't get what you want and you might be in trouble.
 * **Partially succeed:** You get what you want, but there's a complication.

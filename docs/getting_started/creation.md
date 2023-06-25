@@ -34,13 +34,13 @@ Once you've finished figuring out what you've got, read up on [items](../charact
 	A starship diplomat might have things like a universal translator, fine clothes, id card, hologram computer, a wax seal kit, and a handful of fountain pens.
 
 ## What power or talent makes you unique?
-Your starting speed is 5 [spaces](../getting_started/index.md#movement). This is how many spaces you can move with [an action](../gameplay/action.md#moving-your-speed). Your starting **health** is 24-- this is how much damage you can take before you sustain an injury.
+Your starting **health** is 24-- this is how much damage you can take before you sustain an injury.
 
-[Read up on abilities and ability points,](../character/abilities.md) and consider what type of ability points make sense for your character. Then work with your GM to pick or create an ability for your character.
+[Read up on special abilities and ability points,](special_abilities.md) and consider what type of ability points make sense for your character. Then work with your GM to pick or create a special ability for your character.
 
 Once you've done that, choose one:
 
-* [ ] Give yourself another ability and add a point to your maximum ability points
+* [ ] Give yourself another special ability and add a point to your maximum ability points
 * [ ] Pick something cool and unique to have as equipment-- something useful or mysterious that most people wouldn't have. Give it at least a +1 tag.
 * [ ] Increase your health by 12.
 * [ ] Create a helper or ally [companion](../character/companions.md) to assist your character

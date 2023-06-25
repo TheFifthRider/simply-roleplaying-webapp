@@ -6,7 +6,7 @@ Items can be marked with alchemy tags to indicate that you can use the brew acti
 
 With a few hours of downtime and the appropriate tools, you may combine 1-3 materials with alchemy tags to create a potion or poison with an effect improvised based on their tags.
 
-Brewing is just like crafting -- [making progress (on something big)](../gameplay/basic_actions.md#make-progress-on-something-big). Test your alchemical knowledge to craft the potion or poison against the potion's progress bar, which your GM will set based on how powerful the created potion or poison is. Then, you produce as many doses as progress bars you can fill with your roll.
+Brewing is just like crafting -- [making progress (on something big)](basic_abilities.md#make-progress-on-something-big). Test your alchemical knowledge to craft the potion or poison against the potion's progress bar, which your GM will set based on how powerful the created potion or poison is. Then, you produce as many doses as progress bars you can fill with your roll.
 
 You can create potions and poisons by only partially filling a progress bar as well. If you've filled it at least half way you can choose to complete the potion, but give it the **unstable** tag and let your GM know. When you use it, tell your GM that it's tagged with unstable-- they may say it has unexpected side effects.
 

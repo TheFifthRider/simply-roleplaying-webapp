@@ -54,9 +54,9 @@ Items with this tag are small and easy to take out or hide. _Daggers_, _miniatur
 
 #### Focus
 
-_requires: a tag like_ Pyromancy _or_ Telekinesis _that indicates what kinds of abilities it's for_
+_requires: a tag like_ Pyromancy _or_ Telekinesis _that indicates what kinds of special abilities it's for_
 
-An item with this tag is a tool that helps you with your _abilities_, like a wand for a wizard or a nyanobot array for a genetically engineered cat doctor. Pairs well with the +X tag to give you +X on tests you make with that ability.
+An item with this tag is a tool that helps you with your _special abilities_, like a wand for a wizard or a nyanobot array for a genetically engineered cat doctor. Pairs well with the +X tag to give you +X on tests you make with that special ability.
 
 #### Intuition
 
@@ -82,13 +82,13 @@ The [distance](../getting_started/index.md#ranges-and-spaces) at which the item 
 
 _requires: At least one attribute tag_
 
-Items with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../gameplay/basic_actions.md#defending-against-an-attack) with the tagged attribute.
+Items with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](basic_abilities.md#defending-against-an-attack) with the tagged attribute.
 
 #### Weapon
 
 _requires: At least one attribute tag AND at least one range tag_
 
-Items with this tag are anything used to attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [attack](../gameplay/basic_actions.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
+Items with this tag are anything used to attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [attack](basic_abilities.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
 
 #### Will
 

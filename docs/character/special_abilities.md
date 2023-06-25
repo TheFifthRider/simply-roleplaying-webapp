@@ -1,12 +1,12 @@
-# Abilities
+# Special abilities
 
-**Abilities** are your special moves. They're your magic spells, martial art forms, animal transformations, or any other cool mechanic that's specific to your character. And best of all? You decide how they work.
+**Special abilities** are exactly what they sound like. They're your magic spells, martial art forms, animal transformations, or any other cool mechanic that's specific to your character. And best of all? You decide how they work.
 
 ## Ability points
 
-To start with, consider what powers your character's abilities. What makes them able to do the incredible things they do? An ability may cost magic gems, imbued talismans of paper, a source of energy like mana, or anything else you can come up with! 
+To start with, consider what powers your character's special abilities. What makes them able to do the incredible things they do? A special ability may cost magic gems, imbued talismans of paper, a source of energy like mana, or anything else you can come up with! 
 
-Whatever you choose it to be, that is their type of **ability points**. You start with a pool of **2** of these ability points, and gain more as you gain additional potential. You spend these points to use abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering). 
+Whatever you choose it to be, that is their type of **ability points**. You start with a pool of **2** of these ability points, and gain more as you gain additional potential. You spend these points to use special abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering). 
 
 You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A grenadier might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
 
@@ -16,19 +16,19 @@ If you're not sure what you want you want your ability points to be called at th
 
 Similarly, you should feel free to rename your ability points if the name you chose doesn't feel right or if it no longer makes sense.
 
-## Gaining ability points and creating abilities
+## Gaining ability points and creating special abilities
 
 Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
 
-Any number of times between sessions you can reduce your maximum ability points by **1** to [learn a new ability](#creating-an-ability), or reduce your maximum ability points by **2** to [improve an existing ability](#improving-existing-abilities). If you happen to have multiple pools of ability points you may reduce any one of them by **1** to learn a new ability, or **2** to improve an existing ability. You can also reduce two of them by **1** to improve an existing ability.
+Any number of times between sessions you can reduce your maximum ability points by **1** to [learn a new special ability](#creating-a-special-ability), or reduce your maximum ability points by **2** to [improve an existing special ability](#improving-existing-special-abilities). If you happen to have multiple pools of ability points you may reduce any one of them by **1** to learn a new special ability, or **2** to improve an existing special ability. You can also reduce two of them by **1** to improve an existing special ability.
 
-Similarly, between sessions you can remove abilities from your character sheet if you feel like they don't belong-- whether you just don't like how they work or if you feel like they don't make sense to your character anymore. If you do, make sure you increase your maximum ability points to compensate for the points you spent to earn that ability.
+Similarly, between sessions you can remove special abilities from your character sheet if you feel like they don't belong-- whether you just don't like how they work or if you feel like they don't make sense to your character anymore. If you do, make sure you increase your maximum ability points to compensate for the points you spent to earn that special ability.
 
-If you made up new abilities or improvements, it's a good idea to make sure you take some time to talk them over with your table and/or your GM before you introduce them.
+If you made up new special abilities or improvements, it's a good idea to make sure you take some time to talk them over with your table and/or your GM before you introduce them.
 
-### Advanced actions
+### Special abilities from basic abilities
 
-One of the easiest ways to create an ability is to power up a [basic action](../gameplay/basic_actions.md) into something more advanced. Here are some examples -- the specific ability points that power them are _italicized_.
+One of the easiest ways to create a special ability is to power up a [basic ability](basic_abilities.md). Here are some examples -- the specific ability points that power them are _italicized_.
 
 #### Attack
 
@@ -84,11 +84,11 @@ One of the easiest ways to create an ability is to power up a [basic action](../
 > 
 > By spending 1 _sprocket_ before rolling on a test to finesse machinery, produce the exact right tool for the job. Upgrade a d12 to a d20 before rolling.
 
-### New actions
+### New abilities
 
-Another way to create abilities is to make entirely new actions! Abilities can do whatever you want them to! Well, as long as your table is cool with it anyway.
+Another way to create special abilities is to make entirely new abilities! Special abilities can do whatever you want them to! Well, as long as your table is cool with it anyway.
 
-If an ability affects someone else, a good rule of thumb is to plan how they might make a [test](../gameplay/tests.md) to resist the effects, setting the **Difficulty** (likely based on your roll or one of your passive attributes) and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
+If a special ability affects someone else, a good rule of thumb is to plan how they might make a [test](../gameplay/tests.md) to resist the effects, setting the **Difficulty** (likely based on your roll or one of your passive attributes) and describing what happens if they **Critically Succeed**, **Succeed**, **Partially Succeed**, or **Fail**.
 
 #### Heal somebody
 
@@ -114,13 +114,13 @@ Give yourself a tagged item for the scene, or tag parts of yourself as if they w
 > 
 > Once per rest as a reaction, you can spend 1 _muscle point_ to treat your 6 pack as if it was an item with the _brawn_ and _armor_ tags for the scene.
 
-## Upgrading abilities
+## Upgrading special abilities
 
-As you get stronger, so should your abilities! When you upgrade your abilities, usually you're looking to either **give them an extra effect** or **make them stronger**.
+As you get stronger, so should your special abilities! When you upgrade your special abilities, usually you're looking to either **give them an extra effect** or **make them stronger**.
 
-### Combine actions
+### Combine basic abilities
 
-Sometimes you just want an ability to do more. One way to accomplish that is by combining the effects of two basic actions into one roll!
+Sometimes you just want an ability to do more. One way to accomplish that is by combining the effects of two basic abilities into one special ability!
 
 > <i class="fa-solid fa-magnifying-glass"></i> **I Know the Supernatural**
 > 
@@ -132,9 +132,9 @@ Sometimes you just want an ability to do more. One way to accomplish that is by 
 > 
 > As two actions, by spending 1 _firsthand supernatural experience_ I can roll Knowledge to both **Get Answers** about a supernatural creature I can see and **Help** myself or others by recalling how to deal with it in the same roll. Before I roll, I can trade one of my d12s for a d20.
 
-Your combined action will usually still require you to spend the same number of total actions, but now that they are one roll both benefit from any strengthening upgrades you provide.
+Your combined special ability will usually still require you to spend the same number of total actions, but now that they are one roll both benefit from any strengthening upgrades you provide.
 
-You can also combine already upgraded abilities, or actions you have that nobody else does!
+You can also combine already upgraded special abilities!
 
 > <i class="ra ra-sword"></i> **Divine Weapon**
 > 
@@ -146,11 +146,9 @@ You can also combine already upgraded abilities, or actions you have that nobody
 > 
 > As two actions, by spending 1 _faith_ I can roll Will to heal somebody by the amount I rolled. In addition, give something equipped to them the _+5_, _blessed_, _will_, and _weapon_ tags.
 
-If an ability allowed you to give an item the _blessed_ and _weapon_ tags, adding an extra effect might let you test your Presence to heal the wielder too!
-
 ### Making an Action Stronger
 
-If you want an ability to do what it already does, but better, you can amplify its effects. 
+If you want a special ability to do what it already does, but better, you can amplify its effects. 
 
 One way is to trade a d12 for a d20, or increasing the number of d12s are traded into d20s.
 
@@ -176,10 +174,10 @@ Another way is by adding additional tags, or increasing the magnitude of those t
 > 
 > As an action, you can spend 1 _mp_ to make an Attack with Knowledge against a target within _long range_ and all targets within _medium range_ of them.
 
-## Big abilities
+## Big special abilities
 
-Most abilities are going to be the kind you see above, but sometimes you just want to go _bigger_ to summon a meteor storm or telekinetically pull a starship down from the sky. For these sorts of abilities, talk with your GM. It's possible that what you're really trying to do is to [make progress on something big](../gameplay/basic_actions.md#make-progress-on-something-big). 
+Most special abilities are going to be the kind you see above, but sometimes you just want to go _bigger_ to summon a meteor storm or telekinetically pull a starship down from the sky. For these sorts of special abilities, talk with your GM. It's possible that what you're really trying to do is to [make progress on something big](basic_abilities.md#make-progress-on-something-big). 
 
-If you and your GM agree that this is something you should have on your character sheet, then you should pick a way to earn it. Maybe you need to develop the ability as something smaller, and then get the big version after you've upgraded it a certain number of times. Maybe the ability costs more points of potential than a regular one.
+If you and your GM agree that this is something you should have on your character sheet, then you should pick a way to earn it. Maybe you need to develop the special ability as something smaller, and then get the big version after you've upgraded it a certain number of times. Maybe the special ability costs more points of potential than a regular one.
 
-Finally, abilities get bigger and badder the more requirements you put on them. If you want a really big ability, you should attach some pretty serious requirements. Most of the time, this is at least spending downtime to prepare the big ability for action. Review [requirements](../running_the_game/creating_abilities.md#requirements) with your GM and pick some that make sense!
+Finally, special abilities get bigger and badder the more requirements you put on them. If you want a really big special ability, you should attach some pretty serious requirements. Most of the time, this is at least spending downtime to prepare the big special ability for action. Review [requirements](../running_the_game/creating_abilities.md#requirements) with your GM and pick some that make sense!

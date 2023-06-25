@@ -15,7 +15,7 @@ Then, after the first person to go has finished their turn, they must choose ano
 
 ### Interrupting turns
 
-If you have an [ability](../character/abilities.md) that lets you do it you can interrupt the turn order, taking your turn in place of whomever was originally being passed to. If you do, at the end of your turn you may choose whomever you want to take their turn next -- you don't have to pass the turn order on to the person who was originally going to take their turn.
+If you have a [special ability](special_abilities.md) that lets you do it you can interrupt the turn order, taking your turn in place of whomever was originally being passed to. If you do, at the end of your turn you may choose whomever you want to take their turn next -- you don't have to pass the turn order on to the person who was originally going to take their turn.
 
 ### Who do I pass to?
 
@@ -23,11 +23,15 @@ At the end of your turn, you're going to be faced with a choice -- who do you wa
 
 Passing to an enemy seems bad on its face, but actually has some strong tactical value. By passing to an enemy, you get to see what they'll do during the round and be more able to react to it. In addition, sometimes passing to an  enemy can secure your team ending the round. Used cleverly, this can allow some key characters the opportunity to take two turns in a row-- one at the end of the round, and one at the start of the next round.
 
-## Action limit
+## Actions
+
+Whenever you do something with a goal in mind, you accomplish it with one or more **actions**. If there's drama involved (and there often is), the actions will probably also include a [test](../gameplay/tests.md) and you'll roll dice to see how the action resolves. Most of the time, your actions will be using [basic](basic_abilities.md) or [special](special_abilities.md) abilities
 
 When it's your turn, you can take **up to 3 actions**. If you want to do something but you don't have enough actions left on your turn, you can start it on this turn and finish it once all of the actions required to complete the goal have been spent, even if you have to split it up across turns. 
 
-If you stop in the middle and nobody spends at least an action on that goal in a round, your GM may say that your progress is lost and those actions were wasted.
+One action on its own measures accomplishing a quick goal like throwing a punch, moving behind a pillar, or triggering a mechanism. Multiple actions in a row are how you do time consuming or difficult things like pushing over a statue, disarming the security measures on a door, or reloading a siege weapon.
+
+If a task requires multiple actions and it makes sense that many people can be working on it, each person involved can contribute actions to its success, but if you stop in the middle and nobody spends at least an action on that goal in a round, your GM may say that your progress is lost and those actions were wasted.
 
 ## Defining scene-specific actions: chases
 

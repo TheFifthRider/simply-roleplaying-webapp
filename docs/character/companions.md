@@ -24,7 +24,7 @@ There are also a few rules to remember when playing with allies:
 
 **Allies get healthier when you do!** Whenever you spend potential to [increase your health by 1](../gameplay/advancement.md#potential), you increase their health by 1 as well.
 
-**Allies share abilities!** As long as it [makes sense](../getting_started/index.md#narrative-truth) to do so, allies can use any of your abilities from your character sheet. You can even make teamwork-based abilities with them!
+**Allies share special abilities!** As long as it [makes sense](../getting_started/index.md#narrative-truth) to do so, allies can use any of your special abilities from your character sheet. You can even make teamwork-based special abilities that rely on their presence!
 
 To make an ally, answer the [creating a character](../getting_started/creation,md) questions, but skip **What Makes you Unique?**, since allies share your ability points and other unique stuff. When you get to **What is your story?**, think of a phrase that sums up this ally. Then, instead of taking the pool of potential, write that down as the Allies' starting background. They can never have more than this one, but you can feel free to change it any time it [makes sense](../getting_started/index.md#narrative-truth) to.
 
