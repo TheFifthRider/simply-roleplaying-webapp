@@ -77,7 +77,7 @@
                 <ul>
                     <li class="toctree-l1"><a class="reference internal" href="../../character/">What makes up a character?</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../character/abilities/">Abilities</a>
+                    <li class="toctree-l1"><a class="" href="../../character/abilities.md">None</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../character/attributes/">Attributes</a>
                     </li>
@@ -94,7 +94,7 @@
                 <ul>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/tests/">Every roll is a test</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../../gameplay/basic_actions/">Basic actions</a>
+                    <li class="toctree-l1"><a class="" href="../../gameplay/basic_actions.md">None</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../../gameplay/downtime/">Downtime</a>
                     </li>
@@ -117,7 +117,7 @@
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../running_an_accessible_game/">Running an accessible game</a>
                     </li>
-                    <li class="toctree-l1"><a class="reference internal" href="../creating_abilities/">Creating abilities</a>
+                    <li class="toctree-l1"><a class="reference internal" href="../creating_abilities/">Creating special abilities</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../creating_tests/">Creating tests</a>
                     </li>
@@ -127,7 +127,7 @@
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#enemies">Enemies</a>
         <ul>
-    <li class="toctree-l3"><a class="reference internal" href="#enemy-abilities">Enemy abilities</a>
+    <li class="toctree-l3"><a class="reference internal" href="#enemy-special-abilities">Enemy special abilities</a>
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#squads-of-enemies">Squads of enemies</a>
     </li>
@@ -204,41 +204,41 @@
 </thead>
 <tbody>
 <tr>
-<td><i class="fa-solid fa-play"></i></td>
-<td>One action per symbol</td>
+<td><i class="fa-solid fa-play" title="One action symbol"></i></td>
+<td>A special ability which requires one action per symbol to use</td>
 </tr>
 <tr>
-<td><i class="fa-solid fa-arrow-rotate-left"></i></td>
-<td>An ability which reacts to circumstances</td>
+<td><i class="fa-solid fa-arrow-rotate-left" title="Reaction symbol"></i></td>
+<td>A special ability which reacts to circumstances</td>
 </tr>
 <tr>
-<td><i class="fa-solid fa-pause"></i></td>
-<td>An ability which telegraphs danger</td>
+<td><i class="fa-solid fa-pause" title="Telegraph danger symbol"></i></td>
+<td>A special ability which telegraphs danger</td>
 </tr>
 <tr>
-<td><i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i></td>
+<td><i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i><span class="sr-only">Activate telegraphed danger symbol</span></td>
 <td>A telegraphed danger</td>
 </tr>
 <tr>
-<td><i class="fa-solid fa-arrows-rotate"></i></td>
-<td>An ability that provides some kind of passive benefit</td>
+<td><i class="fa-solid fa-arrows-rotate" title="Passive symbol"></i></td>
+<td>A special ability that provides some kind of passive benefit</td>
 </tr>
 <tr>
-<td><i class="fa-regular fa-square-full fa-fw"></i></td>
+<td><i class="fa-regular fa-square-full fa-fw" title="Empty square symbol"></i></td>
 <td>A space in a telegraphed danger that won't be affected</td>
 </tr>
 <tr>
-<td><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span></td>
+<td><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw" title="Targetted square symbol"></i></span></td>
 <td>A space in a telegraphed danger that will be affected</td>
 </tr>
 <tr>
-<td><span style="color:var(--yellow);"><i class="fa-solid fa-star fa-fw"></i></span></td>
+<td><span style="color:var(--yellow);"><i class="fa-solid fa-star fa-fw" title="Miniature square symbol"></i></span></td>
 <td>A space in a telegraphed danger that contains the character using it</td>
 </tr>
 </tbody>
 </table>
 <h2 id="enemies">Enemies<a class="headerlink" href="#enemies" title="Copy link to header"></a></h2>
-<p>Enemies are simplified characters -- you usually don't need to know their attributes, skills, legacies, or backgrounds. Instead, an enemy will rely on their level and you can just assume that they have the appropriate skills, legacies, and backgrounds to always roll a number of d12s equal to their level. To make an enemy more interesting, you can give them strengths and weaknesses in the form of different levels for different attributes or <a href="../../gameplay/basic_actions/">basic actions</a>.</p>
+<p>Enemies are simplified characters -- you usually don't need to know their attributes, skills, legacies, or backgrounds. Instead, an enemy will rely on their level and you can just assume that they have the appropriate skills, legacies, and backgrounds to always roll a number of d12s equal to their level. To make an enemy more interesting, you can give them strengths and weaknesses in the form of different levels for different attributes or <a href="basic_abilities.md">basic actions</a>.</p>
 <p>Enemies are usually either <strong>bosses</strong> or <strong>minions</strong>. There are many differences between the two, but one major is that <strong>bosses</strong> may take multiple <a href="../../character/health/#injuries">injuries</a> before they are defeated, but minions only get one.</p>
 <div class="admonition error">
 <p class="admonition-title">Ruffian (level 1 minion)</p>
@@ -260,9 +260,9 @@
 <li class="task-list-item"><input type="checkbox"/> Defeated: ________</li>
 </ul>
 </div>
-<h3 id="enemy-abilities">Enemy abilities<a class="headerlink" href="#enemy-abilities" title="Copy link to header"></a></h3>
-<p>Once you've got the hang of enemies, you can start introducing <a href="../../character/abilities/">abilities</a> to your enemies to make them still more interesting. It can be tempting to go overboard, but even just one ability can make an enemy interesting to fight. Three is often the most they need, unless you're making a particularly epic boss fight.</p>
-<p>Enemies don't work as well with ability points as player characters because they only tend to use their abilities in the scene where they antagonize a character. If you do choose to give them ability points, make sure to only give them a small number. Alternatively, consider limiting enemy abilities with <a href="../creating_abilities/#requirements">requirements</a>, such as putting a used ability on cooldown for a certain number of turns, or only unlocking some of their abilities after they've taken a certain number of injuries.</p>
+<h3 id="enemy-special-abilities">Enemy special abilities<a class="headerlink" href="#enemy-special-abilities" title="Copy link to header"></a></h3>
+<p>Once you've got the hang of enemies, you can start introducing <a href="special_abilities.md">special abilities</a> to your enemies to make them still more interesting. It can be tempting to go overboard, but even just one special ability can make an enemy interesting to fight. Three is often the most they need, unless you're making a particularly epic boss fight.</p>
+<p>Enemies don't work as well with ability points as player characters because they only tend to use their special abilities in the scene where they antagonize a character. If you do choose to give them ability points, make sure to only give them a small number. Alternatively, consider limiting enemy special abilities with <a href="../creating_abilities/#requirements">requirements</a>, such as putting a used special ability on cooldown for a certain number of turns, or only unlocking some of their special abilities after they've taken a certain number of injuries.</p>
 <div class="admonition error">
 <p class="admonition-title"><strong>Kaiserwulf</strong> (Level 9)</p>
 <p>54/54 Health </p>
@@ -305,7 +305,8 @@
 <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
 <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
 <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
-<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>  </p>
+<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><br />
+ <span class="sr-only">A 3x3 miniature strikes all spaces within close range to its front, left, and right.</span></p>
 </blockquote>
 <p>If you want to give a boss an attack pattern, you can create telegraphed dangers that lead into more telegraphed dangers.</p>
 <blockquote>
@@ -319,7 +320,8 @@
 <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
 <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
 <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
-<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>  </p>
+<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>
+<span class="sr-only">A 3x3 miniature strikes all spaces within close range to its front, left, and right.</span></p>
 <p><span style="color: var(--branding-color);"><i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i> | <strong>Meteor Slam</strong></span></p>
 <p>Slam into the area targetted by <strong>Blazing Takeoff</strong>, landing there and attacking the shaded spaces and anything you land on for 7d12.</p>
 <p><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><br />
@@ -328,7 +330,8 @@
 <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
 <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><br />
 <i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><br />
-<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i></p>
+<i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>
+<span class="sr-only">A 3x3 miniature strikes where it lands and all spaces adjacent to it.</span></p>
 </blockquote>
 <h3 id="bosses-action-economy-and-telegraphed-dangers">Bosses, action economy, and telegraphed dangers<a class="headerlink" href="#bosses-action-economy-and-telegraphed-dangers" title="Copy link to header"></a></h3>
 <p>As you may have already guessed, bosses and telegraphed dangers work together beautifully. Firstly because telegraphed dangers make a boss feel more dangerous, and secondly because bosses often have the initiative order stacked against them -- there's usually only one of them versus however many people are in your party! Giving the boss a telegraphed danger turns a boss's turn into two turns, and telegraphed dangers that build on other telegraphed dangers gives them even more.</p>
