@@ -1,6 +1,6 @@
 # Influence sheets
 
-**Influence** sheets represent the aid of an NPC or faction, even when they're not directly involved. Usually, they are limited character sheets that only contain [special abilities](special_abilities.md), and occasionally ability points, for use by anyone who might benefit from the influence they represent.
+**Influence** sheets represent the aid of an NPC or faction, even when they're not directly involved. Usually, they are limited character sheets that only contain [special abilities](../character/special_abilities.md), and occasionally ability points, for use by anyone who might benefit from the influence they represent.
 
 For instance, every character in the _Blackgrass Thieve's Guild_ has access to their guild's influence and could use the guild's special ability _Get out of jail (comparatively) free_ to reduce the cost of their bail.
 

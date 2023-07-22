@@ -20,7 +20,7 @@ Health is how much [damage](health.md#damage) you can take before you suffer an 
 
 ## Special abilities and ability points
 
-[Special abilities](special_abilities.md) are the unique and cool things your character can do. Casting magic, building inventions, or memorizing crucial details all can go here. [Ability points](special_abilities.md#ability-points) are a pool of points that you can spend on doing special ability stuff.
+[Special abilities](special_abilities.md) are the unique and cool things your character can do. Casting magic, building inventions, or memorizing crucial details all can go here. [Ability points](../character/special_abilities.md#ability-points) are a pool of points that you can spend on doing special ability stuff.
 
 ## Inventory
 

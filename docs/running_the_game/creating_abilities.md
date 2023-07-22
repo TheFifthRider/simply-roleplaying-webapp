@@ -1,6 +1,6 @@
 # Creating special abilities
 
-This page is going to assume you've already read all about [special abilities](special_abilities.md) -- if you haven't, I'd start there and then come back here and we can break down some more of the philosophy around creating them.
+This page is going to assume you've already read all about [special abilities](../character/special_abilities.md) -- if you haven't, I'd start there and then come back here and we can break down some more of the philosophy around creating them.
 
 ## Requirements, not restrictions
 

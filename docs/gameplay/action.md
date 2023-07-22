@@ -15,7 +15,7 @@ Then, after the first person to go has finished their turn, they must choose ano
 
 ### Interrupting turns
 
-If you have a [special ability](special_abilities.md) that lets you do it you can interrupt the turn order, taking your turn in place of whomever was originally being passed to. If you do, at the end of your turn you may choose whomever you want to take their turn next -- you don't have to pass the turn order on to the person who was originally going to take their turn.
+If you have a [special ability](../character/special_abilities.md) that lets you do it you can interrupt the turn order, taking your turn in place of whomever was originally being passed to. If you do, at the end of your turn you may choose whomever you want to take their turn next -- you don't have to pass the turn order on to the person who was originally going to take their turn.
 
 ### Who do I pass to?
 
@@ -25,7 +25,7 @@ Passing to an enemy seems bad on its face, but actually has some strong tactical
 
 ## Actions
 
-Whenever you do something with a goal in mind, you accomplish it with one or more **actions**. If there's drama involved (and there often is), the actions will probably also include a [test](../gameplay/tests.md) and you'll roll dice to see how the action resolves. Most of the time, your actions will be using [basic](basic_abilities.md) or [special](special_abilities.md) abilities
+Whenever you do something with a goal in mind, you accomplish it with one or more **actions**. If there's drama involved (and there often is), the actions will probably also include a [test](../gameplay/tests.md) and you'll roll dice to see how the action resolves. Most of the time, your actions will be using [basic](../gameplay/basic_abilities.md) or [special](../character/special_abilities.md) abilities
 
 When it's your turn, you can take **up to 3 actions**. If you want to do something but you don't have enough actions left on your turn, you can start it on this turn and finish it once all of the actions required to complete the goal have been spent, even if you have to split it up across turns. 
 

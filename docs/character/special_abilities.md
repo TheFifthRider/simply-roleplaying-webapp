@@ -28,7 +28,7 @@ If you made up new special abilities or improvements, it's a good idea to make s
 
 ### Special abilities from basic abilities
 
-One of the easiest ways to create a special ability is to power up a [basic ability](basic_abilities.md). Here are some examples -- the specific ability points that power them are _italicized_.
+One of the easiest ways to create a special ability is to power up a [basic ability](../gameplay/basic_abilities.md). Here are some examples -- the specific ability points that power them are _italicized_.
 
 #### Attack
 
@@ -176,7 +176,7 @@ Another way is by adding additional tags, or increasing the magnitude of those t
 
 ## Big special abilities
 
-Most special abilities are going to be the kind you see above, but sometimes you just want to go _bigger_ to summon a meteor storm or telekinetically pull a starship down from the sky. For these sorts of special abilities, talk with your GM. It's possible that what you're really trying to do is to [make progress on something big](basic_abilities.md#make-progress-on-something-big). 
+Most special abilities are going to be the kind you see above, but sometimes you just want to go _bigger_ to summon a meteor storm or telekinetically pull a starship down from the sky. For these sorts of special abilities, talk with your GM. It's possible that what you're really trying to do is to [make progress on something big](../gameplay/basic_abilities.md#make-progress-on-something-big). 
 
 If you and your GM agree that this is something you should have on your character sheet, then you should pick a way to earn it. Maybe you need to develop the special ability as something smaller, and then get the big version after you've upgraded it a certain number of times. Maybe the special ability costs more points of potential than a regular one.
 

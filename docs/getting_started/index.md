@@ -6,7 +6,7 @@ Before you dive straight into Simply Roleplaying, there are a few common mechani
 
 Simply Roleplaying uses dice of different **sizes**-- the more sides the die has, the "bigger" it's considered to be. From smallest to largest, they are; the four sided die (d4), the six sided die (d6), the eight sided die (d8), the ten sided die (d10), and the twelve sided die (d12).
 
-Simply Roleplaying also uses the twenty sided die (d20), but only for [special abilities](special_abilities.md).
+Simply Roleplaying also uses the twenty sided die (d20), but only for [special abilities](../character/special_abilities.md).
 
 ## Scenes and distances
 

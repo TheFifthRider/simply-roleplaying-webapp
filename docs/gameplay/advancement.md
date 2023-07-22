@@ -11,7 +11,7 @@ Discuss if you met the goal. If the players and the GM agree that you have, imme
 
 ## Potential
 
-**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve [skills and legacies](../character/backgrounds.md#improving-skills-and-legacies), increase your character's [health](../character/health.md) and specific [ability points](special_abilities.md#ability-points), and to gain new [special abilities](../character/special_abilities.md).
+**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve [skills and legacies](../character/backgrounds.md#improving-skills-and-legacies), increase your character's [health](../character/health.md) and specific [ability points](../character/special_abilities.md#ability-points), and to gain new [special abilities](../character/special_abilities.md).
 
 ### Spending potential
 
@@ -22,12 +22,12 @@ You can spend **one point of potential** to:
 
 You can spend **two points of potential** to:
 
-*   Increase one of your pools of [ability points](special_abilities.md#ability-points) by 1
-*   Create a new pool of [ability points](special_abilities.md#ability-points)
+*   Increase one of your pools of [ability points](../character/special_abilities.md#ability-points) by 1
+*   Create a new pool of [ability points](../character/special_abilities.md#ability-points)
 
 You can spend **three points of potential** to:
 
-*   Learn a new [special ability](special_abilities.md) 
+*   Learn a new [special ability](../character/special_abilities.md) 
 *   Strengthen an existing special ability
 
 ## Leveling up

@@ -32,7 +32,7 @@ Check out the table below to see a rough mapping from an attribute's level to th
 
 This is a good rule of thumb for your players power. However, you may notice that this table goes up to 20-- what the heck? Aren't players only supposed to go up to level 10, and their attributes up to +5? How could they possibly reach Level 20?
 
-The thing about this table is it's not going to be totally accurate to your party. It's a good rule of thumb, but as your players gather strong [equipment](../character/equipment.md) and learn powerful [special abilities](special_abilities.md), they'll start rolling even higher than you might expect! Once they start doing so consistently, it's probably best to start keeping track of the level that your characters roll like in addition to the level they have on their character sheet, just so you know for planning purposes. 
+The thing about this table is it's not going to be totally accurate to your party. It's a good rule of thumb, but as your players gather strong [equipment](../character/equipment.md) and learn powerful [special abilities](../character/special_abilities.md), they'll start rolling even higher than you might expect! Once they start doing so consistently, it's probably best to start keeping track of the level that your characters roll like in addition to the level they have on their character sheet, just so you know for planning purposes. 
 
 ### Competitions
 

@@ -4,7 +4,7 @@ Downtime is a period of time, usually about four hours, during which you can foc
 
 ## Crafting
 
-You can spend your downtime to create or modify items by [making progress (on something big)](basic_abilities.md#make-progress-on-something-big).
+You can spend your downtime to create or modify items by [making progress (on something big)](../gameplay/basic_abilities.md#make-progress-on-something-big).
 
 ### Recipes for crafting
 
@@ -45,13 +45,13 @@ Downtime can be spent to develop your [skills and legacies](../character/backgro
 
 ### Preparing
 
-You can spend downtime to prepare for an upcoming challenge by [preparing](basic_abilities.md#prepare).
+You can spend downtime to prepare for an upcoming challenge by [preparing](../gameplay/basic_abilities.md#prepare).
 
 ### Recovering
 
-You can spend a period of downtime [recovering](../character/health.md#Recovering) to erase all of the injury boxes on your character sheet, heal from any damage you sustained, and restore your spent [ability points](special_abilities.md#costs-and-ability-points).
+You can spend a period of downtime [recovering](../character/health.md#Recovering) to erase all of the injury boxes on your character sheet, heal from any damage you sustained, and restore your spent [ability points](../character/special_abilities.md#costs-and-ability-points).
 
 ### Use a big special ability
 
-When you pick out special abilities for your character, you can earn [big special abilities](special_abilities.md#big-special-abilities) that usually require you to spend some downtime preparing for use!
+When you pick out special abilities for your character, you can earn [big special abilities](../character/special_abilities.md#big-special-abilities) that usually require you to spend some downtime preparing for use!
 

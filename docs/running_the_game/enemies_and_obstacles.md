@@ -23,7 +23,7 @@ Here's a quick rundown of the symbols I use:
 
 ## Enemies
 
-Enemies are simplified characters -- you usually don't need to know their attributes, skills, legacies, or backgrounds. Instead, an enemy will rely on their level and you can just assume that they have the appropriate skills, legacies, and backgrounds to always roll a number of d12s equal to their level. To make an enemy more interesting, you can give them strengths and weaknesses in the form of different levels for different attributes or [basic actions](basic_abilities.md).
+Enemies are simplified characters -- you usually don't need to know their attributes, skills, legacies, or backgrounds. Instead, an enemy will rely on their level and you can just assume that they have the appropriate skills, legacies, and backgrounds to always roll a number of d12s equal to their level. To make an enemy more interesting, you can give them strengths and weaknesses in the form of different levels for different attributes or [basic abilities](../gameplay/basic_abilities.md).
 
 Enemies are usually either **bosses** or **minions**. There are many differences between the two, but one major is that **bosses** may take multiple [injuries](../character/health.md#injuries) before they are defeated, but minions only get one.
 
@@ -49,7 +49,7 @@ Enemies are usually either **bosses** or **minions**. There are many differences
 
 ### Enemy special abilities
 
-Once you've got the hang of enemies, you can start introducing [special abilities](special_abilities.md) to your enemies to make them still more interesting. It can be tempting to go overboard, but even just one special ability can make an enemy interesting to fight. Three is often the most they need, unless you're making a particularly epic boss fight.
+Once you've got the hang of enemies, you can start introducing [special abilities](../character/special_abilities.md) to your enemies to make them still more interesting. It can be tempting to go overboard, but even just one special ability can make an enemy interesting to fight. Three is often the most they need, unless you're making a particularly epic boss fight.
 
 Enemies don't work as well with ability points as player characters because they only tend to use their special abilities in the scene where they antagonize a character. If you do choose to give them ability points, make sure to only give them a small number. Alternatively, consider limiting enemy special abilities with [requirements](../running_the_game/creating_abilities.md#requirements), such as putting a used special ability on cooldown for a certain number of turns, or only unlocking some of their special abilities after they've taken a certain number of injuries.
 

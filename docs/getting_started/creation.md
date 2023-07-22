@@ -36,7 +36,7 @@ Once you've finished figuring out what you've got, read up on [items](../charact
 ## What power or talent makes you unique?
 Your starting **health** is 24-- this is how much damage you can take before you sustain an injury.
 
-[Read up on special abilities and ability points,](special_abilities.md) and consider what type of ability points make sense for your character. Then work with your GM to pick or create a special ability for your character.
+[Read up on special abilities and ability points,](../character/special_abilities.md) and consider what type of ability points make sense for your character. Then work with your GM to pick or create a special ability for your character.
 
 Once you've done that, choose one:
 

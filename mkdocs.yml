@@ -8,7 +8,7 @@ nav:
         - getting_started/creation.md
     - 'What makes a Character':
         - character/index.md
-        - character/abilities.md
+        - character/special_abilities.md
         - character/attributes.md
         - character/health.md
         - character/backgrounds.md
@@ -16,7 +16,7 @@ nav:
         - character/companions.md
     - 'Playing the Game':
         - gameplay/tests.md
-        - gameplay/basic_actions.md
+        - gameplay/basic_abilities.md
         - gameplay/downtime.md
         - gameplay/stacks.md
         - gameplay/special_stacks.md
