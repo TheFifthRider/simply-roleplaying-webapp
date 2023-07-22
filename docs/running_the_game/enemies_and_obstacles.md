@@ -10,14 +10,14 @@ Here's a quick rundown of the symbols I use:
 
 | Symbol | What it means |
 | - | - |
-| <i class="fa-solid fa-play"></i> | A special ability which requires one action per symbol to use |
-| <i class="fa-solid fa-arrow-rotate-left"></i> | A special ability which reacts to circumstances |
-| <i class="fa-solid fa-pause"></i> | A special ability which telegraphs danger |
-| <i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i> | A telegraphed danger |
-| <i class="fa-solid fa-arrows-rotate"></i> | A special ability that provides some kind of passive benefit |
-| <i class="fa-regular fa-square-full fa-fw"></i> | A space in a telegraphed danger that won't be affected |
-| <span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span> | A space in a telegraphed danger that will be affected |
-| <span style="color:var(--yellow);"><i class="fa-solid fa-star fa-fw"></i></span> | A space in a telegraphed danger that contains the character using it |
+| <i class="fa-solid fa-play" title="One action symbol"></i> | A special ability which requires one action per symbol to use |
+| <i class="fa-solid fa-arrow-rotate-left" title="Reaction symbol"></i> | A special ability which reacts to circumstances |
+| <i class="fa-solid fa-pause" title="Telegraph danger symbol"></i> | A special ability which telegraphs danger |
+| <i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i><span class="sr-only">Activate telegraphed danger symbol</span> | A telegraphed danger |
+| <i class="fa-solid fa-arrows-rotate" title="Passive symbol"></i> | A special ability that provides some kind of passive benefit |
+| <i class="fa-regular fa-square-full fa-fw" title="Empty square symbol"></i> | A space in a telegraphed danger that won't be affected |
+| <span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw" title="Targetted square symbol"></i></span> | A space in a telegraphed danger that will be affected |
+| <span style="color:var(--yellow);"><i class="fa-solid fa-star fa-fw" title="Miniature square symbol"></i></span> | A space in a telegraphed danger that contains the character using it |
 
 
 
@@ -112,6 +112,8 @@ If you want to create a dangerous effect that your players can react to, you can
 > <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i>  
 > <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i>  
 > <i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>  
+>  <span class="sr-only">A 3x3 miniature strikes all spaces within close range to its front, left, and right.</span>
+
 
 If you want to give a boss an attack pattern, you can create telegraphed dangers that lead into more telegraphed dangers.
 
@@ -129,7 +131,8 @@ If you want to give a boss an attack pattern, you can create telegraphed dangers
 > <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i>  
 > <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i>  
 > <i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i>  
-> <i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>  
+> <i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>
+> <span class="sr-only">A 3x3 miniature strikes all spaces within close range to its front, left, and right.</span>
 >
 > <span style="color: var(--branding-color);"><i class="fa-solid fa-play"></i><i class="fa-solid fa-pause"></i> | **Meteor Slam**</span>
 > 
@@ -142,6 +145,7 @@ If you want to give a boss an attack pattern, you can create telegraphed dangers
 ><i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><span style="color: var(--yellow);"><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i><i class="fa-solid fa-star fa-fw"></i></span><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i>  
 ><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><span style="color: var(--red);"><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i><i class="fa-solid fa-square-full fa-fw"></i></span><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>  
 ><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i><i class="fa-regular fa-square-full fa-fw"></i>
+><span class="sr-only">A 3x3 miniature strikes where it lands and all spaces adjacent to it.</span>
 
 
 ### Bosses, action economy, and telegraphed dangers

@@ -4,17 +4,29 @@ I'm assuming you've already read the players rules on [tests](../gameplay/tests.
 ## Picking the difficulty
 So how do you choose the specific number that your players roll against? First of all, you have to know what attribute you're testing, and what the player's level is in that attribute. Your players should have that on their character sheet, but if they don't you can calculate it by adding their attribute modifier to their character level.
 
-Check out the table below to see a rough mapping from an attribute's level to the difficulty of a test that will challenge it.
+Check out the table below to see a rough mapping from an attribute's level to the difficulty of a test that will challenge it. Note that the difficulty grows by 5 every level, but by an additional 5 (for a total of 10) at level 3, 6, 9, 12, 15, and 18.
 
    | Attribute level | Test Difficulty |
    | --------------- | --------------- | 
    | 1               | 5               | 
+   | 2               | 10              | 
+   | **3**               | **20**              | 
    | 4               | 25              | 
-   | 7               | 45              | 
+   | 5               | 30              | 
+   | **6**               | **40**              | 
+   | 7               | 45              |
+   | 8               | 50              |
+   | **9**               | **60**              |
    | 10              | 65              | 
+   | 11              | 70              | 
+   | **12**              | **80**              | 
    | 13              | 85              | 
-   | 15              | 100             | 
-   | 17              | 110             | 
+   | 14              | 90              | 
+   | **15**              | **100**             | 
+   | 16              | 105             | 
+   | 17              | 110             |
+   | **18**              | **120**             | 
+   | 19              | 125             |  
    | 20              | 130             | 
    
 
