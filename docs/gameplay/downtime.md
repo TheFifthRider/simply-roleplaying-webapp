@@ -16,7 +16,7 @@ Take this sleep poison, for instance:
 
 >  **Sleep Poison**
 >
->   Use a dose with an action to administer the poison in order to Hinder a target with a stack of Sleep; they fall into a deep slumber until all sleep dice are removed. Remove all sleep dice if they are awoken by someone else. If undisturbed, they may resist the poison every turn in an action scene, or every hour outside of an action scene.
+>   Use a dose with an action to administer the poison in order to <i class="fa-solid fa-cubes-stacked"></i> Hinder a target with a stack of Sleep; they fall into a deep slumber until all sleep dice are removed. Remove all sleep dice if they are awoken by someone else. If undisturbed, they may resist the poison every turn in an action scene, or every hour outside of an action scene.
 
 &nbsp;
 

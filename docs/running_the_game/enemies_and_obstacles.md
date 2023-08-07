@@ -58,7 +58,7 @@ Enemies don't work as well with ability points as player characters because they
     
     * [ ] Defeated: \_\_\_\_\_\_\_\_
     
-    <i class="ra ra-crossed-swords"></i> <i class="fa-solid fa-cubes-stacked"></i> **Maw of Mort**: <i class="ra ra-crossed-swords"></i> Attack for 9d12, then <i class="fa-solid fa-cubes-stacked"></i> Hinder your target with _chomped_ d12s using the same roll. They can't move while chomped.
+    <i class="ra ra-crossed-swords"></i> <i class="fa-solid fa-cubes-stacked"></i> **Maw of Mort**: <i class="ra ra-crossed-swords"></i> Attack for 9d12, then <i class="fa-solid fa-cubes-stacked"></i> Hinder your target with _chomped_ d12s using the same roll. They can't <i class="fa-solid fa-person-walking"></i> Move while chomped.
     
     
     <i class="fa-solid fa-person-walking"></i> <i class="ra ra-crossed-swords"></i> <i class="ra ra-crossed-swords"></i> **Feral Lunge**: Move 5 spaces, then make two 9d12 attacks against all targets within close range. 
@@ -81,7 +81,7 @@ Obstacles are like enemies, but even simpler. Usually they can perform one or tw
 Obstacles can also be almost indistinguishable from an enemy, except the party needs to do something clever to defeat them!
 
 !!! warning "The Devouring Tree (Level 6)"
-    **To defeat:** You can't defeat the Devouring Tree, but you can escape it! Roots block the stairs up from where you came and the stairs down deeper into the labyrinth. You can _Make Progress_ until you clear them, then escape beyond!
+    **To defeat:** You can't defeat the Devouring Tree, but you can escape it! Roots block the stairs up from where you came and the stairs down deeper into the labyrinth. You can <i class="fa-solid fa-gears"></i> _Make Progress_ until you clear them, then escape beyond!
     
     60/60 Entrance
     
@@ -89,7 +89,7 @@ Obstacles can also be almost indistinguishable from an enemy, except the party n
     
     <i class="fa-solid fa-arrows-rotate"></i> **Aversion to Flame:** If a character uses fire as a part of a test against the tree, they get +10 to their roll.
     
-    <i class="fa-solid fa-cubes-stacked"></i> **Branches and Vines Entangle:** Hinder a target by _entangling_ them as if you rolled a 60. They can't move while they are _entangled_. 
+    <i class="fa-solid fa-cubes-stacked"></i> **Branches and Vines Entangle:** Hinder a target by _entangling_ them as if you rolled a 60. They can't <i class="fa-solid fa-person-walking"></i> Move while they are _entangled_. 
     
     <i class="ra ra-crossed-swords"></i> **Devouring Maw:** Drag anyone who is _entangled_ a short distance towards the maw and attack them for 9d12.
 

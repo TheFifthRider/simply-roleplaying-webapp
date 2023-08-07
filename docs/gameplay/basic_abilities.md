@@ -4,20 +4,20 @@ Abilities are the way you overcome challenges and obstacles that the GM sets bef
 
 ### <i class="ra ra-crossed-swords"></i> Attack
 
-When you **attack** someone else, you make a [test](tests.md) of whatever attribute makes sense for the attack, usually against the roll of somebody who is defending against you! If your target cannot or does not defend, the difficulty is their passive brawn. If your target isn't a character and doesn't have passive brawn, you're actually probably [making progress](#make-progress).
+When you **attack** someone else, you make a [test](tests.md) of whatever attribute makes sense for the attack, usually against the roll of somebody who is  <i class="fa-solid fa-shield"></i> Defending against you! If your target cannot or does not  <i class="fa-solid fa-shield"></i> Defend, the difficulty is their passive brawn. If your target isn't a character and doesn't have passive brawn, you're actually probably [making progress](#make-progress).
 
 When you test an attribute to **attack someone**, if you...
 
-*   **Fail:** Your target either takes half damage or no damage at all, depending on how well the defender rolled.
+*   **Fail:** Your target either takes half damage or no damage at all, depending on how well the defender rolled. If there is no defender roll, they take half damage.
 *   **Partially succeed:** Your target [takes damage](../character/health.md) equal to your roll.
 *   **Fully succeed:** Your target [takes damage](../character/health.md) equal to your roll.
 *   **Critically Succeed:**  Your target [takes damage](../character/health.md) equal to twice your roll. 
 
 ### <i class="fa-solid fa-shield"></i> Defend
 
-If somebody attacks you, you can try to **defend** against the attack and turn it into a contest of their attack roll and whatever attribute you're defending with. You can also defend against an attack targeted at someone else as long as it [makes sense](../getting_started/index.md#narrative-truth), but you will take any damage they would have taken. 
+If somebody <i class="ra ra-crossed-swords"></i> Attacks you, you can **defend** and turn it into a contest of their attack roll and whatever attribute you're defending with. You can also defend against an <i class="ra ra-crossed-swords"></i> Attack targeted at someone else as long as it [makes sense](../getting_started/index.md#narrative-truth), but you will take any damage they would have taken. 
 
-When you test an attribute to **defend against an attack**, If you...
+When you test an attribute to **defend against an <i class="ra ra-crossed-swords"></i> Attack**, If you...
 
 * **Fail:** You take damage equal to the attacker's roll, or equal to double the attacker's roll depending on how well they rolled.
 * **Partially succeed:**  You take half of the attacker's roll as [damage](../character/health.md).

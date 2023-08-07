@@ -34,37 +34,37 @@ One of the easiest ways to create a special ability is to power up a [basic abil
 
 > <i class="ra ra-crossed-swords"></i> **Fireball**
 > 
-> As an action, you can spend 1 _mp_ to make an Attack with Knowledge against a target within long range and all targets within short range of them.
+> As an action, you can spend 1 _mp_ to make an <i class="ra ra-crossed-swords"></i> Attack with Knowledge against a target within long range and all targets within short range of them.
 
 #### Defend
 
 > <i class="fa-solid fa-shield"></i> **Dodge and Roll**
 > 
-> When you Defend against an attack, you can spend 1 _slick move_ to move 1 space away from the person who attacked you. If you critically succeed, you can move half your speed instead.
+> When you  <i class="fa-solid fa-shield"></i> Defend against an <i class="ra ra-crossed-swords"></i> Attack, you can spend 1 _slick move_ to move 1 space away from the person who attacked you. If you critically succeed, you can perform a full <i class="fa-solid fa-person-walking"></i> Move instead.
 
 #### Get answers
 
 > <i class="fa-solid fa-magnifying-glass"></i> **The Dead Speak to Me**
 > 
-> As an action, you can spend 1 _runed bone_ to roll Presence and Get Answers by speaking with the spirits of the recently departed as long as you have a remnant of them or something they cared about.
+> As an action, you can spend 1 _runed bone_ to roll Presence and <i class="fa-solid fa-magnifying-glass"></i> Get Answers by speaking with the spirits of the recently departed as long as you have a remnant of them or something they cared about.
 
 #### Help
 
 > <i class="fa-solid fa-cubes-stacked"></i> **Amythest Ward**
 > 
-> By spending 1 _magical gem_, you can roll Knowledge to Help yourself or any ally within short range by erecting a shimmering purple barrier that wards off attacks. 
+> By spending 1 _magical gem_, you can roll Knowledge to <i class="fa-solid fa-cubes-stacked"></i> Help yourself or any ally within short range by erecting a shimmering purple barrier that wards off attacks. 
 
 #### Hinder
 
 ><i class="fa-solid fa-cubes-stacked"></i> **Flashbang Grenade**
 >
->By spending 1 _ammunition_, you can roll Intuition to Hinder a target within short range by firing a flashbang from your shoulder cannon.
+>By spending 1 _ammunition_, you can roll Intuition to <i class="fa-solid fa-cubes-stacked"></i> Hinder a target within short range by firing a flashbang from your shoulder cannon.
 
 #### Make progress (on something big)
 
 ><i class="fa-solid fa-gears"></i> **Words of Inspiration**
 >
->By spending 1 point of _ridiculous charisma_ you can roll Presence to Make Progress on something you wouldn't normally be able to help with by inspiring someone else who is doing it.
+>By spending 1 point of _ridiculous charisma_ you can roll Presence to <i class="fa-solid fa-gears"></i> Make Progress on something you wouldn't normally be able to help with by inspiring someone else who is doing it.
 
 ####  Movement
 
@@ -76,7 +76,7 @@ One of the easiest ways to create a special ability is to power up a [basic abil
 
 ><i class="fa-solid fa-clock"></i> **Ready for Anything**
 >
->By spending 1 _scrappiness_, you can roll Intuition in the minutes before a fight to Prepare for a battle with an enemy, flashing back to any tricks you may have hidden up your sleeve.
+>By spending 1 _scrappiness_, you can roll Intuition in the minutes before a fight to <i class="fa-solid fa-clock"></i> Prepare for a battle with an enemy, flashing back to any tricks you may have hidden up your sleeve.
 
 #### Test
 
@@ -130,7 +130,7 @@ Sometimes you just want an ability to do more. One way to accomplish that is by 
 
 > <i class="fa-solid fa-magnifying-glass"></i> <i class="fa-solid fa-cubes-stacked"></i> **Monster Hunting Expert**
 > 
-> As two actions, by spending 1 _firsthand supernatural experience_ I can roll Knowledge to both **Get Answers** about a supernatural creature I can see and **Help** myself or others by recalling how to deal with it in the same roll. Before I roll, I can trade one of my d12s for a d20.
+> As two actions, by spending 1 _firsthand supernatural experience_ I can roll Knowledge to both <i class="fa-solid fa-magnifying-glass"></i> **Get Answers** about a supernatural creature I can see and <i class="fa-solid fa-cubes-stacked"></i> **Help** myself or others by recalling how to deal with it in the same roll. Before I roll, I can trade one of my d12s for a d20.
 
 Your combined special ability will usually still require you to spend the same number of total actions, but now that they are one roll both benefit from any strengthening upgrades you provide.
 
@@ -166,18 +166,18 @@ Another way is by adding additional tags, or increasing the magnitude of those t
 
 > <i class="ra ra-crossed-swords"></i> **Fireball**
 > 
-> As an action, you can spend 1 _mp_ to make an Attack with Knowledge against a target within _long range_ and all targets within _short range_ of them.
+> As an action, you can spend 1 _mp_ to make an <i class="ra ra-crossed-swords"></i> Attack with Knowledge against a target within _long range_ and all targets within _short range_ of them.
 
 <div class="arrow-block"><span class="arrow-block-text">Upgrade</span></div>
 
 > <i class="ra ra-crossed-swords"></i> **Firestorm**
 > 
-> As an action, you can spend 1 _mp_ to make an Attack with Knowledge against a target within _long range_ and all targets within _medium range_ of them.
+> As an action, you can spend 1 _mp_ to make an <i class="ra ra-crossed-swords"></i> Attack with Knowledge against a target within _long range_ and all targets within _medium range_ of them.
 
 ## Big special abilities
 
-Most special abilities are going to be the kind you see above, but sometimes you just want to go _bigger_ to summon a meteor storm or telekinetically pull a starship down from the sky. For these sorts of special abilities, talk with your GM. It's possible that what you're really trying to do is to [make progress on something big](../gameplay/basic_abilities.md#make-progress-on-something-big). 
+Most special abilities are going to be the kind you see above, but sometimes you just want to go _bigger_ to summon a meteor storm or telekinetically pull a starship down from the sky. For these sorts of special abilities, talk with your GM. It's possible that what you're really trying to do is to [<i class="fa-solid fa-gears"></i> Make Progress on something big](../gameplay/basic_abilities.md#make-progress-on-something-big). 
 
 If you and your GM agree that this is something you should have on your character sheet, then you should pick a way to earn it. Maybe you need to develop the special ability as something smaller, and then get the big version after you've upgraded it a certain number of times. Maybe the special ability costs more points of potential than a regular one.
 
-Finally, special abilities get bigger and badder the more requirements you put on them. If you want a really big special ability, you should attach some pretty serious requirements. Most of the time, this is at least spending downtime to prepare the big special ability for action. Review [requirements](../running_the_game/creating_abilities.md#requirements) with your GM and pick some that make sense!
+Finally, special abilities get bigger and badder the more requirements you put on them. If you want a really big special ability, you should attach some pretty serious requirements. Most of the time, this is at least spending downtime to ready the big special ability for action. Review [requirements](../running_the_game/creating_abilities.md#requirements) with your GM and pick some that make sense!

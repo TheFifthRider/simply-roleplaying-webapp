@@ -16,10 +16,10 @@ There are a few special actions you can perform if you're part of a chase; you c
 
 If you test an attribute to _do something risky to get to the goal faster_ and you...
 
-*   **Fail,** the stunt goes wrong in some way. Move your speed towards the goal once.
-*   **Partially succeed,** you narrowly pull it off! For each action spent on the stunt, move your speed towards the goal. Then move your speed towards the goal once more for free.
-*   **Fully succeeds,** you pull off your stunt and catapult yourself forward. For each action spent on the stunt, move twice your speed towards the goal.
-*   **Critically succeeds,** your stunt is wildly successful. For each action spent on the stunt, move twice your speed towards the goal. Then move twice your speed towards the goal once more for free.
+*   **Fail,** the stunt goes wrong in some way. <i class="fa-solid fa-person-walking"></i> Move your speed towards the goal once.
+*   **Partially succeed,** you narrowly pull it off! For each action spent on the stunt, <i class="fa-solid fa-person-walking"></i> Move your speed towards the goal. Then <i class="fa-solid fa-person-walking"></i> Move your speed towards the goal once more for free.
+*   **Fully succeeds,** you pull off your stunt and catapult yourself forward. For each action spent on the stunt, <i class="fa-solid fa-person-walking"></i> Move twice your speed towards the goal.
+*   **Critically succeeds,** your stunt is wildly successful. For each action spent on the stunt, <i class="fa-solid fa-person-walking"></i> Move twice your speed towards the goal. Then <i class="fa-solid fa-person-walking"></i> Move twice your speed towards the goal once more for free.
 
 ### Creating an obstacle or shortcut
 

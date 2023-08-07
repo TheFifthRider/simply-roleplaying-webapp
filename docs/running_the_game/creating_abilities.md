@@ -10,7 +10,7 @@ Just make sure you and/or your player check in with the rest of the table-- they
 
 If you're wondering if there's some kind of behind-the-scenes formula for making a balanced special ability, the short answer is: there isn't. At least not up front.
 
-The longer answer is there isn't, but not for a lack of trying. After all, if you have a special ability that turns all of your d12s into d20s when you attack an undead enemy, how useful that special ability is depends entirely on how often the GM pits you against undead enemies. If you have a special ability to fly, how useful that special ability is depends on how often you need to and couldn't otherwise.
+The longer answer is there isn't, but not for a lack of trying. After all, if you have a special ability that turns all of your d12s into d20s when you <i class="ra ra-crossed-swords"></i> Attack an undead enemy, how useful that special ability is depends entirely on how often the GM pits you against undead enemies. If you have a special ability to fly, how useful that special ability is depends on how often you need to and couldn't otherwise.
 
 Rather than try to balance special abilities from the get-go, I'd encourage balancing special abilities _as you go_. If a special ability feels too strong? Give it an extra requirement, or make one of its requirements more costly! If a special ability feels too weak? Give it an extra effect or strengthen one of its existing effects without requiring the character to upgrade it.
 
@@ -19,7 +19,7 @@ Rather than try to balance special abilities from the get-go, I'd encourage bala
 Rather than (or sometimes in addition to) costing ability points, you can give special abilities **requirements** that must be met for you to be able to use it. The more requirements a special ability has, or the more costly the requirements, the more powerful the special ability should be. Often, requirements will be things like:
 
 * Wielding a specific tool, like being required to _use weapons specific to your art_ to use a martial arts technique
-* Being in a specific situation, like being required to be _defending against a melee attack_ to perform a counter
+* Being in a specific situation, like being required to be _<i class="fa-solid fa-shield"></i> Defending against a Close-Range <i class="ra ra-crossed-swords"></i> Attack_ to perform a counter
 * Taking a specific amount of time, like being required to _spend some downtime_ to create a potion
 * Fulfilling a specific narrative goal, like being required to _memorize a character's mannerisms_ to disguise yourself as them
 
