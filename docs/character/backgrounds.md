@@ -44,7 +44,7 @@ Whenever it [makes sense](../getting_started/index.md#narrative-truth) for the n
 
 Don't worry too much about coming up with the perfect name, it's often enough to create a good name. Skills and legacies are just the building blocks of backgrounds and backgrounds should be renamed until they feel right. 
 
-That said, the trickiest part about creating skills, legacies, and backgrounds is coming up with a good name for them. Ideally the naems should be expressive of what you want your character to be able to do while still remaining general enough that they can come up a lot in play.
+That said, the trickiest part about creating skills, legacies, and backgrounds is coming up with a good name for them. Ideally the names should be expressive of what you want your character to be able to do while still remaining general enough that they can come up a lot in play.
 
 ### Naming a skill
 
