@@ -6,25 +6,21 @@
 
 To start with, consider what powers your character's special abilities. What makes them able to do the incredible things they do? A special ability may cost magic gems, imbued talismans of paper, a source of energy like mana, or anything else you can come up with! 
 
-Whatever you choose it to be, that is their type of **ability points**. You start with a pool of **2** of these ability points, and gain more as you gain additional potential. You spend these points to use special abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering). 
+Whatever you choose it to be, that is their type of **ability points**. You start with from 1 to 3 ability points, and gain more as you gain additional potential. You spend these points to use special abilities, and you can recover spent points when you [spend some downtime to recover](../gameplay/downtime.md#recovering). 
 
 You can also recover spent ability points when it makes sense that you would. A mage might be able to replenish their _mana_ from leylines. A grenadier might be able to replenish their _ammunition_ in an arsenal.  A leader might replenish their _pride_ from cheering throngs of admirers.
 
 ### Naming and renaming ability points
 
-If you're not sure what you want you want your ability points to be called at the start, it's okay to just call them "ability points" and come up with a name for them later. Eventually, though, you will want them to have a name beacuse it helps to make the flavor of your character come to life!
+If you're not sure what you want you want your ability points to be called at the start, it's okay to just call them "ability points" and come up with a name for them later. Eventually, though, you will want them to have a name because it helps to make the flavor of your character come to life!
 
 Similarly, you should feel free to rename your ability points if the name you chose doesn't feel right or if it no longer makes sense.
 
 ## Gaining ability points and creating special abilities
 
-Every **10 potential you earn** (spent or not) you increase your maximum ability points by two.
+Between sessions you can remove special abilities from your character sheet if you feel like they don't belong-- whether you just don't like how they work or if you feel like they don't make sense to your character anymore.
 
-Any number of times between sessions you can reduce your maximum ability points by **1** to [learn a new special ability](#creating-a-special-ability), or reduce your maximum ability points by **2** to [improve an existing special ability](#improving-existing-special-abilities). If you happen to have multiple pools of ability points you may reduce any one of them by **1** to learn a new special ability, or **2** to improve an existing special ability. You can also reduce two of them by **1** to improve an existing special ability.
-
-Similarly, between sessions you can remove special abilities from your character sheet if you feel like they don't belong-- whether you just don't like how they work or if you feel like they don't make sense to your character anymore. If you do, make sure you increase your maximum ability points to compensate for the points you spent to earn that special ability.
-
-If you made up new special abilities or improvements, it's a good idea to make sure you take some time to talk them over with your table and/or your GM before you introduce them.
+If you do, for each special ability you remove make sure you improve an existing ability or learn a new special ability to take its place. Remember, whenever you make new special abilities it's a good idea to make sure you take some time to talk them over with your table and/or your GM before you introduce them.
 
 ### Special abilities from basic abilities
 

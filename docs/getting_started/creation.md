@@ -32,15 +32,21 @@ Once you've finished figuring out what you've got, read up on [items](../charact
 	A starship diplomat might have things like a universal translator, fine clothes, id card, hologram computer, a wax seal kit, and a handful of fountain pens.
 
 ## What power or talent makes you unique?
-Your starting **health** is 20-- this is how much damage you can take before you sustain an injury.
 
 [Read up on special abilities and ability points,](../character/special_abilities.md) and consider what type of ability points make sense for your character. Then work with your GM to pick or create a special ability for your character.
 
-Once you've done that, choose one:
+Once you've done that, decide your character's maximum health and ability points.
 
-* [ ] Give yourself another special ability and add a point to your maximum ability points
+Choose one:
+
+* [ ] 30 health, 1 ability point
+* [ ] 20 health, 2 ability points
+* [ ] 10 health, 3 ability points
+
+And then choose one more:
+
+* [ ] Give yourself another special ability or improve one that you already have
 * [ ] Pick something cool and unique to have as equipment-- something useful or mysterious that most people wouldn't have. Give it at least a +1 tag.
-* [ ] Increase your health by 10.
 * [ ] Create a helper or ally [companion](../character/companions.md) to assist your character
 
 ## What do you look like?
