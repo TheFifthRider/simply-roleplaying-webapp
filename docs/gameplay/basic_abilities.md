@@ -45,10 +45,12 @@ Questions cannot be wasted. If the answer to a question was already stated, it d
 
 If you want to **help** somebody out or get yourself into a better position (**helping** yourself), you can do that by testing an attribute and stacking dice in their favor or removing dice stacked against them based on the result.
 
-When you test an attribute to **help someone**, for every **10** in the total you rolled you may:
+When you test an attribute to **help someone**:
 
 * Stack a die in their favor
 * Remove a die stacked against them
+
+Then, for every **10** in the total you rolled, do it again.
 
 The dice you stack depends on what level you are:
 
@@ -64,10 +66,12 @@ You may always unstack a die, no matter what size it is.
 
 Sabotaging someone's help, or putting them in a worse position is hindering them. Hindering works similarly to helping-- test an attribute, then stack dice in against your target or removing dice stacked in their favor based on the result.
 
-When you test an attribute to **hinder someone**, for every **10** in the total you rolled you may:
+When you test an attribute to **hinder someone**:
 
 * Stack a die against them
 * Remove a die stacked in their favor
+
+Then, for every **10** in the total you rolled, do it again.
 
 The dice you stack depends on what level you are:
 
