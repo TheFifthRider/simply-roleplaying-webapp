@@ -124,3 +124,33 @@ Here are a few examples of triggers and effects to get you started.
 | ...get a specific equipment with specific tags for a specific amount of time. | Add additional tags<br/>Increase the amount of time          |
 
 <br/>
+
+Min HP:
+90 + 20 = 110
+90 + 30 = 120
+90 + 40 = 140
+
+Min AP:
+18+4 = 22
+18+6 = 24
+18+8 = 26
+
+Balanced HP:
+180 + 20 = 200
+180 + 30 = 210
+180 + 40 = 220
+
+Balanced AP:
+36+4 = 40
+36+6 = 42
+36+8 = 44
+
+Max HP:
+270 + 20 = 290
+270 + 30 = 300
+270 + 40 = 310
+
+Max AP:
+54+4 = 58
+54+6 = 60
+54+8 = 62
