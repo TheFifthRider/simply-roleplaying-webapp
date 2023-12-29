@@ -53,3 +53,7 @@ Set ability points name
 * Pick from the equipment bank
 * Pick from the ability bank again
 * Evolve the ability you got from the ability bank
+
+## Plan the challenges
+
+GM plans 12 challenges, two for each attribute.
