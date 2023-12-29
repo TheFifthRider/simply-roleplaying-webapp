@@ -4,23 +4,35 @@ I'm assuming you've already read the players rules on [tests](../gameplay/tests.
 ## Picking the difficulty
 So how do you choose the specific number that your players roll against? First of all, you have to know what attribute you're testing, and what the player's level is in that attribute. Your players should have that on their character sheet, but if they don't you can calculate it by adding their attribute modifier to their character level.
 
-Check out the table below to see a rough mapping from an attribute's level to the difficulty of a test that will challenge it.
+Check out the table below to see a rough mapping from an attribute's level to the difficulty of a test that will challenge it. Note that the difficulty grows by 5 every level, but by an additional 5 (for a total of 10) at level 3, 6, 9, 12, 15, and 18.
 
    | Attribute level | Test Difficulty |
    | --------------- | --------------- | 
    | 1               | 5               | 
+   | 2               | 10              | 
+   | **3**               | **20**              | 
    | 4               | 25              | 
-   | 7               | 45              | 
+   | 5               | 30              | 
+   | **6**               | **40**              | 
+   | 7               | 45              |
+   | 8               | 50              |
+   | **9**               | **60**              |
    | 10              | 65              | 
+   | 11              | 70              | 
+   | **12**              | **80**              | 
    | 13              | 85              | 
-   | 15              | 100             | 
-   | 17              | 110             | 
+   | 14              | 90              | 
+   | **15**              | **100**             | 
+   | 16              | 105             | 
+   | 17              | 110             |
+   | **18**              | **120**             | 
+   | 19              | 125             |  
    | 20              | 130             | 
    
 
 This is a good rule of thumb for your players power. However, you may notice that this table goes up to 20-- what the heck? Aren't players only supposed to go up to level 10, and their attributes up to +5? How could they possibly reach Level 20?
 
-The thing about this table is it's not going to be totally accurate to your party. It's a good rule of thumb, but as your players gather strong [equipment](../character/equipment.md) and learn powerful [abilities](../character/abilities.md), they'll start rolling even higher than you might expect! Once they start doing so consistently, it's probably best to start keeping track of the level that your characters roll like in addition to the level they have on their character sheet, just so you know for planning purposes. 
+The thing about this table is it's not going to be totally accurate to your party. It's a good rule of thumb, but as your players gather strong [equipment](../character/equipment.md) and learn powerful [special abilities](../character/special_abilities.md), they'll start rolling even higher than you might expect! Once they start doing so consistently, it's probably best to start keeping track of the level that your characters roll like in addition to the level they have on their character sheet, just so you know for planning purposes. 
 
 ### Competitions
 
@@ -38,7 +50,7 @@ Lots of tests may have multiple risks involved. Chasing after a bad guy through 
 
 If your players are trying to do something and you just don't think they can do something like that in just one test, you can instead pick a target number and create a **progress bar** to track the effort spent. 
 
-A progress bar starts at 0 and ends at whatever target number you set it at. Whenever your players roll on tests that contribute to the goal of the progress bar, add their roll to the progress meter to fill it up! Once the progress bar hits the number you targetted, the goal is accomplished!
+A progress bar starts at 0 and ends at whatever target number you set it at. Whenever your players roll on tests that contribute to the goal of the progress bar, add their roll to the progress bar to fill it up! Once the progress bar hits the number you targeted, the goal is accomplished!
 
 Optionally, you can also have additional "stretch goals" at further target numbers if your players want to keep going.
 

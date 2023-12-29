@@ -23,7 +23,7 @@ Not every item has tags or needs them. If it's obvious how an item is used, it p
 This is especially true for narratively important tags. An iron sword doesn't need to be tagged with _iron_ when an adventurer picks it up, but as soon as they face something vulnerable to the metal, it should be.
 
 !!! error "Using Items Improperly"
-	If you attack with something that doesn't have the weapon tag, defend with something that doesn't have the shield tag, or do something else to use an item in a way that it's not intended to be used, your GM may say there is an [additional risk](../gameplay/tests.md#risk-guidelines) that **the item might be damaged, destroyed, or otherwise lost** and/or **some tags on the item do not apply**. A +5 sword might be very good at attacking, but there's no guarantee that it'd be equally as good at blocking.
+	If you <i class="ra ra-crossed-swords"></i> Attack with something that doesn't have the weapon tag,  <i class="fa-solid fa-shield"></i> Defend with something that doesn't have the shield tag, or do something else to use an item in a way that it's not intended to be used, your GM may say there is an [additional risk](../gameplay/tests.md#risk-guidelines) that **the item might be damaged, destroyed, or otherwise lost** and/or **some tags on the item do not apply**. A +5 sword might be very good at attacking, but there's no guarantee that it'd be equally as good at blocking.
 
 ### Tag list
 
@@ -54,9 +54,9 @@ Items with this tag are small and easy to take out or hide. _Daggers_, _miniatur
 
 #### Focus
 
-_requires: a tag like_ Pyromancy _or_ Telekinesis _that indicates what kinds of abilities it's for_
+_requires: a tag like_ Pyromancy _or_ Telekinesis _that indicates what kinds of special abilities it's for_
 
-An item with this tag is a tool that helps you with your _abilities_, like a wand for a wizard or a nyanobot array for a genetically engineered cat doctor. Pairs well with the +X tag to give you +X on tests you make with that ability.
+An item with this tag is a tool that helps you with your _special abilities_, like a wand for a wizard or a nyanobot array for a genetically engineered cat doctor. Pairs well with the +X tag to give you +X on tests you make with that special ability.
 
 #### Intuition
 
@@ -82,13 +82,13 @@ The [distance](../getting_started/index.md#ranges-and-spaces) at which the item 
 
 _requires: At least one attribute tag_
 
-Items with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [defend against an attack](../gameplay/basic_actions.md#defending-against-an-attack) with the tagged attribute.
+Items with this tag are carriable defense, like bucklers, directional forcefields, and riot shields. Equipping a shield allows you to [ <i class="fa-solid fa-shield"></i> Defend](../gameplay/basic_abilities.md#defend) with the tagged attribute.
 
 #### Weapon
 
 _requires: At least one attribute tag AND at least one range tag_
 
-Items with this tag are anything used to attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [attack](../gameplay/basic_actions.md#attacking-with-a-weapon) with one of the tagged attributes at one of the tagged ranges.
+Items with this tag are anything used to <i class="ra ra-crossed-swords"></i> Attack another character, from table legs to semi-automatic rifles. While equipped with a weapon, you can [<i class="ra ra-crossed-swords"></i> Attack](../gameplay/basic_abilities.md#attack) with one of the tagged attributes at one of the tagged ranges.
 
 #### Will
 

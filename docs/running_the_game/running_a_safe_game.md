@@ -1,6 +1,6 @@
 # Running a safe game
 
-Simply Roleplaying shall not be used to tell stories that inflict harm. There is room for a lot of creative freedom in the game, from the way that skills and legacies are named to the specific mechanics of how abilities work. That responsibility shall not be misused to make anyone feel uncomfortable or unsafe.
+Simply Roleplaying shall not be used to tell stories that inflict harm. There is room for a lot of creative freedom in the game, from the way that skills and legacies are named to the specific mechanics of how special abilities work. That responsibility shall not be misused to make anyone feel uncomfortable or unsafe.
 
 **If any participant in the game feels uncomfortable or unsafe, the game must stop immediately. Address any harm caused and do not continue to play the game unless the harmed participant feels that the harm has been addressed.**
 

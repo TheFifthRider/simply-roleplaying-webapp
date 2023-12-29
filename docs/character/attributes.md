@@ -24,15 +24,15 @@ Whenever you level up, you can increase two attributes by 1, as long as you don'
 
 ## Passive attribute scores
 
-You don't always have to roll to resist risks! Whenever you are reflexively opposing a risk, your gamemaster will use one of your attribute's **passive scores** instead of asking you to roll the dice. For each attribute, your passive attribute score is equal to six times the total of your level plus that attribute -- the same as if you rolled all the dice you could for a test of that attribute and got a six for each of them!
+You don't always have to roll to resist risks! Whenever you are reflexively opposing a risk, your gamemaster will use one of your attribute's **passive scores** instead of asking you to roll the dice. For each attribute, your passive attribute score increases by 5 every level, and by 10 whenever you increase your attribute.
 
-`Passive Score = 6 x (level + Attribute)`
+`Passive Score = 5 x level + 10 x attribute`
 
 > An advisor tests their _Presence_ to manipulate their monarch by feeding them fabrications. Even though the monarch has no reason to suspect the advisor of lying, their experience in politics might tip them off. In this case, that experience is represented by their passive _Presence_ score.
 >
-> The monarch is a level 4 character with a _Presence_ of +2. Their passive _Presence_, and the difficulty of the advisor's test, is 6 x (4 + 2) = 36.
+> The monarch is a level 4 character with a _Presence_ of +2. Their passive _Presence_, and the difficulty of the advisor's test, is 5 x 4 + 2 x 10 = 40.
 
 
 > A young wizard tries to tiptoe past their sleeping master, testing their _Agility_ to silently swipe the master's fabled wand, risking getting caught red handed and getting turned into a newt _or worse_. Because the master is asleep, the difficulty of the test is the master's passive _Intuition_ score-- how likely the master's instincts are to wake them up from the noises their apprentice makes.
 >
-> The master is a level 5 character with an _Intuition_ of +3. Their passive intuition, and the difficulty of the Apprentice's test, is 6 x (5 + 3)  = 48.
+> The master is a level 5 character with an _Intuition_ of +3. Their passive intuition, and the difficulty of the Apprentice's test, is 5 x 5 + 3 x 10  = 55.

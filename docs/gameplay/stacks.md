@@ -4,7 +4,7 @@
 
 ## How do you stack dice?
 
-Whenever you try to create an advantage or disadvantage for yourself or someone else, you can test an attribute to [stack dice for or against someone](basic_actions.md#stacking-dice-for-or-against-someone). You might duck behind cover to be **2d8 Protected by Barricade**, read up on a monster you're hunting to gain **4d6 Knowledge of Cockatrice Weaknesses**, or appeal to the room with a suave remark to get **3d10 Favor of the Crowd**. You can also stack dice by using [abilities](../character/abilities.md) or [items](../character/equipment.md) that say they stack dice for or against people.
+Whenever you try to create an advantage or disadvantage for yourself or someone else, you can test an attribute to [<i class="fa-solid fa-cubes-stacked"></i> Help](../gameplay/basic_abilities.md#help) or [<i class="fa-solid fa-cubes-stacked"></i> Hinder](../gameplay/basic_abilities.md#hinder) them. You might duck behind cover to be **2d8 Protected by Barricade**, read up on a monster you're hunting to gain **4d6 Knowledge of Cockatrice Weaknesses**, or appeal to the room with a suave remark to get **3d10 Favor of the Crowd**. You can also stack dice by using [special abilities](../character/special_abilities.md) or [items](../character/equipment.md) that say they stack dice for or against people.
 
 What size of dice are stacked depends on the quality of the advantage or disadvantage created. Hiding behind a rotting fence might only give you d4s, while positioning yourself behind concrete might give you d12s. Ultimately, this is a gamemaster call so if you're thinking about stacking dice, feel free to ask them what size of dice you'd be stacking before you try to do it.
 
@@ -22,7 +22,7 @@ Your GM may also clear stacks whenever they no longer [make sense](../getting_st
 
 ## How do I get rid of dice stacked against me?
 
-Dice stacked against you can always be resisted. If you're **3d6 Tripped Up**, you can test your Agility to regain your footing. If you're **1d12 Scared to Death** you can test your Will to steel yourself. When you do whatever makes sense to resist the dice stacked against you, you can test an attribute to [remove dice from a stack](basic_actions.md#unstacking-dice).
+Dice stacked against you can always be resisted. If you're **3d6 Tripped Up**, you can test your Agility to regain your footing. If you're **1d12 Scared to Death** you can test your Will to steel yourself. When you do whatever makes sense to resist the dice stacked against you, you can test an attribute to [<i class="fa-solid fa-cubes-stacked"></i> Help](../gameplay/basic_abilities.md#help) yourself, removing dice.
 
 ## Examples of stacks
 
@@ -30,6 +30,6 @@ Dice stacked against you can always be resisted. If you're **3d6 Tripped Up**, y
 
 **4d10 Seeing Shadows** is stacked against the afflicted and could be used by anyone who wants to use a character's hallucinations against them.
 
-**3d12 Cover behind the Parapets** is stacked in favor of anyone behind the stone fortifications and could be used to defend against arrows and other dangers.
+**3d12 Cover behind the Parapets** is stacked in favor of anyone behind the stone fortifications and could be used to protect yourself from arrows and other dangers.
 
 **6d4 Waist Deep in Sewage** is stacked against the hapless wader, and could be used by monsters lurking under the water or a sniper taking advantage of the character's slowed movements.

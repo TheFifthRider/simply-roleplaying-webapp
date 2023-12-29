@@ -4,7 +4,7 @@
 
 Your **health** is the maximum amount of damage you can take before sustaining a lasting injury. Health is calculated based on your brawn and will as explained in [character creation](../getting_started/creation.md) and can be increased by [spending potential](../gameplay/advancement.md). 
 
-Whenever you suffer damage from an attack or risk, subtract that damage from your health. If it'd reach or go below 0, take an injury and then reset your health to its maximum value.
+Whenever you suffer damage from an <i class="ra ra-crossed-swords"></i> Attack or risk, subtract that damage from your health. If it'd reach or go below 0, take an injury and then reset your health to its maximum value.
 
 ## Injuries
 

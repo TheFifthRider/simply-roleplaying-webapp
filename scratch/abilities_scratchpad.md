@@ -1,4 +1,4 @@
-Generally speaking, abilities don't need to be balanced. That said, we should inspect what it means to critically succeed if things were "unbalanced."
+Generally speaking, special abilities don't need to be balanced. That said, we should inspect what it means to critically succeed if things were "unbalanced."
 
 
 

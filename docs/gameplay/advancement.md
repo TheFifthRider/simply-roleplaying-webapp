@@ -11,33 +11,23 @@ Discuss if you met the goal. If the players and the GM agree that you have, imme
 
 ## Potential
 
-**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve [skills and legacies](../character/backgrounds.md#improving-skills-and-legacies), increase your character's [health](../character/health.md) and specific [ability points](../character/abilities.md#ability-points), and to gain new [abilities](../character/).
+**Potential** is a measure of your growth. You'll start with some potential during [character creation](typora://app/getting_started/creation.md), and then earn more at the end of every session. You can then spend that potential in game, after the game, and/or out of game -- depending on what your group prefers -- to improve [skills and legacies](../character/backgrounds.md#improving-skills-and-legacies).
 
-### Spending potential
+### Potential Track
 
-You can spend **one point of potential** to:
+Whenever you earn potential, mark that many boxes on the potential track. There are 25 boxes on the potential track, every time you mark a row of 5 boxes on the potential track, your character grows stronger.
 
-*   Learn or level up a [skill or legacy](../character/backgrounds.md#improving-skills-and-legacies)
-*   Increase your character's [health](../character/health.md) per injury by 1
+| Boxes Marked | Benefit |
+|----------|---------|
+| 5 | Choose one: +10 max [health](../character/health.md) or +1 max [ability points](../character/special_abilities.md#ability-points) |
+| 10 | Choose one: Improve a [special ability](../character/special_abilities.md) or gain a new one |
+| 15 | Choose one: +10 max [health](../character/health.md) or +1 max [ability points](../character/special_abilities.md#ability-points) |
+| 20 | Choose one: Improve a [special ability](../character/special_abilities.md) or gain a new one |
+| 25 | +10 max [health](../character/health.md), +1 max [ability points](../character/special_abilities.md#ability-points), improve a [special ability](../character/special_abilities.md) or gain a new one, +1 to two attributes, level up! |
 
-You can spend **two points of potential** to:
+### Leveling up
 
-*   Increase one of your pools of [ability points](../character/abilities.md#ability-points) by 1
-*   Create a new pool of [ability points](../character/abilities.md#ability-points)
-
-You can spend **three points of potential** to:
-
-*   Learn a new [ability](../character/abilities.md) 
-*   Strengthen an existing ability
-
-## Leveling up
-
-Leveling up means more dice to use on tests! Usually, you'll level up at the end of significant story arcs or whenever your gamemaster feels like it's appropriate for the party to get a power boost. Expect to level up about every 25 points of potential earned.
-
-If you're starting to feel like you're investing in skills and backgrounds that aren't very important to your character because you can't level up the skills and backgrounds that are core to your character anymore, make sure to let your gamemaster know! That's usually a sign that you need a level up.
-
-### Increase your attributes
-When you level up, pick two [attributes](../character/attributes.md) and increase their bonus by 1. Just make sure you're not going past the [attribute cap](../character/attributes.md#improving-attributes).
+When you fill up the potential track all the way, you level up! Leveling up means more dice to use on tests. When you level up, pick two [attributes](../character/attributes.md) and increase their bonus by 1. Just make sure you're not going past the [attribute cap](../character/attributes.md#improving-attributes). Then, once you've done all that, reset the potential track by unmarking all the marked boxes.
 
 ### Character check-in
 
@@ -48,9 +38,9 @@ In addition to the power bump of being able to roll more dice, leveling up also 
 * Invest any unspent potential on any skills or legacies you want
 * Combine any number of d12 skills or legacies into backgrounds
 * Rename any backgrounds you want
-* Erase any abilities you want, and reclaim your spent points of potential
-* Gain any number of new abilities, spending three points of potential for each
-* Improve abilities any number of times, spending three points of potential for each
+* Erase any special abilities you want, and reclaim your spent points of potential
+* Gain any number of new special abilities, spending three points of potential for each
+* Improve special abilities any number of times, spending three points of potential for each
 
 ## Custom goals
 

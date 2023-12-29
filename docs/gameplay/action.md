@@ -15,7 +15,7 @@ Then, after the first person to go has finished their turn, they must choose ano
 
 ### Interrupting turns
 
-If you have an [ability](../character/abilities.md) that lets you do it you can interrupt the turn order, taking your turn in place of whomever was originally being passed to. If you do, at the end of your turn you may choose whomever you want to take their turn next -- you don't have to pass the turn order on to the person who was originally going to take their turn.
+If you have a [special ability](../character/special_abilities.md) that lets you do it you can interrupt the turn order, taking your turn in place of whomever was originally being passed to. If you do, at the end of your turn you may choose whomever you want to take their turn next -- you don't have to pass the turn order on to the person who was originally going to take their turn.
 
 ### Who do I pass to?
 
@@ -25,13 +25,13 @@ Passing to an enemy seems bad on its face, but actually has some strong tactical
 
 ## Actions
 
-When it's your turn, you can take **up to 3 actions**. One **action** on its own measures something quick like making an attack, hiding behind a pillar, or triggering a mechanism. Multiple actions can be used, even across turns or rounds, to do time consuming or difficult things like pushing over a statue, disarming the security measures on a door, or reloading a siege weapon.
+Whenever you do something with a goal in mind, you accomplish it with one or more **actions**. If there's drama involved (and there often is), the actions will probably also include a [test](../gameplay/tests.md) and you'll roll dice to see how the action resolves. Most of the time, your actions will be using [basic](../gameplay/basic_abilities.md) or [special](../character/special_abilities.md) abilities
 
-If it makes sense characters can contribute their actions towards an effort in progress by another character. This would allow a group of three to push over a statue that requires 9 actions to topple in the span of a single round. If you're spending lots of actions to do a task you usually you can't just stop in the middle and then pick it up later. However, if somebody else lends a helping hand to your effort it usually makes sense that you can do something else and leave the rest to them.
+When it's your turn, you can take **up to 3 actions**. If you want to do something but you don't have enough actions left on your turn, you can start it on this turn and finish it once all of the actions required to complete the goal have been spent, even if you have to split it up across turns. 
 
-### Moving your speed
+One action on its own measures accomplishing a quick goal like throwing a punch, moving behind a pillar, or triggering a mechanism. Multiple actions in a row are how you do time consuming or difficult things like pushing over a statue, disarming the security measures on a door, or reloading a siege weapon.
 
-Every character (and some objects) have a **speed**, measured in spaces. When a character uses their action to move, they can move a distance up to their speed. This movement might be sprinting, running and leaping, swimming, riding a horse, or driving a car. Your GM may say that some spaces take up extra spaces of movement if the terrain is difficult to traverse or if there's some other reason you might need to slow down when moving through it.
+If a task requires multiple actions and it makes sense that many people can be working on it, each person involved can contribute actions to its success, but if you stop in the middle and nobody spends at least an action on that goal in a round, your GM may say that your progress is lost and those actions were wasted.
 
 ## Defining scene-specific actions: chases
 
