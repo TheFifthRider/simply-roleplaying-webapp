@@ -25,6 +25,10 @@ Ex:
 
 If there are lots of players or the world does not feel finished, all players can continue to provide suggested worldbuilding facts until the gamemaster has a solid grasp of the story they want to tell in this world.
 
+## Item Creation
+
+Let's make the equipment bank!
+
 ## Character creation
 
 Blah blah blah more playtest blah

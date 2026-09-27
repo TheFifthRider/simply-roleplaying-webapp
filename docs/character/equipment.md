@@ -38,6 +38,10 @@ Items with this tag are more effective than other items of the same type due to 
 
 Items with this tag are often light, compact, or rely on manual precision to operate effectively. _Bows_, _scimitars_, _sniper rifles_, and _pistols_ often have the Agility tag.
 
+#### [Close, Short, Medium, Long] Area
+
+Items with this tag have an effect that affects more than just their target. Often used with explosives or magical auras, the area tag measures the [distance](../getting_started/index.md#ranges-and-spaces) that the item's effect covers. When a situation calls for specific measurements, treat any item with an area tag as though it affects a circle with a radius equal to its distance. Items with this tag, especially dangerous ones, often also have a range tag to represent how far away from the character their area can be deployed.
+
 #### Armor
 
 _requires: any attribute tag_
@@ -76,7 +80,7 @@ Items with this tag might be sentient and require reasoning with to operate effe
 
 #### [Close, Short, Medium, Long] Range
 
-The [distance](../getting_started/index.md#ranges-and-spaces) at which the item is able to be effectively used. Primarily used for weapons, but also useful for things like grappling hooks and ladders to represent their reach. Items can have many range tags -- if an item isn't tagged with a specific range, it's not useful at that distance.
+The [distance](../getting_started/index.md#ranges-and-spaces) at which the item is able to be effectively used. Not to be confused with area tags, which measure the size of an effect. Primarily used for weapons, but also useful for things like grappling hooks and ladders to represent their reach. Items can have many range tags -- if an item isn't tagged with a specific range, it's not useful at that distance.
 
 #### Shield
 
